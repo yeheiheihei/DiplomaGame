@@ -400,3 +400,199 @@ LogInit: Object subsystem initialized
 [2019.01.08-04.51.49:748][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000057 seconds (updated 0 objects)
 [2019.01.08-04.51.51:608][ 52]LogSlate: FSceneViewport::OnFocusLost() reason 0
 [2019.01.08-04.54.33:339][508]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.08-05.02.27:600][723]LogSlate: Took 0.000603 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.01.08-05.02.27:660][723]Cmd: MAP LOAD FILE="C:/Users/Ivy/Documents/DiplomaGame/MyProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.01.08-05.02.27:660][723]LightingResults: New page: Lighting Build
+[2019.01.08-05.02.27:660][723]LoadErrors: New page: Loading map: ThirdPersonExampleMap.umap
+[2019.01.08-05.02.27:661][723]MapCheck: New page: Map Check
+[2019.01.08-05.02.27:662][723]LightingResults: New page: Lighting Build
+[2019.01.08-05.02.27:827][723]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.01.08-05.02.27:939][723]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.01.08-05.02.27:988][723]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.01.08-05.02.28:089][723]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 100.131ms to complete.
+[2019.01.08-05.02.28:111][723]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.462
+[2019.01.08-05.02.30:758][876]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.08-05.02.30:839][881]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.08-05.02.30:906][881]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.01.08-05.02.30:933][881]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.08-05.02.30:996][881]PIE: New page: PIE session: ThirdPersonExampleMap (Jan 8, 2019, 9:02:30 PM)
+[2019.01.08-05.02.31:004][881]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.01.08-05.02.31:114][881]LogPlayLevel: PIE: StaticDuplicateObject took: (0.110360s)
+[2019.01.08-05.02.31:115][881]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.01.08-05.02.31:115][881]LogPlayLevel: PIE: World Init took: (0.000903s)
+[2019.01.08-05.02.31:115][881]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.111503s)
+[2019.01.08-05.02.31:207][881]LogInit: XAudio2 using '扬声器/听筒 (Realtek Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.01.08-05.02.31:788][881]LogInit: FAudioDevice initialized.
+[2019.01.08-05.02.31:864][881]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.01.08-05.02.31:959][881]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2019.01.08-13.02.31
+[2019.01.08-05.02.32:010][881]LogWorld: Bringing up level for play took: 0.059570
+[2019.01.08-05.02.32:221][881]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0010 seconds. Added 11 classes and 0 folders.
+[2019.01.08-05.02.32:244][881]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.426
+[2019.01.08-05.02.32:244][881]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.01.08-05.02.35:354][ 39]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.01.08-05.02.35:486][ 39]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.01.08-05.02.36:308][ 81]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.08-05.02.40:895][333]LogSlate: Window 'ThirdPersonExampleMap_BuiltData - Generic Asset Editor' being destroyed
+[2019.01.08-05.02.40:910][333]LogSlate: Window 'ThirdPersonExampleMap_BuiltData - Generic Asset Editor' being destroyed
+[2019.01.08-05.02.42:349][415]Cmd: MAP LOAD FILE="C:/Users/Ivy/Documents/DiplomaGame/MyProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.01.08-05.02.42:349][415]LightingResults: New page: Lighting Build
+[2019.01.08-05.02.42:350][415]LoadErrors: New page: Loading map: ThirdPersonExampleMap.umap
+[2019.01.08-05.02.42:351][415]MapCheck: New page: Map Check
+[2019.01.08-05.02.42:351][415]LightingResults: New page: Lighting Build
+[2019.01.08-05.02.42:420][415]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.01.08-05.02.42:586][415]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.01.08-05.02.42:620][415]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.01.08-05.02.42:719][415]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 98.892ms to complete.
+[2019.01.08-05.02.42:721][415]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.372
+[2019.01.08-05.02.46:546][640]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.08-05.02.50:493][727]LogSlate: Window 'Delete Assets' being destroyed
+[2019.01.08-05.02.50:565][727]LightingResults: New page: Lighting Build
+[2019.01.08-05.02.50:569][727]MapCheck: New page: Map Check
+[2019.01.08-05.02.50:570][727]LightingResults: New page: Lighting Build
+[2019.01.08-05.02.50:620][727]LogAIModule: Creating AISystem for world Untitled
+[2019.01.08-05.02.50:705][727]LoadErrors: New page: New Map
+[2019.01.08-05.02.50:768][727]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.01.08-05.03.04:982][398]LogSlate: Window 'Delete Assets' being destroyed
+[2019.01.08-05.05.56:275][840]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.08-05.06.24:697][609]LogSlate: Window 'Save Level As' being destroyed
+[2019.01.08-05.10.05:946][284]LogUObjectGlobals: Created PersistentFrame Addr=0x0000016c3315d6b0, Size=4, Default__SplineActorBP_C Function /Game/ThirdPersonBP/Blueprints/SplineActorBP.SplineActorBP_C:ExecuteUbergraph_SplineActorBP
+[2019.01.08-05.10.05:950][284]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000016c3315d6b0, Size=4
+[2019.01.08-05.10.05:950][284]LogUObjectGlobals: Created PersistentFrame Addr=0x0000016c3315d6b0, Size=4, Default__SplineActorBP_C Function /Engine/Transient.REINST_SplineActorBP_C_10:ExecuteUbergraph_SplineActorBP
+[2019.01.08-05.10.05:953][284]LogUObjectGlobals: Created PersistentFrame Addr=0x0000016c3315e8c0, Size=4, Default__SplineActorBP_C Function /Game/ThirdPersonBP/Blueprints/SplineActorBP.SplineActorBP_C:ExecuteUbergraph_SplineActorBP
+[2019.01.08-05.10.05:985][284]LogUObjectGlobals: Created PersistentFrame Addr=0x0000016c07af8aa0, Size=216, Default__startPointTest_C Function /Game/ThirdPersonBP/Blueprints/startPointTest.startPointTest_C:ExecuteUbergraph_startPointTest
+[2019.01.08-05.10.05:986][284]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000016c07af8aa0, Size=216
+[2019.01.08-05.10.05:986][284]LogUObjectGlobals: Created PersistentFrame Addr=0x0000016c07af8aa0, Size=216, Default__startPointTest_C Function /Engine/Transient.REINST_startPointTest_C_12:ExecuteUbergraph_startPointTest
+[2019.01.08-05.10.05:987][284]LogUObjectGlobals: Created PersistentFrame Addr=0x0000016c07af8c60, Size=216, Default__startPointTest_C Function /Game/ThirdPersonBP/Blueprints/startPointTest.startPointTest_C:ExecuteUbergraph_startPointTest
+[2019.01.08-05.10.05:988][284]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000016c07af8c60, Size=216
+[2019.01.08-05.10.05:988][284]LogUObjectGlobals: Created PersistentFrame Addr=0x0000016c68ab5280, Size=216, Default__startPointTest_C Function /Engine/Transient.REINST_startPointTest_C_13:ExecuteUbergraph_startPointTest
+[2019.01.08-05.10.05:989][284]LogUObjectGlobals: Created PersistentFrame Addr=0x0000016c68ab4fe0, Size=216, Default__startPointTest_C Function /Game/ThirdPersonBP/Blueprints/startPointTest.startPointTest_C:ExecuteUbergraph_startPointTest
+[2019.01.08-05.10.06:816][284]LogAIModule: Creating AISystem for world MyWorld_Tree
+[2019.01.08-05.10.06:869][284]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000016c68ab5280, Size=216
+[2019.01.08-05.10.06:869][284]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000016c07af8aa0, Size=216
+[2019.01.08-05.10.06:869][284]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000016c3315d6b0, Size=4
+[2019.01.08-05.10.06:871][284]Cmd: MAP LOAD FILE="C:/Users/Ivy/Documents/DiplomaGame/MyProject/Content/ThirdPersonBP/Maps/MyWorld_Tree.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.01.08-05.10.06:871][284]LightingResults: New page: Lighting Build
+[2019.01.08-05.10.06:872][284]LoadErrors: New page: Loading map: MyWorld_Tree.umap
+[2019.01.08-05.10.06:872][284]MapCheck: New page: Map Check
+[2019.01.08-05.10.06:872][284]LightingResults: New page: Lighting Build
+[2019.01.08-05.10.07:033][284]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.01.08-05.10.07:064][284]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.01.08-05.10.07:170][284]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 105.195ms to complete.
+[2019.01.08-05.10.07:170][284]LogFileHelpers: Loading map 'MyWorld_Tree' took 0.300
+[2019.01.08-05.10.13:508][637]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.08-05.10.15:755][723]LogSavePackage: Save=482.73ms
+[2019.01.08-05.10.15:755][723]LogSavePackage: Moving 'C:/Users/Ivy/Documents/DiplomaGame/MyProject/Saved/MyWorld_Tree4C787C2440C5E2E9482A0EA6A018B8B4.tmp' to 'C:/Users/Ivy/Documents/DiplomaGame/MyProject/Content/ThirdPersonBP/Maps/MyWorld_Tree.umap'
+[2019.01.08-05.10.15:817][723]LogSavePackage: Display: Finished SavePackage C:/Users/Ivy/Documents/DiplomaGame/MyProject/Content/ThirdPersonBP/Maps/MyWorld_Tree.umap
+[2019.01.08-05.10.16:099][723]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Maps/MyWorld_Tree_BuiltData" FILE="C:/Users/Ivy/Documents/DiplomaGame/MyProject/Content/ThirdPersonBP/Maps/MyWorld_Tree_BuiltData.uasset" SILENT=true
+[2019.01.08-05.10.16:474][723]LogSavePackage: Save=344.09ms
+[2019.01.08-05.10.16:474][723]LogSavePackage: Moving 'C:/Users/Ivy/Documents/DiplomaGame/MyProject/Saved/MyWorld_Tree_BuiltData5C4E473B4A82DC957C0569B14D7A6408.tmp' to 'C:/Users/Ivy/Documents/DiplomaGame/MyProject/Content/ThirdPersonBP/Maps/MyWorld_Tree_BuiltData.uasset'
+[2019.01.08-05.10.16:486][723]LogSavePackage: Display: Finished SavePackage C:/Users/Ivy/Documents/DiplomaGame/MyProject/Content/ThirdPersonBP/Maps/MyWorld_Tree_BuiltData.uasset
+[2019.01.08-05.10.53:085][125]LogUObjectGlobals: Created PersistentFrame Addr=0x0000016c07af9600, Size=216, Default__startPointTestError_C Function /Game/ThirdPersonBP/Blueprints/startPointTestError.startPointTestError_C:ExecuteUbergraph_startPointTestError
+[2019.01.08-05.10.53:089][125]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000016c07af9600, Size=216
+[2019.01.08-05.10.53:089][125]LogUObjectGlobals: Created PersistentFrame Addr=0x0000016c07af9600, Size=216, Default__startPointTestError_C Function /Engine/Transient.REINST_startPointTestError_C_15:ExecuteUbergraph_startPointTestError
+[2019.01.08-05.10.53:090][125]LogUObjectGlobals: Created PersistentFrame Addr=0x0000016c1ddb7820, Size=216, Default__startPointTestError_C Function /Game/ThirdPersonBP/Blueprints/startPointTestError.startPointTestError_C:ExecuteUbergraph_startPointTestError
+[2019.01.08-05.10.53:560][125]LogAIModule: Creating AISystem for world Spline
+[2019.01.08-05.10.53:563][125]LogMaterial: Warning: Material /Game/StarterContent/Materials/M_Basic_Wall.M_Basic_Wall needed to have new flag set bUsedWithSplineMeshes !
+[2019.01.08-05.10.53:566][125]LogMaterial: Missing cached shader map for material M_Basic_Wall, compiling. 
+[2019.01.08-05.10.53:642][125]MapCheck: Warning: M_Basic_Wall Material /Game/StarterContent/Materials/M_Basic_Wall.M_Basic_Wall was missing the usage flag bUsedWithSplineMeshes. If the material asset is not re-saved, it may not render correctly when run outside the editor. Fix
+[2019.01.08-05.10.53:658][125]LogShaderCompilers: Display: Shaders left to compile 59
+[2019.01.08-05.10.53:658][125]LogShaderCompilers: Display: Shaders left to compile 49
+[2019.01.08-05.10.53:659][125]LogShaderCompilers: Display: Shaders left to compile 39
+[2019.01.08-05.10.53:659][125]LogShaderCompilers: Display: Shaders left to compile 29
+[2019.01.08-05.10.53:895][125]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000016c07af9600, Size=216
+[2019.01.08-05.10.53:897][125]Cmd: MAP LOAD FILE="C:/Users/Ivy/Documents/DiplomaGame/MyProject/Content/ThirdPersonBP/Maps/Spline.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.01.08-05.10.53:897][125]LightingResults: New page: Lighting Build
+[2019.01.08-05.10.53:898][125]LoadErrors: New page: Loading map: Spline.umap
+[2019.01.08-05.10.53:901][125]MapCheck: New page: Map Check
+[2019.01.08-05.10.53:901][125]LightingResults: New page: Lighting Build
+[2019.01.08-05.10.54:125][125]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.01.08-05.10.54:159][125]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.01.08-05.10.54:291][125]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 132.098ms to complete.
+[2019.01.08-05.10.54:291][125]LogFileHelpers: Loading map 'Spline' took 0.395
+[2019.01.08-05.10.58:049][287]LogSlate: Window 'Message Log' being destroyed
+[2019.01.08-05.10.58:060][287]LogSlate: Window 'Message Log' being destroyed
+[2019.01.08-05.10.58:599][320]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.01.08-05.10.59:347][364]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.01.08-05.10.59:637][379]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.08-05.10.59:703][383]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.08-05.10.59:736][383]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Spline.Spline:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Spline.Spline:PersistentLevel.Spline' with GeneratedClass '/Game/ThirdPersonBP/Maps/Spline.Spline_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Spline.Spline:PersistentLevel.Spline'
+[2019.01.08-05.10.59:736][383]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.08-05.10.59:736][383]PIE: New page: PIE session: Spline (Jan 8, 2019, 9:10:59 PM)
+[2019.01.08-05.10.59:736][383]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Spline
+[2019.01.08-05.10.59:776][383]LogPlayLevel: PIE: StaticDuplicateObject took: (0.039084s)
+[2019.01.08-05.10.59:776][383]LogAIModule: Creating AISystem for world Spline
+[2019.01.08-05.10.59:777][383]LogPlayLevel: PIE: World Init took: (0.000959s)
+[2019.01.08-05.10.59:777][383]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Spline.Spline to /Game/ThirdPersonBP/Maps/UEDPIE_0_Spline.Spline (0.040281s)
+[2019.01.08-05.10.59:858][383]LogInit: XAudio2 using '扬声器/听筒 (Realtek Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.01.08-05.11.00:564][383]LogInit: FAudioDevice initialized.
+[2019.01.08-05.11.00:596][383]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.01.08-05.11.00:628][383]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Spline.Spline up for play (max tick rate 60) at 2019.01.08-13.11.00
+[2019.01.08-05.11.00:658][383]LogWorld: Bringing up level for play took: 0.061568
+[2019.01.08-05.11.00:659][383]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_Spline 0.84
+[2019.01.08-05.11.00:659][383]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Spline.Spline:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Spline.Spline:PersistentLevel.Spline' with GeneratedClass '/Game/ThirdPersonBP/Maps/Spline.Spline_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Spline.Spline:PersistentLevel.Spline'
+[2019.01.08-05.11.03:569][513]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Spline.Spline:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Spline.Spline:PersistentLevel.Spline' with GeneratedClass '/Game/ThirdPersonBP/Maps/Spline.Spline_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Spline.Spline:PersistentLevel.Spline'
+[2019.01.08-05.11.03:605][513]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Spline.Spline:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Spline.Spline:PersistentLevel.Spline' with GeneratedClass '/Game/ThirdPersonBP/Maps/Spline.Spline_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Spline.Spline:PersistentLevel.Spline'
+[2019.01.08-05.11.04:992][540]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.08-05.11.05:137][543]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Maps/Spline" FILE="C:/Users/Ivy/Documents/DiplomaGame/MyProject/Content/ThirdPersonBP/Maps/Spline.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.01.08-05.11.05:628][543]LogSavePackage: Save=443.68ms
+[2019.01.08-05.11.05:628][543]LogSavePackage: Moving 'C:/Users/Ivy/Documents/DiplomaGame/MyProject/Saved/SplineF92CB0A6416CC7547B697FB31D7B625A.tmp' to 'C:/Users/Ivy/Documents/DiplomaGame/MyProject/Content/ThirdPersonBP/Maps/Spline.umap'
+[2019.01.08-05.11.05:651][543]LogSavePackage: Display: Finished SavePackage C:/Users/Ivy/Documents/DiplomaGame/MyProject/Content/ThirdPersonBP/Maps/Spline.umap
+[2019.01.08-05.12.11:501][256]LogUObjectGlobals: Created PersistentFrame Addr=0x0000016c1dca5940, Size=80, Default__NewAnimBlueprint_C Function /Game/NewAnimBlueprint.NewAnimBlueprint_C:ExecuteUbergraph_NewAnimBlueprint
+[2019.01.08-05.12.11:507][256]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000016c1dca5940, Size=80
+[2019.01.08-05.12.11:507][256]LogUObjectGlobals: Created PersistentFrame Addr=0x0000016c1debb8d0, Size=80, Default__NewAnimBlueprint_C Function /Engine/Transient.REINST_NewAnimBlueprint_C_1:ExecuteUbergraph_NewAnimBlueprint
+[2019.01.08-05.12.11:514][256]LogUObjectGlobals: Created PersistentFrame Addr=0x0000016c6cb631a0, Size=80, Default__NewAnimBlueprint_C Function /Game/NewAnimBlueprint.NewAnimBlueprint_C:ExecuteUbergraph_NewAnimBlueprint
+[2019.01.08-05.12.11:526][256]LogUObjectGlobals: Created PersistentFrame Addr=0x0000016c07e2d198, Size=8, Default__AICharactor_Controller_C Function /Game/AI/AICharactor_Controller.AICharactor_Controller_C:ExecuteUbergraph_AICharactor_Controller
+[2019.01.08-05.12.11:529][256]LogUObjectGlobals: Created PersistentFrame Addr=0x0000016c6cb76800, Size=512, Default__BTS_VersionCheck_C Function /Game/AI/BTS_VersionCheck.BTS_VersionCheck_C:ExecuteUbergraph_BTS_VersionCheck
+[2019.01.08-05.12.11:538][256]LogUObjectGlobals: Created PersistentFrame Addr=0x0000016c1dd9f040, Size=48, Default__BTT_SetWalkSpeed_C Function /Game/AI/BTT_SetWalkSpeed.BTT_SetWalkSpeed_C:ExecuteUbergraph_BTT_SetWalkSpeed
+[2019.01.08-05.12.11:543][256]LogUObjectGlobals: Created PersistentFrame Addr=0x0000016c1fa462b0, Size=104, Default__BTT_WanderToPoint_C Function /Game/AI/BTT_WanderToPoint.BTT_WanderToPoint_C:ExecuteUbergraph_BTT_WanderToPoint
+[2019.01.08-05.12.11:548][256]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000016c07e2d198, Size=8
+[2019.01.08-05.12.11:548][256]LogUObjectGlobals: Created PersistentFrame Addr=0x0000016c1e006f08, Size=8, Default__AICharactor_Controller_C Function /Engine/Transient.REINST_AICharactor_Controller_C_22:ExecuteUbergraph_AICharactor_Controller
+[2019.01.08-05.12.11:549][256]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000016c1dd9f040, Size=48
+[2019.01.08-05.12.11:549][256]LogUObjectGlobals: Created PersistentFrame Addr=0x0000016c1dd9f040, Size=48, Default__BTT_SetWalkSpeed_C Function /Engine/Transient.REINST_BTT_SetWalkSpeed_C_23:ExecuteUbergraph_BTT_SetWalkSpeed
+[2019.01.08-05.12.11:549][256]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000016c1fa462b0, Size=104
+[2019.01.08-05.12.11:549][256]LogUObjectGlobals: Created PersistentFrame Addr=0x0000016c1fa462b0, Size=104, Default__BTT_WanderToPoint_C Function /Engine/Transient.REINST_BTT_WanderToPoint_C_24:ExecuteUbergraph_BTT_WanderToPoint
+[2019.01.08-05.12.11:549][256]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000016c6cb76800, Size=512
+[2019.01.08-05.12.11:549][256]LogUObjectGlobals: Created PersistentFrame Addr=0x0000016c6cb76800, Size=512, Default__BTS_VersionCheck_C Function /Engine/Transient.REINST_BTS_VersionCheck_C_25:ExecuteUbergraph_BTS_VersionCheck
+[2019.01.08-05.12.11:555][256]LogUObjectGlobals: Created PersistentFrame Addr=0x0000016c1e006bb0, Size=8, Default__AICharactor_Controller_C Function /Game/AI/AICharactor_Controller.AICharactor_Controller_C:ExecuteUbergraph_AICharactor_Controller
+[2019.01.08-05.12.11:555][256]LogUObjectGlobals: Created PersistentFrame Addr=0x0000016c1dd9f760, Size=48, Default__BTT_SetWalkSpeed_C Function /Game/AI/BTT_SetWalkSpeed.BTT_SetWalkSpeed_C:ExecuteUbergraph_BTT_SetWalkSpeed
+[2019.01.08-05.12.11:556][256]LogUObjectGlobals: Created PersistentFrame Addr=0x0000016c1dec56e0, Size=104, Default__BTT_WanderToPoint_C Function /Game/AI/BTT_WanderToPoint.BTT_WanderToPoint_C:ExecuteUbergraph_BTT_WanderToPoint
+[2019.01.08-05.12.11:557][256]LogUObjectGlobals: Created PersistentFrame Addr=0x0000016c4deae800, Size=512, Default__BTS_VersionCheck_C Function /Game/AI/BTS_VersionCheck.BTS_VersionCheck_C:ExecuteUbergraph_BTS_VersionCheck
+[2019.01.08-05.12.11:693][256]LogAIModule: Creating AISystem for world AIMap
+[2019.01.08-05.12.11:712][256]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000016c1fa462b0, Size=104
+[2019.01.08-05.12.11:712][256]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000016c1dd9f040, Size=48
+[2019.01.08-05.12.11:712][256]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000016c6cb76800, Size=512
+[2019.01.08-05.12.11:712][256]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000016c1e006f08, Size=8
+[2019.01.08-05.12.11:712][256]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000016c1debb8d0, Size=80
+[2019.01.08-05.12.11:713][256]Cmd: MAP LOAD FILE="C:/Users/Ivy/Documents/DiplomaGame/MyProject/Content/AI/AIMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.01.08-05.12.11:713][256]LightingResults: New page: Lighting Build
+[2019.01.08-05.12.11:714][256]LoadErrors: New page: Loading map: AIMap.umap
+[2019.01.08-05.12.11:715][256]MapCheck: New page: Map Check
+[2019.01.08-05.12.11:715][256]LightingResults: New page: Lighting Build
+[2019.01.08-05.12.11:940][256]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.01.08-05.12.11:971][256]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.01.08-05.12.12:093][256]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 121.306ms to complete.
+[2019.01.08-05.12.12:093][256]LogFileHelpers: Loading map 'AIMap' took 0.380
+[2019.01.08-05.12.13:020][305]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.08-05.12.13:034][305]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.08-05.12.13:034][305]PIE: New page: PIE session: AIMap (Jan 8, 2019, 9:12:13 PM)
+[2019.01.08-05.12.13:034][305]LogPlayLevel: Creating play world package: /Game/AI/UEDPIE_0_AIMap
+[2019.01.08-05.12.13:039][305]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004505s)
+[2019.01.08-05.12.13:040][305]LogAIModule: Creating AISystem for world AIMap
+[2019.01.08-05.12.13:040][305]LogPlayLevel: PIE: World Init took: (0.000872s)
+[2019.01.08-05.12.13:040][305]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/AI/AIMap.AIMap to /Game/AI/UEDPIE_0_AIMap.AIMap (0.005583s)
+[2019.01.08-05.12.13:105][305]LogInit: XAudio2 using '扬声器/听筒 (Realtek Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.01.08-05.12.13:701][305]LogInit: FAudioDevice initialized.
+[2019.01.08-05.12.13:732][305]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.01.08-05.12.13:734][305]LogWorld: Bringing World /Game/AI/UEDPIE_0_AIMap.AIMap up for play (max tick rate 60) at 2019.01.08-13.12.13
+[2019.01.08-05.12.13:817][305]LogWorld: Bringing up level for play took: 0.084165
+[2019.01.08-05.12.13:905][305]LogBlueprintUserMessages: [AICharactor_Controller_C_0] Hello
+[2019.01.08-05.12.13:925][305]PIE: Play in editor start time for /Game/AI/UEDPIE_0_AIMap 0.106
+[2019.01.08-05.12.22:025][756]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.08-05.12.22:087][758]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/AIMap" FILE="C:/Users/Ivy/Documents/DiplomaGame/MyProject/Content/AI/AIMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.01.08-05.12.22:169][758]LogSavePackage: Save=51.46ms
+[2019.01.08-05.12.22:170][758]LogSavePackage: Moving 'C:/Users/Ivy/Documents/DiplomaGame/MyProject/Saved/AIMap370E92744B4DE70E1D8F53A80C8946DC.tmp' to 'C:/Users/Ivy/Documents/DiplomaGame/MyProject/Content/AI/AIMap.umap'
+[2019.01.08-05.12.22:181][758]LogSavePackage: Display: Finished SavePackage C:/Users/Ivy/Documents/DiplomaGame/MyProject/Content/AI/AIMap.umap
+[2019.01.08-05.12.22:210][758]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/AIMap_BuiltData" FILE="C:/Users/Ivy/Documents/DiplomaGame/MyProject/Content/AI/AIMap_BuiltData.uasset" SILENT=true
+[2019.01.08-05.12.22:270][758]LogSavePackage: Save=39.02ms
+[2019.01.08-05.12.22:270][758]LogSavePackage: Moving 'C:/Users/Ivy/Documents/DiplomaGame/MyProject/Saved/AIMap_BuiltDataD40DD296407CBF65BB5D0C9CEE5E8A4E.tmp' to 'C:/Users/Ivy/Documents/DiplomaGame/MyProject/Content/AI/AIMap_BuiltData.uasset'
+[2019.01.08-05.12.22:282][758]LogSavePackage: Display: Finished SavePackage C:/Users/Ivy/Documents/DiplomaGame/MyProject/Content/AI/AIMap_BuiltData.uasset
