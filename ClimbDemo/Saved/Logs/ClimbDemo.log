@@ -1,0 +1,1451 @@
+﻿Log file open, 05/11/19 00:19:52
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: ClimbDemo
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.336121
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +8:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.395s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogHMD: Failed initializing OVRPlugin 1.25.0
+LogInit: Build: ++UE4+Release-4.20-CL-4369336
+LogInit: Engine Version: 4.20.3-4369336+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz, GPU: Intel(R) HD Graphics 630
+LogInit: Compiled (64-bit): Sep 17 2018 12:26:19
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line:  
+LogInit: Base Directory: D:/Program Files/Epic Games/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.000s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2019.05.10-16.19.53:347][  0]LogInit: Selected Device Profile: [Windows]
+[2019.05.10-16.19.53:348][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.05.10-16.19.53:368][  0]LogHAL: Display: Platform has ~ 16 GB [17046654976 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.05.10-16.19.53:368][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2019.05.10-16.19.53:368][  0]LogInit: Going up to parent DeviceProfile []
+[2019.05.10-16.19.53:368][  0]LogInit: Computer: DESKTOP-UHKKT41
+[2019.05.10-16.19.53:368][  0]LogInit: User: Ivy
+[2019.05.10-16.19.53:368][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.05.10-16.19.53:368][  0]LogInit: High frequency timer resolution =2.742192 MHz
+[2019.05.10-16.19.53:369][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2019.05.10-16.19.53:369][  0]LogMemory: Platform Memory Stats for Windows
+[2019.05.10-16.19.53:369][  0]LogMemory: Process Physical Memory: 101.73 MB used, 101.73 MB peak
+[2019.05.10-16.19.53:369][  0]LogMemory: Process Virtual Memory: 94.14 MB used, 94.14 MB peak
+[2019.05.10-16.19.53:369][  0]LogMemory: Physical Memory: 5998.16 MB used,  10258.80 MB free, 16256.96 MB total
+[2019.05.10-16.19.53:369][  0]LogMemory: Virtual Memory: 4655.39 MB used,  10258.80 MB free, 134217728.00 MB total
+[2019.05.10-16.19.54:163][  0]LogInit: Overriding language with editor language configuration option (en).
+[2019.05.10-16.19.54:163][  0]LogInit: Overriding locale with editor locale configuration option (en).
+[2019.05.10-16.19.54:554][  0]LogStreaming: Display: Took  0.391s to InitEngineTextLocalization.
+[2019.05.10-16.19.54:555][  0]LogInit: Setting process to per monitor DPI aware
+[2019.05.10-16.19.54:661][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.05.10-16.19.54:661][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.05.10-16.19.54:906][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.05.10-16.19.54:906][  0]LogD3D11RHI: D3D11 adapters:
+[2019.05.10-16.19.54:995][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070' (Feature Level 11_0)
+[2019.05.10-16.19.54:995][  0]LogD3D11RHI:       8089/0/8128 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.05.10-16.19.55:010][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2019.05.10-16.19.55:010][  0]LogD3D11RHI:       128/0/8128 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2019.05.10-16.19.55:012][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.05.10-16.19.55:012][  0]LogD3D11RHI:       0/0/8128 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.05.10-16.19.55:012][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.05.10-16.19.55:047][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.05.10-16.19.55:047][  0]LogD3D11RHI:     GPU DeviceId: 0x1ba1 (for the marketing name, search the web for "GPU Device Id")
+[2019.05.10-16.19.55:047][  0]LogWindows: EnumDisplayDevices:
+[2019.05.10-16.19.55:048][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:1 D:1)
+[2019.05.10-16.19.55:049][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2019.05.10-16.19.55:050][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2019.05.10-16.19.55:052][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2019.05.10-16.19.55:053][  0]LogWindows:    4. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2019.05.10-16.19.55:055][  0]LogWindows:    5. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2019.05.10-16.19.55:056][  0]LogWindows:    6. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2019.05.10-16.19.55:058][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2019.05.10-16.19.55:058][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070
+[2019.05.10-16.19.55:058][  0]LogD3D11RHI:   Driver Version: 389.12 (internal:23.21.13.8912, unified:389.12)
+[2019.05.10-16.19.55:058][  0]LogD3D11RHI:      Driver Date: 3-7-2018
+[2019.05.10-16.19.55:058][  0]LogRHI: Texture pool is 5662 MB (70% of 8089 MB)
+[2019.05.10-16.19.55:106][  0]LogD3D11RHI: Async texture creation enabled
+[2019.05.10-16.19.55:119][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.05.10-16.19.55:121][  0]LogShaderCompilers: Guid format shader working directory is -1 characters bigger than the processId version (C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Intermediate/Shaders/WorkingDirectory/21612/).
+[2019.05.10-16.19.55:121][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Ivy/AppData/Local/Temp/UnrealShaderWorkingDir/6ED4765647F69B27858687BF7FC0E28C/'.
+[2019.05.10-16.19.55:816][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.05.10-16.19.55:832][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.05.10-16.19.55:853][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.05.10-16.19.55:874][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.05.10-16.19.55:897][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.05.10-16.19.55:912][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.05.10-16.19.55:932][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.05.10-16.19.55:953][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.05.10-16.19.55:962][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.05.10-16.19.56:069][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.10-16.19.56:069][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.10-16.19.56:069][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.10-16.19.56:069][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.10-16.19.56:069][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.10-16.19.56:069][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.10-16.19.56:069][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.10-16.19.56:069][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.10-16.19.56:069][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.10-16.19.56:069][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.10-16.19.56:069][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.10-16.19.56:069][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.10-16.19.56:069][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.10-16.19.56:069][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.10-16.19.56:069][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.10-16.19.56:069][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.10-16.19.56:069][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.10-16.19.56:069][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.10-16.19.56:071][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.05.10-16.19.56:156][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.05.10-16.19.56:156][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.05.10-16.19.56:185][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.05.10-16.19.56:185][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.05.10-16.19.56:200][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.05.10-16.19.56:217][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.05.10-16.19.56:234][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.05.10-16.19.56:250][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.05.10-16.19.56:261][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.05.10-16.19.56:261][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.05.10-16.19.56:345][  0]LogXGEController: Cleaning working directory: C:/Users/Ivy/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.05.10-16.19.56:346][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.05.10-16.19.56:346][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.05.10-16.19.56:346][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.05.10-16.19.57:207][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.05.10-16.19.57:275][  0]LogDerivedDataCache: Loaded boot cache 0.07s 71MB C:/Users/Ivy/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2019.05.10-16.19.57:275][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Ivy/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2019.05.10-16.19.57:275][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.05.10-16.19.57:276][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.05.10-16.19.57:276][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.05.10-16.19.57:276][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.05.10-16.19.57:294][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.05.10-16.19.57:312][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Ivy/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.05.10-16.19.57:312][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.05.10-16.19.57:312][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.05.10-16.19.57:335][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.05.10-16.19.57:337][  0]LogSlate: Using FreeType 2.6.0
+[2019.05.10-16.19.57:337][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.05.10-16.19.57:429][  0]LogAssetRegistry: FAssetRegistry took 0.0268 seconds to start up
+[2019.05.10-16.19.57:770][  0]LogInit: Selected Device Profile: [Windows]
+[2019.05.10-16.19.57:928][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.05.10-16.19.57:937][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.05.10-16.19.57:937][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.05.10-16.19.57:937][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.05.10-16.19.57:937][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.05.10-16.19.57:958][  0]LogNetVersion: ClimbDemo 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 2394580764)
+[2019.05.10-16.19.58:636][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 1 prioritized culture(s) in 0.176762 seconds
+[2019.05.10-16.19.58:647][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2019.05.10-16.19.58:647][  0]LogUObjectAllocator: 6690864 out of 0 bytes used by permanent object pool.
+[2019.05.10-16.19.58:647][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.05.10-16.19.59:736][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.05.10-16.19.59:770][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.05.10-16.19.59:955][  0]SourceControl: Source control is disabled
+[2019.05.10-16.19.59:956][  0]SourceControl: Source control is disabled
+[2019.05.10-16.19.59:959][  0]SourceControl: Source control is disabled
+[2019.05.10-16.19.59:962][  0]SourceControl: Source control is disabled
+[2019.05.10-16.20.00:211][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.05.10-16.20.00:703][  0]LogOcInput: OculusInput pre-init called
+[2019.05.10-16.20.00:784][  0]LogEngine: Initializing Engine...
+[2019.05.10-16.20.00:786][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.05.10-16.20.00:788][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.05.10-16.20.00:788][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.05.10-16.20.00:788][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.05.10-16.20.00:788][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.05.10-16.20.01:063][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.05.10-16.20.01:081][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.05.10-16.20.01:388][  0]LogInit: XAudio2 using '耳机 (离的AirPods Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.05.10-16.20.02:452][  0]LogInit: FAudioDevice initialized.
+[2019.05.10-16.20.02:452][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.05.10-16.20.02:630][  0]LogDerivedDataCache: Saved boot cache 0.18s 71MB C:/Users/Ivy/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2019.05.10-16.20.02:643][  0]LogInit: Texture streaming: Enabled
+[2019.05.10-16.20.02:692][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.05.10-16.20.02:718][  0]LogInit: Transaction tracking system initialized
+[2019.05.10-16.20.02:750][  0]BlueprintLog: New page: Editor Load
+[2019.05.10-16.20.02:845][  0]LocalizationService: Localization service is disabled
+[2019.05.10-16.20.03:259][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.05.10-16.20.03:259][  0]LogCook: Display: Mobile HDR setting 1
+[2019.05.10-16.20.03:259][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.05.10-16.20.03:259][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.05.10-16.20.03:259][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.05.10-16.20.03:259][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.05.10-16.20.03:259][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.05.10-16.20.03:412][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Content/' took 0.03s
+[2019.05.10-16.20.03:412][  0]SourceControl: Source control is disabled
+[2019.05.10-16.20.03:412][  0]Cmd: MAP LOAD FILE="C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Content/Terrain/4/LakeLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.05.10-16.20.03:413][  0]LightingResults: New page: Lighting Build
+[2019.05.10-16.20.03:414][  0]MapCheck: New page: Map Check
+[2019.05.10-16.20.03:415][  0]LightingResults: New page: Lighting Build
+[2019.05.10-16.20.04:548][  0]LogBlueprint: Warning: [Compiler ABP_Climber] Cling_BS to JumpEnd  will never be taken, please connect something to  Can Enter Transition
+[2019.05.10-16.20.04:981][  0]LogBlueprint: Warning: [Compiler ABP_Climber] [0014.58] Compile of ABP_Climber successful, but with 1 Warning(s) [in 582 ms] (/Game/Clinging/Animations/Blueprints/ABP_Climber.ABP_Climber)
+[2019.05.10-16.20.05:296][  0]LogLinker: Warning: Unable to load PhysicsSerializer with outer InstancedStaticMeshComponent /Game/Terrain/HoudiniBake/terrain_bishe_1_846516E4.terrain_bishe_1_846516E4_C:InstancedStaticMesh10_GEN_VARIABLE because its class does not exist
+[2019.05.10-16.20.05:296][  0]LogLinker: Warning: Unable to load PhysicsSerializer with outer InstancedStaticMeshComponent /Game/Terrain/HoudiniBake/terrain_bishe_1_846516E4.terrain_bishe_1_846516E4_C:InstancedStaticMesh11_GEN_VARIABLE because its class does not exist
+[2019.05.10-16.20.05:296][  0]LogLinker: Warning: Unable to load PhysicsSerializer with outer InstancedStaticMeshComponent /Game/Terrain/HoudiniBake/terrain_bishe_1_846516E4.terrain_bishe_1_846516E4_C:InstancedStaticMesh12_GEN_VARIABLE because its class does not exist
+[2019.05.10-16.20.05:297][  0]LogLinker: Warning: Unable to load PhysicsSerializer with outer InstancedStaticMeshComponent /Game/Terrain/HoudiniBake/terrain_bishe_1_846516E4.terrain_bishe_1_846516E4_C:InstancedStaticMesh13_GEN_VARIABLE because its class does not exist
+[2019.05.10-16.20.05:297][  0]LogLinker: Warning: Unable to load PhysicsSerializer with outer InstancedStaticMeshComponent /Game/Terrain/HoudiniBake/terrain_bishe_1_846516E4.terrain_bishe_1_846516E4_C:InstancedStaticMesh14_GEN_VARIABLE because its class does not exist
+[2019.05.10-16.20.05:297][  0]LogLinker: Warning: Unable to load PhysicsSerializer with outer InstancedStaticMeshComponent /Game/Terrain/HoudiniBake/terrain_bishe_1_846516E4.terrain_bishe_1_846516E4_C:InstancedStaticMesh15_GEN_VARIABLE because its class does not exist
+[2019.05.10-16.20.05:297][  0]LogLinker: Warning: Unable to load PhysicsSerializer with outer InstancedStaticMeshComponent /Game/Terrain/HoudiniBake/terrain_bishe_1_846516E4.terrain_bishe_1_846516E4_C:InstancedStaticMesh16_GEN_VARIABLE because its class does not exist
+[2019.05.10-16.20.05:297][  0]LogLinker: Warning: Unable to load PhysicsSerializer with outer InstancedStaticMeshComponent /Game/Terrain/HoudiniBake/terrain_bishe_1_846516E4.terrain_bishe_1_846516E4_C:InstancedStaticMesh17_GEN_VARIABLE because its class does not exist
+[2019.05.10-16.20.05:297][  0]LogLinker: Warning: Unable to load PhysicsSerializer with outer InstancedStaticMeshComponent /Game/Terrain/HoudiniBake/terrain_bishe_1_846516E4.terrain_bishe_1_846516E4_C:InstancedStaticMesh18_GEN_VARIABLE because its class does not exist
+[2019.05.10-16.20.05:297][  0]LogLinker: Warning: Unable to load PhysicsSerializer with outer InstancedStaticMeshComponent /Game/Terrain/HoudiniBake/terrain_bishe_1_846516E4.terrain_bishe_1_846516E4_C:InstancedStaticMesh19_GEN_VARIABLE because its class does not exist
+[2019.05.10-16.20.05:297][  0]LogLinker: Warning: Unable to load PhysicsSerializer with outer InstancedStaticMeshComponent /Game/Terrain/HoudiniBake/terrain_bishe_1_846516E4.terrain_bishe_1_846516E4_C:InstancedStaticMesh1_GEN_VARIABLE because its class does not exist
+[2019.05.10-16.20.05:297][  0]LogLinker: Warning: Unable to load PhysicsSerializer with outer InstancedStaticMeshComponent /Game/Terrain/HoudiniBake/terrain_bishe_1_846516E4.terrain_bishe_1_846516E4_C:InstancedStaticMesh20_GEN_VARIABLE because its class does not exist
+[2019.05.10-16.20.05:297][  0]LogLinker: Warning: Unable to load PhysicsSerializer with outer InstancedStaticMeshComponent /Game/Terrain/HoudiniBake/terrain_bishe_1_846516E4.terrain_bishe_1_846516E4_C:InstancedStaticMesh21_GEN_VARIABLE because its class does not exist
+[2019.05.10-16.20.05:297][  0]LogLinker: Warning: Unable to load PhysicsSerializer with outer InstancedStaticMeshComponent /Game/Terrain/HoudiniBake/terrain_bishe_1_846516E4.terrain_bishe_1_846516E4_C:InstancedStaticMesh22_GEN_VARIABLE because its class does not exist
+[2019.05.10-16.20.05:297][  0]LogLinker: Warning: Unable to load PhysicsSerializer with outer InstancedStaticMeshComponent /Game/Terrain/HoudiniBake/terrain_bishe_1_846516E4.terrain_bishe_1_846516E4_C:InstancedStaticMesh23_GEN_VARIABLE because its class does not exist
+[2019.05.10-16.20.05:297][  0]LogLinker: Warning: Unable to load PhysicsSerializer with outer InstancedStaticMeshComponent /Game/Terrain/HoudiniBake/terrain_bishe_1_846516E4.terrain_bishe_1_846516E4_C:InstancedStaticMesh24_GEN_VARIABLE because its class does not exist
+[2019.05.10-16.20.05:297][  0]LogLinker: Warning: Unable to load PhysicsSerializer with outer InstancedStaticMeshComponent /Game/Terrain/HoudiniBake/terrain_bishe_1_846516E4.terrain_bishe_1_846516E4_C:InstancedStaticMesh25_GEN_VARIABLE because its class does not exist
+[2019.05.10-16.20.05:297][  0]LogLinker: Warning: Unable to load PhysicsSerializer with outer InstancedStaticMeshComponent /Game/Terrain/HoudiniBake/terrain_bishe_1_846516E4.terrain_bishe_1_846516E4_C:InstancedStaticMesh26_GEN_VARIABLE because its class does not exist
+[2019.05.10-16.20.05:297][  0]LogLinker: Warning: Unable to load PhysicsSerializer with outer InstancedStaticMeshComponent /Game/Terrain/HoudiniBake/terrain_bishe_1_846516E4.terrain_bishe_1_846516E4_C:InstancedStaticMesh27_GEN_VARIABLE because its class does not exist
+[2019.05.10-16.20.05:298][  0]LogLinker: Warning: Unable to load PhysicsSerializer with outer InstancedStaticMeshComponent /Game/Terrain/HoudiniBake/terrain_bishe_1_846516E4.terrain_bishe_1_846516E4_C:InstancedStaticMesh28_GEN_VARIABLE because its class does not exist
+[2019.05.10-16.20.05:298][  0]LogLinker: Warning: Unable to load PhysicsSerializer with outer InstancedStaticMeshComponent /Game/Terrain/HoudiniBake/terrain_bishe_1_846516E4.terrain_bishe_1_846516E4_C:InstancedStaticMesh29_GEN_VARIABLE because its class does not exist
+[2019.05.10-16.20.05:298][  0]LogLinker: Warning: Unable to load PhysicsSerializer with outer InstancedStaticMeshComponent /Game/Terrain/HoudiniBake/terrain_bishe_1_846516E4.terrain_bishe_1_846516E4_C:InstancedStaticMesh2_GEN_VARIABLE because its class does not exist
+[2019.05.10-16.20.05:298][  0]LogLinker: Warning: Unable to load PhysicsSerializer with outer InstancedStaticMeshComponent /Game/Terrain/HoudiniBake/terrain_bishe_1_846516E4.terrain_bishe_1_846516E4_C:InstancedStaticMesh30_GEN_VARIABLE because its class does not exist
+[2019.05.10-16.20.05:298][  0]LogLinker: Warning: Unable to load PhysicsSerializer with outer InstancedStaticMeshComponent /Game/Terrain/HoudiniBake/terrain_bishe_1_846516E4.terrain_bishe_1_846516E4_C:InstancedStaticMesh31_GEN_VARIABLE because its class does not exist
+[2019.05.10-16.20.05:298][  0]LogLinker: Warning: Unable to load PhysicsSerializer with outer InstancedStaticMeshComponent /Game/Terrain/HoudiniBake/terrain_bishe_1_846516E4.terrain_bishe_1_846516E4_C:InstancedStaticMesh32_GEN_VARIABLE because its class does not exist
+[2019.05.10-16.20.05:298][  0]LogLinker: Warning: Unable to load PhysicsSerializer with outer InstancedStaticMeshComponent /Game/Terrain/HoudiniBake/terrain_bishe_1_846516E4.terrain_bishe_1_846516E4_C:InstancedStaticMesh3_GEN_VARIABLE because its class does not exist
+[2019.05.10-16.20.05:298][  0]LogLinker: Warning: Unable to load PhysicsSerializer with outer InstancedStaticMeshComponent /Game/Terrain/HoudiniBake/terrain_bishe_1_846516E4.terrain_bishe_1_846516E4_C:InstancedStaticMesh4_GEN_VARIABLE because its class does not exist
+[2019.05.10-16.20.05:298][  0]LogLinker: Warning: Unable to load PhysicsSerializer with outer InstancedStaticMeshComponent /Game/Terrain/HoudiniBake/terrain_bishe_1_846516E4.terrain_bishe_1_846516E4_C:InstancedStaticMesh5_GEN_VARIABLE because its class does not exist
+[2019.05.10-16.20.05:298][  0]LogLinker: Warning: Unable to load PhysicsSerializer with outer InstancedStaticMeshComponent /Game/Terrain/HoudiniBake/terrain_bishe_1_846516E4.terrain_bishe_1_846516E4_C:InstancedStaticMesh6_GEN_VARIABLE because its class does not exist
+[2019.05.10-16.20.05:298][  0]LogLinker: Warning: Unable to load PhysicsSerializer with outer InstancedStaticMeshComponent /Game/Terrain/HoudiniBake/terrain_bishe_1_846516E4.terrain_bishe_1_846516E4_C:InstancedStaticMesh7_GEN_VARIABLE because its class does not exist
+[2019.05.10-16.20.05:298][  0]LogLinker: Warning: Unable to load PhysicsSerializer with outer InstancedStaticMeshComponent /Game/Terrain/HoudiniBake/terrain_bishe_1_846516E4.terrain_bishe_1_846516E4_C:InstancedStaticMesh8_GEN_VARIABLE because its class does not exist
+[2019.05.10-16.20.05:298][  0]LogLinker: Warning: Unable to load PhysicsSerializer with outer InstancedStaticMeshComponent /Game/Terrain/HoudiniBake/terrain_bishe_1_846516E4.terrain_bishe_1_846516E4_C:InstancedStaticMesh9_GEN_VARIABLE because its class does not exist
+[2019.05.10-16.20.05:299][  0]LogLinker: Warning: Unable to load PhysicsSerializer with outer InstancedStaticMeshComponent /Game/Terrain/HoudiniBake/terrain_bishe_1_846516E4.terrain_bishe_1_846516E4_C:InstancedStaticMesh_GEN_VARIABLE because its class does not exist
+[2019.05.10-16.20.05:317][  0]LogBlueprint: Warning: [Compiler InfoTrigger] Input pin  Show  specifying non-default value no longer exists on node  Update Info . Please refresh node or reset pin to default value to remove pin.
+[2019.05.10-16.20.05:319][  0]LogBlueprint: Warning: [Compiler InfoTrigger] [0014.91] Compile of InfoTrigger successful, but with 1 Warning(s) [in 3 ms] (/Game/UI/Teach/InfoTrigger.InfoTrigger)
+[2019.05.10-16.20.06:951][  0]LogAIModule: Creating AISystem for world LakeLevel
+[2019.05.10-16.20.07:229][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.05.10-16.20.07:339][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.05.10-16.20.07:527][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 187.116ms to complete.
+[2019.05.10-16.20.07:527][  0]LogFileHelpers: Loading map 'LakeLevel' took 4.115
+[2019.05.10-16.20.07:645][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.10-16.20.07:652][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.10-16.20.07:659][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.10-16.20.07:668][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.10-16.20.07:676][  0]LogCollectionManager: Loaded 0 collections in 0.001001 seconds
+[2019.05.10-16.20.07:722][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Saved/Collections/' took 0.01s
+[2019.05.10-16.20.07:722][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Content/Developers/Ivy/Collections/' took 0.01s
+[2019.05.10-16.20.07:722][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Content/Collections/' took 0.01s
+[2019.05.10-16.20.07:722][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.05.10-16.20.07:732][  0]LogContentBrowser: Native class hierarchy populated in 0.0093 seconds. Added 2572 classes and 603 folders.
+[2019.05.10-16.20.07:737][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.05.10-16.20.07:794][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.05.10-16.20.07:806][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2019.05.10-16.20.07:923][  0]LogSlate: Took 0.000247 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.05.10-16.20.07:929][  0]LogSlate: Took 0.000393 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.05.10-16.20.07:934][  0]LogSlate: Took 0.000276 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.05.10-16.20.08:027][  0]LogRenderer: Reallocating scene render targets to support 748x292 Format 10 NumSamples 1 (Frame:1).
+[2019.05.10-16.20.08:053][  0]LogRenderer: Reallocating scene render targets to support 1496x584 Format 10 NumSamples 1 (Frame:1).
+[2019.05.10-16.20.08:317][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.05.10-16.20.08:317][  0]LogLoad: (Engine Initialization) Total time: 17.91 seconds
+[2019.05.10-16.20.08:317][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.05.10-16.20.08:368][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.05.10-16.20.08:379][  0]LogSlate: Took 0.000172 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.05.10-16.20.08:447][  2]LogAssetRegistry: Asset discovery search completed in 11.0414 seconds
+[2019.05.10-16.20.08:449][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.05.10-16.20.08:449][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000061 seconds (updated 0 objects)
+[2019.05.10-16.20.11:457][ 11]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.10-16.20.19:305][457]LogSlate: Took 0.001814 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2019.05.10-16.20.31:862][ 83]LogSlate: Took 0.000199 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.05.10-16.20.31:985][ 83]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Ivy\AppData\Local\Temp\HZ$D.105.3939\deer.FBX)
+[2019.05.10-16.20.32:456][ 83]LogFbx: Loading FBX Scene from C:\Users\Ivy\AppData\Local\Temp\HZ$D.105.3939\deer.FBX
+[2019.05.10-16.20.32:552][ 83]LogFbx: FBX Scene Loaded Succesfully
+[2019.05.10-16.20.32:556][ 83]FBXImport: Warning: FBX Scene Loading: Found material name clash, name clash can be wrongly reassign at reimport , material 'col1' was rename 'col1_ncl1_1' 
+[2019.05.10-16.20.32:556][ 83]FBXImport: Warning: FBX Scene Loading: Found material name clash, name clash can be wrongly reassign at reimport , material 'col1' was rename 'col1_ncl1_2' 
+[2019.05.10-16.20.36:874][ 83]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.05.10-16.20.36:962][ 83]LogFbx: =================================================
+[2019.05.10-16.20.36:962][ 83]LogFbx: Dumping Node START [DeerA] 
+[2019.05.10-16.20.36:962][ 83]LogFbx: 	Total Deformer Count -1926522672.
+[2019.05.10-16.20.36:962][ 83]LogFbx: 		[Node 1]  (Type Skin).
+[2019.05.10-16.20.36:962][ 83]LogFbx: =================================================
+[2019.05.10-16.20.36:962][ 83]LogFbx: 	Attribute () Type (4).
+[2019.05.10-16.20.36:962][ 83]LogFbx: 		[Node Attribute Child 1] DeerA (Type Mesh).
+[2019.05.10-16.20.36:962][ 83]LogFbx: Dumping Node END [DeerA]
+[2019.05.10-16.20.36:962][ 83]LogFbx: =================================================
+[2019.05.10-16.20.36:962][ 83]LogFbx: Dumping Node START [A2] 
+[2019.05.10-16.20.36:962][ 83]LogFbx: 	Total Deformer Count -800951672.
+[2019.05.10-16.20.36:962][ 83]LogFbx: 		[Node 1]  (Type Skin).
+[2019.05.10-16.20.36:962][ 83]LogFbx: =================================================
+[2019.05.10-16.20.36:962][ 83]LogFbx: 	Attribute () Type (4).
+[2019.05.10-16.20.36:962][ 83]LogFbx: 		[Node Attribute Child 1] A2 (Type Mesh).
+[2019.05.10-16.20.36:962][ 83]LogFbx: Dumping Node END [A2]
+[2019.05.10-16.20.36:962][ 83]LogFbx: =================================================
+[2019.05.10-16.20.36:962][ 83]LogFbx: Dumping Node START [A1] 
+[2019.05.10-16.20.36:962][ 83]LogFbx: 	Total Deformer Count -800951672.
+[2019.05.10-16.20.36:962][ 83]LogFbx: 		[Node 1]  (Type Skin).
+[2019.05.10-16.20.36:962][ 83]LogFbx: =================================================
+[2019.05.10-16.20.36:962][ 83]LogFbx: 	Attribute () Type (4).
+[2019.05.10-16.20.36:962][ 83]LogFbx: 		[Node Attribute Child 1] A1 (Type Mesh).
+[2019.05.10-16.20.36:962][ 83]LogFbx: Dumping Node END [A1]
+[2019.05.10-16.20.36:963][ 83]LogFbx: =================================================
+[2019.05.10-16.20.36:963][ 83]LogFbx: Dumping Node START [A2] 
+[2019.05.10-16.20.36:963][ 83]LogFbx: 	Total Deformer Count -800951672.
+[2019.05.10-16.20.36:963][ 83]LogFbx: 		[Node 1]  (Type Skin).
+[2019.05.10-16.20.36:963][ 83]LogFbx: =================================================
+[2019.05.10-16.20.36:963][ 83]LogFbx: 	Attribute () Type (4).
+[2019.05.10-16.20.36:963][ 83]LogFbx: 		[Node Attribute Child 1] A2 (Type Mesh).
+[2019.05.10-16.20.36:963][ 83]LogFbx: Dumping Node END [A2]
+[2019.05.10-16.20.36:963][ 83]LogFbx: =================================================
+[2019.05.10-16.20.36:963][ 83]LogFbx: Dumping Node START [A1] 
+[2019.05.10-16.20.36:963][ 83]LogFbx: 	Total Deformer Count -800951672.
+[2019.05.10-16.20.36:963][ 83]LogFbx: 		[Node 1]  (Type Skin).
+[2019.05.10-16.20.36:963][ 83]LogFbx: =================================================
+[2019.05.10-16.20.36:963][ 83]LogFbx: 	Attribute () Type (4).
+[2019.05.10-16.20.36:963][ 83]LogFbx: 		[Node Attribute Child 1] A1 (Type Mesh).
+[2019.05.10-16.20.36:963][ 83]LogFbx: Dumping Node END [A1]
+[2019.05.10-16.20.36:964][ 83]LogFbx: =================================================
+[2019.05.10-16.20.36:964][ 83]LogFbx: Dumping Node START [DeerA] 
+[2019.05.10-16.20.36:964][ 83]LogFbx: 	Total Deformer Count -1926522672.
+[2019.05.10-16.20.36:964][ 83]LogFbx: 		[Node 1]  (Type Skin).
+[2019.05.10-16.20.36:964][ 83]LogFbx: =================================================
+[2019.05.10-16.20.36:964][ 83]LogFbx: 	Attribute () Type (4).
+[2019.05.10-16.20.36:964][ 83]LogFbx: 		[Node Attribute Child 1] DeerA (Type Mesh).
+[2019.05.10-16.20.36:964][ 83]LogFbx: Dumping Node END [DeerA]
+[2019.05.10-16.20.36:983][ 83]LogFbx: Warning: Not valid bind pose for Pose (BIND_POSES) - Node A2 : Not all the deformers are stored in this BindPose
+[2019.05.10-16.20.36:983][ 83]LogFbx: Warning: Not valid bind pose for Pose (BIND_POSES) - Node A1 : Not all the deformers are stored in this BindPose
+[2019.05.10-16.20.36:983][ 83]LogFbx: Warning: Not valid bind pose for Pose (BIND_POSES) - Node DeerA : Not all the deformers are stored in this BindPose
+[2019.05.10-16.20.36:983][ 83]LogFbx: Warning: Getting valid bind pose failed. Try to recreate bind pose
+[2019.05.10-16.20.36:998][ 83]LogFbx: Warning: Not valid bind pose for Pose (FbxSDKBindPose) - Node A2 : The relative matrices do not match
+[2019.05.10-16.20.36:998][ 83]LogFbx: Warning: Not valid bind pose for Pose (FbxSDKBindPose) - Node A1 : The relative matrices do not match
+[2019.05.10-16.20.36:999][ 83]LogFbx: Warning: Not valid bind pose for Pose (FbxSDKBindPose) - Node DeerA : The relative matrices do not match
+[2019.05.10-16.20.36:999][ 83]LogFbx: Warning: Recreating bind pose failed.
+[2019.05.10-16.20.37:221][ 83]LogMaterial: Warning: Material /Game/-Models/Anim/col1_ncl1_1.col1_ncl1_1 needed to have new flag set bUsedWithSkeletalMesh !
+[2019.05.10-16.20.37:238][ 83]LogMaterial: Display: Missing cached shader map for material col1_ncl1_1, compiling. 
+[2019.05.10-16.20.37:454][ 83]LogShaderCompilers: Display: Shaders left to compile 60
+[2019.05.10-16.20.37:454][ 83]LogShaderCompilers: Display: Shaders left to compile 50
+[2019.05.10-16.20.37:455][ 83]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.05.10-16.20.37:455][ 83]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.05.10-16.20.37:500][ 83]LogLinker: Can't find file '/Game/-Models/Anim/Monster_Beast_DeerA_col1_d'
+[2019.05.10-16.20.37:500][ 83]LogLinker: Can't find file '/Game/-Models/Anim/Monster_Beast_DeerA_col1_d'
+[2019.05.10-16.20.37:501][ 83]LogFbxMaterialImport: Warning: Unable to find Texture file J:\THEN9\111\Monster_Beast_DeerA_col1_d.tga
+[2019.05.10-16.20.37:501][ 83]LogLinker: Can't find file '/Game/-Models/Anim/Monster_Beast_DeerA_col1_s'
+[2019.05.10-16.20.37:501][ 83]LogLinker: Can't find file '/Game/-Models/Anim/Monster_Beast_DeerA_col1_s'
+[2019.05.10-16.20.37:501][ 83]LogFbxMaterialImport: Warning: Unable to find Texture file J:\THEN9\111\Monster_Beast_DeerA_col1_s.tga
+[2019.05.10-16.20.37:502][ 83]LogLinker: Can't find file '/Game/-Models/Anim/Monster_Beast_DeerA_col1_n'
+[2019.05.10-16.20.37:502][ 83]LogLinker: Can't find file '/Game/-Models/Anim/Monster_Beast_DeerA_col1_n'
+[2019.05.10-16.20.37:502][ 83]LogFbxMaterialImport: Warning: Unable to find Texture file J:\THEN9\111\Monster_Beast_DeerA_col1_n.tga
+[2019.05.10-16.20.37:528][ 83]LogMaterial: Display: Missing cached shader map for material col1_ncl1_1, compiling. 
+[2019.05.10-16.20.37:592][ 83]LogMaterial: Warning: Material /Game/-Models/Anim/col1_ncl1_2.col1_ncl1_2 needed to have new flag set bUsedWithSkeletalMesh !
+[2019.05.10-16.20.37:596][ 83]LogMaterial: Display: Missing cached shader map for material col1_ncl1_2, compiling. 
+[2019.05.10-16.20.37:646][ 83]LogFbxMaterialImport: Warning: Unable to find Texture file J:\THEN9\111\Monster_Beast_DeerA_col1_d.tga
+[2019.05.10-16.20.37:646][ 83]LogFbxMaterialImport: Warning: Unable to find Texture file J:\THEN9\111\Monster_Beast_DeerA_col1_s.tga
+[2019.05.10-16.20.37:646][ 83]LogFbxMaterialImport: Warning: Unable to find Texture file J:\THEN9\111\Monster_Beast_DeerA_col1_n.tga
+[2019.05.10-16.20.37:649][ 83]LogMaterial: Display: Missing cached shader map for material col1_ncl1_2, compiling. 
+[2019.05.10-16.20.37:697][ 83]LogMaterial: Warning: Material /Game/-Models/Anim/col1.col1 needed to have new flag set bUsedWithSkeletalMesh !
+[2019.05.10-16.20.37:710][ 83]LogMaterial: Display: Missing cached shader map for material col1, compiling. 
+[2019.05.10-16.20.37:753][ 83]LogFbxMaterialImport: Warning: Unable to find Texture file J:\THEN9\111\Monster_Beast_DeerA_col1_d.tga
+[2019.05.10-16.20.37:754][ 83]LogFbxMaterialImport: Warning: Unable to find Texture file J:\THEN9\111\Monster_Beast_DeerA_col1_s.tga
+[2019.05.10-16.20.37:754][ 83]LogFbxMaterialImport: Warning: Unable to find Texture file J:\THEN9\111\Monster_Beast_DeerA_col1_s.tga
+[2019.05.10-16.20.37:754][ 83]LogFbxMaterialImport: Warning: Unable to find Texture file J:\THEN9\111\Monster_Beast_DeerA_col1_n.tga
+[2019.05.10-16.20.37:755][ 83]LogFbxMaterialImport: Warning: Unable to find Texture file J:\THEN9\111\Monster_Beast_DeerA_col1_d.tga
+[2019.05.10-16.20.37:757][ 83]LogMaterial: Display: Missing cached shader map for material col1, compiling. 
+[2019.05.10-16.20.37:835][ 83]LogFbx: Warning: Bones digested - 49  Depth of hierarchy - 13
+[2019.05.10-16.20.38:007][ 83]LogSkeletalMesh: Section 0: 510 vertices, 2 active bones
+[2019.05.10-16.20.38:007][ 83]LogSkeletalMesh: Section 1: 354 vertices, 1 active bones
+[2019.05.10-16.20.38:007][ 83]LogSkeletalMesh: Section 2: 1605 vertices, 42 active bones
+[2019.05.10-16.20.38:008][ 83]LogSkeletalMesh: Section 0: Material=0, 640 triangles
+[2019.05.10-16.20.38:008][ 83]LogSkeletalMesh: Section 1: Material=1, 550 triangles
+[2019.05.10-16.20.38:008][ 83]LogSkeletalMesh: Section 2: Material=2, 2370 triangles
+[2019.05.10-16.20.38:021][ 83]LogSkeletalMesh: Building Skeletal Mesh deer...
+[2019.05.10-16.20.38:043][ 83]LogSkeletalMesh: Built Skeletal Mesh [0.02s] /Game/-Models/Anim/deer.deer
+[2019.05.10-16.20.38:045][ 83]LogLinker: Can't find file '/Game/-Models/Anim/deer_Skeleton'
+[2019.05.10-16.20.38:045][ 83]LogLinker: Can't find file '/Game/-Models/Anim/deer_Skeleton'
+[2019.05.10-16.20.38:070][ 83]LogLinker: Can't find file '/Game/-Models/Anim/deer_PhysicsAsset'
+[2019.05.10-16.20.38:070][ 83]LogLinker: Can't find file '/Game/-Models/Anim/deer_PhysicsAsset'
+[2019.05.10-16.20.38:103][ 83]LogFbx: =================================================
+[2019.05.10-16.20.38:103][ 83]LogFbx: Dumping Node START [DeerA] 
+[2019.05.10-16.20.38:103][ 83]LogFbx: 	Total Deformer Count -699625568.
+[2019.05.10-16.20.38:103][ 83]LogFbx: 		[Node 1]  (Type Skin).
+[2019.05.10-16.20.38:103][ 83]LogFbx: =================================================
+[2019.05.10-16.20.38:103][ 83]LogFbx: 	Attribute () Type (4).
+[2019.05.10-16.20.38:103][ 83]LogFbx: 		[Node Attribute Child 1] DeerA (Type Mesh).
+[2019.05.10-16.20.38:103][ 83]LogFbx: Dumping Node END [DeerA]
+[2019.05.10-16.20.38:103][ 83]LogFbx: =================================================
+[2019.05.10-16.20.38:104][ 83]LogFbx: Dumping Node START [A2] 
+[2019.05.10-16.20.38:104][ 83]LogFbx: 	Total Deformer Count -686371384.
+[2019.05.10-16.20.38:104][ 83]LogFbx: 		[Node 1]  (Type Skin).
+[2019.05.10-16.20.38:104][ 83]LogFbx: =================================================
+[2019.05.10-16.20.38:104][ 83]LogFbx: 	Attribute () Type (4).
+[2019.05.10-16.20.38:104][ 83]LogFbx: 		[Node Attribute Child 1] A2 (Type Mesh).
+[2019.05.10-16.20.38:104][ 83]LogFbx: Dumping Node END [A2]
+[2019.05.10-16.20.38:104][ 83]LogFbx: =================================================
+[2019.05.10-16.20.38:104][ 83]LogFbx: Dumping Node START [A1] 
+[2019.05.10-16.20.38:104][ 83]LogFbx: 	Total Deformer Count -686371384.
+[2019.05.10-16.20.38:104][ 83]LogFbx: 		[Node 1]  (Type Skin).
+[2019.05.10-16.20.38:104][ 83]LogFbx: =================================================
+[2019.05.10-16.20.38:104][ 83]LogFbx: 	Attribute () Type (4).
+[2019.05.10-16.20.38:104][ 83]LogFbx: 		[Node Attribute Child 1] A1 (Type Mesh).
+[2019.05.10-16.20.38:104][ 83]LogFbx: Dumping Node END [A1]
+[2019.05.10-16.20.38:104][ 83]LogFbx: =================================================
+[2019.05.10-16.20.38:104][ 83]LogFbx: Dumping Node START [A2] 
+[2019.05.10-16.20.38:104][ 83]LogFbx: 	Total Deformer Count -686371384.
+[2019.05.10-16.20.38:104][ 83]LogFbx: 		[Node 1]  (Type Skin).
+[2019.05.10-16.20.38:104][ 83]LogFbx: =================================================
+[2019.05.10-16.20.38:104][ 83]LogFbx: 	Attribute () Type (4).
+[2019.05.10-16.20.38:104][ 83]LogFbx: 		[Node Attribute Child 1] A2 (Type Mesh).
+[2019.05.10-16.20.38:104][ 83]LogFbx: Dumping Node END [A2]
+[2019.05.10-16.20.38:104][ 83]LogFbx: =================================================
+[2019.05.10-16.20.38:104][ 83]LogFbx: Dumping Node START [A1] 
+[2019.05.10-16.20.38:104][ 83]LogFbx: 	Total Deformer Count -686371384.
+[2019.05.10-16.20.38:104][ 83]LogFbx: 		[Node 1]  (Type Skin).
+[2019.05.10-16.20.38:104][ 83]LogFbx: =================================================
+[2019.05.10-16.20.38:104][ 83]LogFbx: 	Attribute () Type (4).
+[2019.05.10-16.20.38:104][ 83]LogFbx: 		[Node Attribute Child 1] A1 (Type Mesh).
+[2019.05.10-16.20.38:104][ 83]LogFbx: Dumping Node END [A1]
+[2019.05.10-16.20.38:106][ 83]LogFbx: =================================================
+[2019.05.10-16.20.38:106][ 83]LogFbx: Dumping Node START [DeerA] 
+[2019.05.10-16.20.38:106][ 83]LogFbx: 	Total Deformer Count -699625568.
+[2019.05.10-16.20.38:106][ 83]LogFbx: 		[Node 1]  (Type Skin).
+[2019.05.10-16.20.38:106][ 83]LogFbx: =================================================
+[2019.05.10-16.20.38:106][ 83]LogFbx: 	Attribute () Type (4).
+[2019.05.10-16.20.38:106][ 83]LogFbx: 		[Node Attribute Child 1] DeerA (Type Mesh).
+[2019.05.10-16.20.38:106][ 83]LogFbx: Dumping Node END [DeerA]
+[2019.05.10-16.20.38:114][ 83]LogFbx: SortedLinks :(0) Root
+[2019.05.10-16.20.38:114][ 83]LogFbx: SortedLinks :(1) Bip01
+[2019.05.10-16.20.38:114][ 83]LogFbx: SortedLinks :(2) Bip01Pelvis
+[2019.05.10-16.20.38:114][ 83]LogFbx: SortedLinks :(3) Bip01Spine
+[2019.05.10-16.20.38:114][ 83]LogFbx: SortedLinks :(4) Bip01Spine1
+[2019.05.10-16.20.38:114][ 83]LogFbx: SortedLinks :(5) Bip01Spine2
+[2019.05.10-16.20.38:114][ 83]LogFbx: SortedLinks :(6) Bip01Neck_Fix
+[2019.05.10-16.20.38:114][ 83]LogFbx: SortedLinks :(7) Bip01Neck
+[2019.05.10-16.20.38:114][ 83]LogFbx: SortedLinks :(8) Bip01Neck1
+[2019.05.10-16.20.38:114][ 83]LogFbx: SortedLinks :(9) Bip01Neck2
+[2019.05.10-16.20.38:114][ 83]LogFbx: SortedLinks :(10) Bip01Head
+[2019.05.10-16.20.38:114][ 83]LogFbx: SortedLinks :(11) Bone_Mouth_011
+[2019.05.10-16.20.38:114][ 83]LogFbx: SortedLinks :(12) Bone_Mouth_012
+[2019.05.10-16.20.38:114][ 83]LogFbx: SortedLinks :(13) Bone_EarL_01
+[2019.05.10-16.20.38:114][ 83]LogFbx: SortedLinks :(14) Bone_EarL_02
+[2019.05.10-16.20.38:114][ 83]LogFbx: SortedLinks :(15) Bone_EarR_01
+[2019.05.10-16.20.38:114][ 83]LogFbx: SortedLinks :(16) Bone_EarR_02
+[2019.05.10-16.20.38:114][ 83]LogFbx: SortedLinks :(17) Bone_EyeR
+[2019.05.10-16.20.38:114][ 83]LogFbx: SortedLinks :(18) Bone_EyeL
+[2019.05.10-16.20.38:114][ 83]LogFbx: SortedLinks :(19) Bone_nose
+[2019.05.10-16.20.38:114][ 83]LogFbx: SortedLinks :(20) Bone_Mouth_013
+[2019.05.10-16.20.38:114][ 83]LogFbx: SortedLinks :(21) Bone_hairT_01
+[2019.05.10-16.20.38:114][ 83]LogFbx: SortedLinks :(22) Bone_hairT_02
+[2019.05.10-16.20.38:114][ 83]LogFbx: SortedLinks :(23) Bip01LClavicle
+[2019.05.10-16.20.38:114][ 83]LogFbx: SortedLinks :(24) Bip01LUpperArm
+[2019.05.10-16.20.38:114][ 83]LogFbx: SortedLinks :(25) Bip01LForeArm
+[2019.05.10-16.20.38:114][ 83]LogFbx: SortedLinks :(26) Bip01LHand
+[2019.05.10-16.20.38:114][ 83]LogFbx: SortedLinks :(27) Bip01RClavicle
+[2019.05.10-16.20.38:114][ 83]LogFbx: SortedLinks :(28) Bip01RUpperArm
+[2019.05.10-16.20.38:114][ 83]LogFbx: SortedLinks :(29) Bip01RForeArm
+[2019.05.10-16.20.38:114][ 83]LogFbx: SortedLinks :(30) Bip01RHand
+[2019.05.10-16.20.38:114][ 83]LogFbx: SortedLinks :(31) Bone_hairT_03
+[2019.05.10-16.20.38:114][ 83]LogFbx: SortedLinks :(32) Bip01LThigh
+[2019.05.10-16.20.38:114][ 83]LogFbx: SortedLinks :(33) Bip01LCalf
+[2019.05.10-16.20.38:114][ 83]LogFbx: SortedLinks :(34) Bip01LHorseLink
+[2019.05.10-16.20.38:114][ 83]LogFbx: SortedLinks :(35) Bip01LFoot
+[2019.05.10-16.20.38:114][ 83]LogFbx: SortedLinks :(36) Bip01LToe0
+[2019.05.10-16.20.38:115][ 83]LogFbx: SortedLinks :(37) Bip01RThigh
+[2019.05.10-16.20.38:115][ 83]LogFbx: SortedLinks :(38) Bip01RCalf
+[2019.05.10-16.20.38:115][ 83]LogFbx: SortedLinks :(39) Bip01RHorseLink
+[2019.05.10-16.20.38:115][ 83]LogFbx: SortedLinks :(40) Bip01RFoot
+[2019.05.10-16.20.38:115][ 83]LogFbx: SortedLinks :(41) Bip01RToe0
+[2019.05.10-16.20.38:115][ 83]LogFbx: SortedLinks :(42) Bip01Tail_Fix
+[2019.05.10-16.20.38:115][ 83]LogFbx: SortedLinks :(43) Bip01Tail
+[2019.05.10-16.20.38:115][ 83]LogFbx: SortedLinks :(44) Bip01Tail1
+[2019.05.10-16.20.38:115][ 83]LogFbx: SortedLinks :(45) Bip01Tail2
+[2019.05.10-16.20.38:115][ 83]LogFbx: SortedLinks :(46) Bip01Tail3
+[2019.05.10-16.20.38:115][ 83]LogFbx: SortedLinks :(47) Bone_HairTail_04
+[2019.05.10-16.20.38:115][ 83]LogFbx: SortedLinks :(48) Plane
+[2019.05.10-16.20.38:134][ 83]LogFbx: Parsing AnimStack Take 001
+[2019.05.10-16.20.38:234][ 83]LogLinker: Can't find file '/Game/-Models/Anim/deer_Anim'
+[2019.05.10-16.20.38:235][ 83]LogLinker: Can't find file '/Game/-Models/Anim/deer_Anim'
+[2019.05.10-16.20.38:811][ 83]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/-Models/Anim/deer_Anim.deer_Anim
+[2019.05.10-16.20.38:818][ 83]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.deer_Anim) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.05.10-16.20.38:897][ 83]LogSkeletalMesh: Building Skeletal Mesh deer...
+[2019.05.10-16.20.38:903][ 83]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/-Models/Anim/deer.deer
+[2019.05.10-16.20.38:914][ 83]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2019.05.10-16.20.38:914][ 83]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2019.05.10-16.20.38:920][ 83]LogSkeletalMesh: Building Skeletal Mesh deer...
+[2019.05.10-16.20.38:927][ 83]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/-Models/Anim/deer.deer
+[2019.05.10-16.20.41:567][194]LogSlate: Window 'Message Log' being destroyed
+[2019.05.10-16.20.41:577][194]LogSlate: Window 'Message Log' being destroyed
+[2019.05.10-16.20.42:257][230]LogShaderCompilers: Display: Shaders left to compile 180
+[2019.05.10-16.20.43:489][294]LogShaderCompilers: Display: Shaders left to compile 170
+[2019.05.10-16.20.43:736][306]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/-Models/Anim/deer_Anim.deer_Anim
+[2019.05.10-16.20.43:834][306]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2019.05.10-16.20.44:302][306]LogShaderCompilers: Display: Shaders left to compile 160
+[2019.05.10-16.20.44:428][306]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.05.10-16.20.44:463][306]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0003 seconds. Added 1 classes and 0 folders.
+[2019.05.10-16.20.44:794][306]LogShaderCompilers: Display: Shaders left to compile 150
+[2019.05.10-16.20.44:794][306]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.05.10-16.20.45:181][306]LogShaderCompilers: Display: Shaders left to compile 140
+[2019.05.10-16.20.45:789][306]LogContentBrowser: Native class hierarchy updated for 'ClothingSystemEditorInterface' in 0.0004 seconds. Added 1 classes and 0 folders.
+[2019.05.10-16.20.45:829][306]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.05.10-16.20.47:290][352]LogShaderCompilers: Display: Shaders left to compile 130
+[2019.05.10-16.20.47:780][376]LogShaderCompilers: Display: Shaders left to compile 120
+[2019.05.10-16.20.47:972][385]LogShaderCompilers: Display: Shaders left to compile 110
+[2019.05.10-16.20.49:386][451]LogShaderCompilers: Display: Shaders left to compile 100
+[2019.05.10-16.20.51:015][525]LogShaderCompilers: Display: Shaders left to compile 90
+[2019.05.10-16.20.52:570][593]LogShaderCompilers: Display: Shaders left to compile 80
+[2019.05.10-16.20.53:629][639]LogShaderCompilers: Display: Shaders left to compile 70
+[2019.05.10-16.20.53:647][640]LogShaderCompilers: Display: Shaders left to compile 60
+[2019.05.10-16.20.56:308][750]LogShaderCompilers: Display: Shaders left to compile 50
+[2019.05.10-16.20.56:728][770]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.05.10-16.20.56:803][774]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.05.10-16.20.57:662][819]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.10-16.20.59:143][894]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.05.10-16.21.00:428][956]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.05.10-16.22.44:078][ 86]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/-Models/Anim/Deer/col1" FILE="C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Content/-Models/Anim/Deer/col1.uasset" SILENT=true
+[2019.05.10-16.22.44:118][ 86]LogSavePackage: Moving 'C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Saved/col1FEACAF834B9CA8916B8DC6984D43AEF0.tmp' to 'C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Content/-Models/Anim/Deer/col1.uasset'
+[2019.05.10-16.22.44:163][ 86]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/-Models/Anim/Deer/col1_ncl1_1" FILE="C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Content/-Models/Anim/Deer/col1_ncl1_1.uasset" SILENT=true
+[2019.05.10-16.22.44:185][ 86]LogSavePackage: Moving 'C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Saved/col1_ncl1_15210241F45D1ED7AB7EFDE8F0380CC59.tmp' to 'C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Content/-Models/Anim/Deer/col1_ncl1_1.uasset'
+[2019.05.10-16.22.44:233][ 86]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/-Models/Anim/Deer/col1_ncl1_2" FILE="C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Content/-Models/Anim/Deer/col1_ncl1_2.uasset" SILENT=true
+[2019.05.10-16.22.44:256][ 86]LogSavePackage: Moving 'C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Saved/col1_ncl1_2F3DEC34D43EA68E8B2F765975F57020E.tmp' to 'C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Content/-Models/Anim/Deer/col1_ncl1_2.uasset'
+[2019.05.10-16.22.44:298][ 86]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/-Models/Anim/Deer/deer" FILE="C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Content/-Models/Anim/Deer/deer.uasset" SILENT=true
+[2019.05.10-16.22.44:333][ 86]LogSavePackage: Moving 'C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Saved/deerB722779447B4E2A2E0E1CAA9C79D06C7.tmp' to 'C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Content/-Models/Anim/Deer/deer.uasset'
+[2019.05.10-16.22.44:371][ 86]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/-Models/Anim/Deer/deer_Anim" FILE="C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Content/-Models/Anim/Deer/deer_Anim.uasset" SILENT=true
+[2019.05.10-16.22.44:399][ 86]LogSavePackage: Moving 'C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Saved/deer_AnimD810DC984EE401BF106F089F9349E6A7.tmp' to 'C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Content/-Models/Anim/Deer/deer_Anim.uasset'
+[2019.05.10-16.22.44:443][ 86]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/-Models/Anim/Deer/deer_PhysicsAsset" FILE="C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Content/-Models/Anim/Deer/deer_PhysicsAsset.uasset" SILENT=true
+[2019.05.10-16.22.44:482][ 86]LogSavePackage: Moving 'C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Saved/deer_PhysicsAssetB02C240D4446D9EA118CE4A065EB9A9C.tmp' to 'C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Content/-Models/Anim/Deer/deer_PhysicsAsset.uasset'
+[2019.05.10-16.22.44:503][ 86]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/-Models/Anim/Deer/deer_Skeleton" FILE="C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Content/-Models/Anim/Deer/deer_Skeleton.uasset" SILENT=true
+[2019.05.10-16.22.44:521][ 86]LogSavePackage: Moving 'C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Saved/deer_Skeleton344161644DA344C57F3621B5B88E9BE8.tmp' to 'C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Content/-Models/Anim/Deer/deer_Skeleton.uasset'
+[2019.05.10-16.27.38:064][585]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Ivy\AppData\Local\Temp\HZ$D.105.3940\elephant.FBX)
+[2019.05.10-16.27.38:084][585]LogFbx: Loading FBX Scene from C:\Users\Ivy\AppData\Local\Temp\HZ$D.105.3940\elephant.FBX
+[2019.05.10-16.27.38:122][585]LogFbx: FBX Scene Loaded Succesfully
+[2019.05.10-16.27.40:477][585]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.05.10-16.27.40:544][585]LogFbx: =================================================
+[2019.05.10-16.27.40:544][585]LogFbx: Dumping Node START [elephant] 
+[2019.05.10-16.27.40:544][585]LogFbx: 	Total Deformer Count -685277912.
+[2019.05.10-16.27.40:544][585]LogFbx: 		[Node 1]  (Type Skin).
+[2019.05.10-16.27.40:544][585]LogFbx: =================================================
+[2019.05.10-16.27.40:544][585]LogFbx: 	Attribute () Type (4).
+[2019.05.10-16.27.40:544][585]LogFbx: 		[Node Attribute Child 1] elephant (Type Mesh).
+[2019.05.10-16.27.40:544][585]LogFbx: Dumping Node END [elephant]
+[2019.05.10-16.27.40:544][585]LogFbx: =================================================
+[2019.05.10-16.27.40:544][585]LogFbx: Dumping Node START [elephant] 
+[2019.05.10-16.27.40:545][585]LogFbx: 	Total Deformer Count -685285136.
+[2019.05.10-16.27.40:545][585]LogFbx: 		[Node 1]  (Type Skin).
+[2019.05.10-16.27.40:545][585]LogFbx: =================================================
+[2019.05.10-16.27.40:545][585]LogFbx: 	Attribute () Type (4).
+[2019.05.10-16.27.40:545][585]LogFbx: 		[Node Attribute Child 1] elephant (Type Mesh).
+[2019.05.10-16.27.40:545][585]LogFbx: Dumping Node END [elephant]
+[2019.05.10-16.27.40:546][585]LogFbx: Warning: Not valid bind pose for Pose (BIND_POSES) - Node elephant : Not all the deformers are stored in this BindPose
+[2019.05.10-16.27.40:546][585]LogFbx: Warning: Getting valid bind pose failed. Try to recreate bind pose
+[2019.05.10-16.27.40:547][585]LogFbx: Valid bind pose for Pose (FbxSDKBindPose) - elephant
+[2019.05.10-16.27.40:547][585]LogFbx: Warning: Recreating bind pose succeeded.
+[2019.05.10-16.27.40:551][585]LogMaterial: Warning: Material /Game/-Models/Anim/Eleph/texto.texto needed to have new flag set bUsedWithSkeletalMesh !
+[2019.05.10-16.27.40:554][585]LogMaterial: Display: Missing cached shader map for material texto, compiling. 
+[2019.05.10-16.27.40:601][585]LogShaderCompilers: Display: Shaders left to compile 60
+[2019.05.10-16.27.40:601][585]LogShaderCompilers: Display: Shaders left to compile 50
+[2019.05.10-16.27.40:601][585]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.05.10-16.27.40:601][585]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.05.10-16.27.40:604][585]LogMaterial: Display: Missing cached shader map for material texto, compiling. 
+[2019.05.10-16.27.40:661][585]LogFbx: Warning: Bones digested - 46  Depth of hierarchy - 14
+[2019.05.10-16.27.40:696][585]LogSkeletalMesh: Section 0: 828 vertices, 35 active bones
+[2019.05.10-16.27.40:696][585]LogSkeletalMesh: Section 0: Material=0, 1098 triangles
+[2019.05.10-16.27.40:697][585]LogSkeletalMesh: Building Skeletal Mesh elephant...
+[2019.05.10-16.27.40:698][585]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/-Models/Anim/Eleph/elephant.elephant
+[2019.05.10-16.27.40:699][585]LogLinker: Can't find file '/Game/-Models/Anim/Eleph/elephant_Skeleton'
+[2019.05.10-16.27.40:700][585]LogLinker: Can't find file '/Game/-Models/Anim/Eleph/elephant_Skeleton'
+[2019.05.10-16.27.40:707][585]LogLinker: Can't find file '/Game/-Models/Anim/Eleph/elephant_PhysicsAsset'
+[2019.05.10-16.27.40:707][585]LogLinker: Can't find file '/Game/-Models/Anim/Eleph/elephant_PhysicsAsset'
+[2019.05.10-16.27.40:723][585]LogFbx: =================================================
+[2019.05.10-16.27.40:723][585]LogFbx: Dumping Node START [elephant] 
+[2019.05.10-16.27.40:723][585]LogFbx: 	Total Deformer Count -190878920.
+[2019.05.10-16.27.40:723][585]LogFbx: 		[Node 1]  (Type Skin).
+[2019.05.10-16.27.40:723][585]LogFbx: =================================================
+[2019.05.10-16.27.40:723][585]LogFbx: 	Attribute () Type (4).
+[2019.05.10-16.27.40:723][585]LogFbx: 		[Node Attribute Child 1] elephant (Type Mesh).
+[2019.05.10-16.27.40:723][585]LogFbx: Dumping Node END [elephant]
+[2019.05.10-16.27.40:723][585]LogFbx: =================================================
+[2019.05.10-16.27.40:723][585]LogFbx: Dumping Node START [elephant] 
+[2019.05.10-16.27.40:723][585]LogFbx: 	Total Deformer Count -190878640.
+[2019.05.10-16.27.40:723][585]LogFbx: 		[Node 1]  (Type Skin).
+[2019.05.10-16.27.40:723][585]LogFbx: =================================================
+[2019.05.10-16.27.40:723][585]LogFbx: 	Attribute () Type (4).
+[2019.05.10-16.27.40:723][585]LogFbx: 		[Node Attribute Child 1] elephant (Type Mesh).
+[2019.05.10-16.27.40:723][585]LogFbx: Dumping Node END [elephant]
+[2019.05.10-16.27.40:724][585]LogFbx: SortedLinks :(0) Bip01
+[2019.05.10-16.27.40:724][585]LogFbx: SortedLinks :(1) Bip01 Footsteps
+[2019.05.10-16.27.40:724][585]LogFbx: SortedLinks :(2) Bip01 Pelvis
+[2019.05.10-16.27.40:724][585]LogFbx: SortedLinks :(3) Bip01 Spine
+[2019.05.10-16.27.40:724][585]LogFbx: SortedLinks :(4) Bip01 L Thigh
+[2019.05.10-16.27.40:724][585]LogFbx: SortedLinks :(5) Bip01 L Calf
+[2019.05.10-16.27.40:724][585]LogFbx: SortedLinks :(6) Bip01 L Foot
+[2019.05.10-16.27.40:725][585]LogFbx: SortedLinks :(7) Bip01 L Toe0
+[2019.05.10-16.27.40:725][585]LogFbx: SortedLinks :(8) Bip01 L Toe0Nub
+[2019.05.10-16.27.40:725][585]LogFbx: SortedLinks :(9) Bip01 R Thigh
+[2019.05.10-16.27.40:725][585]LogFbx: SortedLinks :(10) Bip01 R Calf
+[2019.05.10-16.27.40:725][585]LogFbx: SortedLinks :(11) Bip01 R Foot
+[2019.05.10-16.27.40:725][585]LogFbx: SortedLinks :(12) Bip01 R Toe0
+[2019.05.10-16.27.40:725][585]LogFbx: SortedLinks :(13) Bip01 R Toe0Nub
+[2019.05.10-16.27.40:725][585]LogFbx: SortedLinks :(14) Bip01 Neck
+[2019.05.10-16.27.40:725][585]LogFbx: SortedLinks :(15) Bip01 Head
+[2019.05.10-16.27.40:725][585]LogFbx: SortedLinks :(16) Bip01 HeadNub
+[2019.05.10-16.27.40:725][585]LogFbx: SortedLinks :(17) Bip01 Ponytail1
+[2019.05.10-16.27.40:725][585]LogFbx: SortedLinks :(18) Bip01 Ponytail1Nub
+[2019.05.10-16.27.40:725][585]LogFbx: SortedLinks :(19) Bip01 Ponytail2
+[2019.05.10-16.27.40:725][585]LogFbx: SortedLinks :(20) Bip01 Ponytail2Nub
+[2019.05.10-16.27.40:725][585]LogFbx: SortedLinks :(21) Bone03
+[2019.05.10-16.27.40:725][585]LogFbx: SortedLinks :(22) Bone04
+[2019.05.10-16.27.40:725][585]LogFbx: SortedLinks :(23) Bone05
+[2019.05.10-16.27.40:725][585]LogFbx: SortedLinks :(24) Bone06
+[2019.05.10-16.27.40:725][585]LogFbx: SortedLinks :(25) Bone07
+[2019.05.10-16.27.40:725][585]LogFbx: SortedLinks :(26) Bone08
+[2019.05.10-16.27.40:725][585]LogFbx: SortedLinks :(27) Bone09
+[2019.05.10-16.27.40:725][585]LogFbx: SortedLinks :(28) Bone10
+[2019.05.10-16.27.40:725][585]LogFbx: SortedLinks :(29) Bone11
+[2019.05.10-16.27.40:725][585]LogFbx: SortedLinks :(30) Bone01
+[2019.05.10-16.27.40:725][585]LogFbx: SortedLinks :(31) Bone02
+[2019.05.10-16.27.40:725][585]LogFbx: SortedLinks :(32) Bone12
+[2019.05.10-16.27.40:725][585]LogFbx: SortedLinks :(33) Bip01 L Clavicle
+[2019.05.10-16.27.40:725][585]LogFbx: SortedLinks :(34) Bip01 L UpperArm
+[2019.05.10-16.27.40:725][585]LogFbx: SortedLinks :(35) Bip01 L Forearm
+[2019.05.10-16.27.40:725][585]LogFbx: SortedLinks :(36) Bip01 L Hand
+[2019.05.10-16.27.40:725][585]LogFbx: SortedLinks :(37) Bip01 R Clavicle
+[2019.05.10-16.27.40:725][585]LogFbx: SortedLinks :(38) Bip01 R UpperArm
+[2019.05.10-16.27.40:725][585]LogFbx: SortedLinks :(39) Bip01 R Forearm
+[2019.05.10-16.27.40:725][585]LogFbx: SortedLinks :(40) Bip01 R Hand
+[2019.05.10-16.27.40:725][585]LogFbx: SortedLinks :(41) Bip01 Tail
+[2019.05.10-16.27.40:725][585]LogFbx: SortedLinks :(42) Bip01 Tail1
+[2019.05.10-16.27.40:726][585]LogFbx: SortedLinks :(43) Bip01 Tail2
+[2019.05.10-16.27.40:726][585]LogFbx: SortedLinks :(44) Bip01 Tail3
+[2019.05.10-16.27.40:726][585]LogFbx: SortedLinks :(45) Bip01 TailNub
+[2019.05.10-16.27.40:818][585]LogFbx: Parsing AnimStack Take 001
+[2019.05.10-16.27.40:822][585]LogLinker: Can't find file '/Game/-Models/Anim/Eleph/elephant_Anim'
+[2019.05.10-16.27.40:822][585]LogLinker: Can't find file '/Game/-Models/Anim/Eleph/elephant_Anim'
+[2019.05.10-16.27.41:058][585]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/-Models/Anim/Eleph/elephant_Anim.elephant_Anim
+[2019.05.10-16.27.41:059][585]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.elephant_Anim) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.05.10-16.27.41:077][585]LogSkeletalMesh: Building Skeletal Mesh elephant...
+[2019.05.10-16.27.41:079][585]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/-Models/Anim/Eleph/elephant.elephant
+[2019.05.10-16.27.41:093][585]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2019.05.10-16.27.41:093][585]FBXImport: Warning: The following bones are missing from the bind pose:
+Bip01 Footsteps  
+Bip01 L Toe0  
+Bip01 L Toe0Nub  
+Bip01 R Toe0  
+Bip01 R Toe0Nub  
+Bip01 HeadNub  
+Bip01 Ponytail1Nub  
+Bip01 Ponytail2Nub  
+Bone12  
+Bip01 TailNub  
+
+This can happen for bones that are not vert weighted. If they are not in the correct orientation after importing,
+please set the "Use T0 as ref pose" option or add them to the bind pose and reimport the skeletal mesh. 
+[2019.05.10-16.27.41:116][585]LogSkeletalMesh: Building Skeletal Mesh elephant...
+[2019.05.10-16.27.41:118][585]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/-Models/Anim/Eleph/elephant.elephant
+[2019.05.10-16.27.42:747][659]LogSlate: Window 'Message Log' being destroyed
+[2019.05.10-16.27.42:754][659]LogSlate: Window 'Message Log' being destroyed
+[2019.05.10-16.27.44:492][754]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/-Models/Anim/Eleph/elephant_Anim.elephant_Anim
+[2019.05.10-16.27.44:514][754]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.05.10-16.27.44:567][754]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.05.10-16.27.44:768][754]LogShaderCompilers: Display: Shaders left to compile 60
+[2019.05.10-16.27.45:067][754]LogShaderCompilers: Display: Shaders left to compile 50
+[2019.05.10-16.27.45:116][754]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.05.10-16.27.46:278][789]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.05.10-16.27.46:998][824]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.05.10-16.27.47:517][848]LogSlate: Window 'elephant_Anim*' being destroyed
+[2019.05.10-16.27.47:529][848]LogSlate: Window 'elephant_Anim*' being destroyed
+[2019.05.10-16.27.47:636][848]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.05.10-16.27.48:590][857]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Little_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Little_C_0
+	Function /Game/-Models/OldMesh/小赞/ABP_Little.ABP_Little_C:ExecuteUbergraph_ABP_Little:00A2
+[2019.05.10-16.27.48:779][859]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Giant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.05.10-16.27.49:262][864]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.05.10-16.28.03:018][434]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Ivy\AppData\Local\Temp\HZ$D.105.3941\wolffbx.FBX)
+[2019.05.10-16.28.03:035][434]LogFbx: Loading FBX Scene from C:\Users\Ivy\AppData\Local\Temp\HZ$D.105.3941\wolffbx.FBX
+[2019.05.10-16.28.03:071][434]LogFbx: FBX Scene Loaded Succesfully
+[2019.05.10-16.28.06:644][434]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.05.10-16.28.06:672][434]LogFbx: =================================================
+[2019.05.10-16.28.06:672][434]LogFbx: Dumping Node START [STANDARD_WOLF] 
+[2019.05.10-16.28.06:672][434]LogFbx: 	Total Deformer Count 894901904.
+[2019.05.10-16.28.06:672][434]LogFbx: 		[Node 1]  (Type Skin).
+[2019.05.10-16.28.06:672][434]LogFbx: =================================================
+[2019.05.10-16.28.06:672][434]LogFbx: 	Attribute () Type (4).
+[2019.05.10-16.28.06:672][434]LogFbx: 		[Node Attribute Child 1] STANDARD_WOLF (Type Mesh).
+[2019.05.10-16.28.06:672][434]LogFbx: Dumping Node END [STANDARD_WOLF]
+[2019.05.10-16.28.06:672][434]LogFbx: =================================================
+[2019.05.10-16.28.06:672][434]LogFbx: Dumping Node START [STANDARD_WOLF] 
+[2019.05.10-16.28.06:672][434]LogFbx: 	Total Deformer Count 894901904.
+[2019.05.10-16.28.06:672][434]LogFbx: 		[Node 1]  (Type Skin).
+[2019.05.10-16.28.06:672][434]LogFbx: =================================================
+[2019.05.10-16.28.06:672][434]LogFbx: 	Attribute () Type (4).
+[2019.05.10-16.28.06:672][434]LogFbx: 		[Node Attribute Child 1] STANDARD_WOLF (Type Mesh).
+[2019.05.10-16.28.06:672][434]LogFbx: Dumping Node END [STANDARD_WOLF]
+[2019.05.10-16.28.06:673][434]LogFbx: Warning: Not valid bind pose for Pose (BIND_POSES) - Node STANDARD_WOLF : Not all the deformers are stored in this BindPose
+[2019.05.10-16.28.06:673][434]LogFbx: Warning: Getting valid bind pose failed. Try to recreate bind pose
+[2019.05.10-16.28.06:673][434]LogFbx: Valid bind pose for Pose (FbxSDKBindPose) - STANDARD_WOLF
+[2019.05.10-16.28.06:673][434]LogFbx: Warning: Recreating bind pose succeeded.
+[2019.05.10-16.28.06:676][434]LogMaterial: Warning: Material /Game/-Models/Anim/Wolf/3452345_2.3452345_2 needed to have new flag set bUsedWithSkeletalMesh !
+[2019.05.10-16.28.06:678][434]LogMaterial: Display: Missing cached shader map for material 3452345_2, compiling. 
+[2019.05.10-16.28.06:721][434]LogLinker: Can't find file '/Game/-Models/Anim/Wolf/STANDARD_WOLF_B'
+[2019.05.10-16.28.06:721][434]LogLinker: Can't find file '/Game/-Models/Anim/Wolf/STANDARD_WOLF_B'
+[2019.05.10-16.28.06:721][434]LogFbxMaterialImport: Warning: Unable to find Texture file C:\Users\Administrator\Desktop\wolf\STANDARD_WOLF_B.tga
+[2019.05.10-16.28.06:722][434]LogShaderCompilers: Display: Shaders left to compile 60
+[2019.05.10-16.28.06:722][434]LogShaderCompilers: Display: Shaders left to compile 50
+[2019.05.10-16.28.06:722][434]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.05.10-16.28.06:722][434]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.05.10-16.28.06:722][434]LogFbxMaterialImport: Warning: Unable to find Texture file C:\Users\Administrator\Desktop\wolf\STANDARD_WOLF_B.tga
+[2019.05.10-16.28.06:728][434]LogMaterial: Display: Missing cached shader map for material 3452345_2, compiling. 
+[2019.05.10-16.28.06:791][434]LogFbx: Warning: Bones digested - 34  Depth of hierarchy - 9
+[2019.05.10-16.28.06:868][434]LogSkeletalMesh: Section 0: 1845 vertices, 33 active bones
+[2019.05.10-16.28.06:869][434]LogSkeletalMesh: Section 0: Material=0, 2610 triangles
+[2019.05.10-16.28.06:869][434]LogSkeletalMesh: Building Skeletal Mesh wolffbx...
+[2019.05.10-16.28.06:876][434]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/-Models/Anim/Wolf/wolffbx.wolffbx
+[2019.05.10-16.28.06:879][434]LogLinker: Can't find file '/Game/-Models/Anim/Wolf/wolffbx_Skeleton'
+[2019.05.10-16.28.06:879][434]LogLinker: Can't find file '/Game/-Models/Anim/Wolf/wolffbx_Skeleton'
+[2019.05.10-16.28.06:888][434]LogLinker: Can't find file '/Game/-Models/Anim/Wolf/wolffbx_PhysicsAsset'
+[2019.05.10-16.28.06:889][434]LogLinker: Can't find file '/Game/-Models/Anim/Wolf/wolffbx_PhysicsAsset'
+[2019.05.10-16.28.06:903][434]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_18:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0'
+[2019.05.10-16.28.06:909][434]LogFbx: =================================================
+[2019.05.10-16.28.06:909][434]LogFbx: Dumping Node START [STANDARD_WOLF] 
+[2019.05.10-16.28.06:909][434]LogFbx: 	Total Deformer Count 516392416.
+[2019.05.10-16.28.06:909][434]LogFbx: 		[Node 1]  (Type Skin).
+[2019.05.10-16.28.06:909][434]LogFbx: =================================================
+[2019.05.10-16.28.06:909][434]LogFbx: 	Attribute () Type (4).
+[2019.05.10-16.28.06:909][434]LogFbx: 		[Node Attribute Child 1] STANDARD_WOLF (Type Mesh).
+[2019.05.10-16.28.06:909][434]LogFbx: Dumping Node END [STANDARD_WOLF]
+[2019.05.10-16.28.06:910][434]LogFbx: =================================================
+[2019.05.10-16.28.06:910][434]LogFbx: Dumping Node START [STANDARD_WOLF] 
+[2019.05.10-16.28.06:910][434]LogFbx: 	Total Deformer Count 516392416.
+[2019.05.10-16.28.06:910][434]LogFbx: 		[Node 1]  (Type Skin).
+[2019.05.10-16.28.06:910][434]LogFbx: =================================================
+[2019.05.10-16.28.06:910][434]LogFbx: 	Attribute () Type (4).
+[2019.05.10-16.28.06:910][434]LogFbx: 		[Node Attribute Child 1] STANDARD_WOLF (Type Mesh).
+[2019.05.10-16.28.06:910][434]LogFbx: Dumping Node END [STANDARD_WOLF]
+[2019.05.10-16.28.06:910][434]LogFbx: SortedLinks :(0) STANDARD_WOLF_
+[2019.05.10-16.28.06:910][434]LogFbx: SortedLinks :(1) STANDARD_WOLF_ Pelvis
+[2019.05.10-16.28.06:910][434]LogFbx: SortedLinks :(2) STANDARD_WOLF_ L Thigh
+[2019.05.10-16.28.06:910][434]LogFbx: SortedLinks :(3) STANDARD_WOLF_ L Calf
+[2019.05.10-16.28.06:910][434]LogFbx: SortedLinks :(4) STANDARD_WOLF_ L HorseLink
+[2019.05.10-16.28.06:910][434]LogFbx: SortedLinks :(5) STANDARD_WOLF_ L Foot
+[2019.05.10-16.28.06:910][434]LogFbx: SortedLinks :(6) STANDARD_WOLF_ L Toe0
+[2019.05.10-16.28.06:910][434]LogFbx: SortedLinks :(7) STANDARD_WOLF_ R Thigh
+[2019.05.10-16.28.06:910][434]LogFbx: SortedLinks :(8) STANDARD_WOLF_ R Calf
+[2019.05.10-16.28.06:910][434]LogFbx: SortedLinks :(9) STANDARD_WOLF_ R HorseLink
+[2019.05.10-16.28.06:910][434]LogFbx: SortedLinks :(10) STANDARD_WOLF_ R Foot
+[2019.05.10-16.28.06:910][434]LogFbx: SortedLinks :(11) STANDARD_WOLF_ R Toe0
+[2019.05.10-16.28.06:910][434]LogFbx: SortedLinks :(12) STANDARD_WOLF_ Spine
+[2019.05.10-16.28.06:910][434]LogFbx: SortedLinks :(13) STANDARD_WOLF_ Spine1
+[2019.05.10-16.28.06:910][434]LogFbx: SortedLinks :(14) STANDARD_WOLF_ Neck
+[2019.05.10-16.28.06:910][434]LogFbx: SortedLinks :(15) STANDARD_WOLF_ Neck1
+[2019.05.10-16.28.06:910][434]LogFbx: SortedLinks :(16) STANDARD_WOLF_ Neck2
+[2019.05.10-16.28.06:910][434]LogFbx: SortedLinks :(17) STANDARD_WOLF_ Head
+[2019.05.10-16.28.06:910][434]LogFbx: SortedLinks :(18) STANDARD_WOLF_ Queue de cheval 1
+[2019.05.10-16.28.06:911][434]LogFbx: SortedLinks :(19) STANDARD_WOLF_ L Clavicle
+[2019.05.10-16.28.06:911][434]LogFbx: SortedLinks :(20) STANDARD_WOLF_ L UpperArm
+[2019.05.10-16.28.06:911][434]LogFbx: SortedLinks :(21) STANDARD_WOLF_ L Forearm
+[2019.05.10-16.28.06:911][434]LogFbx: SortedLinks :(22) STANDARD_WOLF_ L Hand
+[2019.05.10-16.28.06:911][434]LogFbx: SortedLinks :(23) STANDARD_WOLF_ L Finger0
+[2019.05.10-16.28.06:911][434]LogFbx: SortedLinks :(24) STANDARD_WOLF_ R Clavicle
+[2019.05.10-16.28.06:911][434]LogFbx: SortedLinks :(25) STANDARD_WOLF_ R UpperArm
+[2019.05.10-16.28.06:911][434]LogFbx: SortedLinks :(26) STANDARD_WOLF_ R Forearm
+[2019.05.10-16.28.06:911][434]LogFbx: SortedLinks :(27) STANDARD_WOLF_ R Hand
+[2019.05.10-16.28.06:911][434]LogFbx: SortedLinks :(28) STANDARD_WOLF_ R Finger0
+[2019.05.10-16.28.06:911][434]LogFbx: SortedLinks :(29) STANDARD_WOLF_ Tail
+[2019.05.10-16.28.06:911][434]LogFbx: SortedLinks :(30) STANDARD_WOLF_ Tail1
+[2019.05.10-16.28.06:911][434]LogFbx: SortedLinks :(31) STANDARD_WOLF_ Tail2
+[2019.05.10-16.28.06:911][434]LogFbx: SortedLinks :(32) STANDARD_WOLF_ Tail3
+[2019.05.10-16.28.06:911][434]LogFbx: SortedLinks :(33) STANDARD_WOLF_ Tail4
+[2019.05.10-16.28.06:912][434]LogFbx: Parsing AnimStack Take 001
+[2019.05.10-16.28.06:916][434]LogLinker: Can't find file '/Game/-Models/Anim/Wolf/wolffbx_Anim'
+[2019.05.10-16.28.06:916][434]LogLinker: Can't find file '/Game/-Models/Anim/Wolf/wolffbx_Anim'
+[2019.05.10-16.28.08:848][434]LogShaderCompilers: Display: Shaders left to compile 60
+[2019.05.10-16.28.09:275][434]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/-Models/Anim/Wolf/wolffbx_Anim.wolffbx_Anim
+[2019.05.10-16.28.09:276][434]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.wolffbx_Anim) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.05.10-16.28.09:303][434]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Giant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.05.10-16.28.09:304][434]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Little_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Little_C_0
+	Function /Game/-Models/OldMesh/小赞/ABP_Little.ABP_Little_C:ExecuteUbergraph_ABP_Little:00A2
+[2019.05.10-16.28.09:310][434]LogSkeletalMesh: Building Skeletal Mesh wolffbx...
+[2019.05.10-16.28.09:314][434]LogShaderCompilers: Display: Shaders left to compile 50
+[2019.05.10-16.28.09:314][434]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/-Models/Anim/Wolf/wolffbx.wolffbx
+[2019.05.10-16.28.09:328][434]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2019.05.10-16.28.09:328][434]FBXImport: Warning: Warning skeletal mesh influence count of 13 exceeds max count of 8. Influence truncation will occur. Maximum Ignored Weight 0.006 
+[2019.05.10-16.28.09:353][434]LogSkeletalMesh: Building Skeletal Mesh wolffbx...
+[2019.05.10-16.28.09:357][434]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/-Models/Anim/Wolf/wolffbx.wolffbx
+[2019.05.10-16.28.10:913][494]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.05.10-16.28.10:913][494]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.05.10-16.28.11:589][527]LogSlate: Window 'Message Log' being destroyed
+[2019.05.10-16.28.11:596][527]LogSlate: Window 'Message Log' being destroyed
+[2019.05.10-16.28.11:750][537]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.05.10-16.28.13:407][630]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/-Models/Anim/Wolf/wolffbx_Anim.wolffbx_Anim
+[2019.05.10-16.28.13:423][630]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.05.10-16.28.13:512][630]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.05.10-16.28.14:109][630]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.05.10-16.28.14:260][634]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.05.10-16.28.35:359][607]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Ivy\AppData\Local\Temp\HZ$D.105.3942\spider.FBX)
+[2019.05.10-16.28.35:375][607]LogFbx: Loading FBX Scene from C:\Users\Ivy\AppData\Local\Temp\HZ$D.105.3942\spider.FBX
+[2019.05.10-16.28.35:419][607]LogFbx: FBX Scene Loaded Succesfully
+[2019.05.10-16.28.36:736][607]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.05.10-16.28.36:756][607]LogFbx: =================================================
+[2019.05.10-16.28.36:756][607]LogFbx: Dumping Node START [Sphere01] 
+[2019.05.10-16.28.36:756][607]LogFbx: 	Total Deformer Count -2127669872.
+[2019.05.10-16.28.36:756][607]LogFbx: 		[Node 1]  (Type Skin).
+[2019.05.10-16.28.36:757][607]LogFbx: =================================================
+[2019.05.10-16.28.36:757][607]LogFbx: 	Attribute () Type (4).
+[2019.05.10-16.28.36:757][607]LogFbx: 		[Node Attribute Child 1] Sphere01 (Type Mesh).
+[2019.05.10-16.28.36:757][607]LogFbx: Dumping Node END [Sphere01]
+[2019.05.10-16.28.36:757][607]LogFbx: =================================================
+[2019.05.10-16.28.36:757][607]LogFbx: Dumping Node START [Sphere01] 
+[2019.05.10-16.28.36:757][607]LogFbx: 	Total Deformer Count -2127663544.
+[2019.05.10-16.28.36:757][607]LogFbx: 		[Node 1]  (Type Skin).
+[2019.05.10-16.28.36:757][607]LogFbx: =================================================
+[2019.05.10-16.28.36:757][607]LogFbx: 	Attribute () Type (4).
+[2019.05.10-16.28.36:757][607]LogFbx: 		[Node Attribute Child 1] Sphere01 (Type Mesh).
+[2019.05.10-16.28.36:757][607]LogFbx: Dumping Node END [Sphere01]
+[2019.05.10-16.28.36:758][607]LogFbx: Warning: Not valid bind pose for Pose (BIND_POSES) - Node Sphere01 : Not all the deformers are stored in this BindPose
+[2019.05.10-16.28.36:758][607]LogFbx: Warning: Getting valid bind pose failed. Try to recreate bind pose
+[2019.05.10-16.28.36:759][607]LogFbx: Valid bind pose for Pose (FbxSDKBindPose) - Sphere01
+[2019.05.10-16.28.36:759][607]LogFbx: Warning: Recreating bind pose succeeded.
+[2019.05.10-16.28.36:759][607]LogFbx: Triangulating skeletal mesh Sphere01
+[2019.05.10-16.28.36:863][607]LogFbx: Warning: Bones digested - 41  Depth of hierarchy - 7
+[2019.05.10-16.28.36:892][607]LogSkeletalMesh: Section 0: 858 vertices, 34 active bones
+[2019.05.10-16.28.36:893][607]LogSkeletalMesh: Section 0: Material=0, 1110 triangles
+[2019.05.10-16.28.36:894][607]LogSkeletalMesh: Building Skeletal Mesh spider...
+[2019.05.10-16.28.36:897][607]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/-Models/Anim/Spider/spider.spider
+[2019.05.10-16.28.36:899][607]LogLinker: Can't find file '/Game/-Models/Anim/Spider/spider_Skeleton'
+[2019.05.10-16.28.36:899][607]LogLinker: Can't find file '/Game/-Models/Anim/Spider/spider_Skeleton'
+[2019.05.10-16.28.36:909][607]LogLinker: Can't find file '/Game/-Models/Anim/Spider/spider_PhysicsAsset'
+[2019.05.10-16.28.36:909][607]LogLinker: Can't find file '/Game/-Models/Anim/Spider/spider_PhysicsAsset'
+[2019.05.10-16.28.36:923][607]LogFbx: =================================================
+[2019.05.10-16.28.36:923][607]LogFbx: Dumping Node START [Sphere01] 
+[2019.05.10-16.28.36:923][607]LogFbx: 	Total Deformer Count -2127669592.
+[2019.05.10-16.28.36:923][607]LogFbx: 		[Node 1]  (Type Skin).
+[2019.05.10-16.28.36:923][607]LogFbx: =================================================
+[2019.05.10-16.28.36:923][607]LogFbx: 	Attribute () Type (4).
+[2019.05.10-16.28.36:923][607]LogFbx: 		[Node Attribute Child 1] Sphere01 (Type Mesh).
+[2019.05.10-16.28.36:923][607]LogFbx: Dumping Node END [Sphere01]
+[2019.05.10-16.28.36:923][607]LogFbx: =================================================
+[2019.05.10-16.28.36:923][607]LogFbx: Dumping Node START [Sphere01] 
+[2019.05.10-16.28.36:923][607]LogFbx: 	Total Deformer Count -2127662032.
+[2019.05.10-16.28.36:923][607]LogFbx: 		[Node 1]  (Type Skin).
+[2019.05.10-16.28.36:923][607]LogFbx: =================================================
+[2019.05.10-16.28.36:923][607]LogFbx: 	Attribute () Type (4).
+[2019.05.10-16.28.36:923][607]LogFbx: 		[Node Attribute Child 1] Sphere01 (Type Mesh).
+[2019.05.10-16.28.36:923][607]LogFbx: Dumping Node END [Sphere01]
+[2019.05.10-16.28.36:924][607]LogFbx: SortedLinks :(0) Dummy01
+[2019.05.10-16.28.36:924][607]LogFbx: SortedLinks :(1) Bone_23
+[2019.05.10-16.28.36:924][607]LogFbx: SortedLinks :(2) Bone_25
+[2019.05.10-16.28.36:924][607]LogFbx: SortedLinks :(3) Bone_27
+[2019.05.10-16.28.36:924][607]LogFbx: SortedLinks :(4) Bone_29
+[2019.05.10-16.28.36:924][607]LogFbx: SortedLinks :(5) Bone_31
+[2019.05.10-16.28.36:924][607]LogFbx: SortedLinks :(6) Bone_33
+[2019.05.10-16.28.36:924][607]LogFbx: SortedLinks :(7) Bone_02
+[2019.05.10-16.28.36:924][607]LogFbx: SortedLinks :(8) Bone_05
+[2019.05.10-16.28.36:924][607]LogFbx: SortedLinks :(9) Bone_07
+[2019.05.10-16.28.36:924][607]LogFbx: SortedLinks :(10) Bone_09
+[2019.05.10-16.28.36:924][607]LogFbx: SortedLinks :(11) Bone_11
+[2019.05.10-16.28.36:924][607]LogFbx: SortedLinks :(12) Bone_13
+[2019.05.10-16.28.36:924][607]LogFbx: SortedLinks :(13) Bone_15
+[2019.05.10-16.28.36:924][607]LogFbx: SortedLinks :(14) Bone_17
+[2019.05.10-16.28.36:924][607]LogFbx: SortedLinks :(15) Bone_19
+[2019.05.10-16.28.36:924][607]LogFbx: SortedLinks :(16) Bone_21
+[2019.05.10-16.28.36:924][607]LogFbx: SortedLinks :(17) Bone_14
+[2019.05.10-16.28.36:924][607]LogFbx: SortedLinks :(18) Bone_16
+[2019.05.10-16.28.36:924][607]LogFbx: SortedLinks :(19) Bone_18
+[2019.05.10-16.28.36:924][607]LogFbx: SortedLinks :(20) Bone_20
+[2019.05.10-16.28.36:924][607]LogFbx: SortedLinks :(21) Bone_22
+[2019.05.10-16.28.36:924][607]LogFbx: SortedLinks :(22) Bone_03
+[2019.05.10-16.28.36:924][607]LogFbx: SortedLinks :(23) Bone_06
+[2019.05.10-16.28.36:924][607]LogFbx: SortedLinks :(24) Bone_08
+[2019.05.10-16.28.36:924][607]LogFbx: SortedLinks :(25) Bone_10
+[2019.05.10-16.28.36:924][607]LogFbx: SortedLinks :(26) Bone_12
+[2019.05.10-16.28.36:924][607]LogFbx: SortedLinks :(27) Bone_24
+[2019.05.10-16.28.36:924][607]LogFbx: SortedLinks :(28) Bone_26
+[2019.05.10-16.28.36:924][607]LogFbx: SortedLinks :(29) Bone_28
+[2019.05.10-16.28.36:924][607]LogFbx: SortedLinks :(30) Bone_30
+[2019.05.10-16.28.36:924][607]LogFbx: SortedLinks :(31) Bone_32
+[2019.05.10-16.28.36:924][607]LogFbx: SortedLinks :(32) Bone_34
+[2019.05.10-16.28.36:924][607]LogFbx: SortedLinks :(33) Bone_00
+[2019.05.10-16.28.36:924][607]LogFbx: SortedLinks :(34) Bone_01
+[2019.05.10-16.28.36:924][607]LogFbx: SortedLinks :(35) Bone_37
+[2019.05.10-16.28.36:924][607]LogFbx: SortedLinks :(36) Bone_36
+[2019.05.10-16.28.36:924][607]LogFbx: SortedLinks :(37) Bone_38
+[2019.05.10-16.28.36:924][607]LogFbx: SortedLinks :(38) Bone_39
+[2019.05.10-16.28.36:924][607]LogFbx: SortedLinks :(39) Bone_04
+[2019.05.10-16.28.36:924][607]LogFbx: SortedLinks :(40) Bone_35
+[2019.05.10-16.28.36:925][607]LogFbx: Parsing AnimStack Take 001
+[2019.05.10-16.28.36:927][607]LogLinker: Can't find file '/Game/-Models/Anim/Spider/spider_Anim'
+[2019.05.10-16.28.36:927][607]LogLinker: Can't find file '/Game/-Models/Anim/Spider/spider_Anim'
+[2019.05.10-16.28.37:010][607]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/-Models/Anim/Spider/spider_Anim.spider_Anim
+[2019.05.10-16.28.37:011][607]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.spider_Anim) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.05.10-16.28.37:020][607]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Giant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.05.10-16.28.37:021][607]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Little_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Little_C_0
+	Function /Game/-Models/OldMesh/小赞/ABP_Little.ABP_Little_C:ExecuteUbergraph_ABP_Little:00A2
+[2019.05.10-16.28.37:029][607]LogSkeletalMesh: Building Skeletal Mesh spider...
+[2019.05.10-16.28.37:032][607]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/-Models/Anim/Spider/spider.spider
+[2019.05.10-16.28.37:041][607]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2019.05.10-16.28.37:041][607]FBXImport: Warning: The following bones are missing from the bind pose:
+Bone_33  
+Bone_11  
+Bone_21  
+Bone_22  
+Bone_12  
+Bone_34  
+
+This can happen for bones that are not vert weighted. If they are not in the correct orientation after importing,
+please set the "Use T0 as ref pose" option or add them to the bind pose and reimport the skeletal mesh. 
+[2019.05.10-16.28.37:066][607]LogSkeletalMesh: Building Skeletal Mesh spider...
+[2019.05.10-16.28.37:072][607]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/-Models/Anim/Spider/spider.spider
+[2019.05.10-16.28.38:961][708]LogSlate: Window 'Message Log' being destroyed
+[2019.05.10-16.28.38:969][708]LogSlate: Window 'Message Log' being destroyed
+[2019.05.10-16.28.40:915][823]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/-Models/Anim/Spider/spider_Anim.spider_Anim
+[2019.05.10-16.28.40:929][823]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_24:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.05.10-16.28.40:967][823]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_24:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.05.10-16.28.41:324][823]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.05.10-16.28.46:054][ 81]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.10-16.28.50:281][311]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.10-16.28.57:526][719]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (spider_Anim)
+[2019.05.10-16.28.58:191][755]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (deer_Anim)
+[2019.05.10-16.28.58:645][778]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (spider_Anim)
+[2019.05.10-16.28.59:761][841]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.10-16.29.10:588][451]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.10-16.29.11:003][476]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.10-16.29.11:016][476]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Terrain/4/LakeLevel.LakeLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Terrain/4/LakeLevel.LakeLevel:PersistentLevel.LakeLevel' with GeneratedClass '/Game/Terrain/4/LakeLevel.LakeLevel_C' with ClassGeneratedBy '/Game/Terrain/4/LakeLevel.LakeLevel:PersistentLevel.LakeLevel'
+[2019.05.10-16.29.11:017][476]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.10-16.29.11:030][476]PIE: New page: PIE session: LakeLevel (May 11, 2019, 8:29:11 AM)
+[2019.05.10-16.29.11:030][476]LogPlayLevel: Creating play world package: /Game/Terrain/4/UEDPIE_0_LakeLevel
+[2019.05.10-16.29.11:103][476]LogPlayLevel: PIE: StaticDuplicateObject took: (0.073877s)
+[2019.05.10-16.29.11:104][476]LogAIModule: Creating AISystem for world LakeLevel
+[2019.05.10-16.29.11:104][476]LogPlayLevel: PIE: World Init took: (0.000858s)
+[2019.05.10-16.29.11:104][476]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Terrain/4/LakeLevel.LakeLevel to /Game/Terrain/4/UEDPIE_0_LakeLevel.LakeLevel (0.074886s)
+[2019.05.10-16.29.11:347][476]LogInit: XAudio2 using '耳机 (离的AirPods Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.05.10-16.29.11:396][476]LogInit: FAudioDevice initialized.
+[2019.05.10-16.29.11:440][476]LogLoad: Game class is 'NewBlueprint_C'
+[2019.05.10-16.29.11:470][476]LogWorld: Bringing World /Game/Terrain/4/UEDPIE_0_LakeLevel.LakeLevel up for play (max tick rate 60) at 2019.05.11-00.29.11
+[2019.05.10-16.29.11:474][476]LogWorld: Bringing up level for play took: 0.033356
+[2019.05.10-16.29.11:491][476]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 10 classes and 0 folders.
+[2019.05.10-16.29.11:491][476]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.05.10-16.29.11:491][476]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.05.10-16.29.11:491][476]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.05.10-16.29.11:537][476]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.05.10-16.29.11:537][476]PIE: Play in editor start time for /Game/Terrain/4/UEDPIE_0_LakeLevel -0.341
+[2019.05.10-16.29.11:537][476]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Terrain/4/LakeLevel.LakeLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Terrain/4/LakeLevel.LakeLevel:PersistentLevel.LakeLevel' with GeneratedClass '/Game/Terrain/4/LakeLevel.LakeLevel_C' with ClassGeneratedBy '/Game/Terrain/4/LakeLevel.LakeLevel:PersistentLevel.LakeLevel'
+[2019.05.10-16.29.41:481][258]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Terrain/4/LakeLevel.LakeLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Terrain/4/LakeLevel.LakeLevel:PersistentLevel.LakeLevel' with GeneratedClass '/Game/Terrain/4/LakeLevel.LakeLevel_C' with ClassGeneratedBy '/Game/Terrain/4/LakeLevel.LakeLevel:PersistentLevel.LakeLevel'
+[2019.05.10-16.29.41:482][258]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.10-16.29.41:528][258]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.10-16.29.41:528][258]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Terrain/4/LakeLevel.LakeLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Terrain/4/LakeLevel.LakeLevel:PersistentLevel.LakeLevel' with GeneratedClass '/Game/Terrain/4/LakeLevel.LakeLevel_C' with ClassGeneratedBy '/Game/Terrain/4/LakeLevel.LakeLevel:PersistentLevel.LakeLevel'
+[2019.05.10-16.29.41:558][258]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.10-16.29.41:701][259]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2019.05.10-16.29.42:331][295]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.10-16.29.46:887][566]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/-Models/Anim/Deer/deer_Anim.deer_Anim
+[2019.05.10-16.29.46:900][566]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.05.10-16.29.46:943][566]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_27:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.05.10-16.29.47:327][566]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.05.10-16.30.41:415][ 67]LogSlate: Window 'Save Content' being destroyed
+[2019.05.10-16.30.41:462][ 67]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/-Models/Anim/Deer/deer_Anim" FILE="C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Content/-Models/Anim/Deer/deer_Anim.uasset" SILENT=true
+[2019.05.10-16.30.41:485][ 67]LogSavePackage: Moving 'C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Saved/deer_Anim803A8D7F43604543025844B48F208CBD.tmp' to 'C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Content/-Models/Anim/Deer/deer_Anim.uasset'
+[2019.05.10-16.30.41:519][ 67]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/-Models/Anim/Eleph/elephant" FILE="C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Content/-Models/Anim/Eleph/elephant.uasset" SILENT=true
+[2019.05.10-16.30.41:556][ 67]LogSavePackage: Moving 'C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Saved/elephant970163454128F01D3B66EAA34CE3146F.tmp' to 'C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Content/-Models/Anim/Eleph/elephant.uasset'
+[2019.05.10-16.30.41:587][ 67]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/-Models/Anim/Eleph/elephant_Anim" FILE="C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Content/-Models/Anim/Eleph/elephant_Anim.uasset" SILENT=true
+[2019.05.10-16.30.41:612][ 67]LogSavePackage: Moving 'C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Saved/elephant_AnimB79F5AC6497638A3B4EECC8309226040.tmp' to 'C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Content/-Models/Anim/Eleph/elephant_Anim.uasset'
+[2019.05.10-16.30.41:641][ 67]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/-Models/Anim/Eleph/elephant_PhysicsAsset" FILE="C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Content/-Models/Anim/Eleph/elephant_PhysicsAsset.uasset" SILENT=true
+[2019.05.10-16.30.41:679][ 67]LogSavePackage: Moving 'C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Saved/elephant_PhysicsAsset95FD2B7A40440B3E10210C88724B0273.tmp' to 'C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Content/-Models/Anim/Eleph/elephant_PhysicsAsset.uasset'
+[2019.05.10-16.30.41:699][ 67]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/-Models/Anim/Eleph/elephant_Skeleton" FILE="C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Content/-Models/Anim/Eleph/elephant_Skeleton.uasset" SILENT=true
+[2019.05.10-16.30.41:712][ 67]LogSavePackage: Moving 'C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Saved/elephant_SkeletonBB68E6D94092B724E7E5AB83267929EA.tmp' to 'C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Content/-Models/Anim/Eleph/elephant_Skeleton.uasset'
+[2019.05.10-16.30.41:744][ 67]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/-Models/Anim/Eleph/texto" FILE="C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Content/-Models/Anim/Eleph/texto.uasset" SILENT=true
+[2019.05.10-16.30.41:765][ 67]LogSavePackage: Moving 'C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Saved/texto8010E1724574CF188A0293A3D3F83CE1.tmp' to 'C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Content/-Models/Anim/Eleph/texto.uasset'
+[2019.05.10-16.30.41:797][ 67]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/-Models/Anim/Spider/spider" FILE="C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Content/-Models/Anim/Spider/spider.uasset" SILENT=true
+[2019.05.10-16.30.41:827][ 67]LogSavePackage: Moving 'C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Saved/spider67505D2840B3F15DCE26FEB17185E8F9.tmp' to 'C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Content/-Models/Anim/Spider/spider.uasset'
+[2019.05.10-16.30.41:857][ 67]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/-Models/Anim/Spider/spider_Anim" FILE="C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Content/-Models/Anim/Spider/spider_Anim.uasset" SILENT=true
+[2019.05.10-16.30.41:881][ 67]LogSavePackage: Moving 'C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Saved/spider_AnimAABEB8864B52E57CC0EA6E8E0FEF0267.tmp' to 'C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Content/-Models/Anim/Spider/spider_Anim.uasset'
+[2019.05.10-16.30.41:909][ 67]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/-Models/Anim/Spider/spider_PhysicsAsset" FILE="C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Content/-Models/Anim/Spider/spider_PhysicsAsset.uasset" SILENT=true
+[2019.05.10-16.30.41:955][ 67]LogSavePackage: Moving 'C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Saved/spider_PhysicsAssetEAE83C1D499ADD75EE0A0ABF9B41214E.tmp' to 'C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Content/-Models/Anim/Spider/spider_PhysicsAsset.uasset'
+[2019.05.10-16.30.41:974][ 67]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/-Models/Anim/Spider/spider_Skeleton" FILE="C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Content/-Models/Anim/Spider/spider_Skeleton.uasset" SILENT=true
+[2019.05.10-16.30.41:988][ 67]LogSavePackage: Moving 'C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Saved/spider_SkeletonD089FD8D4BB10F49A3125786435D1E00.tmp' to 'C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Content/-Models/Anim/Spider/spider_Skeleton.uasset'
+[2019.05.10-16.30.42:022][ 67]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/-Models/Anim/Wolf/3452345_2" FILE="C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Content/-Models/Anim/Wolf/3452345_2.uasset" SILENT=true
+[2019.05.10-16.30.42:047][ 67]LogSavePackage: Moving 'C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Saved/3452345_2E12D52D244525C004C786AA04C10E604.tmp' to 'C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Content/-Models/Anim/Wolf/3452345_2.uasset'
+[2019.05.10-16.30.42:079][ 67]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/-Models/Anim/Wolf/wolffbx" FILE="C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Content/-Models/Anim/Wolf/wolffbx.uasset" SILENT=true
+[2019.05.10-16.30.42:113][ 67]LogSavePackage: Moving 'C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Saved/wolffbx93EE9F2B498F4D34F3E8409F6E7A25B1.tmp' to 'C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Content/-Models/Anim/Wolf/wolffbx.uasset'
+[2019.05.10-16.30.42:144][ 67]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/-Models/Anim/Wolf/wolffbx_Anim" FILE="C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Content/-Models/Anim/Wolf/wolffbx_Anim.uasset" SILENT=true
+[2019.05.10-16.30.42:173][ 67]LogSavePackage: Moving 'C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Saved/wolffbx_Anim6C0FA3324EFCC56752C1F9B1AB81FA13.tmp' to 'C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Content/-Models/Anim/Wolf/wolffbx_Anim.uasset'
+[2019.05.10-16.30.42:203][ 67]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/-Models/Anim/Wolf/wolffbx_PhysicsAsset" FILE="C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Content/-Models/Anim/Wolf/wolffbx_PhysicsAsset.uasset" SILENT=true
+[2019.05.10-16.30.42:230][ 67]LogSavePackage: Moving 'C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Saved/wolffbx_PhysicsAsset2B42F64342F343B2B0AF77B9F0EBC122.tmp' to 'C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Content/-Models/Anim/Wolf/wolffbx_PhysicsAsset.uasset'
+[2019.05.10-16.30.42:250][ 67]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/-Models/Anim/Wolf/wolffbx_Skeleton" FILE="C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Content/-Models/Anim/Wolf/wolffbx_Skeleton.uasset" SILENT=true
+[2019.05.10-16.30.42:264][ 67]LogSavePackage: Moving 'C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Saved/wolffbx_SkeletonF027845F449EF2F615EED198D6A6C32E.tmp' to 'C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Content/-Models/Anim/Wolf/wolffbx_Skeleton.uasset'
+[2019.05.10-16.30.42:497][ 67]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Terrain/4/LakeLevel" FILE="C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Content/Terrain/4/LakeLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.05.10-16.30.44:142][ 67]LogSavePackage: Moving 'C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Saved/LakeLevelE6480229429D19294F59588CCAFCC9B1.tmp' to 'C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Content/Terrain/4/LakeLevel.umap'
+[2019.05.10-16.30.44:179][ 67]LogFileHelpers: Saving map 'LakeLevel' took 1.895
+[2019.05.10-16.30.52:337][532]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.10-16.30.52:418][537]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.10-16.30.52:430][537]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Terrain/4/LakeLevel.LakeLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Terrain/4/LakeLevel.LakeLevel:PersistentLevel.LakeLevel' with GeneratedClass '/Game/Terrain/4/LakeLevel.LakeLevel_C' with ClassGeneratedBy '/Game/Terrain/4/LakeLevel.LakeLevel:PersistentLevel.LakeLevel'
+[2019.05.10-16.30.52:430][537]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.10-16.30.52:430][537]PIE: New page: PIE session: LakeLevel (May 11, 2019, 8:30:52 AM)
+[2019.05.10-16.30.52:430][537]LogPlayLevel: Creating play world package: /Game/Terrain/4/UEDPIE_0_LakeLevel
+[2019.05.10-16.30.52:500][537]LogPlayLevel: PIE: StaticDuplicateObject took: (0.069778s)
+[2019.05.10-16.30.52:501][537]LogAIModule: Creating AISystem for world LakeLevel
+[2019.05.10-16.30.52:501][537]LogPlayLevel: PIE: World Init took: (0.000799s)
+[2019.05.10-16.30.52:501][537]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Terrain/4/LakeLevel.LakeLevel to /Game/Terrain/4/UEDPIE_0_LakeLevel.LakeLevel (0.070745s)
+[2019.05.10-16.30.52:727][537]LogInit: XAudio2 using '耳机 (离的AirPods Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.05.10-16.30.52:775][537]LogInit: FAudioDevice initialized.
+[2019.05.10-16.30.52:807][537]LogLoad: Game class is 'NewBlueprint_C'
+[2019.05.10-16.30.52:840][537]LogWorld: Bringing World /Game/Terrain/4/UEDPIE_0_LakeLevel.LakeLevel up for play (max tick rate 60) at 2019.05.11-00.30.52
+[2019.05.10-16.30.52:842][537]LogWorld: Bringing up level for play took: 0.033772
+[2019.05.10-16.30.52:856][537]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.05.10-16.30.52:856][537]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.05.10-16.30.52:856][537]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.05.10-16.30.52:860][537]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.05.10-16.30.52:861][537]PIE: Play in editor start time for /Game/Terrain/4/UEDPIE_0_LakeLevel 0.982
+[2019.05.10-16.30.52:861][537]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Terrain/4/LakeLevel.LakeLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Terrain/4/LakeLevel.LakeLevel:PersistentLevel.LakeLevel' with GeneratedClass '/Game/Terrain/4/LakeLevel.LakeLevel_C' with ClassGeneratedBy '/Game/Terrain/4/LakeLevel.LakeLevel:PersistentLevel.LakeLevel'
+[2019.05.10-16.31.03:985][189]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Terrain/4/LakeLevel.LakeLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Terrain/4/LakeLevel.LakeLevel:PersistentLevel.LakeLevel' with GeneratedClass '/Game/Terrain/4/LakeLevel.LakeLevel_C' with ClassGeneratedBy '/Game/Terrain/4/LakeLevel.LakeLevel:PersistentLevel.LakeLevel'
+[2019.05.10-16.31.03:985][189]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.10-16.31.04:029][189]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.10-16.31.04:029][189]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Terrain/4/LakeLevel.LakeLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Terrain/4/LakeLevel.LakeLevel:PersistentLevel.LakeLevel' with GeneratedClass '/Game/Terrain/4/LakeLevel.LakeLevel_C' with ClassGeneratedBy '/Game/Terrain/4/LakeLevel.LakeLevel:PersistentLevel.LakeLevel'
+[2019.05.10-16.31.04:059][189]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.10-16.31.04:209][190]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2019.05.10-16.31.04:627][214]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.10-16.31.29:526][433]LogSlate: Window 'Save Content' being destroyed
+[2019.05.10-16.31.29:782][433]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Terrain/4/LakeLevel" FILE="C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Content/Terrain/4/LakeLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.05.10-16.31.31:407][433]LogSavePackage: Moving 'C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Saved/LakeLevel6FE1C51F4F1ED40093BA11B110288ADE.tmp' to 'C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Content/Terrain/4/LakeLevel.umap'
+[2019.05.10-16.31.31:449][433]LogFileHelpers: Saving map 'LakeLevel' took 1.882
+[2019.05.10-16.31.45:256][215]LogSlate: Window 'deer_Anim' being destroyed
+[2019.05.10-16.31.45:439][215]LogSlate: Window 'ClimbDemo - Unreal Editor' being destroyed
+[2019.05.10-16.31.45:446][215]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (搜狗拼音输入法).
+[2019.05.10-16.31.45:662][216]Cmd: QUIT_EDITOR
+[2019.05.10-16.31.46:557][216]LogExit: Preparing to exit.
+[2019.05.10-16.31.47:214][216]LogExit: Editor shut down
+[2019.05.10-16.31.47:215][216]LogExit: Transaction tracking system shut down
+[2019.05.10-16.31.47:835][216]LogExit: Object subsystem successfully closed.
+[2019.05.10-16.31.47:864][216]LogShaderCompilers: Display: Shaders left to compile 0
+[2019.05.10-16.31.47:870][216]LogD3D11RHI: Shutdown
+[2019.05.10-16.31.47:870][216]LogD3D11RHI: CleanupD3DDevice
+[2019.05.10-16.31.47:876][216]LogD3D11RHI: ~FD3D11DynamicRHI
+[2019.05.10-16.31.47:894][216]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (622)
+[2019.05.10-16.31.47:894][216]LogModuleManager: Shutting down and abandoning module Voice (620)
+[2019.05.10-16.31.47:894][216]LogModuleManager: Shutting down and abandoning module ClothingSystemEditorInterface (618)
+[2019.05.10-16.31.47:894][216]LogModuleManager: Shutting down and abandoning module PinnedCommandList (616)
+[2019.05.10-16.31.47:894][216]LogModuleManager: Shutting down and abandoning module SkeletonEditor (614)
+[2019.05.10-16.31.47:894][216]LogModuleManager: Shutting down and abandoning module AnimationEditor (612)
+[2019.05.10-16.31.47:894][216]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (610)
+[2019.05.10-16.31.47:894][216]LogModuleManager: Shutting down and abandoning module SceneOutliner (608)
+[2019.05.10-16.31.47:894][216]LogModuleManager: Shutting down and abandoning module AddContentDialog (606)
+[2019.05.10-16.31.47:895][216]LogModuleManager: Shutting down and abandoning module WidgetCarousel (605)
+[2019.05.10-16.31.47:895][216]LogModuleManager: Shutting down and abandoning module EditorWidgets (602)
+[2019.05.10-16.31.47:895][216]LogModuleManager: Shutting down and abandoning module CollectionManager (600)
+[2019.05.10-16.31.47:896][216]LogModuleManager: Shutting down and abandoning module StatsViewer (598)
+[2019.05.10-16.31.47:896][216]LogModuleManager: Shutting down and abandoning module FoliageEdit (596)
+[2019.05.10-16.31.47:896][216]LogModuleManager: Shutting down and abandoning module LandscapeEditor (594)
+[2019.05.10-16.31.47:896][216]LogModuleManager: Shutting down and abandoning module MeshPaintMode (592)
+[2019.05.10-16.31.47:896][216]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (590)
+[2019.05.10-16.31.47:896][216]LogModuleManager: Shutting down and abandoning module ActorPickerMode (588)
+[2019.05.10-16.31.47:896][216]LogModuleManager: Shutting down and abandoning module GeometryMode (586)
+[2019.05.10-16.31.47:896][216]LogModuleManager: Shutting down and abandoning module TextureAlignMode (584)
+[2019.05.10-16.31.47:896][216]LogModuleManager: Shutting down and abandoning module BspMode (582)
+[2019.05.10-16.31.47:896][216]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (580)
+[2019.05.10-16.31.47:896][216]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (578)
+[2019.05.10-16.31.47:896][216]LogModuleManager: Shutting down and abandoning module AutomationWorker (576)
+[2019.05.10-16.31.47:896][216]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (574)
+[2019.05.10-16.31.47:896][216]LogModuleManager: Shutting down and abandoning module SequenceRecorder (573)
+[2019.05.10-16.31.47:896][216]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (570)
+[2019.05.10-16.31.47:896][216]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (568)
+[2019.05.10-16.31.47:896][216]LogModuleManager: Shutting down and abandoning module PlacementMode (567)
+[2019.05.10-16.31.47:896][216]LogModuleManager: Shutting down and abandoning module MaterialEditor (566)
+[2019.05.10-16.31.47:896][216]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (562)
+[2019.05.10-16.31.47:896][216]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (560)
+[2019.05.10-16.31.47:896][216]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (558)
+[2019.05.10-16.31.47:896][216]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (556)
+[2019.05.10-16.31.47:896][216]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (554)
+[2019.05.10-16.31.47:896][216]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (552)
+[2019.05.10-16.31.47:896][216]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (550)
+[2019.05.10-16.31.47:896][216]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (548)
+[2019.05.10-16.31.47:896][216]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (546)
+[2019.05.10-16.31.47:896][216]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (544)
+[2019.05.10-16.31.47:896][216]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (542)
+[2019.05.10-16.31.47:896][216]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (540)
+[2019.05.10-16.31.47:896][216]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (538)
+[2019.05.10-16.31.47:896][216]LogModuleManager: Shutting down and abandoning module CharacterAI (536)
+[2019.05.10-16.31.47:896][216]LogModuleManager: Shutting down and abandoning module SmartSnapping (534)
+[2019.05.10-16.31.47:896][216]LogModuleManager: Shutting down and abandoning module SessionServices (532)
+[2019.05.10-16.31.47:896][216]LogModuleManager: Shutting down and abandoning module ViewportSnapping (530)
+[2019.05.10-16.31.47:896][216]LogModuleManager: Shutting down and abandoning module ViewportInteraction (528)
+[2019.05.10-16.31.47:896][216]LogModuleManager: Shutting down and abandoning module ClothPainter (526)
+[2019.05.10-16.31.47:897][216]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (525)
+[2019.05.10-16.31.47:897][216]LogModuleManager: Shutting down and abandoning module LogVisualizer (522)
+[2019.05.10-16.31.47:897][216]LogModuleManager: Shutting down and abandoning module IntroTutorials (520)
+[2019.05.10-16.31.47:897][216]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (519)
+[2019.05.10-16.31.47:897][216]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (516)
+[2019.05.10-16.31.47:897][216]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (514)
+[2019.05.10-16.31.47:897][216]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (512)
+[2019.05.10-16.31.47:897][216]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (510)
+[2019.05.10-16.31.47:897][216]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (509)
+[2019.05.10-16.31.48:283][216]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (506)
+[2019.05.10-16.31.48:283][216]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (504)
+[2019.05.10-16.31.48:283][216]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (502)
+[2019.05.10-16.31.48:283][216]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (500)
+[2019.05.10-16.31.48:284][216]LogModuleManager: Shutting down and abandoning module InputBindingEditor (498)
+[2019.05.10-16.31.48:284][216]LogModuleManager: Shutting down and abandoning module MergeActors (496)
+[2019.05.10-16.31.48:284][216]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (494)
+[2019.05.10-16.31.48:284][216]LogModuleManager: Shutting down and abandoning module LocalizationService (493)
+[2019.05.10-16.31.48:284][216]LogModuleManager: Shutting down and abandoning module HardwareTargeting (490)
+[2019.05.10-16.31.48:284][216]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (488)
+[2019.05.10-16.31.48:284][216]LogModuleManager: Shutting down and abandoning module UndoHistory (486)
+[2019.05.10-16.31.48:284][216]LogModuleManager: Shutting down and abandoning module XmlParser (484)
+[2019.05.10-16.31.48:284][216]LogModuleManager: Shutting down and abandoning module Blutility (482)
+[2019.05.10-16.31.48:284][216]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (480)
+[2019.05.10-16.31.48:284][216]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (479)
+[2019.05.10-16.31.48:284][216]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (476)
+[2019.05.10-16.31.48:284][216]LogModuleManager: Shutting down and abandoning module SettingsEditor (474)
+[2019.05.10-16.31.48:284][216]LogModuleManager: Shutting down and abandoning module ProjectLauncher (472)
+[2019.05.10-16.31.48:285][216]LogModuleManager: Shutting down and abandoning module SessionFrontend (470)
+[2019.05.10-16.31.48:285][216]LogModuleManager: Shutting down and abandoning module ProfilerClient (468)
+[2019.05.10-16.31.48:285][216]LogModuleManager: Shutting down and abandoning module DeviceManager (466)
+[2019.05.10-16.31.48:285][216]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (465)
+[2019.05.10-16.31.48:340][216]LogModuleManager: Shutting down and abandoning module AutomationController (462)
+[2019.05.10-16.31.48:340][216]LogModuleManager: Shutting down and abandoning module AutomationWindow (460)
+[2019.05.10-16.31.48:340][216]LogModuleManager: Shutting down and abandoning module Layers (458)
+[2019.05.10-16.31.48:340][216]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (456)
+[2019.05.10-16.31.48:340][216]LogModuleManager: Shutting down and abandoning module DetailCustomizations (454)
+[2019.05.10-16.31.48:340][216]LogModuleManager: Shutting down and abandoning module PackagesDialog (452)
+[2019.05.10-16.31.48:340][216]LogModuleManager: Shutting down and abandoning module Persona (450)
+[2019.05.10-16.31.48:340][216]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (449)
+[2019.05.10-16.31.48:340][216]LogModuleManager: Shutting down and abandoning module AnimGraph (447)
+[2019.05.10-16.31.48:340][216]LogModuleManager: Shutting down and abandoning module Kismet (444)
+[2019.05.10-16.31.48:343][216]LogModuleManager: Shutting down and abandoning module GraphEditor (442)
+[2019.05.10-16.31.48:343][216]LogModuleManager: Shutting down and abandoning module ClassViewer (440)
+[2019.05.10-16.31.48:343][216]LogModuleManager: Shutting down and abandoning module Toolbox (438)
+[2019.05.10-16.31.48:343][216]LogModuleManager: Shutting down and abandoning module ModuleUI (436)
+[2019.05.10-16.31.48:343][216]LogModuleManager: Shutting down and abandoning module MovieSceneTools (434)
+[2019.05.10-16.31.48:344][216]LogModuleManager: Shutting down and abandoning module OutputLog (432)
+[2019.05.10-16.31.48:344][216]LogModuleManager: Shutting down and abandoning module GammaUI (430)
+[2019.05.10-16.31.48:344][216]LogModuleManager: Shutting down and abandoning module Documentation (428)
+[2019.05.10-16.31.48:344][216]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (426)
+[2019.05.10-16.31.48:344][216]LogModuleManager: Shutting down and abandoning module MovieScene (424)
+[2019.05.10-16.31.48:344][216]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (422)
+[2019.05.10-16.31.48:344][216]LogModuleManager: Shutting down and abandoning module LauncherPlatform (420)
+[2019.05.10-16.31.48:344][216]LogModuleManager: Shutting down and abandoning module AnalyticsET (418)
+[2019.05.10-16.31.48:344][216]LogModuleManager: Shutting down and abandoning module PortalServices (416)
+[2019.05.10-16.31.48:344][216]LogModuleManager: Shutting down and abandoning module PortalRpc (414)
+[2019.05.10-16.31.48:344][216]LogModuleManager: Shutting down and abandoning module MessagingRpc (412)
+[2019.05.10-16.31.48:344][216]LogModuleManager: Shutting down and abandoning module AIModule (410)
+[2019.05.10-16.31.48:344][216]LogModuleManager: Shutting down and abandoning module GameplayDebugger (409)
+[2019.05.10-16.31.48:344][216]LogModuleManager: Shutting down and abandoning module AITestSuite (407)
+[2019.05.10-16.31.48:344][216]LogModuleManager: Shutting down and abandoning module NavigationSystem (405)
+[2019.05.10-16.31.48:344][216]LogModuleManager: Shutting down and abandoning module DesktopPlatform (402)
+[2019.05.10-16.31.48:344][216]LogModuleManager: Shutting down and abandoning module ProfilerService (400)
+[2019.05.10-16.31.48:544][216]LogModuleManager: Shutting down and abandoning module TaskGraph (398)
+[2019.05.10-16.31.48:544][216]LogModuleManager: Shutting down and abandoning module SteamVRController (396)
+[2019.05.10-16.31.48:545][216]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (394)
+[2019.05.10-16.31.48:545][216]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (392)
+[2019.05.10-16.31.48:545][216]LogModuleManager: Shutting down and abandoning module OculusInput (390)
+[2019.05.10-16.31.48:545][216]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (388)
+[2019.05.10-16.31.48:545][216]LogModuleManager: Shutting down and abandoning module EditableMesh (386)
+[2019.05.10-16.31.48:545][216]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (384)
+[2019.05.10-16.31.48:545][216]LogModuleManager: Shutting down and abandoning module CableComponent (382)
+[2019.05.10-16.31.48:545][216]LogModuleManager: Shutting down and abandoning module AudioCapture (380)
+[2019.05.10-16.31.48:545][216]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (378)
+[2019.05.10-16.31.48:545][216]LogModuleManager: Shutting down and abandoning module AndroidPermission (376)
+[2019.05.10-16.31.48:545][216]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (374)
+[2019.05.10-16.31.48:545][216]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (372)
+[2019.05.10-16.31.48:545][216]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (370)
+[2019.05.10-16.31.48:545][216]LogModuleManager: Shutting down and abandoning module MediaCompositing (368)
+[2019.05.10-16.31.48:545][216]LogModuleManager: Shutting down and abandoning module LinearTimecode (366)
+[2019.05.10-16.31.48:545][216]LogModuleManager: Shutting down and abandoning module ImgMedia (364)
+[2019.05.10-16.31.48:549][216]LogModuleManager: Shutting down and abandoning module HTML5Networking (362)
+[2019.05.10-16.31.48:549][216]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (360)
+[2019.05.10-16.31.48:549][216]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (358)
+[2019.05.10-16.31.48:549][216]LogModuleManager: Shutting down and abandoning module BackChannel (356)
+[2019.05.10-16.31.48:549][216]LogModuleManager: Shutting down and abandoning module AppleVision (354)
+[2019.05.10-16.31.48:549][216]LogModuleManager: Shutting down and abandoning module AppleImageUtils (352)
+[2019.05.10-16.31.48:549][216]LogModuleManager: Shutting down and abandoning module AlembicImporter (350)
+[2019.05.10-16.31.48:549][216]LogModuleManager: Shutting down and abandoning module AlembicLibrary (349)
+[2019.05.10-16.31.48:549][216]LogModuleManager: Shutting down and abandoning module GeometryCache (348)
+[2019.05.10-16.31.48:549][216]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (347)
+[2019.05.10-16.31.48:549][216]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (342)
+[2019.05.10-16.31.48:549][216]LogModuleManager: Shutting down and abandoning module DatasmithContent (340)
+[2019.05.10-16.31.48:552][216]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (338)
+[2019.05.10-16.31.48:552][216]LogModuleManager: Shutting down and abandoning module PluginBrowser (336)
+[2019.05.10-16.31.48:552][216]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (334)
+[2019.05.10-16.31.48:552][216]LogModuleManager: Shutting down and abandoning module PolygonModeling (332)
+[2019.05.10-16.31.48:552][216]LogModuleManager: Shutting down and abandoning module MeshEditor (330)
+[2019.05.10-16.31.48:552][216]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (328)
+[2019.05.10-16.31.48:552][216]LogModuleManager: Shutting down and abandoning module CryptoKeys (326)
+[2019.05.10-16.31.48:552][216]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (324)
+[2019.05.10-16.31.48:552][216]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (322)
+[2019.05.10-16.31.48:552][216]LogModuleManager: Shutting down and abandoning module UObjectPlugin (320)
+[2019.05.10-16.31.48:552][216]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (318)
+[2019.05.10-16.31.48:552][216]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (316)
+[2019.05.10-16.31.48:552][216]LogModuleManager: Shutting down and abandoning module GitSourceControl (314)
+[2019.05.10-16.31.48:552][216]LogModuleManager: Shutting down and abandoning module SourceControl (313)
+[2019.05.10-16.31.48:552][216]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (310)
+[2019.05.10-16.31.48:552][216]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (308)
+[2019.05.10-16.31.48:552][216]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (306)
+[2019.05.10-16.31.48:552][216]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (304)
+[2019.05.10-16.31.48:552][216]LogModuleManager: Shutting down and abandoning module Paper2DEditor (302)
+[2019.05.10-16.31.48:552][216]LogModuleManager: Shutting down and abandoning module MeshPaint (301)
+[2019.05.10-16.31.48:552][216]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (298)
+[2019.05.10-16.31.48:553][216]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (296)
+[2019.05.10-16.31.48:553][216]LogModuleManager: Shutting down and abandoning module PhysXVehicles (294)
+[2019.05.10-16.31.48:553][216]LogModuleManager: Shutting down and abandoning module OculusEditor (292)
+[2019.05.10-16.31.48:553][216]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (290)
+[2019.05.10-16.31.48:553][216]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (288)
+[2019.05.10-16.31.48:553][216]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (286)
+[2019.05.10-16.31.48:553][216]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2019.05.10-16.31.48:553][216]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2019.05.10-16.31.48:654][216]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2019.05.10-16.31.48:754][216]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (278)
+[2019.05.10-16.31.48:754][216]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (276)
+[2019.05.10-16.31.48:754][216]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (274)
+[2019.05.10-16.31.48:754][216]LogModuleManager: Shutting down and abandoning module FacialAnimation (272)
+[2019.05.10-16.31.48:754][216]LogModuleManager: Shutting down and abandoning module DataValidation (270)
+[2019.05.10-16.31.48:754][216]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (268)
+[2019.05.10-16.31.48:754][216]LogModuleManager: Shutting down and abandoning module LevelEditor (267)
+[2019.05.10-16.31.48:755][216]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (266)
+[2019.05.10-16.31.48:755][216]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (264)
+[2019.05.10-16.31.48:755][216]LogModuleManager: Shutting down and abandoning module MainFrame (262)
+[2019.05.10-16.31.48:755][216]LogModuleManager: Shutting down and abandoning module HotReload (261)
+[2019.05.10-16.31.48:758][216]LogModuleManager: Shutting down and abandoning module ContentBrowser (257)
+[2019.05.10-16.31.48:759][216]LogModuleManager: Shutting down and abandoning module TreeMap (255)
+[2019.05.10-16.31.48:759][216]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2019.05.10-16.31.48:759][216]LogModuleManager: Shutting down and abandoning module AISupportModule (250)
+[2019.05.10-16.31.48:759][216]LogModuleManager: Shutting down and abandoning module Paper2D (248)
+[2019.05.10-16.31.48:759][216]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (246)
+[2019.05.10-16.31.48:759][216]LogModuleManager: Shutting down and abandoning module WmfMedia (244)
+[2019.05.10-16.31.48:761][216]LogModuleManager: Shutting down and abandoning module Media (243)
+[2019.05.10-16.31.48:767][216]LogModuleManager: Shutting down and abandoning module PacketHandler (240)
+[2019.05.10-16.31.48:767][216]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (238)
+[2019.05.10-16.31.48:767][216]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (236)
+[2019.05.10-16.31.48:767][216]LogModuleManager: Shutting down and abandoning module MediaAssets (234)
+[2019.05.10-16.31.48:767][216]LogModuleManager: Shutting down and abandoning module Overlay (232)
+[2019.05.10-16.31.48:767][216]LogModuleManager: Shutting down and abandoning module OverlayEditor (231)
+[2019.05.10-16.31.48:767][216]LogModuleManager: Shutting down and abandoning module VREditor (228)
+[2019.05.10-16.31.48:767][216]LogModuleManager: Shutting down and abandoning module StringTableEditor (226)
+[2019.05.10-16.31.48:767][216]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (224)
+[2019.05.10-16.31.48:767][216]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (222)
+[2019.05.10-16.31.48:768][216]LogModuleManager: Shutting down and abandoning module FunctionalTesting (220)
+[2019.05.10-16.31.48:768][216]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (218)
+[2019.05.10-16.31.48:768][216]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (217)
+[2019.05.10-16.31.48:768][216]LogModuleManager: Shutting down and abandoning module UMG (214)
+[2019.05.10-16.31.48:768][216]LogModuleManager: Shutting down and abandoning module UMGEditor (213)
+[2019.05.10-16.31.48:768][216]LogModuleManager: Shutting down and abandoning module Sequencer (212)
+[2019.05.10-16.31.48:768][216]LogModuleManager: Shutting down and abandoning module MessageLog (209)
+[2019.05.10-16.31.48:768][216]LogModuleManager: Shutting down and abandoning module SlateReflector (204)
+[2019.05.10-16.31.48:768][216]LogModuleManager: Shutting down and abandoning module Slate (202)
+[2019.05.10-16.31.48:768][216]LogModuleManager: Shutting down and abandoning module EditorStyle (200)
+[2019.05.10-16.31.48:769][216]LogModuleManager: Shutting down and abandoning module MRMesh (198)
+[2019.05.10-16.31.48:770][216]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (196)
+[2019.05.10-16.31.48:770][216]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (194)
+[2019.05.10-16.31.48:770][216]LogModuleManager: Shutting down and abandoning module XAudio2 (192)
+[2019.05.10-16.31.48:770][216]LogModuleManager: Shutting down and abandoning module Networking (190)
+[2019.05.10-16.31.48:770][216]LogModuleManager: Shutting down and abandoning module Core (188)
+[2019.05.10-16.31.48:770][216]LogModuleManager: Shutting down and abandoning module LevelSequence (186)
+[2019.05.10-16.31.48:770][216]LogModuleManager: Shutting down and abandoning module KismetCompiler (184)
+[2019.05.10-16.31.48:770][216]LogModuleManager: Shutting down and abandoning module MeshUtilities (182)
+[2019.05.10-16.31.48:770][216]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (181)
+[2019.05.10-16.31.48:770][216]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (180)
+[2019.05.10-16.31.48:770][216]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (179)
+[2019.05.10-16.31.48:770][216]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (177)
+[2019.05.10-16.31.48:770][216]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (175)
+[2019.05.10-16.31.48:770][216]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (173)
+[2019.05.10-16.31.48:770][216]LogModuleManager: Shutting down and abandoning module MaterialBaking (169)
+[2019.05.10-16.31.48:770][216]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (165)
+[2019.05.10-16.31.48:770][216]LogModuleManager: Shutting down and abandoning module DerivedDataCache (162)
+[2019.05.10-16.31.48:843][216]LogDerivedDataCache: Shutdown
+[2019.05.10-16.31.48:843][216]LogModuleManager: Shutting down and abandoning module XGEController (160)
+[2019.05.10-16.31.48:843][216]LogXGEController: Cleaning working directory: C:/Users/Ivy/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.05.10-16.31.48:843][216]LogModuleManager: Shutting down and abandoning module TargetPlatform (158)
+[2019.05.10-16.31.48:844][216]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (157)
+[2019.05.10-16.31.48:844][216]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (155)
+[2019.05.10-16.31.48:844][216]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (153)
+[2019.05.10-16.31.48:844][216]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (151)
+[2019.05.10-16.31.48:844][216]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (149)
+[2019.05.10-16.31.48:844][216]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (147)
+[2019.05.10-16.31.48:844][216]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (145)
+[2019.05.10-16.31.48:844][216]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (143)
+[2019.05.10-16.31.48:844][216]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (141)
+[2019.05.10-16.31.48:844][216]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (139)
+[2019.05.10-16.31.48:844][216]LogModuleManager: Shutting down and abandoning module ImageWrapper (138)
+[2019.05.10-16.31.48:844][216]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (135)
+[2019.05.10-16.31.48:844][216]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (133)
+[2019.05.10-16.31.48:844][216]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (131)
+[2019.05.10-16.31.48:844][216]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (129)
+[2019.05.10-16.31.48:844][216]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (127)
+[2019.05.10-16.31.48:844][216]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (125)
+[2019.05.10-16.31.48:844][216]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (123)
+[2019.05.10-16.31.48:844][216]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (121)
+[2019.05.10-16.31.48:844][216]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (119)
+[2019.05.10-16.31.48:844][216]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (117)
+[2019.05.10-16.31.48:845][216]LogModuleManager: Shutting down and abandoning module Messaging (115)
+[2019.05.10-16.31.48:845][216]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (113)
+[2019.05.10-16.31.48:845][216]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (111)
+[2019.05.10-16.31.48:845][216]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (109)
+[2019.05.10-16.31.48:851][216]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (107)
+[2019.05.10-16.31.48:851][216]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (105)
+[2019.05.10-16.31.48:851][216]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (103)
+[2019.05.10-16.31.48:851][216]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (101)
+[2019.05.10-16.31.48:851][216]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (99)
+[2019.05.10-16.31.48:851][216]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (97)
+[2019.05.10-16.31.48:851][216]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (95)
+[2019.05.10-16.31.48:851][216]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (93)
+[2019.05.10-16.31.48:851][216]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (91)
+[2019.05.10-16.31.48:851][216]LogModuleManager: Shutting down and abandoning module InputCore (88)
+[2019.05.10-16.31.48:851][216]LogModuleManager: Shutting down and abandoning module Settings (86)
+[2019.05.10-16.31.48:851][216]LogModuleManager: Shutting down and abandoning module PhysXCooking (84)
+[2019.05.10-16.31.48:851][216]LogModuleManager: Shutting down and abandoning module SteamVR (82)
+[2019.05.10-16.31.48:851][216]LogModuleManager: Shutting down and abandoning module OculusHMD (80)
+[2019.05.10-16.31.48:851][216]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (78)
+[2019.05.10-16.31.48:851][216]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (76)
+[2019.05.10-16.31.48:851][216]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (74)
+[2019.05.10-16.31.48:851][216]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (70)
+[2019.05.10-16.31.48:852][216]LogModuleManager: Shutting down and abandoning module XMPP (65)
+[2019.05.10-16.31.48:852][216]LogModuleManager: Shutting down and abandoning module WebSockets (64)
+[2019.05.10-16.31.48:881][216]LogModuleManager: Shutting down and abandoning module HTTP (61)
+[2019.05.10-16.31.48:881][216]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2019.05.10-16.31.48:881][216]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B2C5AD933-4178-0278-696B-71A3871BFAF1%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.20.3-4369336%2B%2B%2BUE4%2BRelease-4.20&UserID=2a032a53428410f50062e6b5760ca375%7Ca35fb2764eea4101b35ba65f18c87623%7Ced5698cd-8358-4ba6-98cd-94077bf59d32&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2019.05.10-16.31.48:908][216]LogModuleManager: Shutting down and abandoning module SSL (60)
+[2019.05.10-16.31.48:909][216]LogModuleManager: Shutting down and abandoning module MagicLeapEmulator (56)
+[2019.05.10-16.31.48:909][216]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (54)
+[2019.05.10-16.31.48:909][216]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (52)
+[2019.05.10-16.31.48:909][216]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (50)
+[2019.05.10-16.31.48:909][216]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (48)
+[2019.05.10-16.31.48:909][216]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (46)
+[2019.05.10-16.31.48:909][216]LogModuleManager: Shutting down and abandoning module MagicLeapGestures (44)
+[2019.05.10-16.31.48:909][216]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (42)
+[2019.05.10-16.31.48:909][216]LogModuleManager: Shutting down and abandoning module MagicLeapController (40)
+[2019.05.10-16.31.48:909][216]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2019.05.10-16.31.48:910][216]LogModuleManager: Shutting down and abandoning module MagicLeap (38)
+[2019.05.10-16.31.48:910][216]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2019.05.10-16.31.48:910][216]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2019.05.10-16.31.48:910][216]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2019.05.10-16.31.48:910][216]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2019.05.10-16.31.48:911][216]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2019.05.10-16.31.48:911][216]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2019.05.10-16.31.48:911][216]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2019.05.10-16.31.48:912][216]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2019.05.10-16.31.48:912][216]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2019.05.10-16.31.48:912][216]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2019.05.10-16.31.48:912][216]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2019.05.10-16.31.48:912][216]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2019.05.10-16.31.48:912][216]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2019.05.10-16.31.48:912][216]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2019.05.10-16.31.48:912][216]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2019.05.10-16.31.48:912][216]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2019.05.10-16.31.48:912][216]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2019.05.10-16.31.48:912][216]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2019.05.10-16.31.48:920][216]LogExit: Exiting.
+[2019.05.10-16.31.48:946][216]Log file closed, 05/11/19 00:31:48
