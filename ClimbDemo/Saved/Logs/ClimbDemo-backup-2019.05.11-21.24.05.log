@@ -1,0 +1,921 @@
+﻿Log file open, 05/11/19 21:07:41
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: ClimbDemo
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.310111
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +8:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.380s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogHMD: Failed initializing OVRPlugin 1.25.0
+LogInit: Build: ++UE4+Release-4.20-CL-4369336
+LogInit: Engine Version: 4.20.3-4369336+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz, GPU: Intel(R) HD Graphics 630
+LogInit: Compiled (64-bit): Sep 17 2018 12:26:19
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line: 
+LogInit: Base Directory: D:/Program Files/Epic Games/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.001s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2019.05.11-13.07.42:439][  0]LogInit: Selected Device Profile: [Windows]
+[2019.05.11-13.07.42:439][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.05.11-13.07.42:456][  0]LogHAL: Display: Platform has ~ 16 GB [17046654976 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.05.11-13.07.42:456][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2019.05.11-13.07.42:457][  0]LogInit: Going up to parent DeviceProfile []
+[2019.05.11-13.07.42:457][  0]LogInit: Computer: DESKTOP-UHKKT41
+[2019.05.11-13.07.42:457][  0]LogInit: User: Ivy
+[2019.05.11-13.07.42:457][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.05.11-13.07.42:457][  0]LogInit: High frequency timer resolution =2.742192 MHz
+[2019.05.11-13.07.42:458][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2019.05.11-13.07.42:458][  0]LogMemory: Platform Memory Stats for Windows
+[2019.05.11-13.07.42:458][  0]LogMemory: Process Physical Memory: 102.20 MB used, 102.20 MB peak
+[2019.05.11-13.07.42:458][  0]LogMemory: Process Virtual Memory: 94.34 MB used, 94.34 MB peak
+[2019.05.11-13.07.42:458][  0]LogMemory: Physical Memory: 8152.04 MB used,  8104.92 MB free, 16256.96 MB total
+[2019.05.11-13.07.42:458][  0]LogMemory: Virtual Memory: 4655.39 MB used,  8104.92 MB free, 134217728.00 MB total
+[2019.05.11-13.07.42:975][  0]LogInit: Overriding language with editor language configuration option (en).
+[2019.05.11-13.07.42:975][  0]LogInit: Overriding locale with editor locale configuration option (en).
+[2019.05.11-13.07.43:383][  0]LogStreaming: Display: Took  0.408s to InitEngineTextLocalization.
+[2019.05.11-13.07.43:384][  0]LogInit: Setting process to per monitor DPI aware
+[2019.05.11-13.07.43:450][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.05.11-13.07.43:450][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.05.11-13.07.43:713][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.05.11-13.07.43:713][  0]LogD3D11RHI: D3D11 adapters:
+[2019.05.11-13.07.43:831][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070' (Feature Level 11_0)
+[2019.05.11-13.07.43:831][  0]LogD3D11RHI:       8089/0/8128 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.05.11-13.07.43:847][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2019.05.11-13.07.43:847][  0]LogD3D11RHI:       128/0/8128 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2019.05.11-13.07.43:852][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.05.11-13.07.43:852][  0]LogD3D11RHI:       0/0/8128 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.05.11-13.07.43:852][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.05.11-13.07.43:891][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.05.11-13.07.43:891][  0]LogD3D11RHI:     GPU DeviceId: 0x1ba1 (for the marketing name, search the web for "GPU Device Id")
+[2019.05.11-13.07.43:891][  0]LogWindows: EnumDisplayDevices:
+[2019.05.11-13.07.43:891][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:1 D:1)
+[2019.05.11-13.07.43:893][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2019.05.11-13.07.43:895][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2019.05.11-13.07.43:896][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2019.05.11-13.07.43:897][  0]LogWindows:    4. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2019.05.11-13.07.43:899][  0]LogWindows:    5. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2019.05.11-13.07.43:900][  0]LogWindows:    6. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2019.05.11-13.07.43:902][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2019.05.11-13.07.43:902][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070
+[2019.05.11-13.07.43:902][  0]LogD3D11RHI:   Driver Version: 389.12 (internal:23.21.13.8912, unified:389.12)
+[2019.05.11-13.07.43:902][  0]LogD3D11RHI:      Driver Date: 3-7-2018
+[2019.05.11-13.07.43:902][  0]LogRHI: Texture pool is 5662 MB (70% of 8089 MB)
+[2019.05.11-13.07.43:944][  0]LogD3D11RHI: Async texture creation enabled
+[2019.05.11-13.07.43:955][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.05.11-13.07.43:959][  0]LogShaderCompilers: Guid format shader working directory is -1 characters bigger than the processId version (C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Intermediate/Shaders/WorkingDirectory/29516/).
+[2019.05.11-13.07.43:959][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Ivy/AppData/Local/Temp/UnrealShaderWorkingDir/E25AC0E84D7C62F178450F8D5052076C/'.
+[2019.05.11-13.07.44:721][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.05.11-13.07.44:737][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.05.11-13.07.44:752][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.05.11-13.07.44:769][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.05.11-13.07.44:785][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.05.11-13.07.44:798][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.05.11-13.07.44:812][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.05.11-13.07.44:828][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.05.11-13.07.44:836][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.05.11-13.07.44:954][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.11-13.07.44:954][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.11-13.07.44:954][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.11-13.07.44:954][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.11-13.07.44:954][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.11-13.07.44:954][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.11-13.07.44:954][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.11-13.07.44:954][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.11-13.07.44:954][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.11-13.07.44:954][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.11-13.07.44:954][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.11-13.07.44:954][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.11-13.07.44:954][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.11-13.07.44:954][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.11-13.07.44:954][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.11-13.07.44:954][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.11-13.07.44:954][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.11-13.07.44:954][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.11-13.07.44:958][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.05.11-13.07.45:028][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.05.11-13.07.45:028][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.05.11-13.07.45:054][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.05.11-13.07.45:054][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.05.11-13.07.45:070][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.05.11-13.07.45:090][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.05.11-13.07.45:105][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.05.11-13.07.45:124][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.05.11-13.07.45:138][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.05.11-13.07.45:138][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.05.11-13.07.45:244][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.05.11-13.07.45:244][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.05.11-13.07.45:244][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.05.11-13.07.46:127][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.05.11-13.07.46:193][  0]LogDerivedDataCache: Loaded boot cache 0.07s 71MB C:/Users/Ivy/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2019.05.11-13.07.46:194][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Ivy/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2019.05.11-13.07.46:194][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.05.11-13.07.46:194][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.05.11-13.07.46:194][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.05.11-13.07.46:194][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.05.11-13.07.46:209][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.05.11-13.07.46:227][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Ivy/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.05.11-13.07.46:227][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.05.11-13.07.46:227][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.05.11-13.07.46:248][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.05.11-13.07.46:250][  0]LogSlate: Using FreeType 2.6.0
+[2019.05.11-13.07.46:250][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.05.11-13.07.46:336][  0]LogAssetRegistry: FAssetRegistry took 0.0284 seconds to start up
+[2019.05.11-13.07.46:706][  0]LogInit: Selected Device Profile: [Windows]
+[2019.05.11-13.07.46:872][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.05.11-13.07.46:879][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.05.11-13.07.46:879][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.05.11-13.07.46:879][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.05.11-13.07.46:879][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.05.11-13.07.46:899][  0]LogNetVersion: ClimbDemo 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 2394580764)
+[2019.05.11-13.07.47:534][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 1 prioritized culture(s) in 0.168087 seconds
+[2019.05.11-13.07.47:541][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2019.05.11-13.07.47:542][  0]LogUObjectAllocator: 6690864 out of 0 bytes used by permanent object pool.
+[2019.05.11-13.07.47:542][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.05.11-13.07.48:587][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.05.11-13.07.48:601][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.05.11-13.07.48:784][  0]SourceControl: Source control is disabled
+[2019.05.11-13.07.48:784][  0]SourceControl: Source control is disabled
+[2019.05.11-13.07.48:787][  0]SourceControl: Source control is disabled
+[2019.05.11-13.07.48:789][  0]SourceControl: Source control is disabled
+[2019.05.11-13.07.49:029][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.05.11-13.07.49:347][  0]LogOcInput: OculusInput pre-init called
+[2019.05.11-13.07.49:421][  0]LogEngine: Initializing Engine...
+[2019.05.11-13.07.49:422][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.05.11-13.07.49:425][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.05.11-13.07.49:425][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.05.11-13.07.49:425][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.05.11-13.07.49:425][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.05.11-13.07.49:664][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.05.11-13.07.49:676][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.05.11-13.07.49:858][  0]LogInit: XAudio2 using '扬声器/听筒 (Realtek Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.05.11-13.07.49:938][  0]LogInit: FAudioDevice initialized.
+[2019.05.11-13.07.49:938][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.05.11-13.07.50:088][  0]LogDerivedDataCache: Saved boot cache 0.15s 71MB C:/Users/Ivy/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2019.05.11-13.07.50:097][  0]LogInit: Texture streaming: Enabled
+[2019.05.11-13.07.50:158][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.05.11-13.07.50:158][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=Crashed, SessionId={6D596955-4298-4506-623C-EABEDDCD5E76}
+[2019.05.11-13.07.50:179][  0]LogInit: Transaction tracking system initialized
+[2019.05.11-13.07.50:206][  0]BlueprintLog: New page: Editor Load
+[2019.05.11-13.07.50:311][  0]LocalizationService: Localization service is disabled
+[2019.05.11-13.07.50:686][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.05.11-13.07.50:686][  0]LogCook: Display: Mobile HDR setting 1
+[2019.05.11-13.07.50:686][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.05.11-13.07.50:686][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.05.11-13.07.50:686][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.05.11-13.07.50:686][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.05.11-13.07.50:686][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.05.11-13.07.50:833][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Content/' took 0.03s
+[2019.05.11-13.07.50:833][  0]SourceControl: Source control is disabled
+[2019.05.11-13.07.50:833][  0]Cmd: MAP LOAD FILE="C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Content/Terrain/4/LakeLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.05.11-13.07.50:834][  0]LightingResults: New page: Lighting Build
+[2019.05.11-13.07.50:836][  0]MapCheck: New page: Map Check
+[2019.05.11-13.07.50:836][  0]LightingResults: New page: Lighting Build
+[2019.05.11-13.07.52:056][  0]LogBlueprint: Warning: [Compiler ABP_Climber] Cling_BS to JumpEnd  will never be taken, please connect something to  Can Enter Transition
+[2019.05.11-13.07.52:565][  0]LogBlueprint: Warning: [Compiler ABP_Climber] [0013.10] Compile of ABP_Climber successful, but with 1 Warning(s) [in 652 ms] (/Game/Clinging/Animations/Blueprints/ABP_Climber.ABP_Climber)
+[2019.05.11-13.07.52:888][  0]LogLinker: Warning: Unable to load PhysicsSerializer with outer InstancedStaticMeshComponent /Game/Terrain/HoudiniBake/terrain_bishe_1_846516E4.terrain_bishe_1_846516E4_C:InstancedStaticMesh10_GEN_VARIABLE because its class does not exist
+[2019.05.11-13.07.52:888][  0]LogLinker: Warning: Unable to load PhysicsSerializer with outer InstancedStaticMeshComponent /Game/Terrain/HoudiniBake/terrain_bishe_1_846516E4.terrain_bishe_1_846516E4_C:InstancedStaticMesh11_GEN_VARIABLE because its class does not exist
+[2019.05.11-13.07.52:888][  0]LogLinker: Warning: Unable to load PhysicsSerializer with outer InstancedStaticMeshComponent /Game/Terrain/HoudiniBake/terrain_bishe_1_846516E4.terrain_bishe_1_846516E4_C:InstancedStaticMesh12_GEN_VARIABLE because its class does not exist
+[2019.05.11-13.07.52:888][  0]LogLinker: Warning: Unable to load PhysicsSerializer with outer InstancedStaticMeshComponent /Game/Terrain/HoudiniBake/terrain_bishe_1_846516E4.terrain_bishe_1_846516E4_C:InstancedStaticMesh13_GEN_VARIABLE because its class does not exist
+[2019.05.11-13.07.52:888][  0]LogLinker: Warning: Unable to load PhysicsSerializer with outer InstancedStaticMeshComponent /Game/Terrain/HoudiniBake/terrain_bishe_1_846516E4.terrain_bishe_1_846516E4_C:InstancedStaticMesh14_GEN_VARIABLE because its class does not exist
+[2019.05.11-13.07.52:888][  0]LogLinker: Warning: Unable to load PhysicsSerializer with outer InstancedStaticMeshComponent /Game/Terrain/HoudiniBake/terrain_bishe_1_846516E4.terrain_bishe_1_846516E4_C:InstancedStaticMesh15_GEN_VARIABLE because its class does not exist
+[2019.05.11-13.07.52:888][  0]LogLinker: Warning: Unable to load PhysicsSerializer with outer InstancedStaticMeshComponent /Game/Terrain/HoudiniBake/terrain_bishe_1_846516E4.terrain_bishe_1_846516E4_C:InstancedStaticMesh16_GEN_VARIABLE because its class does not exist
+[2019.05.11-13.07.52:888][  0]LogLinker: Warning: Unable to load PhysicsSerializer with outer InstancedStaticMeshComponent /Game/Terrain/HoudiniBake/terrain_bishe_1_846516E4.terrain_bishe_1_846516E4_C:InstancedStaticMesh17_GEN_VARIABLE because its class does not exist
+[2019.05.11-13.07.52:888][  0]LogLinker: Warning: Unable to load PhysicsSerializer with outer InstancedStaticMeshComponent /Game/Terrain/HoudiniBake/terrain_bishe_1_846516E4.terrain_bishe_1_846516E4_C:InstancedStaticMesh18_GEN_VARIABLE because its class does not exist
+[2019.05.11-13.07.52:888][  0]LogLinker: Warning: Unable to load PhysicsSerializer with outer InstancedStaticMeshComponent /Game/Terrain/HoudiniBake/terrain_bishe_1_846516E4.terrain_bishe_1_846516E4_C:InstancedStaticMesh19_GEN_VARIABLE because its class does not exist
+[2019.05.11-13.07.52:888][  0]LogLinker: Warning: Unable to load PhysicsSerializer with outer InstancedStaticMeshComponent /Game/Terrain/HoudiniBake/terrain_bishe_1_846516E4.terrain_bishe_1_846516E4_C:InstancedStaticMesh1_GEN_VARIABLE because its class does not exist
+[2019.05.11-13.07.52:888][  0]LogLinker: Warning: Unable to load PhysicsSerializer with outer InstancedStaticMeshComponent /Game/Terrain/HoudiniBake/terrain_bishe_1_846516E4.terrain_bishe_1_846516E4_C:InstancedStaticMesh20_GEN_VARIABLE because its class does not exist
+[2019.05.11-13.07.52:889][  0]LogLinker: Warning: Unable to load PhysicsSerializer with outer InstancedStaticMeshComponent /Game/Terrain/HoudiniBake/terrain_bishe_1_846516E4.terrain_bishe_1_846516E4_C:InstancedStaticMesh21_GEN_VARIABLE because its class does not exist
+[2019.05.11-13.07.52:889][  0]LogLinker: Warning: Unable to load PhysicsSerializer with outer InstancedStaticMeshComponent /Game/Terrain/HoudiniBake/terrain_bishe_1_846516E4.terrain_bishe_1_846516E4_C:InstancedStaticMesh22_GEN_VARIABLE because its class does not exist
+[2019.05.11-13.07.52:889][  0]LogLinker: Warning: Unable to load PhysicsSerializer with outer InstancedStaticMeshComponent /Game/Terrain/HoudiniBake/terrain_bishe_1_846516E4.terrain_bishe_1_846516E4_C:InstancedStaticMesh23_GEN_VARIABLE because its class does not exist
+[2019.05.11-13.07.52:889][  0]LogLinker: Warning: Unable to load PhysicsSerializer with outer InstancedStaticMeshComponent /Game/Terrain/HoudiniBake/terrain_bishe_1_846516E4.terrain_bishe_1_846516E4_C:InstancedStaticMesh24_GEN_VARIABLE because its class does not exist
+[2019.05.11-13.07.52:889][  0]LogLinker: Warning: Unable to load PhysicsSerializer with outer InstancedStaticMeshComponent /Game/Terrain/HoudiniBake/terrain_bishe_1_846516E4.terrain_bishe_1_846516E4_C:InstancedStaticMesh25_GEN_VARIABLE because its class does not exist
+[2019.05.11-13.07.52:889][  0]LogLinker: Warning: Unable to load PhysicsSerializer with outer InstancedStaticMeshComponent /Game/Terrain/HoudiniBake/terrain_bishe_1_846516E4.terrain_bishe_1_846516E4_C:InstancedStaticMesh26_GEN_VARIABLE because its class does not exist
+[2019.05.11-13.07.52:889][  0]LogLinker: Warning: Unable to load PhysicsSerializer with outer InstancedStaticMeshComponent /Game/Terrain/HoudiniBake/terrain_bishe_1_846516E4.terrain_bishe_1_846516E4_C:InstancedStaticMesh27_GEN_VARIABLE because its class does not exist
+[2019.05.11-13.07.52:889][  0]LogLinker: Warning: Unable to load PhysicsSerializer with outer InstancedStaticMeshComponent /Game/Terrain/HoudiniBake/terrain_bishe_1_846516E4.terrain_bishe_1_846516E4_C:InstancedStaticMesh28_GEN_VARIABLE because its class does not exist
+[2019.05.11-13.07.52:889][  0]LogLinker: Warning: Unable to load PhysicsSerializer with outer InstancedStaticMeshComponent /Game/Terrain/HoudiniBake/terrain_bishe_1_846516E4.terrain_bishe_1_846516E4_C:InstancedStaticMesh29_GEN_VARIABLE because its class does not exist
+[2019.05.11-13.07.52:889][  0]LogLinker: Warning: Unable to load PhysicsSerializer with outer InstancedStaticMeshComponent /Game/Terrain/HoudiniBake/terrain_bishe_1_846516E4.terrain_bishe_1_846516E4_C:InstancedStaticMesh2_GEN_VARIABLE because its class does not exist
+[2019.05.11-13.07.52:889][  0]LogLinker: Warning: Unable to load PhysicsSerializer with outer InstancedStaticMeshComponent /Game/Terrain/HoudiniBake/terrain_bishe_1_846516E4.terrain_bishe_1_846516E4_C:InstancedStaticMesh30_GEN_VARIABLE because its class does not exist
+[2019.05.11-13.07.52:889][  0]LogLinker: Warning: Unable to load PhysicsSerializer with outer InstancedStaticMeshComponent /Game/Terrain/HoudiniBake/terrain_bishe_1_846516E4.terrain_bishe_1_846516E4_C:InstancedStaticMesh31_GEN_VARIABLE because its class does not exist
+[2019.05.11-13.07.52:889][  0]LogLinker: Warning: Unable to load PhysicsSerializer with outer InstancedStaticMeshComponent /Game/Terrain/HoudiniBake/terrain_bishe_1_846516E4.terrain_bishe_1_846516E4_C:InstancedStaticMesh32_GEN_VARIABLE because its class does not exist
+[2019.05.11-13.07.52:889][  0]LogLinker: Warning: Unable to load PhysicsSerializer with outer InstancedStaticMeshComponent /Game/Terrain/HoudiniBake/terrain_bishe_1_846516E4.terrain_bishe_1_846516E4_C:InstancedStaticMesh3_GEN_VARIABLE because its class does not exist
+[2019.05.11-13.07.52:889][  0]LogLinker: Warning: Unable to load PhysicsSerializer with outer InstancedStaticMeshComponent /Game/Terrain/HoudiniBake/terrain_bishe_1_846516E4.terrain_bishe_1_846516E4_C:InstancedStaticMesh4_GEN_VARIABLE because its class does not exist
+[2019.05.11-13.07.52:889][  0]LogLinker: Warning: Unable to load PhysicsSerializer with outer InstancedStaticMeshComponent /Game/Terrain/HoudiniBake/terrain_bishe_1_846516E4.terrain_bishe_1_846516E4_C:InstancedStaticMesh5_GEN_VARIABLE because its class does not exist
+[2019.05.11-13.07.52:890][  0]LogLinker: Warning: Unable to load PhysicsSerializer with outer InstancedStaticMeshComponent /Game/Terrain/HoudiniBake/terrain_bishe_1_846516E4.terrain_bishe_1_846516E4_C:InstancedStaticMesh6_GEN_VARIABLE because its class does not exist
+[2019.05.11-13.07.52:890][  0]LogLinker: Warning: Unable to load PhysicsSerializer with outer InstancedStaticMeshComponent /Game/Terrain/HoudiniBake/terrain_bishe_1_846516E4.terrain_bishe_1_846516E4_C:InstancedStaticMesh7_GEN_VARIABLE because its class does not exist
+[2019.05.11-13.07.52:890][  0]LogLinker: Warning: Unable to load PhysicsSerializer with outer InstancedStaticMeshComponent /Game/Terrain/HoudiniBake/terrain_bishe_1_846516E4.terrain_bishe_1_846516E4_C:InstancedStaticMesh8_GEN_VARIABLE because its class does not exist
+[2019.05.11-13.07.52:890][  0]LogLinker: Warning: Unable to load PhysicsSerializer with outer InstancedStaticMeshComponent /Game/Terrain/HoudiniBake/terrain_bishe_1_846516E4.terrain_bishe_1_846516E4_C:InstancedStaticMesh9_GEN_VARIABLE because its class does not exist
+[2019.05.11-13.07.52:890][  0]LogLinker: Warning: Unable to load PhysicsSerializer with outer InstancedStaticMeshComponent /Game/Terrain/HoudiniBake/terrain_bishe_1_846516E4.terrain_bishe_1_846516E4_C:InstancedStaticMesh_GEN_VARIABLE because its class does not exist
+[2019.05.11-13.07.52:909][  0]LogBlueprint: Warning: [Compiler InfoTrigger] Input pin  Show  specifying non-default value no longer exists on node  Update Info . Please refresh node or reset pin to default value to remove pin.
+[2019.05.11-13.07.52:911][  0]LogBlueprint: Warning: [Compiler InfoTrigger] [0013.45] Compile of InfoTrigger successful, but with 1 Warning(s) [in 3 ms] (/Game/UI/Teach/InfoTrigger.InfoTrigger)
+[2019.05.11-13.07.54:698][  0]LogAIModule: Creating AISystem for world LakeLevel
+[2019.05.11-13.07.54:980][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.05.11-13.07.55:085][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.05.11-13.07.55:268][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 184.019ms to complete.
+[2019.05.11-13.07.55:268][  0]LogFileHelpers: Loading map 'LakeLevel' took 4.436
+[2019.05.11-13.07.55:423][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.11-13.07.55:432][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.11-13.07.55:440][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.11-13.07.55:448][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.11-13.07.55:456][  0]LogCollectionManager: Loaded 0 collections in 0.001053 seconds
+[2019.05.11-13.07.55:502][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Saved/Collections/' took 0.01s
+[2019.05.11-13.07.55:502][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Content/Developers/Ivy/Collections/' took 0.01s
+[2019.05.11-13.07.55:502][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Content/Collections/' took 0.01s
+[2019.05.11-13.07.55:502][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.05.11-13.07.55:513][  0]LogContentBrowser: Native class hierarchy populated in 0.0103 seconds. Added 2572 classes and 603 folders.
+[2019.05.11-13.07.55:517][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.05.11-13.07.55:579][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.05.11-13.07.55:591][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2019.05.11-13.07.55:716][  0]LogSlate: Took 0.000297 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.05.11-13.07.55:721][  0]LogSlate: Took 0.000332 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.05.11-13.07.55:726][  0]LogSlate: Took 0.000286 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.05.11-13.07.55:824][  0]LogRenderer: Reallocating scene render targets to support 748x344 Format 10 NumSamples 1 (Frame:1).
+[2019.05.11-13.07.55:853][  0]LogRenderer: Reallocating scene render targets to support 1496x688 Format 10 NumSamples 1 (Frame:1).
+[2019.05.11-13.07.56:158][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.05.11-13.07.56:158][  0]LogLoad: (Engine Initialization) Total time: 16.70 seconds
+[2019.05.11-13.07.56:158][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.05.11-13.07.56:180][  0]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (微软拼音).
+[2019.05.11-13.07.56:204][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.05.11-13.07.56:219][  0]LogSlate: Took 0.000172 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.05.11-13.07.56:277][  2]LogAssetRegistry: Asset discovery search completed in 9.9635 seconds
+[2019.05.11-13.07.56:279][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.05.11-13.07.56:279][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000088 seconds (updated 0 objects)
+[2019.05.11-13.07.57:202][ 52]LogSlate: Took 0.000326 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.05.11-13.07.58:197][112]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.11-13.08.07:777][641]LogLinker: Warning: Can't find file '/Game/-Models/Flag/FLags/Wind_jingfan_mid_Skeleton'
+[2019.05.11-13.08.07:777][641]LogLinker: Warning: Can't find file for asset '/Game/-Models/Flag/FLags/Wind_jingfan_mid_Skeleton' while loading C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Content/-Models/Flag/FLags/Wind_jingfan_mid.uasset.
+[2019.05.11-13.08.07:778][641]LoadErrors: Error: /Game/-Models/Flag/FLags/Wind_jingfan_mid : Can't find file for asset. /Game/-Models/Flag/FLags/Wind_jingfan_mid_Skeleton
+[2019.05.11-13.08.07:778][641]LogLinker: Warning: Can't find file '/Game/-Models/Flag/FLags/Wind_jingfan_mid_Skeleton'
+[2019.05.11-13.08.07:778][641]LogLinker: Warning: Can't find file for asset '/Game/-Models/Flag/FLags/Wind_jingfan_mid_Skeleton' while loading C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Content/-Models/Flag/FLags/Wind_jingfan_mid.uasset.
+[2019.05.11-13.08.08:268][641]LogLinker: Warning: Can't find file '/Game/-Models/Flag/FLags/Wind_jingfan_mid_Skeleton'
+[2019.05.11-13.08.08:268][641]LoadErrors: Failed to load /Game/-Models/Flag/FLags/Wind_jingfan_mid_Skeleton.Wind_jingfan_mid_Skeleton Referenced by Wind_jingfan_mid
+[2019.05.11-13.08.08:268][641]LogLinker: Warning: Can't find file for asset '/Game/-Models/Flag/FLags/Wind_jingfan_mid_Skeleton' while loading NULL.
+[2019.05.11-13.08.08:574][641]LogAIModule: Creating AISystem for world LakeLevelNew
+[2019.05.11-13.08.08:650][641]LogAssetEditorManager: Opening Asset editor for World /Game/Terrain/4/LakeLevelNew.LakeLevelNew
+[2019.05.11-13.08.08:680][641]Cmd: MAP LOAD FILE="C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Content/Terrain/4/LakeLevelNew.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.05.11-13.08.08:680][641]LightingResults: New page: Lighting Build
+[2019.05.11-13.08.08:681][641]LoadErrors: New page: Loading map: LakeLevelNew.umap
+[2019.05.11-13.08.08:689][641]MapCheck: New page: Map Check
+[2019.05.11-13.08.08:689][641]LightingResults: New page: Lighting Build
+[2019.05.11-13.08.09:811][641]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.05.11-13.08.09:917][641]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.05.11-13.08.10:129][641]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 212.122ms to complete.
+[2019.05.11-13.08.10:136][641]LogFileHelpers: Loading map 'LakeLevelNew' took 1.457
+[2019.05.11-13.08.21:224][276]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.11-13.08.21:289][280]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.11-13.08.21:304][280]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel' has LevelScriptBlueprint '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew' with GeneratedClass '/Game/Terrain/4/LakeLevelNew.LakeLevelNew_C' with ClassGeneratedBy '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew'
+[2019.05.11-13.08.21:304][280]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.11-13.08.21:317][280]PIE: New page: PIE session: LakeLevelNew (May 12, 2019, 5:08:21 AM)
+[2019.05.11-13.08.21:317][280]LogPlayLevel: Creating play world package: /Game/Terrain/4/UEDPIE_0_LakeLevelNew
+[2019.05.11-13.08.21:521][280]LogPlayLevel: PIE: StaticDuplicateObject took: (0.204260s)
+[2019.05.11-13.08.21:522][280]LogAIModule: Creating AISystem for world LakeLevelNew
+[2019.05.11-13.08.21:522][280]LogPlayLevel: PIE: World Init took: (0.000735s)
+[2019.05.11-13.08.21:522][280]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Terrain/4/LakeLevelNew.LakeLevelNew to /Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew (0.205171s)
+[2019.05.11-13.08.21:646][280]LogInit: XAudio2 using '扬声器/听筒 (Realtek Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.05.11-13.08.21:689][280]LogInit: FAudioDevice initialized.
+[2019.05.11-13.08.21:739][280]LogLoad: Game class is 'NewGameMode_C'
+[2019.05.11-13.08.21:839][280]LogWorld: Bringing World /Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew up for play (max tick rate 60) at 2019.05.11-21.08.21
+[2019.05.11-13.08.21:846][280]LogWorld: Bringing up level for play took: 0.105766
+[2019.05.11-13.08.21:864][280]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0005 seconds. Added 10 classes and 0 folders.
+[2019.05.11-13.08.21:873][280]PIE: Play in editor start time for /Game/Terrain/4/UEDPIE_0_LakeLevelNew -0.299
+[2019.05.11-13.08.21:873][280]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel' has LevelScriptBlueprint '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew' with GeneratedClass '/Game/Terrain/4/LakeLevelNew.LakeLevelNew_C' with ClassGeneratedBy '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew'
+[2019.05.11-13.08.23:127][348]LogAnimMontage: Warning: Playing a Montage (攻击_Montage) for the wrong Skeleton (BossZBrush2_Skeleton) instead of (little_Skeleton).
+[2019.05.11-13.08.26:677][555]LogAnimMontage: Warning: Playing a Montage (攻击_Montage) for the wrong Skeleton (BossZBrush2_Skeleton) instead of (little_Skeleton).
+[2019.05.11-13.08.27:093][580]LogAnimMontage: Warning: Playing a Montage (攻击_Montage) for the wrong Skeleton (BossZBrush2_Skeleton) instead of (little_Skeleton).
+[2019.05.11-13.08.27:531][606]LogAnimMontage: Warning: Playing a Montage (攻击_Montage) for the wrong Skeleton (BossZBrush2_Skeleton) instead of (little_Skeleton).
+[2019.05.11-13.08.28:131][641]LogAnimMontage: Warning: Playing a Montage (攻击_Montage) for the wrong Skeleton (BossZBrush2_Skeleton) instead of (little_Skeleton).
+[2019.05.11-13.08.30:037][752]LogAnimMontage: Warning: Playing a Montage (攻击_Montage) for the wrong Skeleton (BossZBrush2_Skeleton) instead of (little_Skeleton).
+[2019.05.11-13.08.33:638][965]LogAnimMontage: Warning: Playing a Montage (攻击_Montage) for the wrong Skeleton (BossZBrush2_Skeleton) instead of (little_Skeleton).
+[2019.05.11-13.08.34:721][ 30]LogAnimMontage: Warning: Playing a Montage (攻击_Montage) for the wrong Skeleton (BossZBrush2_Skeleton) instead of (little_Skeleton).
+[2019.05.11-13.08.35:324][ 66]LogAnimMontage: Warning: Playing a Montage (攻击_Montage) for the wrong Skeleton (BossZBrush2_Skeleton) instead of (little_Skeleton).
+[2019.05.11-13.08.35:858][ 98]LogAnimMontage: Warning: Playing a Montage (攻击_Montage) for the wrong Skeleton (BossZBrush2_Skeleton) instead of (little_Skeleton).
+[2019.05.11-13.08.36:392][130]LogAnimMontage: Warning: Playing a Montage (攻击_Montage) for the wrong Skeleton (BossZBrush2_Skeleton) instead of (little_Skeleton).
+[2019.05.11-13.08.36:858][158]LogAnimMontage: Warning: Playing a Montage (攻击_Montage) for the wrong Skeleton (BossZBrush2_Skeleton) instead of (little_Skeleton).
+[2019.05.11-13.08.37:441][193]LogAnimMontage: Warning: Playing a Montage (攻击_Montage) for the wrong Skeleton (BossZBrush2_Skeleton) instead of (little_Skeleton).
+[2019.05.11-13.08.37:892][220]LogAnimMontage: Warning: Playing a Montage (攻击_Montage) for the wrong Skeleton (BossZBrush2_Skeleton) instead of (little_Skeleton).
+[2019.05.11-13.08.38:491][256]LogAnimMontage: Warning: Playing a Montage (攻击_Montage) for the wrong Skeleton (BossZBrush2_Skeleton) instead of (little_Skeleton).
+[2019.05.11-13.08.38:909][281]LogAnimMontage: Warning: Playing a Montage (攻击_Montage) for the wrong Skeleton (BossZBrush2_Skeleton) instead of (little_Skeleton).
+[2019.05.11-13.08.39:392][310]LogAnimMontage: Warning: Playing a Montage (攻击_Montage) for the wrong Skeleton (BossZBrush2_Skeleton) instead of (little_Skeleton).
+[2019.05.11-13.08.39:875][339]LogAnimMontage: Warning: Playing a Montage (攻击_Montage) for the wrong Skeleton (BossZBrush2_Skeleton) instead of (little_Skeleton).
+[2019.05.11-13.08.40:292][364]LogAnimMontage: Warning: Playing a Montage (攻击_Montage) for the wrong Skeleton (BossZBrush2_Skeleton) instead of (little_Skeleton).
+[2019.05.11-13.08.41:939][462]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel' has LevelScriptBlueprint '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew' with GeneratedClass '/Game/Terrain/4/LakeLevelNew.LakeLevelNew_C' with ClassGeneratedBy '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew'
+[2019.05.11-13.08.41:940][462]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.11-13.08.41:991][462]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.11-13.08.41:991][462]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel' has LevelScriptBlueprint '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew' with GeneratedClass '/Game/Terrain/4/LakeLevelNew.LakeLevelNew_C' with ClassGeneratedBy '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew'
+[2019.05.11-13.08.42:023][462]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.11-13.08.42:164][463]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2019.05.11-13.08.44:001][565]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.11-13.08.48:627][820]LogSlate: Took 0.002281 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2019.05.11-13.08.59:192][388]LogEditorActor: Deleted Actor: AIBoss_C
+[2019.05.11-13.08.59:218][388]LogEditorActor: Deleted 1 Actors (0.063 secs)
+[2019.05.11-13.09.05:685][765]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.11-13.09.12:837][127]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.11-13.09.31:150][196]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.11-13.09.41:794][817]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2019.05.11-13.09.42:563][861]LogEditorViewport: Clicking on Actor (LMB): AIBoss_C (AIBoss)
+[2019.05.11-13.09.43:906][936]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.11-13.09.43:985][940]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/AI/BIgBoss/AIBoss.AIBoss
+[2019.05.11-13.09.44:624][940]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 116 classes and 0 folders.
+[2019.05.11-13.09.45:677][940]LogSlate: Took 0.000196 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.05.11-13.09.45:905][941]LogSlate: Took 0.000240 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.05.11-13.09.48:820][ 86]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.11-13.09.52:262][262]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.11-13.10.09:648][218]LogEditorTransaction: Undo Reset Location
+[2019.05.11-13.10.09:665][218]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_5:PersistentLevel.AIBoss_C_0.CharMoveComp) Component already registered.
+[2019.05.11-13.10.09:667][218]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_5:PersistentLevel.AIBoss_C_0.CharacterMesh0) Component already registered.
+[2019.05.11-13.10.09:668][218]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_5:PersistentLevel.AIBoss_C_0.Arrow) Component already registered.
+[2019.05.11-13.10.09:670][218]LogActorComponent: ~FComponentReregisterContext: (/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.AIBoss_2.CharMoveComp) Component already registered.
+[2019.05.11-13.10.09:671][218]LogActorComponent: ~FComponentReregisterContext: (/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.AIBoss_2.CharacterMesh0) Component already registered.
+[2019.05.11-13.10.09:673][218]LogActorComponent: ~FComponentReregisterContext: (/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.AIBoss_2.Arrow) Component already registered.
+[2019.05.11-13.10.10:102][235]Cmd: TRANSACTION UNDO
+[2019.05.11-13.10.10:102][235]LogEditorTransaction: Undo Reset Rotation
+[2019.05.11-13.10.10:124][235]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_5:PersistentLevel.AIBoss_C_0.CharMoveComp) Component already registered.
+[2019.05.11-13.10.10:126][235]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_5:PersistentLevel.AIBoss_C_0.CharacterMesh0) Component already registered.
+[2019.05.11-13.10.10:128][235]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_5:PersistentLevel.AIBoss_C_0.Arrow) Component already registered.
+[2019.05.11-13.10.10:130][235]LogActorComponent: ~FComponentReregisterContext: (/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.AIBoss_2.CharMoveComp) Component already registered.
+[2019.05.11-13.10.10:132][235]LogActorComponent: ~FComponentReregisterContext: (/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.AIBoss_2.CharacterMesh0) Component already registered.
+[2019.05.11-13.10.10:135][235]LogActorComponent: ~FComponentReregisterContext: (/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.AIBoss_2.Arrow) Component already registered.
+[2019.05.11-13.10.12:769][373]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.11-13.10.18:513][676]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.11-13.10.20:219][760]LogUObjectHash: Warning: Ambiguous search, could be BP_ClingObject_Limb_BP_C /Engine/Transient.World_4:PersistentLevel.ChildActor1_GEN_VARIABLE_BP_ClingObject_Limb_BP_C_CAT_0 or BP_ClingObject_Limb_BP_C /Engine/Transient.World_4:PersistentLevel.ChildActor1_GEN_VARIABLE_BP_ClingObject_Limb_BP_C_CAT_0
+[2019.05.11-13.10.41:146][843]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.11-13.10.55:301][612]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.11-13.11.11:895][519]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.11-13.11.14:580][669]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.11-13.11.17:001][805]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.11-13.11.19:434][936]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.11-13.11.19:486][939]BlueprintLog: New page: Compile AIBoss
+[2019.05.11-13.11.20:511][955]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/BIgBoss/AIBoss" FILE="C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Content/AI/BIgBoss/AIBoss.uasset" SILENT=true
+[2019.05.11-13.11.20:720][955]LogSavePackage: Moving 'C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Saved/AIBossFD082F454B49FC3E367D3798CA1AB479.tmp' to 'C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Content/AI/BIgBoss/AIBoss.uasset'
+[2019.05.11-13.11.23:976][121]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.11-13.11.25:815][227]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.11-13.11.25:838][227]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel' has LevelScriptBlueprint '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew' with GeneratedClass '/Game/Terrain/4/LakeLevelNew.LakeLevelNew_C' with ClassGeneratedBy '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew'
+[2019.05.11-13.11.25:839][227]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.05.11-13.11.25:899][227]LogPlayLevel: [PlayLevel] Compiling AIBoss before play...
+[2019.05.11-13.11.26:331][227]LogPlayLevel: PlayLevel: Blueprint regeneration took 492 ms (1 blueprints)
+[2019.05.11-13.11.26:331][227]PIE: New page: PIE session: LakeLevelNew (May 12, 2019, 5:11:26 AM)
+[2019.05.11-13.11.26:331][227]LogPlayLevel: Creating play world package: /Game/Terrain/4/UEDPIE_0_LakeLevelNew
+[2019.05.11-13.11.26:420][227]LogPlayLevel: PIE: StaticDuplicateObject took: (0.088663s)
+[2019.05.11-13.11.26:421][227]LogAIModule: Creating AISystem for world LakeLevelNew
+[2019.05.11-13.11.26:421][227]LogPlayLevel: PIE: World Init took: (0.000697s)
+[2019.05.11-13.11.26:421][227]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Terrain/4/LakeLevelNew.LakeLevelNew to /Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew (0.089504s)
+[2019.05.11-13.11.26:544][227]LogInit: XAudio2 using '扬声器/听筒 (Realtek Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.05.11-13.11.26:589][227]LogInit: FAudioDevice initialized.
+[2019.05.11-13.11.26:626][227]LogLoad: Game class is 'NewGameMode_C'
+[2019.05.11-13.11.26:718][227]LogWorld: Bringing World /Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew up for play (max tick rate 60) at 2019.05.11-21.11.26
+[2019.05.11-13.11.26:723][227]LogWorld: Bringing up level for play took: 0.095713
+[2019.05.11-13.11.26:744][227]PIE: Play in editor start time for /Game/Terrain/4/UEDPIE_0_LakeLevelNew 0.572
+[2019.05.11-13.11.26:744][227]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel' has LevelScriptBlueprint '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew' with GeneratedClass '/Game/Terrain/4/LakeLevelNew.LakeLevelNew_C' with ClassGeneratedBy '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew'
+[2019.05.11-13.11.27:957][291]LogCharacterMovement: AICharacter3_2 is stuck and failed to move! Velocity: X=-53.14 Y=187.50 Z=0.00 Location: X=-11492.11 Y=-8562.04 Z=77.56 Normal: X=-0.58 Y=-0.41 Z=0.70 PenetrationDepth:0.000 Actor:GameManager_4 Component:StaticMesh BoneName:None (0 other events since notify)
+[2019.05.11-13.11.29:758][399]LogCharacterMovement: AICharacter3_2 is stuck and failed to move! Velocity: X=-45.97 Y=194.65 Z=0.00 Location: X=-11497.28 Y=-8563.81 Z=77.36 Normal: X=0.16 Y=-0.70 Z=0.69 PenetrationDepth:0.000 Actor:GameManager_4 Component:StaticMesh BoneName:None (17 other events since notify)
+[2019.05.11-13.11.30:808][462]LogCharacterMovement: AICharacter3_2 is stuck and failed to move! Velocity: X=-47.68 Y=194.23 Z=0.00 Location: X=-11496.59 Y=-8563.89 Z=77.38 Normal: X=-0.92 Y=0.27 Z=0.28 PenetrationDepth:0.000 Actor:GameManager_4 Component:StaticMesh BoneName:None (0 other events since notify)
+[2019.05.11-13.11.31:808][522]LogCharacterMovement: AICharacter3_2 is stuck and failed to move! Velocity: X=-47.53 Y=194.27 Z=0.00 Location: X=-11496.96 Y=-8562.69 Z=77.36 Normal: X=0.16 Y=-0.70 Z=0.69 PenetrationDepth:0.000 Actor:GameManager_4 Component:StaticMesh BoneName:None (6 other events since notify)
+[2019.05.11-13.11.33:846][644]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel' has LevelScriptBlueprint '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew' with GeneratedClass '/Game/Terrain/4/LakeLevelNew.LakeLevelNew_C' with ClassGeneratedBy '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew'
+[2019.05.11-13.11.33:847][644]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.11-13.11.33:893][644]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.11-13.11.33:893][644]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel' has LevelScriptBlueprint '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew' with GeneratedClass '/Game/Terrain/4/LakeLevelNew.LakeLevelNew_C' with ClassGeneratedBy '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew'
+[2019.05.11-13.11.33:933][644]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.11-13.11.33:971][645]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2019.05.11-13.11.39:654][978]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.11-13.11.54:562][794]LogEditorViewport: Clicking on Actor (LMB): AIBoss_C (AIBoss)
+[2019.05.11-13.11.59:052][ 45]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.11-13.11.59:117][ 49]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.11-13.11.59:136][ 49]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel' has LevelScriptBlueprint '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew' with GeneratedClass '/Game/Terrain/4/LakeLevelNew.LakeLevelNew_C' with ClassGeneratedBy '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew'
+[2019.05.11-13.11.59:136][ 49]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.11-13.11.59:136][ 49]PIE: New page: PIE session: LakeLevelNew (May 12, 2019, 5:11:59 AM)
+[2019.05.11-13.11.59:136][ 49]LogPlayLevel: Creating play world package: /Game/Terrain/4/UEDPIE_0_LakeLevelNew
+[2019.05.11-13.11.59:230][ 49]LogPlayLevel: PIE: StaticDuplicateObject took: (0.093309s)
+[2019.05.11-13.11.59:230][ 49]LogAIModule: Creating AISystem for world LakeLevelNew
+[2019.05.11-13.11.59:230][ 49]LogPlayLevel: PIE: World Init took: (0.000682s)
+[2019.05.11-13.11.59:230][ 49]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Terrain/4/LakeLevelNew.LakeLevelNew to /Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew (0.094145s)
+[2019.05.11-13.11.59:363][ 49]LogInit: XAudio2 using '扬声器/听筒 (Realtek Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.05.11-13.11.59:402][ 49]LogInit: FAudioDevice initialized.
+[2019.05.11-13.11.59:432][ 49]LogLoad: Game class is 'NewGameMode_C'
+[2019.05.11-13.11.59:525][ 49]LogWorld: Bringing World /Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew up for play (max tick rate 60) at 2019.05.11-21.11.59
+[2019.05.11-13.11.59:530][ 49]LogWorld: Bringing up level for play took: 0.096726
+[2019.05.11-13.11.59:551][ 49]PIE: Play in editor start time for /Game/Terrain/4/UEDPIE_0_LakeLevelNew 1.379
+[2019.05.11-13.11.59:551][ 49]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel' has LevelScriptBlueprint '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew' with GeneratedClass '/Game/Terrain/4/LakeLevelNew.LakeLevelNew_C' with ClassGeneratedBy '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew'
+[2019.05.11-13.12.06:439][454]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel' has LevelScriptBlueprint '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew' with GeneratedClass '/Game/Terrain/4/LakeLevelNew.LakeLevelNew_C' with ClassGeneratedBy '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew'
+[2019.05.11-13.12.06:440][454]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.11-13.12.06:491][454]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.11-13.12.06:491][454]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel' has LevelScriptBlueprint '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew' with GeneratedClass '/Game/Terrain/4/LakeLevelNew.LakeLevelNew_C' with ClassGeneratedBy '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew'
+[2019.05.11-13.12.06:535][454]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.11-13.12.06:622][455]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2019.05.11-13.12.13:240][840]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.11-13.12.18:998][165]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.11-13.12.19:046][168]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.11-13.12.19:062][168]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel' has LevelScriptBlueprint '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew' with GeneratedClass '/Game/Terrain/4/LakeLevelNew.LakeLevelNew_C' with ClassGeneratedBy '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew'
+[2019.05.11-13.12.19:063][168]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.11-13.12.19:063][168]PIE: New page: PIE session: LakeLevelNew (May 12, 2019, 5:12:19 AM)
+[2019.05.11-13.12.19:063][168]LogPlayLevel: Creating play world package: /Game/Terrain/4/UEDPIE_0_LakeLevelNew
+[2019.05.11-13.12.19:165][168]LogPlayLevel: PIE: StaticDuplicateObject took: (0.102524s)
+[2019.05.11-13.12.19:165][168]LogAIModule: Creating AISystem for world LakeLevelNew
+[2019.05.11-13.12.19:165][168]LogPlayLevel: PIE: World Init took: (0.000699s)
+[2019.05.11-13.12.19:165][168]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Terrain/4/LakeLevelNew.LakeLevelNew to /Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew (0.103388s)
+[2019.05.11-13.12.19:302][168]LogInit: XAudio2 using '扬声器/听筒 (Realtek Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.05.11-13.12.19:349][168]LogInit: FAudioDevice initialized.
+[2019.05.11-13.12.19:384][168]LogLoad: Game class is 'NewGameMode_C'
+[2019.05.11-13.12.19:477][168]LogWorld: Bringing World /Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew up for play (max tick rate 60) at 2019.05.11-21.12.19
+[2019.05.11-13.12.19:483][168]LogWorld: Bringing up level for play took: 0.099148
+[2019.05.11-13.12.19:503][168]PIE: Play in editor start time for /Game/Terrain/4/UEDPIE_0_LakeLevelNew 1.331
+[2019.05.11-13.12.19:503][168]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel' has LevelScriptBlueprint '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew' with GeneratedClass '/Game/Terrain/4/LakeLevelNew.LakeLevelNew_C' with ClassGeneratedBy '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew'
+[2019.05.11-13.12.30:561][824]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel' has LevelScriptBlueprint '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew' with GeneratedClass '/Game/Terrain/4/LakeLevelNew.LakeLevelNew_C' with ClassGeneratedBy '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew'
+[2019.05.11-13.12.30:562][824]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.11-13.12.30:608][824]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.11-13.12.30:608][824]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel' has LevelScriptBlueprint '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew' with GeneratedClass '/Game/Terrain/4/LakeLevelNew.LakeLevelNew_C' with ClassGeneratedBy '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew'
+[2019.05.11-13.12.30:653][824]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.11-13.12.30:693][825]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2019.05.11-13.12.31:605][879]LogEditorViewport: Clicking on Actor (LMB): AIBoss_C (AIBoss)
+[2019.05.11-13.12.33:465][982]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.11-13.12.38:311][267]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.11-13.12.38:392][272]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.11-13.12.38:411][272]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel' has LevelScriptBlueprint '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew' with GeneratedClass '/Game/Terrain/4/LakeLevelNew.LakeLevelNew_C' with ClassGeneratedBy '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew'
+[2019.05.11-13.12.38:411][272]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.11-13.12.38:411][272]PIE: New page: PIE session: LakeLevelNew (May 12, 2019, 5:12:38 AM)
+[2019.05.11-13.12.38:411][272]LogPlayLevel: Creating play world package: /Game/Terrain/4/UEDPIE_0_LakeLevelNew
+[2019.05.11-13.12.38:514][272]LogPlayLevel: PIE: StaticDuplicateObject took: (0.102320s)
+[2019.05.11-13.12.38:514][272]LogAIModule: Creating AISystem for world LakeLevelNew
+[2019.05.11-13.12.38:514][272]LogPlayLevel: PIE: World Init took: (0.000626s)
+[2019.05.11-13.12.38:515][272]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Terrain/4/LakeLevelNew.LakeLevelNew to /Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew (0.103118s)
+[2019.05.11-13.12.38:649][272]LogInit: XAudio2 using '扬声器/听筒 (Realtek Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.05.11-13.12.38:689][272]LogInit: FAudioDevice initialized.
+[2019.05.11-13.12.38:720][272]LogLoad: Game class is 'NewGameMode_C'
+[2019.05.11-13.12.38:808][272]LogWorld: Bringing World /Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew up for play (max tick rate 60) at 2019.05.11-21.12.38
+[2019.05.11-13.12.38:813][272]LogWorld: Bringing up level for play took: 0.091844
+[2019.05.11-13.12.38:834][272]PIE: Play in editor start time for /Game/Terrain/4/UEDPIE_0_LakeLevelNew 0.662
+[2019.05.11-13.12.38:835][272]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel' has LevelScriptBlueprint '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew' with GeneratedClass '/Game/Terrain/4/LakeLevelNew.LakeLevelNew_C' with ClassGeneratedBy '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew'
+[2019.05.11-13.12.51:783][ 25]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel' has LevelScriptBlueprint '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew' with GeneratedClass '/Game/Terrain/4/LakeLevelNew.LakeLevelNew_C' with ClassGeneratedBy '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew'
+[2019.05.11-13.12.51:783][ 25]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.11-13.12.51:833][ 25]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.11-13.12.51:833][ 25]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel' has LevelScriptBlueprint '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew' with GeneratedClass '/Game/Terrain/4/LakeLevelNew.LakeLevelNew_C' with ClassGeneratedBy '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew'
+[2019.05.11-13.12.51:871][ 25]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.11-13.12.51:968][ 26]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2019.05.11-13.12.55:615][235]LogEditorViewport: Clicking on Actor (LMB): AIBoss_C (AIBoss)
+[2019.05.11-13.12.57:093][317]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.11-13.13.00:554][495]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.11-13.13.07:762][890]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/AI/BIgBoss/AIBossController.AIBossController
+[2019.05.11-13.13.27:097][957]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.11-13.13.27:893][  1]LogAssetEditorManager: Opening Asset editor for BehaviorTree /Game/AI/BIgBoss/ABossTree.ABossTree
+[2019.05.11-13.13.31:437][167]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.11-13.13.31:456][167]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel' has LevelScriptBlueprint '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew' with GeneratedClass '/Game/Terrain/4/LakeLevelNew.LakeLevelNew_C' with ClassGeneratedBy '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew'
+[2019.05.11-13.13.31:459][167]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.11-13.13.31:460][167]PIE: New page: PIE session: LakeLevelNew (May 12, 2019, 5:13:31 AM)
+[2019.05.11-13.13.31:460][167]LogPlayLevel: Creating play world package: /Game/Terrain/4/UEDPIE_0_LakeLevelNew
+[2019.05.11-13.13.31:573][167]LogPlayLevel: PIE: StaticDuplicateObject took: (0.114437s)
+[2019.05.11-13.13.31:574][167]LogAIModule: Creating AISystem for world LakeLevelNew
+[2019.05.11-13.13.31:575][167]LogPlayLevel: PIE: World Init took: (0.001043s)
+[2019.05.11-13.13.31:575][167]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Terrain/4/LakeLevelNew.LakeLevelNew to /Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew (0.115784s)
+[2019.05.11-13.13.31:716][167]LogInit: XAudio2 using '扬声器/听筒 (Realtek Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.05.11-13.13.31:759][167]LogInit: FAudioDevice initialized.
+[2019.05.11-13.13.31:796][167]LogLoad: Game class is 'NewGameMode_C'
+[2019.05.11-13.13.31:885][167]LogWorld: Bringing World /Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew up for play (max tick rate 60) at 2019.05.11-21.13.31
+[2019.05.11-13.13.31:891][167]LogWorld: Bringing up level for play took: 0.094063
+[2019.05.11-13.13.31:913][167]PIE: Play in editor start time for /Game/Terrain/4/UEDPIE_0_LakeLevelNew -0.259
+[2019.05.11-13.13.31:913][167]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel' has LevelScriptBlueprint '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew' with GeneratedClass '/Game/Terrain/4/LakeLevelNew.LakeLevelNew_C' with ClassGeneratedBy '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew'
+[2019.05.11-13.13.32:674][198]LogCharacterMovement: AICharacter3_2 is stuck and failed to move! Velocity: X=61.67 Y=185.26 Z=0.00 Location: X=-11499.77 Y=-8636.49 Z=77.33 Normal: X=-0.67 Y=-0.44 Z=0.60 PenetrationDepth:0.000 Actor:GameManager_4 Component:StaticMesh BoneName:None (0 other events since notify)
+[2019.05.11-13.13.33:709][256]LogCharacterMovement: AICharacter3_2 is stuck and failed to move! Velocity: X=-46.41 Y=194.54 Z=0.00 Location: X=-11497.51 Y=-8561.88 Z=77.55 Normal: X=0.26 Y=-0.63 Z=0.73 PenetrationDepth:0.000 Actor:GameManager_4 Component:StaticMesh BoneName:None (6 other events since notify)
+[2019.05.11-13.13.33:931][269]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/AI/OldAi/BTT_WanderToPoint.BTT_WanderToPoint
+[2019.05.11-13.13.34:829][293]LogCharacterMovement: AICharacter3_2 is stuck and failed to move! Velocity: X=-52.93 Y=192.87 Z=0.00 Location: X=-11495.82 Y=-8560.52 Z=77.36 Normal: X=0.21 Y=-0.62 Z=0.76 PenetrationDepth:0.000 Actor:GameManager_4 Component:StaticMesh BoneName:None (20 other events since notify)
+[2019.05.11-13.13.35:832][327]LogCharacterMovement: AICharacter3_2 is stuck and failed to move! Velocity: X=-55.67 Y=192.10 Z=0.00 Location: X=-11495.32 Y=-8558.65 Z=77.36 Normal: X=0.21 Y=-0.62 Z=0.76 PenetrationDepth:0.000 Actor:GameManager_4 Component:StaticMesh BoneName:None (21 other events since notify)
+[2019.05.11-13.13.36:943][393]LogCharacterMovement: AICharacter3_2 is stuck and failed to move! Velocity: X=-47.14 Y=194.37 Z=0.00 Location: X=-11496.72 Y=-8564.26 Z=77.36 Normal: X=0.21 Y=-0.62 Z=0.76 PenetrationDepth:0.000 Actor:GameManager_4 Component:StaticMesh BoneName:None (16 other events since notify)
+[2019.05.11-13.13.45:457][902]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.11-13.13.55:758][460]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.11-13.14.05:236][  2]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/AI/BTT_PlayAnim.BTT_PlayAnim
+[2019.05.11-13.14.12:492][404]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel' has LevelScriptBlueprint '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew' with GeneratedClass '/Game/Terrain/4/LakeLevelNew.LakeLevelNew_C' with ClassGeneratedBy '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew'
+[2019.05.11-13.14.12:496][404]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.11-13.14.12:551][404]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.11-13.14.12:551][404]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel' has LevelScriptBlueprint '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew' with GeneratedClass '/Game/Terrain/4/LakeLevelNew.LakeLevelNew_C' with ClassGeneratedBy '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew'
+[2019.05.11-13.14.12:597][404]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.11-13.14.12:689][405]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2019.05.11-13.14.36:367][804]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.11-13.14.45:134][321]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.11-13.15.07:693][660]LogEditorViewport: Clicking on Actor (context menu): terrain_bishe_1_846516E4_C (terrain_bishe_1_846516E4)
+[2019.05.11-13.15.07:739][660]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.11-13.15.19:494][347]LogEditorViewport: Clicking on Actor (LMB): AIBoss_C (AIBoss)
+[2019.05.11-13.15.26:857][774]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.11-13.15.41:471][618]LogEditorViewport: Clicking on Actor (LMB): AICharacter_C (AICharacter4)
+[2019.05.11-13.15.46:036][878]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.11-13.15.57:977][570]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.11-13.15.58:009][570]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel' has LevelScriptBlueprint '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew' with GeneratedClass '/Game/Terrain/4/LakeLevelNew.LakeLevelNew_C' with ClassGeneratedBy '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew'
+[2019.05.11-13.15.58:014][570]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.11-13.15.58:014][570]PIE: New page: PIE session: LakeLevelNew (May 12, 2019, 5:15:58 AM)
+[2019.05.11-13.15.58:014][570]LogPlayLevel: Creating play world package: /Game/Terrain/4/UEDPIE_0_LakeLevelNew
+[2019.05.11-13.15.58:121][570]LogPlayLevel: PIE: StaticDuplicateObject took: (0.106375s)
+[2019.05.11-13.15.58:121][570]LogAIModule: Creating AISystem for world LakeLevelNew
+[2019.05.11-13.15.58:122][570]LogPlayLevel: PIE: World Init took: (0.000800s)
+[2019.05.11-13.15.58:122][570]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Terrain/4/LakeLevelNew.LakeLevelNew to /Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew (0.107425s)
+[2019.05.11-13.15.58:266][570]LogInit: XAudio2 using '扬声器/听筒 (Realtek Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.05.11-13.15.58:310][570]LogInit: FAudioDevice initialized.
+[2019.05.11-13.15.58:338][570]LogLoad: Game class is 'NewGameMode_C'
+[2019.05.11-13.15.58:427][570]LogWorld: Bringing World /Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew up for play (max tick rate 60) at 2019.05.11-21.15.58
+[2019.05.11-13.15.58:434][570]LogWorld: Bringing up level for play took: 0.094476
+[2019.05.11-13.15.58:454][570]PIE: Play in editor start time for /Game/Terrain/4/UEDPIE_0_LakeLevelNew 0.282
+[2019.05.11-13.15.58:455][570]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel' has LevelScriptBlueprint '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew' with GeneratedClass '/Game/Terrain/4/LakeLevelNew.LakeLevelNew_C' with ClassGeneratedBy '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew'
+[2019.05.11-13.16.11:815][365]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel' has LevelScriptBlueprint '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew' with GeneratedClass '/Game/Terrain/4/LakeLevelNew.LakeLevelNew_C' with ClassGeneratedBy '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew'
+[2019.05.11-13.16.11:818][365]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.11-13.16.11:871][365]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.11-13.16.11:871][365]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel' has LevelScriptBlueprint '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew' with GeneratedClass '/Game/Terrain/4/LakeLevelNew.LakeLevelNew_C' with ClassGeneratedBy '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew'
+[2019.05.11-13.16.11:918][365]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.11-13.16.12:016][366]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2019.05.11-13.16.20:460][809]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.11-13.16.45:421][150]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.11-13.16.53:207][602]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.11-13.16.53:288][607]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.11-13.16.53:318][607]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel' has LevelScriptBlueprint '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew' with GeneratedClass '/Game/Terrain/4/LakeLevelNew.LakeLevelNew_C' with ClassGeneratedBy '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew'
+[2019.05.11-13.16.53:322][607]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.11-13.16.53:322][607]PIE: New page: PIE session: LakeLevelNew (May 12, 2019, 5:16:53 AM)
+[2019.05.11-13.16.53:322][607]LogPlayLevel: Creating play world package: /Game/Terrain/4/UEDPIE_0_LakeLevelNew
+[2019.05.11-13.16.53:410][607]LogPlayLevel: PIE: StaticDuplicateObject took: (0.088142s)
+[2019.05.11-13.16.53:411][607]LogAIModule: Creating AISystem for world LakeLevelNew
+[2019.05.11-13.16.53:411][607]LogPlayLevel: PIE: World Init took: (0.000658s)
+[2019.05.11-13.16.53:411][607]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Terrain/4/LakeLevelNew.LakeLevelNew to /Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew (0.088955s)
+[2019.05.11-13.16.53:545][607]LogInit: XAudio2 using '扬声器/听筒 (Realtek Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.05.11-13.16.53:588][607]LogInit: FAudioDevice initialized.
+[2019.05.11-13.16.53:623][607]LogLoad: Game class is 'NewGameMode_C'
+[2019.05.11-13.16.53:719][607]LogWorld: Bringing World /Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew up for play (max tick rate 60) at 2019.05.11-21.16.53
+[2019.05.11-13.16.53:725][607]LogWorld: Bringing up level for play took: 0.101255
+[2019.05.11-13.16.53:749][607]PIE: Play in editor start time for /Game/Terrain/4/UEDPIE_0_LakeLevelNew -0.423
+[2019.05.11-13.16.53:750][607]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel' has LevelScriptBlueprint '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew' with GeneratedClass '/Game/Terrain/4/LakeLevelNew.LakeLevelNew_C' with ClassGeneratedBy '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew'
+[2019.05.11-13.16.54:489][641]LogCharacterMovement: AICharacter3_2 is stuck and failed to move! Velocity: X=140.91 Y=141.93 Z=0.00 Location: X=-11475.39 Y=-8650.44 Z=75.59 Normal: X=-0.71 Y=0.08 Z=-0.70 PenetrationDepth:20.295 Actor:GameManager_4 Component:StaticMesh BoneName:None (1 other events since notify)
+[2019.05.11-13.16.55:787][719]LogCharacterMovement: AICharacter3_2 is stuck and failed to move! Velocity: X=167.17 Y=109.79 Z=0.00 Location: X=-11491.67 Y=-8601.93 Z=77.32 Normal: X=-0.67 Y=-0.44 Z=0.60 PenetrationDepth:0.000 Actor:GameManager_4 Component:StaticMesh BoneName:None (10 other events since notify)
+[2019.05.11-13.16.56:821][781]LogCharacterMovement: AICharacter3_2 is stuck and failed to move! Velocity: X=168.28 Y=108.08 Z=0.00 Location: X=-11488.74 Y=-8597.31 Z=77.47 Normal: X=-0.67 Y=-0.44 Z=0.60 PenetrationDepth:0.000 Actor:GameManager_4 Component:StaticMesh BoneName:None (18 other events since notify)
+[2019.05.11-13.16.57:905][846]LogCharacterMovement: AICharacter3_2 is stuck and failed to move! Velocity: X=168.60 Y=107.58 Z=0.00 Location: X=-11488.40 Y=-8596.31 Z=77.32 Normal: X=-0.67 Y=-0.44 Z=0.60 PenetrationDepth:0.000 Actor:GameManager_4 Component:StaticMesh BoneName:None (24 other events since notify)
+[2019.05.11-13.16.58:955][909]LogCharacterMovement: AICharacter3_2 is stuck and failed to move! Velocity: X=168.40 Y=107.89 Z=0.00 Location: X=-11488.67 Y=-8596.97 Z=77.32 Normal: X=-0.67 Y=-0.44 Z=0.60 PenetrationDepth:0.000 Actor:GameManager_4 Component:StaticMesh BoneName:None (14 other events since notify)
+[2019.05.11-13.16.59:997][960]LogCharacterMovement: AICharacter3_2 is stuck and failed to move! Velocity: X=168.11 Y=108.34 Z=0.00 Location: X=-11489.77 Y=-8598.38 Z=77.32 Normal: X=-0.67 Y=-0.44 Z=0.60 PenetrationDepth:0.000 Actor:GameManager_4 Component:StaticMesh BoneName:None (12 other events since notify)
+[2019.05.11-13.17.09:202][508]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.11-13.17.34:966][ 24]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel' has LevelScriptBlueprint '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew' with GeneratedClass '/Game/Terrain/4/LakeLevelNew.LakeLevelNew_C' with ClassGeneratedBy '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew'
+[2019.05.11-13.17.34:970][ 24]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.11-13.17.35:021][ 24]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.11-13.17.35:021][ 24]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel' has LevelScriptBlueprint '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew' with GeneratedClass '/Game/Terrain/4/LakeLevelNew.LakeLevelNew_C' with ClassGeneratedBy '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew'
+[2019.05.11-13.17.35:071][ 24]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.11-13.17.35:175][ 25]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2019.05.11-13.17.35:669][ 48]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.11-13.17.38:012][112]LogSlate: Window 'Save Content' being destroyed
+[2019.05.11-13.17.38:076][112]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/BIgBoss/AIBoss" FILE="C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Content/AI/BIgBoss/AIBoss.uasset" SILENT=true
+[2019.05.11-13.17.38:283][112]LogSavePackage: Moving 'C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Saved/AIBoss8AEE1EB340E0E61979B9039DA1420B5B.tmp' to 'C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Content/AI/BIgBoss/AIBoss.uasset'
+[2019.05.11-13.17.38:549][112]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Terrain/4/LakeLevelNew" FILE="C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Content/Terrain/4/LakeLevelNew.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.05.11-13.17.42:638][112]LogSavePackage: Moving 'C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Saved/LakeLevelNew95EF59EB4CD1D7470FB3F186A3925F75.tmp' to 'C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Content/Terrain/4/LakeLevelNew.umap'
+[2019.05.11-13.17.42:685][112]LogFileHelpers: Saving map 'LakeLevelNew' took 4.376
+[2019.05.11-13.17.47:152][373]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2019.05.11-13.17.48:546][454]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2019.05.11-13.17.49:463][508]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2019.05.11-13.17.50:700][581]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2019.05.11-13.17.52:895][710]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.11-13.18.02:597][278]LogEditorViewport: Clicking on Actor (LMB): terrain_bishe_1_846516E4_C (terrain_bishe_1_846516E4)
+[2019.05.11-13.18.03:484][329]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube9)
+[2019.05.11-13.18.06:772][521]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.11-13.18.06:853][526]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.11-13.18.06:878][526]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel' has LevelScriptBlueprint '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew' with GeneratedClass '/Game/Terrain/4/LakeLevelNew.LakeLevelNew_C' with ClassGeneratedBy '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew'
+[2019.05.11-13.18.06:881][526]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.11-13.18.06:881][526]PIE: New page: PIE session: LakeLevelNew (May 12, 2019, 5:18:06 AM)
+[2019.05.11-13.18.06:881][526]LogPlayLevel: Creating play world package: /Game/Terrain/4/UEDPIE_0_LakeLevelNew
+[2019.05.11-13.18.06:976][526]LogPlayLevel: PIE: StaticDuplicateObject took: (0.095122s)
+[2019.05.11-13.18.06:977][526]LogAIModule: Creating AISystem for world LakeLevelNew
+[2019.05.11-13.18.06:977][526]LogPlayLevel: PIE: World Init took: (0.000756s)
+[2019.05.11-13.18.06:977][526]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Terrain/4/LakeLevelNew.LakeLevelNew to /Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew (0.096033s)
+[2019.05.11-13.18.07:120][526]LogInit: XAudio2 using '扬声器/听筒 (Realtek Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.05.11-13.18.07:166][526]LogInit: FAudioDevice initialized.
+[2019.05.11-13.18.07:200][526]LogLoad: Game class is 'NewGameMode_C'
+[2019.05.11-13.18.07:303][526]LogWorld: Bringing World /Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew up for play (max tick rate 60) at 2019.05.11-21.18.07
+[2019.05.11-13.18.07:311][526]LogWorld: Bringing up level for play took: 0.109663
+[2019.05.11-13.18.07:332][526]PIE: Play in editor start time for /Game/Terrain/4/UEDPIE_0_LakeLevelNew 1.16
+[2019.05.11-13.18.07:333][526]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel' has LevelScriptBlueprint '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew' with GeneratedClass '/Game/Terrain/4/LakeLevelNew.LakeLevelNew_C' with ClassGeneratedBy '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew'
+[2019.05.11-13.18.12:279][810]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel' has LevelScriptBlueprint '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew' with GeneratedClass '/Game/Terrain/4/LakeLevelNew.LakeLevelNew_C' with ClassGeneratedBy '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew'
+[2019.05.11-13.18.12:282][810]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.11-13.18.12:332][810]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.11-13.18.12:332][810]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel' has LevelScriptBlueprint '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew' with GeneratedClass '/Game/Terrain/4/LakeLevelNew.LakeLevelNew_C' with ClassGeneratedBy '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew'
+[2019.05.11-13.18.12:379][810]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.11-13.18.12:492][811]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2019.05.11-13.18.28:517][756]LogEditorViewport: Clicking on Actor (LMB): AICharacter_C (AICharacter4)
+[2019.05.11-13.18.29:131][779]LogEditorViewport: Clicking on Actor (LMB): terrain_bishe_1_846516E4_C (terrain_bishe_1_846516E4)
+[2019.05.11-13.18.29:827][818]LogEditorViewport: Clicking on Actor (LMB): terrain_bishe_1_846516E4_C (terrain_bishe_1_846516E4)
+[2019.05.11-13.18.32:689][970]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.11-13.19.04:721][754]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.11-13.19.16:411][339]BlueprintLog: New page: Compile AIBoss
+[2019.05.11-13.19.17:435][356]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/BIgBoss/AIBoss" FILE="C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Content/AI/BIgBoss/AIBoss.uasset" SILENT=true
+[2019.05.11-13.19.17:620][356]LogSavePackage: Moving 'C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Saved/AIBoss5E12E33742B5A7E23FF8B0BDC0BE16F7.tmp' to 'C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Content/AI/BIgBoss/AIBoss.uasset'
+[2019.05.11-13.19.19:916][474]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.11-13.19.42:131][720]BlueprintLog: New page: Compile AIBoss
+[2019.05.11-13.19.43:205][745]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/BIgBoss/AIBoss" FILE="C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Content/AI/BIgBoss/AIBoss.uasset" SILENT=true
+[2019.05.11-13.19.43:377][745]LogSavePackage: Moving 'C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Saved/AIBoss374CCF894956230C15C9D1AA32C38C22.tmp' to 'C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Content/AI/BIgBoss/AIBoss.uasset'
+[2019.05.11-13.20.07:614][ 74]BlueprintLog: New page: Compile AIBoss
+[2019.05.11-13.20.08:534][ 84]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/BIgBoss/AIBoss" FILE="C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Content/AI/BIgBoss/AIBoss.uasset" SILENT=true
+[2019.05.11-13.20.08:702][ 84]LogSavePackage: Moving 'C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Saved/AIBossF32679EB415D6E19D2981CB4627FDEEF.tmp' to 'C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Content/AI/BIgBoss/AIBoss.uasset'
+[2019.05.11-13.20.12:420][291]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.11-13.20.12:459][291]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel' has LevelScriptBlueprint '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew' with GeneratedClass '/Game/Terrain/4/LakeLevelNew.LakeLevelNew_C' with ClassGeneratedBy '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew'
+[2019.05.11-13.20.12:464][291]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.11-13.20.12:465][291]PIE: New page: PIE session: LakeLevelNew (May 12, 2019, 5:20:12 AM)
+[2019.05.11-13.20.12:465][291]LogPlayLevel: Creating play world package: /Game/Terrain/4/UEDPIE_0_LakeLevelNew
+[2019.05.11-13.20.12:571][291]LogPlayLevel: PIE: StaticDuplicateObject took: (0.105582s)
+[2019.05.11-13.20.12:571][291]LogAIModule: Creating AISystem for world LakeLevelNew
+[2019.05.11-13.20.12:571][291]LogPlayLevel: PIE: World Init took: (0.000717s)
+[2019.05.11-13.20.12:572][291]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Terrain/4/LakeLevelNew.LakeLevelNew to /Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew (0.106530s)
+[2019.05.11-13.20.12:725][291]LogInit: XAudio2 using '扬声器/听筒 (Realtek Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.05.11-13.20.12:773][291]LogInit: FAudioDevice initialized.
+[2019.05.11-13.20.12:809][291]LogLoad: Game class is 'NewGameMode_C'
+[2019.05.11-13.20.12:906][291]LogWorld: Bringing World /Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew up for play (max tick rate 60) at 2019.05.11-21.20.12
+[2019.05.11-13.20.12:913][291]LogWorld: Bringing up level for play took: 0.103497
+[2019.05.11-13.20.12:933][291]PIE: Play in editor start time for /Game/Terrain/4/UEDPIE_0_LakeLevelNew 0.761
+[2019.05.11-13.20.12:933][291]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel' has LevelScriptBlueprint '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew' with GeneratedClass '/Game/Terrain/4/LakeLevelNew.LakeLevelNew_C' with ClassGeneratedBy '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew'
+[2019.05.11-13.20.19:105][651]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.11-13.21.15:924][980]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel' has LevelScriptBlueprint '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew' with GeneratedClass '/Game/Terrain/4/LakeLevelNew.LakeLevelNew_C' with ClassGeneratedBy '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew'
+[2019.05.11-13.21.15:928][980]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.11-13.21.15:988][980]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.11-13.21.15:988][980]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel' has LevelScriptBlueprint '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew' with GeneratedClass '/Game/Terrain/4/LakeLevelNew.LakeLevelNew_C' with ClassGeneratedBy '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew'
+[2019.05.11-13.21.16:035][980]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.11-13.21.16:121][981]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2019.05.11-13.21.37:217][227]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.11-13.21.53:751][167]BlueprintLog: New page: Compile AIBoss
+[2019.05.11-13.21.54:628][184]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/BIgBoss/AIBoss" FILE="C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Content/AI/BIgBoss/AIBoss.uasset" SILENT=true
+[2019.05.11-13.21.54:798][184]LogSavePackage: Moving 'C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Saved/AIBossC92A85594E6192ECEFD0D085FC4E9CD3.tmp' to 'C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Content/AI/BIgBoss/AIBoss.uasset'
+[2019.05.11-13.21.56:586][280]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.11-13.21.56:854][280]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel' has LevelScriptBlueprint '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew' with GeneratedClass '/Game/Terrain/4/LakeLevelNew.LakeLevelNew_C' with ClassGeneratedBy '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew'
+[2019.05.11-13.21.56:858][280]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.11-13.21.56:858][280]PIE: New page: PIE session: LakeLevelNew (May 12, 2019, 5:21:56 AM)
+[2019.05.11-13.21.56:858][280]LogPlayLevel: Creating play world package: /Game/Terrain/4/UEDPIE_0_LakeLevelNew
+[2019.05.11-13.21.56:961][280]LogPlayLevel: PIE: StaticDuplicateObject took: (0.102542s)
+[2019.05.11-13.21.56:962][280]LogAIModule: Creating AISystem for world LakeLevelNew
+[2019.05.11-13.21.56:962][280]LogPlayLevel: PIE: World Init took: (0.000674s)
+[2019.05.11-13.21.56:962][280]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Terrain/4/LakeLevelNew.LakeLevelNew to /Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew (0.103547s)
+[2019.05.11-13.21.57:101][280]LogInit: XAudio2 using '扬声器/听筒 (Realtek Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.05.11-13.21.57:143][280]LogInit: FAudioDevice initialized.
+[2019.05.11-13.21.57:170][280]LogLoad: Game class is 'NewGameMode_C'
+[2019.05.11-13.21.57:263][280]LogWorld: Bringing World /Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew up for play (max tick rate 60) at 2019.05.11-21.21.57
+[2019.05.11-13.21.57:268][280]LogWorld: Bringing up level for play took: 0.096775
+[2019.05.11-13.21.57:291][280]PIE: Play in editor start time for /Game/Terrain/4/UEDPIE_0_LakeLevelNew 1.119
+[2019.05.11-13.21.57:292][280]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel' has LevelScriptBlueprint '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew' with GeneratedClass '/Game/Terrain/4/LakeLevelNew.LakeLevelNew_C' with ClassGeneratedBy '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew'
+[2019.05.11-13.22.02:339][580]LogAnimMontage: Warning: Playing a Montage (攻击_Montage) for the wrong Skeleton (BossZBrush2_Skeleton) instead of (little_Skeleton).
+[2019.05.11-13.22.02:938][616]LogAnimMontage: Warning: Playing a Montage (攻击_Montage) for the wrong Skeleton (BossZBrush2_Skeleton) instead of (little_Skeleton).
+[2019.05.11-13.22.03:490][649]LogAnimMontage: Warning: Playing a Montage (攻击_Montage) for the wrong Skeleton (BossZBrush2_Skeleton) instead of (little_Skeleton).
+[2019.05.11-13.22.03:972][678]LogAnimMontage: Warning: Playing a Montage (攻击_Montage) for the wrong Skeleton (BossZBrush2_Skeleton) instead of (little_Skeleton).
+[2019.05.11-13.22.04:522][711]LogAnimMontage: Warning: Playing a Montage (攻击_Montage) for the wrong Skeleton (BossZBrush2_Skeleton) instead of (little_Skeleton).
+[2019.05.11-13.22.04:999][739]LogAnimMontage: Warning: Playing a Montage (攻击_Montage) for the wrong Skeleton (BossZBrush2_Skeleton) instead of (little_Skeleton).
+[2019.05.11-13.22.05:614][776]LogAnimMontage: Warning: Playing a Montage (攻击_Montage) for the wrong Skeleton (BossZBrush2_Skeleton) instead of (little_Skeleton).
+[2019.05.11-13.22.06:096][805]LogAnimMontage: Warning: Playing a Montage (攻击_Montage) for the wrong Skeleton (BossZBrush2_Skeleton) instead of (little_Skeleton).
+[2019.05.11-13.22.11:113][106]LogAnimMontage: Warning: Playing a Montage (攻击_Montage) for the wrong Skeleton (BossZBrush2_Skeleton) instead of (little_Skeleton).
+[2019.05.11-13.22.11:597][135]LogAnimMontage: Warning: Playing a Montage (攻击_Montage) for the wrong Skeleton (BossZBrush2_Skeleton) instead of (little_Skeleton).
+[2019.05.11-13.22.12:047][162]LogAnimMontage: Warning: Playing a Montage (攻击_Montage) for the wrong Skeleton (BossZBrush2_Skeleton) instead of (little_Skeleton).
+[2019.05.11-13.22.12:480][187]LogAnimMontage: Warning: Playing a Montage (攻击_Montage) for the wrong Skeleton (BossZBrush2_Skeleton) instead of (little_Skeleton).
+[2019.05.11-13.22.12:965][216]LogAnimMontage: Warning: Playing a Montage (攻击_Montage) for the wrong Skeleton (BossZBrush2_Skeleton) instead of (little_Skeleton).
+[2019.05.11-13.22.13:417][243]LogAnimMontage: Warning: Playing a Montage (攻击_Montage) for the wrong Skeleton (BossZBrush2_Skeleton) instead of (little_Skeleton).
+[2019.05.11-13.22.14:018][279]LogAnimMontage: Warning: Playing a Montage (攻击_Montage) for the wrong Skeleton (BossZBrush2_Skeleton) instead of (little_Skeleton).
+[2019.05.11-13.22.14:542][310]LogAnimMontage: Warning: Playing a Montage (攻击_Montage) for the wrong Skeleton (BossZBrush2_Skeleton) instead of (little_Skeleton).
+[2019.05.11-13.22.17:160][453]LogAnimMontage: Warning: Playing a Montage (攻击_Montage) for the wrong Skeleton (BossZBrush2_Skeleton) instead of (little_Skeleton).
+[2019.05.11-13.22.17:710][486]LogAnimMontage: Warning: Playing a Montage (攻击_Montage) for the wrong Skeleton (BossZBrush2_Skeleton) instead of (little_Skeleton).
+[2019.05.11-13.22.18:192][515]LogAnimMontage: Warning: Playing a Montage (攻击_Montage) for the wrong Skeleton (BossZBrush2_Skeleton) instead of (little_Skeleton).
+[2019.05.11-13.22.19:196][575]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel' has LevelScriptBlueprint '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew' with GeneratedClass '/Game/Terrain/4/LakeLevelNew.LakeLevelNew_C' with ClassGeneratedBy '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew'
+[2019.05.11-13.22.19:201][575]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.11-13.22.19:255][575]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.11-13.22.19:255][575]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel' has LevelScriptBlueprint '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew' with GeneratedClass '/Game/Terrain/4/LakeLevelNew.LakeLevelNew_C' with ClassGeneratedBy '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew'
+[2019.05.11-13.22.19:295][575]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.11-13.22.19:375][576]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2019.05.11-13.22.32:035][330]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.11-13.22.42:080][891]BlueprintLog: New page: Compile AIBoss
+[2019.05.11-13.22.49:888][317]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.11-13.23.08:588][407]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.11-13.23.08:669][412]BlueprintLog: New page: Compile AIBoss
+[2019.05.11-13.23.09:462][419]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/BIgBoss/AIBoss" FILE="C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Content/AI/BIgBoss/AIBoss.uasset" SILENT=true
+[2019.05.11-13.23.09:632][419]LogSavePackage: Moving 'C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Saved/AIBoss136967BA419A776936A020969CD8B7F9.tmp' to 'C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Content/AI/BIgBoss/AIBoss.uasset'
+[2019.05.11-13.23.11:930][548]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.11-13.23.11:965][548]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel' has LevelScriptBlueprint '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew' with GeneratedClass '/Game/Terrain/4/LakeLevelNew.LakeLevelNew_C' with ClassGeneratedBy '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew'
+[2019.05.11-13.23.11:968][548]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.11-13.23.11:968][548]PIE: New page: PIE session: LakeLevelNew (May 12, 2019, 5:23:11 AM)
+[2019.05.11-13.23.11:968][548]LogPlayLevel: Creating play world package: /Game/Terrain/4/UEDPIE_0_LakeLevelNew
+[2019.05.11-13.23.12:064][548]LogPlayLevel: PIE: StaticDuplicateObject took: (0.097099s)
+[2019.05.11-13.23.12:065][548]LogAIModule: Creating AISystem for world LakeLevelNew
+[2019.05.11-13.23.12:065][548]LogPlayLevel: PIE: World Init took: (0.000662s)
+[2019.05.11-13.23.12:065][548]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Terrain/4/LakeLevelNew.LakeLevelNew to /Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew (0.097929s)
+[2019.05.11-13.23.12:200][548]LogInit: XAudio2 using '扬声器/听筒 (Realtek Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.05.11-13.23.12:240][548]LogInit: FAudioDevice initialized.
+[2019.05.11-13.23.12:279][548]LogLoad: Game class is 'NewGameMode_C'
+[2019.05.11-13.23.12:364][548]LogWorld: Bringing World /Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew up for play (max tick rate 60) at 2019.05.11-21.23.12
+[2019.05.11-13.23.12:370][548]LogWorld: Bringing up level for play took: 0.090920
+[2019.05.11-13.23.12:392][548]PIE: Play in editor start time for /Game/Terrain/4/UEDPIE_0_LakeLevelNew 0.22
+[2019.05.11-13.23.12:392][548]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel' has LevelScriptBlueprint '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew' with GeneratedClass '/Game/Terrain/4/LakeLevelNew.LakeLevelNew_C' with ClassGeneratedBy '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew'
+[2019.05.11-13.23.13:088][588]LogCharacterMovement: AICharacter3_2 is stuck and failed to move! Velocity: X=85.49 Y=156.35 Z=0.00 Location: X=-11499.13 Y=-8629.99 Z=77.33 Normal: X=-0.67 Y=-0.44 Z=0.60 PenetrationDepth:0.000 Actor:GameManager_4 Component:StaticMesh BoneName:None (0 other events since notify)
+[2019.05.11-13.23.20:141][  9]LogCharacterMovement: AICharacter4 is stuck and failed to move! Velocity: X=-199.68 Y=-11.27 Z=0.00 Location: X=12494.71 Y=4064.13 Z=227.65 Normal: X=0.00 Y=0.00 Z=1.00 PenetrationDepth:0.000 Actor:Cylinder_2 Component:StaticMeshComponent0 BoneName:None (0 other events since notify)
+[2019.05.11-13.23.22:826][170]LogAnimMontage: Warning: Playing a Montage (攻击_Montage) for the wrong Skeleton (BossZBrush2_Skeleton) instead of (little_Skeleton).
+[2019.05.11-13.23.23:279][197]LogAnimMontage: Warning: Playing a Montage (攻击_Montage) for the wrong Skeleton (BossZBrush2_Skeleton) instead of (little_Skeleton).
+[2019.05.11-13.23.31:745][703]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel' has LevelScriptBlueprint '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew' with GeneratedClass '/Game/Terrain/4/LakeLevelNew.LakeLevelNew_C' with ClassGeneratedBy '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew'
+[2019.05.11-13.23.31:750][703]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.11-13.23.31:799][703]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.11-13.23.31:799][703]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel' has LevelScriptBlueprint '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew' with GeneratedClass '/Game/Terrain/4/LakeLevelNew.LakeLevelNew_C' with ClassGeneratedBy '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew'
+[2019.05.11-13.23.31:842][703]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.11-13.23.31:953][704]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2019.05.11-13.23.32:746][726]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.11-13.23.34:618][769]LogSlate: Window 'Save Content' being destroyed
+[2019.05.11-13.23.34:902][769]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Terrain/4/LakeLevelNew" FILE="C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Content/Terrain/4/LakeLevelNew.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.05.11-13.23.39:027][769]LogSavePackage: Moving 'C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Saved/LakeLevelNewEB9407D241C7FBA35D30FCB1C50FF3E6.tmp' to 'C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Content/Terrain/4/LakeLevelNew.umap'
+[2019.05.11-13.23.39:085][769]LogFileHelpers: Saving map 'LakeLevelNew' took 4.417
+[2019.05.11-13.23.43:781][ 35]LogAIModule: Creating AISystem for world TestBos
+[2019.05.11-13.23.43:791][ 35]LogAssetEditorManager: Opening Asset editor for World /Game/Test/TestBos.TestBos
+[2019.05.11-13.23.43:831][ 35]Cmd: MAP LOAD FILE="C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Content/Test/TestBos.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.05.11-13.23.43:831][ 35]LightingResults: New page: Lighting Build
+[2019.05.11-13.23.43:832][ 35]LoadErrors: New page: Loading map: TestBos.umap
+[2019.05.11-13.23.43:846][ 35]MapCheck: New page: Map Check
+[2019.05.11-13.23.43:846][ 35]LightingResults: New page: Lighting Build
+[2019.05.11-13.23.44:080][ 35]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.05.11-13.23.44:143][ 35]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.05.11-13.23.44:357][ 35]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 213.412ms to complete.
+[2019.05.11-13.23.44:359][ 35]LogFileHelpers: Loading map 'TestBos' took 0.528
+[2019.05.11-13.23.47:222][201]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.11-13.23.47:286][205]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.11-13.23.47:321][205]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.11-13.23.47:321][205]PIE: New page: PIE session: TestBos (May 12, 2019, 5:23:47 AM)
+[2019.05.11-13.23.47:321][205]LogPlayLevel: Creating play world package: /Game/Test/UEDPIE_0_TestBos
+[2019.05.11-13.23.47:329][205]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007797s)
+[2019.05.11-13.23.47:330][205]LogAIModule: Creating AISystem for world TestBos
+[2019.05.11-13.23.47:331][205]LogPlayLevel: PIE: World Init took: (0.001108s)
+[2019.05.11-13.23.47:331][205]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Test/TestBos.TestBos to /Game/Test/UEDPIE_0_TestBos.TestBos (0.009181s)
+[2019.05.11-13.23.47:464][205]LogInit: XAudio2 using '扬声器/听筒 (Realtek Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.05.11-13.23.47:504][205]LogInit: FAudioDevice initialized.
+[2019.05.11-13.23.47:538][205]LogLoad: Game class is 'GameModeBase'
+[2019.05.11-13.23.47:541][205]LogWorld: Bringing World /Game/Test/UEDPIE_0_TestBos.TestBos up for play (max tick rate 60) at 2019.05.11-21.23.47
+[2019.05.11-13.23.47:541][205]LogWorld: Bringing up level for play took: 0.002394
+[2019.05.11-13.23.47:560][205]PIE: Play in editor start time for /Game/Test/UEDPIE_0_TestBos -0.612
+[2019.05.11-13.23.51:166][420]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.11-13.23.51:207][420]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.11-13.23.51:247][420]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.11-13.23.51:306][421]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2019.05.11-13.23.53:306][536]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.11-13.23.59:192][774]LogWindows: Error: === Critical error: ===
+[2019.05.11-13.23.59:192][774]LogWindows: Error: 
+[2019.05.11-13.23.59:192][774]LogWindows: Error: Fatal error!
+[2019.05.11-13.23.59:192][774]LogWindows: Error: 
+[2019.05.11-13.23.59:192][774]LogWindows: Error: Unhandled Exception: EXCEPTION_ACCESS_VIOLATION reading address 0x00000008
+[2019.05.11-13.23.59:192][774]LogWindows: Error: 
+[2019.05.11-13.23.59:192][774]LogWindows: Error: [Callstack] 0x00007ffa08dbc181 UE4Editor-Landscape.dll!UnknownFunction []
+[2019.05.11-13.23.59:192][774]LogWindows: Error: [Callstack] 0x00007ffa08d37263 UE4Editor-Landscape.dll!UnknownFunction []
+[2019.05.11-13.23.59:192][774]LogWindows: Error: [Callstack] 0x00007ffa08d31aa2 UE4Editor-Landscape.dll!UnknownFunction []
+[2019.05.11-13.23.59:192][774]LogWindows: Error: [Callstack] 0x00007ffa08d318a4 UE4Editor-Landscape.dll!UnknownFunction []
+[2019.05.11-13.23.59:192][774]LogWindows: Error: [Callstack] 0x00007ffa0a343345 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.05.11-13.23.59:192][774]LogWindows: Error: [Callstack] 0x00007ffa0a42b7a1 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.05.11-13.23.59:192][774]LogWindows: Error: [Callstack] 0x00007ffa0a4462c4 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.05.11-13.23.59:193][774]LogWindows: Error: [Callstack] 0x00007ffa0a4454b9 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.05.11-13.23.59:193][774]LogWindows: Error: [Callstack] 0x00007ffa0a45c30e UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.05.11-13.23.59:193][774]LogWindows: Error: [Callstack] 0x00007ffa0a469a28 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.05.11-13.23.59:193][774]LogWindows: Error: [Callstack] 0x00007ffa0a46916e UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.05.11-13.23.59:193][774]LogWindows: Error: [Callstack] 0x00007ff9c0ad3e37 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2019.05.11-13.23.59:193][774]LogWindows: Error: [Callstack] 0x00007ff9c0a90499 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2019.05.11-13.23.59:193][774]LogWindows: Error: [Callstack] 0x00007ff9c0adefe3 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2019.05.11-13.23.59:193][774]LogWindows: Error: [Callstack] 0x00007ff9c0a8e1ea UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2019.05.11-13.23.59:193][774]LogWindows: Error: [Callstack] 0x00007ff9c0a8ab30 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2019.05.11-13.23.59:193][774]LogWindows: Error: [Callstack] 0x00007ff9c0aeb950 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2019.05.11-13.23.59:193][774]LogWindows: Error: [Callstack] 0x00007ff9c0adf4af UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2019.05.11-13.23.59:193][774]LogWindows: Error: [Callstack] 0x00007ffa09a08f0a UE4Editor-Slate.dll!UnknownFunction []
+[2019.05.11-13.23.59:193][774]LogWindows: Error: [Callstack] 0x00007ffa09a9fdce UE4Editor-Slate.dll!UnknownFunction []
+[2019.05.11-13.23.59:193][774]LogWindows: Error: [Callstack] 0x00007ffa09a86fca UE4Editor-Slate.dll!UnknownFunction []
+[2019.05.11-13.23.59:193][774]LogWindows: Error: [Callstack] 0x00007ffa09a7a87a UE4Editor-Slate.dll!UnknownFunction []
+[2019.05.11-13.23.59:193][774]LogWindows: Error: [Callstack] 0x00007ffa1b68d16f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.05.11-13.23.59:193][774]LogWindows: Error: [Callstack] 0x00007ffa1b680270 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.05.11-13.23.59:193][774]LogWindows: Error: [Callstack] 0x00007ffa1b68f4c5 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.05.11-13.23.59:193][774]LogWindows: Error: [Callstack] 0x00007ffa1b67c209 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.05.11-13.23.59:193][774]LogWindows: Error: [Callstack] 0x00007ffa551a6d41 USER32.dll!UnknownFunction []
+[2019.05.11-13.23.59:193][774]LogWindows: Error: [Callstack] 0x00007ffa551a6713 USER32.dll!UnknownFunction []
+[2019.05.11-13.23.59:193][774]LogWindows: Error: [Callstack] 0x00007ffa1b690646 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.05.11-13.23.59:193][774]LogWindows: Error: [Callstack] 0x00007ff7ebac54e5 UE4Editor.exe!UnknownFunction []
+[2019.05.11-13.23.59:193][774]LogWindows: Error: [Callstack] 0x00007ff7ebad5b3c UE4Editor.exe!UnknownFunction []
+[2019.05.11-13.23.59:193][774]LogWindows: Error: [Callstack] 0x00007ff7ebad5bba UE4Editor.exe!UnknownFunction []
+[2019.05.11-13.23.59:193][774]LogWindows: Error: [Callstack] 0x00007ff7ebae3dac UE4Editor.exe!UnknownFunction []
+[2019.05.11-13.23.59:193][774]LogWindows: Error: [Callstack] 0x00007ff7ebae5aaa UE4Editor.exe!UnknownFunction []
+[2019.05.11-13.23.59:193][774]LogWindows: Error: [Callstack] 0x00007ffa55014034 KERNEL32.DLL!UnknownFunction []
+[2019.05.11-13.23.59:193][774]LogWindows: Error: [Callstack] 0x00007ffa55a53691 ntdll.dll!UnknownFunction []
+[2019.05.11-13.23.59:193][774]LogWindows: Error: 
+[2019.05.11-13.23.59:219][774]LogExit: Executing StaticShutdownAfterError
+[2019.05.11-13.23.59:226][774]LogWindows: FPlatformMisc::RequestExit(1)
+[2019.05.11-13.23.59:236][774]Log file closed, 05/11/19 21:23:59
