@@ -3451,3 +3451,308 @@ LogInit: Object subsystem initialized
 [2019.05.11-17.21.47:019][683]LogPlayLevel: Display: Destroying online subsystem :Context_28
 [2019.05.11-17.21.49:127][801]LogSlate: FSceneViewport::OnFocusLost() reason 0
 [2019.05.11-17.21.59:893][410]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.11-17.26.11:613][454]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.11-17.27.37:534][479]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.11-17.27.56:434][554]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Misc/GameManager.GameManager
+[2019.05.11-17.28.02:338][806]LogUObjectArray: Warning: Other object in slot
+[2019.05.11-17.28.02:824][806]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.485 s
+[2019.05.11-17.28.02:824][806]LogOutputDevice: Error: === Handled ensure: ===
+[2019.05.11-17.28.02:824][806]LogOutputDevice: Error: 
+[2019.05.11-17.28.02:824][806]LogOutputDevice: Error: Ensure condition failed: false [File:D:\Build\++UE4\Sync\Engine\Source\Editor\UnrealEd\Private\Kismet2\KismetDebugUtilities.cpp] [Line: 1142]
+[2019.05.11-17.28.02:824][806]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2019.05.11-17.28.02:824][806]LogOutputDevice: Error: Stack: 
+[2019.05.11-17.28.02:824][806]LogOutputDevice: Error: [Callstack] 0x00007ffa0abc71f6 UE4Editor-Core.dll!UnknownFunction []
+[2019.05.11-17.28.02:824][806]LogOutputDevice: Error: [Callstack] 0x00007ffa0a900c92 UE4Editor-Core.dll!UnknownFunction []
+[2019.05.11-17.28.02:824][806]LogOutputDevice: Error: [Callstack] 0x00007ffa0a91b356 UE4Editor-Core.dll!UnknownFunction []
+[2019.05.11-17.28.02:824][806]LogOutputDevice: Error: [Callstack] 0x00007ff9fc1d11db UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.05.11-17.28.02:824][806]LogOutputDevice: Error: [Callstack] 0x00007ff9fc1e060e UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.05.11-17.28.02:824][806]LogOutputDevice: Error: [Callstack] 0x00007ffa0481da7a UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2019.05.11-17.28.02:824][806]LogOutputDevice: Error: [Callstack] 0x00007ffa0132ec2a UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.05.11-17.28.02:824][806]LogOutputDevice: Error: [Callstack] 0x00007ffa012ef337 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.05.11-17.28.02:824][806]LogOutputDevice: Error: [Callstack] 0x00007ffa09a58204 UE4Editor-Slate.dll!UnknownFunction []
+[2019.05.11-17.28.02:824][806]LogOutputDevice: Error: [Callstack] 0x00007ffa09c9e933 UE4Editor-Slate.dll!UnknownFunction []
+[2019.05.11-17.28.02:824][806]LogOutputDevice: Error: [Callstack] 0x00007ffa09ab281a UE4Editor-Slate.dll!UnknownFunction []
+[2019.05.11-17.28.02:824][806]LogOutputDevice: Error: [Callstack] 0x00007ffa09a88190 UE4Editor-Slate.dll!UnknownFunction []
+[2019.05.11-17.28.02:824][806]LogOutputDevice: Error: [Callstack] 0x00007ffa09a7b073 UE4Editor-Slate.dll!UnknownFunction []
+[2019.05.11-17.28.02:824][806]LogOutputDevice: Error: [Callstack] 0x00007ffa1b68d007 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.05.11-17.28.02:824][806]LogOutputDevice: Error: [Callstack] 0x00007ffa1b680270 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.05.11-17.28.02:824][806]LogOutputDevice: Error: [Callstack] 0x00007ffa1b68f4c5 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.05.11-17.28.02:824][806]LogOutputDevice: Error: [Callstack] 0x00007ffa1b67c209 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.05.11-17.28.02:824][806]LogOutputDevice: Error: [Callstack] 0x00007ffa551a6d41 USER32.dll!UnknownFunction []
+[2019.05.11-17.28.02:824][806]LogOutputDevice: Error: [Callstack] 0x00007ffa551a6713 USER32.dll!UnknownFunction []
+[2019.05.11-17.28.02:824][806]LogOutputDevice: Error: [Callstack] 0x00007ffa1b690646 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.05.11-17.28.02:824][806]LogOutputDevice: Error: [Callstack] 0x00007ff7ebac54e5 UE4Editor.exe!UnknownFunction []
+[2019.05.11-17.28.02:824][806]LogOutputDevice: Error: [Callstack] 0x00007ff7ebad5b3c UE4Editor.exe!UnknownFunction []
+[2019.05.11-17.28.02:824][806]LogOutputDevice: Error: [Callstack] 0x00007ff7ebad5bba UE4Editor.exe!UnknownFunction []
+[2019.05.11-17.28.02:824][806]LogOutputDevice: Error: [Callstack] 0x00007ff7ebae3dac UE4Editor.exe!UnknownFunction []
+[2019.05.11-17.28.02:824][806]LogOutputDevice: Error: [Callstack] 0x00007ff7ebae5aaa UE4Editor.exe!UnknownFunction []
+[2019.05.11-17.28.02:824][806]LogOutputDevice: Error: [Callstack] 0x00007ffa55014034 KERNEL32.DLL!UnknownFunction []
+[2019.05.11-17.28.02:824][806]LogOutputDevice: Error: [Callstack] 0x00007ffa55a53691 ntdll.dll!UnknownFunction []
+[2019.05.11-17.28.02:824][806]LogOutputDevice: Error: 
+[2019.05.11-17.28.02:829][806]LogStats:                SubmitErrorReport -  0.000 s
+[2019.05.11-17.28.03:862][806]LogStats:                    SendNewReport -  1.034 s
+[2019.05.11-17.28.03:862][806]LogStats:             FDebug::EnsureFailed -  1.525 s
+[2019.05.11-17.28.03:863][806]LogUObjectArray: Warning: Other object in slot
+[2019.05.11-17.28.09:083][ 69]LogUObjectArray: Warning: Other object in slot
+[2019.05.11-17.28.09:083][ 69]LogUObjectArray: Warning: Other object in slot
+[2019.05.11-17.28.45:036][ 36]BlueprintLog: New page: Compile MamiVal
+[2019.05.11-17.28.45:882][ 46]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Misc/MamiVal" FILE="C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Content/Blueprints/Misc/MamiVal.uasset" SILENT=true
+[2019.05.11-17.28.45:944][ 46]LogSavePackage: Moving 'C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Saved/MamiVal4335A47045EB6EB3CAE0339C3D110AB7.tmp' to 'C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Content/Blueprints/Misc/MamiVal.uasset'
+[2019.05.11-17.28.48:469][178]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.11-17.28.48:490][178]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel' has LevelScriptBlueprint '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew' with GeneratedClass '/Game/Terrain/4/LakeLevelNew.LakeLevelNew_C' with ClassGeneratedBy '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew'
+[2019.05.11-17.28.48:493][178]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.11-17.28.48:493][178]PIE: New page: PIE session: LakeLevelNew (May 12, 2019, 9:28:48 AM)
+[2019.05.11-17.28.48:493][178]LogPlayLevel: Creating play world package: /Game/Terrain/4/UEDPIE_0_LakeLevelNew
+[2019.05.11-17.28.48:587][178]LogPlayLevel: PIE: StaticDuplicateObject took: (0.093796s)
+[2019.05.11-17.28.48:588][178]LogAIModule: Creating AISystem for world LakeLevelNew
+[2019.05.11-17.28.48:588][178]LogPlayLevel: PIE: World Init took: (0.000641s)
+[2019.05.11-17.28.48:588][178]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Terrain/4/LakeLevelNew.LakeLevelNew to /Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew (0.094606s)
+[2019.05.11-17.28.48:731][178]LogInit: XAudio2 using '扬声器/听筒 (Realtek Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.05.11-17.28.48:777][178]LogInit: FAudioDevice initialized.
+[2019.05.11-17.28.48:814][178]LogLoad: Game class is 'NewGameMode_C'
+[2019.05.11-17.28.48:909][178]LogWorld: Bringing World /Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew up for play (max tick rate 60) at 2019.05.12-01.28.48
+[2019.05.11-17.28.48:916][178]LogWorld: Bringing up level for play took: 0.101671
+[2019.05.11-17.28.48:934][178]PIE: Play in editor start time for /Game/Terrain/4/UEDPIE_0_LakeLevelNew 0.762
+[2019.05.11-17.28.48:935][178]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel' has LevelScriptBlueprint '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew' with GeneratedClass '/Game/Terrain/4/LakeLevelNew.LakeLevelNew_C' with ClassGeneratedBy '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew'
+[2019.05.11-17.29.30:901][609]LogBlueprintUserMessages: [MamiVal2_5] 0
+[2019.05.11-17.29.54:681][ 33]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel' has LevelScriptBlueprint '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew' with GeneratedClass '/Game/Terrain/4/LakeLevelNew.LakeLevelNew_C' with ClassGeneratedBy '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew'
+[2019.05.11-17.29.54:685][ 33]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.11-17.29.54:756][ 33]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.11-17.29.54:756][ 33]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel' has LevelScriptBlueprint '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew' with GeneratedClass '/Game/Terrain/4/LakeLevelNew.LakeLevelNew_C' with ClassGeneratedBy '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew'
+[2019.05.11-17.29.54:805][ 33]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.11-17.29.54:961][ 34]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2019.05.11-17.30.05:029][631]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.11-17.31.10:048][228]BlueprintLog: New page: Compile MamiVal
+[2019.05.11-17.31.10:801][238]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Misc/MamiVal" FILE="C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Content/Blueprints/Misc/MamiVal.uasset" SILENT=true
+[2019.05.11-17.31.10:855][238]LogSavePackage: Moving 'C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Saved/MamiVal7F0AC68547A240D8218675938C1F6FD6.tmp' to 'C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Content/Blueprints/Misc/MamiVal.uasset'
+[2019.05.11-17.31.23:746][898]BlueprintLog: New page: Compile MamiVal
+[2019.05.11-17.31.24:562][905]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Misc/MamiVal" FILE="C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Content/Blueprints/Misc/MamiVal.uasset" SILENT=true
+[2019.05.11-17.31.24:622][905]LogSavePackage: Moving 'C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Saved/MamiVal7C3EBCA0414F780E318C0CB0AE2A3769.tmp' to 'C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Content/Blueprints/Misc/MamiVal.uasset'
+[2019.05.11-17.31.27:305][ 44]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.11-17.31.27:337][ 44]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel' has LevelScriptBlueprint '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew' with GeneratedClass '/Game/Terrain/4/LakeLevelNew.LakeLevelNew_C' with ClassGeneratedBy '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew'
+[2019.05.11-17.31.27:340][ 44]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.11-17.31.27:340][ 44]PIE: New page: PIE session: LakeLevelNew (May 12, 2019, 9:31:27 AM)
+[2019.05.11-17.31.27:341][ 44]LogPlayLevel: Creating play world package: /Game/Terrain/4/UEDPIE_0_LakeLevelNew
+[2019.05.11-17.31.27:464][ 44]LogPlayLevel: PIE: StaticDuplicateObject took: (0.123393s)
+[2019.05.11-17.31.27:464][ 44]LogAIModule: Creating AISystem for world LakeLevelNew
+[2019.05.11-17.31.27:464][ 44]LogPlayLevel: PIE: World Init took: (0.000663s)
+[2019.05.11-17.31.27:464][ 44]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Terrain/4/LakeLevelNew.LakeLevelNew to /Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew (0.124246s)
+[2019.05.11-17.31.27:615][ 44]LogInit: XAudio2 using '扬声器/听筒 (Realtek Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.05.11-17.31.27:656][ 44]LogInit: FAudioDevice initialized.
+[2019.05.11-17.31.27:689][ 44]LogLoad: Game class is 'NewGameMode_C'
+[2019.05.11-17.31.27:798][ 44]LogWorld: Bringing World /Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew up for play (max tick rate 60) at 2019.05.12-01.31.27
+[2019.05.11-17.31.27:806][ 44]LogWorld: Bringing up level for play took: 0.116534
+[2019.05.11-17.31.27:829][ 44]PIE: Play in editor start time for /Game/Terrain/4/UEDPIE_0_LakeLevelNew -0.343
+[2019.05.11-17.31.27:829][ 44]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel' has LevelScriptBlueprint '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew' with GeneratedClass '/Game/Terrain/4/LakeLevelNew.LakeLevelNew_C' with ClassGeneratedBy '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew'
+[2019.05.11-17.31.28:667][ 83]LogCharacterMovement: AICharacter3_2 is stuck and failed to move! Velocity: X=88.10 Y=151.59 Z=0.00 Location: X=-11499.00 Y=-8629.48 Z=77.33 Normal: X=-0.67 Y=-0.44 Z=0.60 PenetrationDepth:0.000 Actor:GameManager_4 Component:StaticMesh BoneName:None (0 other events since notify)
+[2019.05.11-17.31.29:800][151]LogCharacterMovement: AICharacter3_2 is stuck and failed to move! Velocity: X=-48.45 Y=194.04 Z=0.00 Location: X=-11496.63 Y=-8563.93 Z=77.36 Normal: X=0.21 Y=-0.62 Z=0.76 PenetrationDepth:0.000 Actor:GameManager_4 Component:StaticMesh BoneName:None (7 other events since notify)
+[2019.05.11-17.31.31:061][226]LogCharacterMovement: AICharacter3_2 is stuck and failed to move! Velocity: X=-47.35 Y=194.31 Z=0.00 Location: X=-11497.23 Y=-8561.63 Z=77.38 Normal: X=0.26 Y=-0.63 Z=0.73 PenetrationDepth:0.000 Actor:GameManager_4 Component:StaticMesh BoneName:None (6 other events since notify)
+[2019.05.11-17.31.32:129][290]LogCharacterMovement: AICharacter3_2 is stuck and failed to move! Velocity: X=-45.98 Y=194.64 Z=0.00 Location: X=-11497.57 Y=-8562.32 Z=77.55 Normal: X=0.26 Y=-0.63 Z=0.73 PenetrationDepth:0.000 Actor:GameManager_4 Component:StaticMesh BoneName:None (8 other events since notify)
+[2019.05.11-17.31.33:502][362]LogCharacterMovement: AICharacter3_2 is stuck and failed to move! Velocity: X=-46.38 Y=194.55 Z=0.00 Location: X=-11497.51 Y=-8561.96 Z=77.55 Normal: X=0.26 Y=-0.63 Z=0.73 PenetrationDepth:0.000 Actor:GameManager_4 Component:StaticMesh BoneName:None (6 other events since notify)
+[2019.05.11-17.31.38:690][673]LogCharacterMovement: AICharacter3_2 is stuck and failed to move! Velocity: X=-7.94 Y=67.80 Z=0.00 Location: X=-11497.02 Y=-8562.90 Z=77.25 Normal: X=0.16 Y=-0.70 Z=0.69 PenetrationDepth:0.000 Actor:GameManager_4 Component:StaticMesh BoneName:None (0 other events since notify)
+[2019.05.11-17.31.39:691][733]LogCharacterMovement: AICharacter3_2 is stuck and failed to move! Velocity: X=-26.65 Y=198.22 Z=0.00 Location: X=-11495.54 Y=-8560.07 Z=77.36 Normal: X=-0.58 Y=-0.41 Z=0.70 PenetrationDepth:0.000 Actor:GameManager_4 Component:StaticMesh BoneName:None (27 other events since notify)
+[2019.05.11-17.31.40:693][793]LogCharacterMovement: AICharacter3_2 is stuck and failed to move! Velocity: X=-26.01 Y=198.30 Z=0.00 Location: X=-11495.88 Y=-8561.47 Z=77.36 Normal: X=-0.58 Y=-0.41 Z=0.70 PenetrationDepth:0.000 Actor:GameManager_4 Component:StaticMesh BoneName:None (39 other events since notify)
+[2019.05.11-17.31.41:727][854]LogCharacterMovement: AICharacter3_2 is stuck and failed to move! Velocity: X=-27.09 Y=198.16 Z=0.00 Location: X=-11495.27 Y=-8560.17 Z=77.36 Normal: X=-0.58 Y=-0.41 Z=0.70 PenetrationDepth:0.000 Actor:GameManager_4 Component:StaticMesh BoneName:None (36 other events since notify)
+[2019.05.11-17.31.42:738][912]LogCharacterMovement: AICharacter3_2 is stuck and failed to move! Velocity: X=-24.44 Y=198.50 Z=0.00 Location: X=-11496.15 Y=-8562.35 Z=77.39 Normal: X=-0.92 Y=0.27 Z=0.28 PenetrationDepth:0.000 Actor:GameManager_4 Component:StaticMesh BoneName:None (40 other events since notify)
+[2019.05.11-17.31.48:366][225]LogCharacterMovement: AICharacter3_2 is stuck and failed to move! Velocity: X=54.93 Y=-3.54 Z=0.00 Location: X=-11495.49 Y=-8560.47 Z=77.36 Normal: X=-0.58 Y=-0.41 Z=0.70 PenetrationDepth:0.000 Actor:GameManager_4 Component:StaticMesh BoneName:None (15 other events since notify)
+[2019.05.11-17.32.07:031][292]LogBlueprintUserMessages: [MamiVal2_5] 0
+[2019.05.11-17.32.28:337][488]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel' has LevelScriptBlueprint '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew' with GeneratedClass '/Game/Terrain/4/LakeLevelNew.LakeLevelNew_C' with ClassGeneratedBy '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew'
+[2019.05.11-17.32.28:341][488]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.11-17.32.28:413][488]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.11-17.32.28:414][488]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel' has LevelScriptBlueprint '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew' with GeneratedClass '/Game/Terrain/4/LakeLevelNew.LakeLevelNew_C' with ClassGeneratedBy '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew'
+[2019.05.11-17.32.28:462][488]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.11-17.32.28:635][489]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2019.05.11-17.32.35:180][865]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.11-17.33.06:051][405]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Hero/MyChar" FILE="C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Content/Blueprints/Hero/MyChar.uasset" SILENT=true
+[2019.05.11-17.33.06:392][405]LogSavePackage: Moving 'C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Saved/MyChar783AE3DD46F14DAF43381B80332DD1CD.tmp' to 'C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Content/Blueprints/Hero/MyChar.uasset'
+[2019.05.11-17.33.42:384][119]BlueprintLog: New page: Compile MyChar
+[2019.05.11-17.33.45:688][230]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.11-17.33.45:739][230]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel' has LevelScriptBlueprint '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew' with GeneratedClass '/Game/Terrain/4/LakeLevelNew.LakeLevelNew_C' with ClassGeneratedBy '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew'
+[2019.05.11-17.33.45:742][230]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.11-17.33.45:742][230]PIE: New page: PIE session: LakeLevelNew (May 12, 2019, 9:33:45 AM)
+[2019.05.11-17.33.45:742][230]LogPlayLevel: Creating play world package: /Game/Terrain/4/UEDPIE_0_LakeLevelNew
+[2019.05.11-17.33.45:858][230]LogPlayLevel: PIE: StaticDuplicateObject took: (0.114941s)
+[2019.05.11-17.33.45:858][230]LogAIModule: Creating AISystem for world LakeLevelNew
+[2019.05.11-17.33.45:858][230]LogPlayLevel: PIE: World Init took: (0.000752s)
+[2019.05.11-17.33.45:859][230]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Terrain/4/LakeLevelNew.LakeLevelNew to /Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew (0.115933s)
+[2019.05.11-17.33.45:999][230]LogInit: XAudio2 using '扬声器/听筒 (Realtek Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.05.11-17.33.46:043][230]LogInit: FAudioDevice initialized.
+[2019.05.11-17.33.46:078][230]LogLoad: Game class is 'NewGameMode_C'
+[2019.05.11-17.33.46:180][230]LogWorld: Bringing World /Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew up for play (max tick rate 60) at 2019.05.12-01.33.46
+[2019.05.11-17.33.46:187][230]LogWorld: Bringing up level for play took: 0.107868
+[2019.05.11-17.33.46:206][230]PIE: Play in editor start time for /Game/Terrain/4/UEDPIE_0_LakeLevelNew 0.034
+[2019.05.11-17.33.46:206][230]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel' has LevelScriptBlueprint '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew' with GeneratedClass '/Game/Terrain/4/LakeLevelNew.LakeLevelNew_C' with ClassGeneratedBy '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew'
+[2019.05.11-17.33.59:900][  3]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel' has LevelScriptBlueprint '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew' with GeneratedClass '/Game/Terrain/4/LakeLevelNew.LakeLevelNew_C' with ClassGeneratedBy '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew'
+[2019.05.11-17.33.59:904][  3]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.11-17.33.59:966][  3]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.11-17.33.59:966][  3]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel' has LevelScriptBlueprint '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew' with GeneratedClass '/Game/Terrain/4/LakeLevelNew.LakeLevelNew_C' with ClassGeneratedBy '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew'
+[2019.05.11-17.34.00:021][  3]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.11-17.34.00:211][  4]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2019.05.11-17.34.02:004][110]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.11-17.34.04:938][217]LogSlate: Window 'Save Content' being destroyed
+[2019.05.11-17.34.04:997][217]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Hero/MyChar" FILE="C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Content/Blueprints/Hero/MyChar.uasset" SILENT=true
+[2019.05.11-17.34.05:377][217]LogSavePackage: Moving 'C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Saved/MyChar4ACCAA9B4BD91A4395035791139C39FD.tmp' to 'C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Content/Blueprints/Hero/MyChar.uasset'
+[2019.05.11-17.34.05:794][217]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Terrain/4/LakeLevelNew" FILE="C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Content/Terrain/4/LakeLevelNew.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.05.11-17.34.09:975][217]LogSavePackage: Moving 'C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Saved/LakeLevelNew32BF8EA9439FAE8557BE3E8AE9A0E51D.tmp' to 'C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Content/Terrain/4/LakeLevelNew.umap'
+[2019.05.11-17.34.10:042][217]LogFileHelpers: Saving map 'LakeLevelNew' took 4.642
+[2019.05.11-17.34.53:286][633]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.11-17.35.29:235][653]BlueprintLog: New page: Compile MamiVal
+[2019.05.11-17.35.30:323][678]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Misc/MamiVal" FILE="C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Content/Blueprints/Misc/MamiVal.uasset" SILENT=true
+[2019.05.11-17.35.30:386][678]LogSavePackage: Moving 'C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Saved/MamiValF9B8C6E84723166C8D1EFABB50FFD98A.tmp' to 'C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Content/Blueprints/Misc/MamiVal.uasset'
+[2019.05.11-17.35.33:831][864]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.11-17.35.33:860][864]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel' has LevelScriptBlueprint '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew' with GeneratedClass '/Game/Terrain/4/LakeLevelNew.LakeLevelNew_C' with ClassGeneratedBy '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew'
+[2019.05.11-17.35.33:863][864]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.11-17.35.33:863][864]PIE: New page: PIE session: LakeLevelNew (May 12, 2019, 9:35:33 AM)
+[2019.05.11-17.35.33:863][864]LogPlayLevel: Creating play world package: /Game/Terrain/4/UEDPIE_0_LakeLevelNew
+[2019.05.11-17.35.33:970][864]LogPlayLevel: PIE: StaticDuplicateObject took: (0.107210s)
+[2019.05.11-17.35.33:970][864]LogAIModule: Creating AISystem for world LakeLevelNew
+[2019.05.11-17.35.33:971][864]LogPlayLevel: PIE: World Init took: (0.000823s)
+[2019.05.11-17.35.33:971][864]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Terrain/4/LakeLevelNew.LakeLevelNew to /Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew (0.108289s)
+[2019.05.11-17.35.34:116][864]LogInit: XAudio2 using '扬声器/听筒 (Realtek Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.05.11-17.35.34:157][864]LogInit: FAudioDevice initialized.
+[2019.05.11-17.35.34:193][864]LogLoad: Game class is 'NewGameMode_C'
+[2019.05.11-17.35.34:285][864]LogWorld: Bringing World /Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew up for play (max tick rate 60) at 2019.05.12-01.35.34
+[2019.05.11-17.35.34:291][864]LogWorld: Bringing up level for play took: 0.097743
+[2019.05.11-17.35.34:310][864]PIE: Play in editor start time for /Game/Terrain/4/UEDPIE_0_LakeLevelNew 0.139
+[2019.05.11-17.35.34:311][864]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel' has LevelScriptBlueprint '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew' with GeneratedClass '/Game/Terrain/4/LakeLevelNew.LakeLevelNew_C' with ClassGeneratedBy '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew'
+[2019.05.11-17.35.43:390][396]LogBlueprintUserMessages: [MamiVal2_5] 0
+[2019.05.11-17.35.47:376][635]LogBlueprintUserMessages: [MamiVal2_5] xinagjihahha
+[2019.05.11-17.35.49:574][767]LogCharacterMovement: AICharacter3_2 is stuck and failed to move! Velocity: X=196.86 Y=-0.63 Z=0.00 Location: X=-11572.82 Y=-8521.88 Z=77.57 Normal: X=-0.58 Y=-0.41 Z=0.70 PenetrationDepth:0.000 Actor:GameManager_4 Component:StaticMesh BoneName:None (0 other events since notify)
+[2019.05.11-17.35.50:574][827]LogCharacterMovement: AICharacter3_2 is stuck and failed to move! Velocity: X=199.96 Y=-3.76 Z=0.00 Location: X=-11570.11 Y=-8518.60 Z=77.37 Normal: X=-0.58 Y=-0.41 Z=0.70 PenetrationDepth:0.000 Actor:GameManager_4 Component:StaticMesh BoneName:None (16 other events since notify)
+[2019.05.11-17.35.51:592][888]LogCharacterMovement: AICharacter3_2 is stuck and failed to move! Velocity: X=199.14 Y=-1.78 Z=0.00 Location: X=-11572.23 Y=-8521.23 Z=77.37 Normal: X=-0.58 Y=-0.41 Z=0.70 PenetrationDepth:0.000 Actor:GameManager_4 Component:StaticMesh BoneName:None (25 other events since notify)
+[2019.05.11-17.35.52:626][950]LogCharacterMovement: AICharacter3_2 is stuck and failed to move! Velocity: X=199.97 Y=-3.27 Z=0.00 Location: X=-11570.60 Y=-8519.37 Z=77.37 Normal: X=-0.58 Y=-0.41 Z=0.70 PenetrationDepth:0.000 Actor:GameManager_4 Component:StaticMesh BoneName:None (17 other events since notify)
+[2019.05.11-17.35.53:626][ 10]LogCharacterMovement: AICharacter3_2 is stuck and failed to move! Velocity: X=199.99 Y=-1.49 Z=0.00 Location: X=-11573.29 Y=-8522.17 Z=77.37 Normal: X=-0.58 Y=-0.41 Z=0.70 PenetrationDepth:0.000 Actor:GameManager_4 Component:StaticMesh BoneName:None (27 other events since notify)
+[2019.05.11-17.35.54:725][ 76]LogCharacterMovement: AICharacter3_2 is stuck and failed to move! Velocity: X=199.97 Y=-3.26 Z=0.00 Location: X=-11570.58 Y=-8519.39 Z=77.37 Normal: X=-0.58 Y=-0.41 Z=0.70 PenetrationDepth:0.000 Actor:GameManager_4 Component:StaticMesh BoneName:None (27 other events since notify)
+[2019.05.11-17.35.55:726][136]LogCharacterMovement: AICharacter3_2 is stuck and failed to move! Velocity: X=200.00 Y=-1.15 Z=0.00 Location: X=-11573.33 Y=-8522.70 Z=77.37 Normal: X=-0.58 Y=-0.41 Z=0.70 PenetrationDepth:0.000 Actor:GameManager_4 Component:StaticMesh BoneName:None (29 other events since notify)
+[2019.05.11-17.35.56:800][200]LogCharacterMovement: AICharacter3_2 is stuck and failed to move! Velocity: X=146.82 Y=28.10 Z=0.00 Location: X=-11571.49 Y=-8517.76 Z=77.42 Normal: X=-0.53 Y=-0.29 Z=0.80 PenetrationDepth:0.000 Actor:GameManager_4 Component:StaticMesh BoneName:None (16 other events since notify)
+[2019.05.11-17.35.57:883][265]LogCharacterMovement: AICharacter3_2 is stuck and failed to move! Velocity: X=177.43 Y=8.03 Z=0.00 Location: X=-11571.11 Y=-8518.44 Z=77.42 Normal: X=-0.53 Y=-0.29 Z=0.80 PenetrationDepth:0.000 Actor:GameManager_4 Component:StaticMesh BoneName:None (13 other events since notify)
+[2019.05.11-17.36.11:087][ 55]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel' has LevelScriptBlueprint '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew' with GeneratedClass '/Game/Terrain/4/LakeLevelNew.LakeLevelNew_C' with ClassGeneratedBy '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew'
+[2019.05.11-17.36.11:094][ 55]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.11-17.36.11:179][ 55]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.11-17.36.11:180][ 55]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel' has LevelScriptBlueprint '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew' with GeneratedClass '/Game/Terrain/4/LakeLevelNew.LakeLevelNew_C' with ClassGeneratedBy '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew'
+[2019.05.11-17.36.11:232][ 55]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.11-17.36.11:367][ 56]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2019.05.11-17.36.12:974][152]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.11-17.37.54:431][928]BlueprintLog: New page: Compile MamiVal
+[2019.05.11-17.37.55:241][942]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Misc/MamiVal" FILE="C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Content/Blueprints/Misc/MamiVal.uasset" SILENT=true
+[2019.05.11-17.37.55:301][942]LogSavePackage: Moving 'C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Saved/MamiVal7C1BA6824E2B0097A3C135A78EFAF4EC.tmp' to 'C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Content/Blueprints/Misc/MamiVal.uasset'
+[2019.05.11-17.37.57:986][ 60]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.11-17.37.58:015][ 60]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel' has LevelScriptBlueprint '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew' with GeneratedClass '/Game/Terrain/4/LakeLevelNew.LakeLevelNew_C' with ClassGeneratedBy '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew'
+[2019.05.11-17.37.58:018][ 60]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.11-17.37.58:018][ 60]PIE: New page: PIE session: LakeLevelNew (May 12, 2019, 9:37:58 AM)
+[2019.05.11-17.37.58:018][ 60]LogPlayLevel: Creating play world package: /Game/Terrain/4/UEDPIE_0_LakeLevelNew
+[2019.05.11-17.37.58:118][ 60]LogPlayLevel: PIE: StaticDuplicateObject took: (0.100657s)
+[2019.05.11-17.37.58:119][ 60]LogAIModule: Creating AISystem for world LakeLevelNew
+[2019.05.11-17.37.58:119][ 60]LogPlayLevel: PIE: World Init took: (0.000630s)
+[2019.05.11-17.37.58:119][ 60]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Terrain/4/LakeLevelNew.LakeLevelNew to /Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew (0.101452s)
+[2019.05.11-17.37.58:261][ 60]LogInit: XAudio2 using '扬声器/听筒 (Realtek Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.05.11-17.37.58:309][ 60]LogInit: FAudioDevice initialized.
+[2019.05.11-17.37.58:345][ 60]LogLoad: Game class is 'NewGameMode_C'
+[2019.05.11-17.37.58:456][ 60]LogWorld: Bringing World /Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew up for play (max tick rate 60) at 2019.05.12-01.37.58
+[2019.05.11-17.37.58:464][ 60]LogWorld: Bringing up level for play took: 0.118338
+[2019.05.11-17.37.58:485][ 60]PIE: Play in editor start time for /Game/Terrain/4/UEDPIE_0_LakeLevelNew 0.312
+[2019.05.11-17.37.58:485][ 60]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel' has LevelScriptBlueprint '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew' with GeneratedClass '/Game/Terrain/4/LakeLevelNew.LakeLevelNew_C' with ClassGeneratedBy '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew'
+[2019.05.11-17.38.12:519][890]LogCharacterMovement: AICharacter3_2 is stuck and failed to move! Velocity: X=149.95 Y=99.24 Z=0.00 Location: X=-11568.02 Y=-8513.51 Z=77.41 Normal: X=-0.53 Y=-0.29 Z=0.80 PenetrationDepth:0.000 Actor:GameManager_4 Component:StaticMesh BoneName:None (0 other events since notify)
+[2019.05.11-17.38.13:519][950]LogCharacterMovement: AICharacter3_2 is stuck and failed to move! Velocity: X=174.26 Y=98.15 Z=0.00 Location: X=-11578.05 Y=-8529.12 Z=77.37 Normal: X=-0.58 Y=-0.41 Z=0.70 PenetrationDepth:0.000 Actor:GameManager_4 Component:StaticMesh BoneName:None (40 other events since notify)
+[2019.05.11-17.38.14:670][ 19]LogCharacterMovement: AICharacter3_2 is stuck and failed to move! Velocity: X=198.67 Y=22.98 Z=0.00 Location: X=-11547.11 Y=-8496.95 Z=77.41 Normal: X=-0.53 Y=-0.29 Z=0.80 PenetrationDepth:0.000 Actor:GameManager_4 Component:StaticMesh BoneName:None (16 other events since notify)
+[2019.05.11-17.38.15:670][ 79]LogCharacterMovement: AICharacter3_2 is stuck and failed to move! Velocity: X=187.69 Y=69.08 Z=0.00 Location: X=-11542.69 Y=-8503.50 Z=77.22 Normal: X=-0.49 Y=0.48 Z=-0.73 PenetrationDepth:0.000 Actor:GameManager_4 Component:StaticMesh BoneName:None (30 other events since notify)
+[2019.05.11-17.38.16:687][140]LogCharacterMovement: AICharacter3_2 is stuck and failed to move! Velocity: X=194.99 Y=44.47 Z=0.00 Location: X=-11531.31 Y=-8497.03 Z=77.40 Normal: X=-0.53 Y=-0.29 Z=0.80 PenetrationDepth:0.000 Actor:GameManager_4 Component:StaticMesh BoneName:None (12 other events since notify)
+[2019.05.11-17.38.17:687][200]LogCharacterMovement: AICharacter3_2 is stuck and failed to move! Velocity: X=185.56 Y=74.61 Z=0.00 Location: X=-11542.74 Y=-8504.60 Z=77.41 Normal: X=-0.50 Y=0.46 Z=-0.73 PenetrationDepth:0.000 Actor:GameManager_4 Component:StaticMesh BoneName:None (50 other events since notify)
+[2019.05.11-17.38.18:772][265]LogCharacterMovement: AICharacter3_2 is stuck and failed to move! Velocity: X=199.87 Y=-7.26 Z=0.00 Location: X=-11541.76 Y=-8492.12 Z=77.42 Normal: X=-0.53 Y=-0.29 Z=0.80 PenetrationDepth:0.000 Actor:GameManager_4 Component:StaticMesh BoneName:None (35 other events since notify)
+[2019.05.11-17.38.24:838][629]LogCharacterMovement: AICharacter3_2 is stuck and failed to move! Velocity: X=31.98 Y=11.94 Z=0.00 Location: X=-11538.42 Y=-8502.17 Z=77.41 Normal: X=-0.92 Y=0.23 Z=0.32 PenetrationDepth:0.000 Actor:GameManager_4 Component:StaticMesh BoneName:None (28 other events since notify)
+[2019.05.11-17.38.25:622][676]LogBlueprintUserMessages: [MamiVal2_5] 0
+[2019.05.11-17.38.26:221][712]LogCharacterMovement: AICharacter3_2 is stuck and failed to move! Velocity: X=198.85 Y=21.45 Z=0.00 Location: X=-11531.55 Y=-8495.01 Z=77.40 Normal: X=-0.53 Y=-0.29 Z=0.80 PenetrationDepth:0.000 Actor:GameManager_4 Component:StaticMesh BoneName:None (36 other events since notify)
+[2019.05.11-17.38.27:224][772]LogCharacterMovement: AICharacter3_2 is stuck and failed to move! Velocity: X=187.16 Y=70.49 Z=0.00 Location: X=-11540.61 Y=-8503.07 Z=77.41 Normal: X=-0.53 Y=-0.29 Z=0.80 PenetrationDepth:0.000 Actor:GameManager_4 Component:StaticMesh BoneName:None (50 other events since notify)
+[2019.05.11-17.38.28:525][850]LogCharacterMovement: AICharacter3_2 is stuck and failed to move! Velocity: X=198.89 Y=21.06 Z=0.00 Location: X=-11531.87 Y=-8495.01 Z=77.40 Normal: X=-0.53 Y=-0.29 Z=0.80 PenetrationDepth:0.000 Actor:GameManager_4 Component:StaticMesh BoneName:None (33 other events since notify)
+[2019.05.11-17.38.29:524][910]LogCharacterMovement: AICharacter3_2 is stuck and failed to move! Velocity: X=185.96 Y=73.62 Z=0.00 Location: X=-11543.28 Y=-8504.53 Z=77.04 Normal: X=-0.51 Y=0.45 Z=-0.73 PenetrationDepth:0.000 Actor:GameManager_4 Component:StaticMesh BoneName:None (51 other events since notify)
+[2019.05.11-17.38.30:540][969]LogCharacterMovement: AICharacter3_2 is stuck and failed to move! Velocity: X=185.45 Y=74.89 Z=0.00 Location: X=-11542.85 Y=-8504.59 Z=77.12 Normal: X=-0.50 Y=0.46 Z=-0.74 PenetrationDepth:0.000 Actor:GameManager_4 Component:StaticMesh BoneName:None (32 other events since notify)
+[2019.05.11-17.38.31:541][ 29]LogCharacterMovement: AICharacter3_2 is stuck and failed to move! Velocity: X=189.35 Y=64.38 Z=0.00 Location: X=-11533.74 Y=-8499.77 Z=77.40 Normal: X=-0.92 Y=0.27 Z=0.28 PenetrationDepth:0.000 Actor:GameManager_4 Component:StaticMesh BoneName:None (16 other events since notify)
+[2019.05.11-17.38.33:106][123]LogCharacterMovement: AICharacter3_2 is stuck and failed to move! Velocity: X=198.89 Y=21.06 Z=0.00 Location: X=-11531.87 Y=-8495.01 Z=77.40 Normal: X=-0.53 Y=-0.29 Z=0.80 PenetrationDepth:0.000 Actor:GameManager_4 Component:StaticMesh BoneName:None (51 other events since notify)
+[2019.05.11-17.38.34:106][183]LogCharacterMovement: AICharacter3_2 is stuck and failed to move! Velocity: X=185.62 Y=74.47 Z=0.00 Location: X=-11542.71 Y=-8504.46 Z=77.12 Normal: X=-0.50 Y=0.46 Z=-0.74 PenetrationDepth:0.000 Actor:GameManager_4 Component:StaticMesh BoneName:None (45 other events since notify)
+[2019.05.11-17.38.35:156][246]LogCharacterMovement: AICharacter3_2 is stuck and failed to move! Velocity: X=191.33 Y=58.25 Z=0.00 Location: X=-11531.99 Y=-8498.54 Z=77.40 Normal: X=-0.53 Y=-0.29 Z=0.80 PenetrationDepth:0.000 Actor:GameManager_4 Component:StaticMesh BoneName:None (14 other events since notify)
+[2019.05.11-17.38.36:156][306]LogCharacterMovement: AICharacter3_2 is stuck and failed to move! Velocity: X=185.67 Y=74.34 Z=0.00 Location: X=-11541.10 Y=-8503.72 Z=77.29 Normal: X=-0.92 Y=0.23 Z=0.32 PenetrationDepth:0.000 Actor:GameManager_4 Component:StaticMesh BoneName:None (49 other events since notify)
+[2019.05.11-17.38.37:270][370]LogCharacterMovement: AICharacter3_2 is stuck and failed to move! Velocity: X=197.08 Y=-34.05 Z=0.00 Location: X=-11533.69 Y=-8489.79 Z=77.62 Normal: X=-0.53 Y=-0.29 Z=0.80 PenetrationDepth:0.000 Actor:GameManager_4 Component:StaticMesh BoneName:None (25 other events since notify)
+[2019.05.11-17.38.38:273][430]LogCharacterMovement: AICharacter3_2 is stuck and failed to move! Velocity: X=185.54 Y=74.68 Z=0.00 Location: X=-11542.68 Y=-8504.58 Z=77.41 Normal: X=-0.50 Y=0.46 Z=-0.73 PenetrationDepth:0.000 Actor:GameManager_4 Component:StaticMesh BoneName:None (49 other events since notify)
+[2019.05.11-17.38.39:322][493]LogCharacterMovement: AICharacter3_2 is stuck and failed to move! Velocity: X=199.93 Y=5.26 Z=0.00 Location: X=-11532.82 Y=-8493.63 Z=77.40 Normal: X=-0.53 Y=-0.29 Z=0.80 PenetrationDepth:0.000 Actor:GameManager_4 Component:StaticMesh BoneName:None (21 other events since notify)
+[2019.05.11-17.38.40:672][574]LogCharacterMovement: AICharacter3_2 is stuck and failed to move! Velocity: X=198.52 Y=-24.27 Z=0.00 Location: X=-11538.21 Y=-8490.15 Z=77.44 Normal: X=-0.46 Y=-0.16 Z=0.87 PenetrationDepth:0.000 Actor:GameManager_4 Component:StaticMesh BoneName:None (48 other events since notify)
+[2019.05.11-17.38.41:671][634]LogCharacterMovement: AICharacter3_2 is stuck and failed to move! Velocity: X=185.91 Y=73.75 Z=0.00 Location: X=-11542.07 Y=-8504.17 Z=77.41 Normal: X=-0.92 Y=0.23 Z=0.32 PenetrationDepth:0.000 Actor:GameManager_4 Component:StaticMesh BoneName:None (40 other events since notify)
+[2019.05.11-17.38.42:674][694]LogCharacterMovement: AICharacter3_2 is stuck and failed to move! Velocity: X=198.48 Y=24.64 Z=0.00 Location: X=-11532.36 Y=-8495.39 Z=77.40 Normal: X=-0.53 Y=-0.29 Z=0.80 PenetrationDepth:0.000 Actor:GameManager_4 Component:StaticMesh BoneName:None (15 other events since notify)
+[2019.05.11-17.38.43:674][754]LogCharacterMovement: AICharacter3_2 is stuck and failed to move! Velocity: X=185.77 Y=74.09 Z=0.00 Location: X=-11542.12 Y=-8504.25 Z=77.41 Normal: X=-0.92 Y=0.23 Z=0.32 PenetrationDepth:0.000 Actor:GameManager_4 Component:StaticMesh BoneName:None (42 other events since notify)
+[2019.05.11-17.38.44:674][814]LogCharacterMovement: AICharacter3_2 is stuck and failed to move! Velocity: X=196.15 Y=39.07 Z=0.00 Location: X=-11532.58 Y=-8496.79 Z=77.40 Normal: X=-0.53 Y=-0.29 Z=0.80 PenetrationDepth:0.000 Actor:GameManager_4 Component:StaticMesh BoneName:None (19 other events since notify)
+[2019.05.11-17.38.45:675][874]LogCharacterMovement: AICharacter3_2 is stuck and failed to move! Velocity: X=186.67 Y=71.78 Z=0.00 Location: X=-11543.49 Y=-8504.28 Z=77.12 Normal: X=-0.53 Y=-0.29 Z=0.80 PenetrationDepth:0.000 Actor:GameManager_4 Component:StaticMesh BoneName:None (50 other events since notify)
+[2019.05.11-17.38.46:674][934]LogCharacterMovement: AICharacter3_2 is stuck and failed to move! Velocity: X=189.15 Y=64.99 Z=0.00 Location: X=-11533.28 Y=-8499.68 Z=77.40 Normal: X=-0.92 Y=0.27 Z=0.28 PenetrationDepth:0.000 Actor:GameManager_4 Component:StaticMesh BoneName:None (13 other events since notify)
+[2019.05.11-17.38.47:413][964]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel' has LevelScriptBlueprint '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew' with GeneratedClass '/Game/Terrain/4/LakeLevelNew.LakeLevelNew_C' with ClassGeneratedBy '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew'
+[2019.05.11-17.38.47:422][964]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.11-17.38.47:488][964]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.11-17.38.47:488][964]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel' has LevelScriptBlueprint '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew' with GeneratedClass '/Game/Terrain/4/LakeLevelNew.LakeLevelNew_C' with ClassGeneratedBy '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew'
+[2019.05.11-17.38.47:536][964]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.11-17.38.47:655][965]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2019.05.11-17.38.53:174][278]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.11-17.39.27:720][239]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Misc/MamiVal" FILE="C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Content/Blueprints/Misc/MamiVal.uasset" SILENT=true
+[2019.05.11-17.39.27:773][239]LogSavePackage: Moving 'C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Saved/MamiVal71816EB24F0A425F472FD19DC35FBC59.tmp' to 'C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Content/Blueprints/Misc/MamiVal.uasset'
+[2019.05.11-17.39.28:430][274]BlueprintLog: New page: Compile MamiVal
+[2019.05.11-17.41.03:969][597]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Terrain/4/LakeLevelNew" FILE="C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Content/Terrain/4/LakeLevelNew.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.05.11-17.41.08:147][597]LogSavePackage: Moving 'C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Saved/LakeLevelNew43E5D2784CB526AA390943BF783E8054.tmp' to 'C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Content/Terrain/4/LakeLevelNew.umap'
+[2019.05.11-17.41.08:211][597]LogFileHelpers: Saving map 'LakeLevelNew' took 4.620
+[2019.05.11-17.41.46:319][659]LogAssetEditorManager: Opening Asset editor for LevelSequence /Game/Sequence/Hunter4.Hunter4
+[2019.05.11-17.42.32:841][315]BlueprintLog: New page: Compile MamiVal
+[2019.05.11-17.42.33:939][323]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Misc/MamiVal" FILE="C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Content/Blueprints/Misc/MamiVal.uasset" SILENT=true
+[2019.05.11-17.42.33:994][323]LogSavePackage: Moving 'C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Saved/MamiVal9998D018401E719BB4387EB1CCE67ED2.tmp' to 'C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Content/Blueprints/Misc/MamiVal.uasset'
+[2019.05.11-17.42.41:111][686]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.11-17.42.41:139][686]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel' has LevelScriptBlueprint '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew' with GeneratedClass '/Game/Terrain/4/LakeLevelNew.LakeLevelNew_C' with ClassGeneratedBy '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew'
+[2019.05.11-17.42.41:142][686]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.11-17.42.41:142][686]PIE: New page: PIE session: LakeLevelNew (May 12, 2019, 9:42:41 AM)
+[2019.05.11-17.42.41:142][686]LogPlayLevel: Creating play world package: /Game/Terrain/4/UEDPIE_0_LakeLevelNew
+[2019.05.11-17.42.41:246][686]LogPlayLevel: PIE: StaticDuplicateObject took: (0.103297s)
+[2019.05.11-17.42.41:246][686]LogAIModule: Creating AISystem for world LakeLevelNew
+[2019.05.11-17.42.41:247][686]LogPlayLevel: PIE: World Init took: (0.000669s)
+[2019.05.11-17.42.41:247][686]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Terrain/4/LakeLevelNew.LakeLevelNew to /Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew (0.104186s)
+[2019.05.11-17.42.41:386][686]LogInit: XAudio2 using '扬声器/听筒 (Realtek Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.05.11-17.42.41:428][686]LogInit: FAudioDevice initialized.
+[2019.05.11-17.42.41:461][686]LogLoad: Game class is 'NewGameMode_C'
+[2019.05.11-17.42.41:575][686]LogWorld: Bringing World /Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew up for play (max tick rate 60) at 2019.05.12-01.42.41
+[2019.05.11-17.42.41:581][686]LogWorld: Bringing up level for play took: 0.118097
+[2019.05.11-17.42.41:601][686]PIE: Play in editor start time for /Game/Terrain/4/UEDPIE_0_LakeLevelNew 1.429
+[2019.05.11-17.42.41:601][686]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel' has LevelScriptBlueprint '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew' with GeneratedClass '/Game/Terrain/4/LakeLevelNew.LakeLevelNew_C' with ClassGeneratedBy '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew'
+[2019.05.11-17.42.55:410][490]LogCharacterMovement: AICharacter3_2 is stuck and failed to move! Velocity: X=-114.85 Y=163.73 Z=0.00 Location: X=-11469.47 Y=-8666.67 Z=74.96 Normal: X=-0.41 Y=-0.62 Z=-0.67 PenetrationDepth:18.504 Actor:GameManager_4 Component:StaticMesh BoneName:None (0 other events since notify)
+[2019.05.11-17.42.58:044][648]LogCharacterMovement: AICharacter3_2 is stuck and failed to move! Velocity: X=-129.37 Y=152.52 Z=0.00 Location: X=-11511.48 Y=-8598.08 Z=77.50 Normal: X=0.11 Y=-0.77 Z=0.63 PenetrationDepth:0.000 Actor:GameManager_4 Component:StaticMesh BoneName:None (8 other events since notify)
+[2019.05.11-17.43.00:280][782]LogCharacterMovement: AICharacter3_2 is stuck and failed to move! Velocity: X=-151.40 Y=130.69 Z=0.00 Location: X=-11506.79 Y=-8589.36 Z=77.49 Normal: X=0.11 Y=-0.77 Z=0.63 PenetrationDepth:0.000 Actor:GameManager_4 Component:StaticMesh BoneName:None (12 other events since notify)
+[2019.05.11-17.43.02:478][914]LogCharacterMovement: AICharacter3_2 is stuck and failed to move! Velocity: X=-161.47 Y=118.01 Z=0.00 Location: X=-11506.48 Y=-8583.61 Z=77.34 Normal: X=0.11 Y=-0.77 Z=0.63 PenetrationDepth:0.000 Actor:GameManager_4 Component:StaticMesh BoneName:None (26 other events since notify)
+[2019.05.11-17.43.04:895][ 59]LogCharacterMovement: AICharacter3_2 is stuck and failed to move! Velocity: X=-161.70 Y=117.70 Z=0.00 Location: X=-11506.52 Y=-8583.45 Z=77.34 Normal: X=0.11 Y=-0.77 Z=0.63 PenetrationDepth:0.000 Actor:GameManager_4 Component:StaticMesh BoneName:None (35 other events since notify)
+[2019.05.11-17.43.07:517][210]LogCharacterMovement: AICharacter3_2 is stuck and failed to move! Velocity: X=-124.40 Y=156.61 Z=0.00 Location: X=-11513.26 Y=-8599.08 Z=77.34 Normal: X=0.11 Y=-0.77 Z=0.63 PenetrationDepth:0.000 Actor:GameManager_4 Component:StaticMesh BoneName:None (41 other events since notify)
+[2019.05.11-17.43.08:627][276]LogBlueprintUserMessages: [MamiVal2_5] 0
+[2019.05.11-17.43.10:276][352]LogCharacterMovement: AICharacter3_2 is stuck and failed to move! Velocity: X=-114.18 Y=164.21 Z=0.00 Location: X=-11515.02 Y=-8603.49 Z=77.97 Normal: X=0.11 Y=-0.77 Z=0.63 PenetrationDepth:0.000 Actor:GameManager_4 Component:StaticMesh BoneName:None (9 other events since notify)
+[2019.05.11-17.43.13:096][517]LogCharacterMovement: AICharacter3_2 is stuck and failed to move! Velocity: X=-128.09 Y=153.60 Z=0.00 Location: X=-11511.66 Y=-8598.70 Z=77.34 Normal: X=0.11 Y=-0.77 Z=0.63 PenetrationDepth:0.000 Actor:GameManager_4 Component:StaticMesh BoneName:None (2 other events since notify)
+[2019.05.11-17.43.15:220][642]LogCharacterMovement: AICharacter3_2 is stuck and failed to move! Velocity: X=-130.99 Y=151.14 Z=0.00 Location: X=-11511.26 Y=-8597.33 Z=77.50 Normal: X=0.11 Y=-0.77 Z=0.63 PenetrationDepth:0.000 Actor:GameManager_4 Component:StaticMesh BoneName:None (11 other events since notify)
+[2019.05.11-17.43.17:660][784]LogCharacterMovement: AICharacter3_2 is stuck and failed to move! Velocity: X=-121.63 Y=158.77 Z=0.00 Location: X=-11512.03 Y=-8602.49 Z=77.34 Normal: X=0.11 Y=-0.77 Z=0.63 PenetrationDepth:0.000 Actor:GameManager_4 Component:StaticMesh BoneName:None (9 other events since notify)
+[2019.05.11-17.43.20:668][924]LogCharacterMovement: AICharacter3_2 is stuck and failed to move! Velocity: X=-121.58 Y=158.80 Z=0.00 Location: X=-11512.04 Y=-8602.51 Z=77.34 Normal: X=0.11 Y=-0.77 Z=0.63 PenetrationDepth:0.000 Actor:GameManager_4 Component:StaticMesh BoneName:None (6 other events since notify)
+[2019.05.11-17.43.22:951][ 61]LogCharacterMovement: AICharacter3_2 is stuck and failed to move! Velocity: X=-133.07 Y=149.31 Z=0.00 Location: X=-11510.97 Y=-8596.36 Z=77.50 Normal: X=0.11 Y=-0.77 Z=0.63 PenetrationDepth:0.000 Actor:GameManager_4 Component:StaticMesh BoneName:None (6 other events since notify)
+[2019.05.11-17.43.26:155][253]LogCharacterMovement: AICharacter3_2 is stuck and failed to move! Velocity: X=-121.28 Y=159.03 Z=0.00 Location: X=-11512.09 Y=-8602.65 Z=77.34 Normal: X=0.11 Y=-0.77 Z=0.63 PenetrationDepth:0.000 Actor:GameManager_4 Component:StaticMesh BoneName:None (16 other events since notify)
+[2019.05.11-17.43.26:623][281]LogBlueprintUserMessages: [MamiVal2_5] xinagjihahha
+[2019.05.11-17.43.30:160][493]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel' has LevelScriptBlueprint '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew' with GeneratedClass '/Game/Terrain/4/LakeLevelNew.LakeLevelNew_C' with ClassGeneratedBy '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew'
+[2019.05.11-17.43.30:168][493]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.11-17.43.30:229][493]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.11-17.43.30:230][493]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel' has LevelScriptBlueprint '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew' with GeneratedClass '/Game/Terrain/4/LakeLevelNew.LakeLevelNew_C' with ClassGeneratedBy '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew'
+[2019.05.11-17.43.30:284][493]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.11-17.43.30:421][494]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2019.05.11-17.43.32:768][627]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.11-17.43.50:198][543]BlueprintLog: New page: Compile MamiVal
+[2019.05.11-17.44.31:458][640]BlueprintLog: New page: Compile MamiVal
+[2019.05.11-17.44.32:275][645]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Misc/MamiVal" FILE="C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Content/Blueprints/Misc/MamiVal.uasset" SILENT=true
+[2019.05.11-17.44.32:329][645]LogSavePackage: Moving 'C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Saved/MamiValC1C1566A4F54B6B90B3BE1B25851BBFF.tmp' to 'C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Content/Blueprints/Misc/MamiVal.uasset'
+[2019.05.11-17.44.53:256][747]BlueprintLog: New page: Compile MamiVal
+[2019.05.11-17.44.54:343][762]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Misc/MamiVal" FILE="C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Content/Blueprints/Misc/MamiVal.uasset" SILENT=true
+[2019.05.11-17.44.54:399][762]LogSavePackage: Moving 'C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Saved/MamiVal73592EF749F40D19D52A009733BAC8DC.tmp' to 'C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Content/Blueprints/Misc/MamiVal.uasset'
+[2019.05.11-17.45.04:108][197]LogSlate: Window 'Delete Variable' being destroyed
+[2019.05.11-17.45.05:397][254]BlueprintLog: New page: Compile MamiVal
+[2019.05.11-17.45.06:263][262]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Misc/MamiVal" FILE="C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Content/Blueprints/Misc/MamiVal.uasset" SILENT=true
+[2019.05.11-17.45.06:315][262]LogSavePackage: Moving 'C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Saved/MamiVal747F8E4F42FB9471594B3490E2DBA613.tmp' to 'C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Content/Blueprints/Misc/MamiVal.uasset'
+[2019.05.11-17.45.23:376][ 89]BlueprintLog: New page: Compile MamiVal
+[2019.05.11-17.45.24:211][ 97]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Misc/MamiVal" FILE="C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Content/Blueprints/Misc/MamiVal.uasset" SILENT=true
+[2019.05.11-17.45.24:271][ 97]LogSavePackage: Moving 'C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Saved/MamiVal4E8E3F1748946435F04E44A18C5920D7.tmp' to 'C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Content/Blueprints/Misc/MamiVal.uasset'
+[2019.05.11-17.45.31:585][378]LogSlate: Window 'Save Content' being destroyed
+[2019.05.11-17.45.31:663][378]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/AICharacter" FILE="C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Content/AI/AICharacter.uasset" SILENT=true
+[2019.05.11-17.45.31:847][378]LogSavePackage: Moving 'C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Saved/AICharacterBBB7AA4B4BF1C9E3A16DC0A2679A28DB.tmp' to 'C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Content/AI/AICharacter.uasset'
+[2019.05.11-17.45.32:255][378]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Terrain/4/LakeLevelNew" FILE="C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Content/Terrain/4/LakeLevelNew.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.05.11-17.45.36:446][378]LogSavePackage: Moving 'C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Saved/LakeLevelNew043237E4429ACF7201865B9F0910E4C0.tmp' to 'C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Content/Terrain/4/LakeLevelNew.umap'
+[2019.05.11-17.45.36:506][378]LogFileHelpers: Saving map 'LakeLevelNew' took 4.639
