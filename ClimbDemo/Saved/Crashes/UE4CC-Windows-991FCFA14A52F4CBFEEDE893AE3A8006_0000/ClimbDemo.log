@@ -1,0 +1,1293 @@
+﻿Log file open, 05/18/19 22:00:22
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: ClimbDemo
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 2.132849
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +8:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin HoudiniEngine
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.492s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = true  - Libcurl will use HTTP proxy
+LogInit:  - HttpProxyAddress = '127.0.0.1:1080'
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogHMD: Failed initializing OVRPlugin 1.25.0
+LogInit: Build: ++UE4+Release-4.20-CL-4369336
+LogInit: Engine Version: 4.20.3-4369336+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz, GPU: Intel(R) HD Graphics 630
+LogInit: Compiled (64-bit): Sep 17 2018 12:26:19
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line:  
+LogInit: Base Directory: D:/Program Files/Epic Games/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.044s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2019.05.18-14.00.26:480][  0]LogInit: Selected Device Profile: [Windows]
+[2019.05.18-14.00.26:480][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.05.18-14.00.26:522][  0]LogHAL: Display: Platform has ~ 16 GB [17046654976 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.05.18-14.00.26:522][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2019.05.18-14.00.26:522][  0]LogInit: Going up to parent DeviceProfile []
+[2019.05.18-14.00.26:522][  0]LogInit: Computer: DESKTOP-UHKKT41
+[2019.05.18-14.00.26:522][  0]LogInit: User: Ivy
+[2019.05.18-14.00.26:522][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.05.18-14.00.26:522][  0]LogInit: High frequency timer resolution =2.742188 MHz
+[2019.05.18-14.00.26:523][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2019.05.18-14.00.26:523][  0]LogMemory: Platform Memory Stats for Windows
+[2019.05.18-14.00.26:523][  0]LogMemory: Process Physical Memory: 105.98 MB used, 105.98 MB peak
+[2019.05.18-14.00.26:523][  0]LogMemory: Process Virtual Memory: 94.37 MB used, 94.37 MB peak
+[2019.05.18-14.00.26:523][  0]LogMemory: Physical Memory: 4771.66 MB used,  11485.29 MB free, 16256.96 MB total
+[2019.05.18-14.00.26:523][  0]LogMemory: Virtual Memory: 4658.45 MB used,  11485.29 MB free, 134217728.00 MB total
+[2019.05.18-14.00.27:621][  0]LogInit: Overriding language with editor language configuration option (en).
+[2019.05.18-14.00.27:621][  0]LogInit: Overriding locale with editor locale configuration option (en).
+[2019.05.18-14.00.28:325][  0]LogStreaming: Display: Took  0.704s to InitEngineTextLocalization.
+[2019.05.18-14.00.28:325][  0]LogInit: Setting process to per monitor DPI aware
+[2019.05.18-14.00.28:774][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.05.18-14.00.28:774][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.05.18-14.00.29:447][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.05.18-14.00.29:456][  0]LogD3D11RHI: D3D11 adapters:
+[2019.05.18-14.00.29:565][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070' (Feature Level 11_0)
+[2019.05.18-14.00.29:566][  0]LogD3D11RHI:       8089/0/8128 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.05.18-14.00.29:581][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2019.05.18-14.00.29:581][  0]LogD3D11RHI:       128/0/8128 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2019.05.18-14.00.29:583][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.05.18-14.00.29:583][  0]LogD3D11RHI:       0/0/8128 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.05.18-14.00.29:583][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.05.18-14.00.29:619][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.05.18-14.00.29:619][  0]LogD3D11RHI:     GPU DeviceId: 0x1ba1 (for the marketing name, search the web for "GPU Device Id")
+[2019.05.18-14.00.29:627][  0]LogWindows: EnumDisplayDevices:
+[2019.05.18-14.00.29:627][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:1 D:1)
+[2019.05.18-14.00.29:629][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2019.05.18-14.00.29:630][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2019.05.18-14.00.29:632][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2019.05.18-14.00.29:633][  0]LogWindows:    4. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2019.05.18-14.00.29:634][  0]LogWindows:    5. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2019.05.18-14.00.29:636][  0]LogWindows:    6. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2019.05.18-14.00.29:637][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2019.05.18-14.00.29:637][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070
+[2019.05.18-14.00.29:637][  0]LogD3D11RHI:   Driver Version: 389.12 (internal:23.21.13.8912, unified:389.12)
+[2019.05.18-14.00.29:637][  0]LogD3D11RHI:      Driver Date: 3-7-2018
+[2019.05.18-14.00.29:637][  0]LogRHI: Texture pool is 5662 MB (70% of 8089 MB)
+[2019.05.18-14.00.29:682][  0]LogD3D11RHI: Async texture creation enabled
+[2019.05.18-14.00.29:732][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.05.18-14.00.29:786][  0]LogShaderCompilers: Guid format shader working directory is -1 characters bigger than the processId version (C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Intermediate/Shaders/WorkingDirectory/22772/).
+[2019.05.18-14.00.29:786][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Ivy/AppData/Local/Temp/UnrealShaderWorkingDir/5C57A5A9481942CCFACA6C8246B63104/'.
+[2019.05.18-14.00.30:935][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.05.18-14.00.30:958][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.05.18-14.00.30:984][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.05.18-14.00.31:006][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.05.18-14.00.31:035][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.05.18-14.00.31:063][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.05.18-14.00.31:087][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.05.18-14.00.31:107][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.05.18-14.00.31:116][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.05.18-14.00.31:221][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.18-14.00.31:221][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.18-14.00.31:221][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.18-14.00.31:221][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.18-14.00.31:221][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.18-14.00.31:221][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.18-14.00.31:221][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.18-14.00.31:221][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.18-14.00.31:221][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.18-14.00.31:221][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.18-14.00.31:221][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.18-14.00.31:221][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.18-14.00.31:221][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.18-14.00.31:221][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.18-14.00.31:221][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.18-14.00.31:221][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.18-14.00.31:221][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.18-14.00.31:221][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.18-14.00.31:252][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.05.18-14.00.31:342][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.05.18-14.00.31:342][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.05.18-14.00.31:368][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.05.18-14.00.31:368][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.05.18-14.00.31:415][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.05.18-14.00.31:438][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.05.18-14.00.31:455][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.05.18-14.00.31:471][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.05.18-14.00.31:488][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.05.18-14.00.31:488][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.05.18-14.00.31:930][  0]LogXGEController: Cleaning working directory: C:/Users/Ivy/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.05.18-14.00.31:931][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.05.18-14.00.31:931][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.05.18-14.00.31:931][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.05.18-14.00.32:984][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.05.18-14.00.33:342][  0]LogDerivedDataCache: Loaded boot cache 0.36s 71MB C:/Users/Ivy/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2019.05.18-14.00.33:342][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Ivy/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2019.05.18-14.00.33:343][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.05.18-14.00.33:343][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.05.18-14.00.33:343][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.05.18-14.00.33:343][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.05.18-14.00.33:413][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.05.18-14.00.33:432][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Ivy/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.05.18-14.00.33:432][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.05.18-14.00.33:432][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.05.18-14.00.33:453][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.05.18-14.00.33:461][  0]LogSlate: Using FreeType 2.6.0
+[2019.05.18-14.00.33:516][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.05.18-14.00.33:790][  0]LogAssetRegistry: FAssetRegistry took 0.0265 seconds to start up
+[2019.05.18-14.00.35:239][  0]LogInit: Selected Device Profile: [Windows]
+[2019.05.18-14.00.35:777][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.05.18-14.00.35:882][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.05.18-14.00.35:893][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.05.18-14.00.35:894][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.05.18-14.00.35:894][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.05.18-14.00.35:972][  0]LogNetVersion: ClimbDemo 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 2394580764)
+[2019.05.18-14.00.37:401][  0]LogPackageLocalizationCache: Processed 12 localized package path(s) for 1 prioritized culture(s) in 0.238208 seconds
+[2019.05.18-14.00.37:414][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2019.05.18-14.00.37:414][  0]LogUObjectAllocator: 6690872 out of 0 bytes used by permanent object pool.
+[2019.05.18-14.00.37:414][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.05.18-14.00.44:174][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.05.18-14.00.44:207][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.05.18-14.00.44:810][  0]SourceControl: Source control is disabled
+[2019.05.18-14.00.44:810][  0]SourceControl: Source control is disabled
+[2019.05.18-14.00.44:881][  0]SourceControl: Source control is disabled
+[2019.05.18-14.00.44:895][  0]SourceControl: Source control is disabled
+[2019.05.18-14.00.45:812][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.05.18-14.00.46:215][  0]LogHoudiniEngine: Starting the Houdini Engine module.
+[2019.05.18-14.00.46:272][  0]LogHoudiniEngine: Loaded libHAPIL.dll from Registry path D:/Program Files/Side Effects Software/Houdini 17.0.416/bin
+[2019.05.18-14.00.46:273][  0]LogLinker: Warning: Asset '../../Plugins/Runtime/HoudiniEngine/Content/houdini_logo.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.05.18-14.00.46:275][  0]LogLinker: Warning: Asset '../../Plugins/Runtime/HoudiniEngine/Content/houdini_default_material.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.05.18-14.00.46:283][  0]LogLinker: Warning: Asset '../../Plugins/Runtime/HoudiniEngine/Content/houdini_bgeo_import.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.05.18-14.00.49:795][  0]LogHoudiniEngine: Error: Failed to create a Houdini Engine session
+[2019.05.18-14.00.49:829][  0]LogHoudiniEngine: Starting up the Houdini Engine API module failed: Generic Failure
+[2019.05.18-14.00.49:924][  0]LogOcInput: OculusInput pre-init called
+[2019.05.18-14.00.50:367][  0]LogEngine: Initializing Engine...
+[2019.05.18-14.00.50:406][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.05.18-14.00.50:418][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.05.18-14.00.50:418][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.05.18-14.00.50:419][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.05.18-14.00.50:419][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.05.18-14.00.50:736][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.05.18-14.00.50:843][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.05.18-14.00.50:964][  0]LogInit: XAudio2 using '扬声器/听筒 (Realtek Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.05.18-14.00.51:686][  0]LogInit: FAudioDevice initialized.
+[2019.05.18-14.00.51:704][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.05.18-14.00.51:885][  0]LogDerivedDataCache: Saved boot cache 0.18s 71MB C:/Users/Ivy/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2019.05.18-14.00.51:887][  0]LogInit: Texture streaming: Enabled
+[2019.05.18-14.00.52:062][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.05.18-14.00.52:133][  0]LogInit: Transaction tracking system initialized
+[2019.05.18-14.00.52:326][  0]BlueprintLog: New page: Editor Load
+[2019.05.18-14.00.53:004][  0]LocalizationService: Localization service is disabled
+[2019.05.18-14.00.54:670][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.05.18-14.00.54:671][  0]LogCook: Display: Mobile HDR setting 1
+[2019.05.18-14.00.54:671][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.05.18-14.00.54:671][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.05.18-14.00.54:671][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.05.18-14.00.54:671][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.05.18-14.00.54:671][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.05.18-14.00.55:447][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Content/' took 0.05s
+[2019.05.18-14.00.55:761][  0]LogHoudiniEngineEditor: Starting the Houdini Engine Editor module.
+[2019.05.18-14.00.55:788][  0]LogHoudiniEngineEditor: Houdini Engine Editor module startup complete.
+[2019.05.18-14.00.56:252][  0]SourceControl: Source control is disabled
+[2019.05.18-14.00.56:261][  0]Cmd: MAP LOAD FILE="C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Content/Terrain/4/LakeLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.05.18-14.00.56:261][  0]LightingResults: New page: Lighting Build
+[2019.05.18-14.00.56:300][  0]MapCheck: New page: Map Check
+[2019.05.18-14.00.56:300][  0]LightingResults: New page: Lighting Build
+[2019.05.18-14.00.57:926][  0]LogBlueprint: Warning: [Compiler ABP_Climber] Cling_BS to JumpEnd  will never be taken, please connect something to  Can Enter Transition
+[2019.05.18-14.00.58:562][  0]LogBlueprint: Warning: [Compiler ABP_Climber] [0045.34] Compile of ABP_Climber successful, but with 1 Warning(s) [in 945 ms] (/Game/Clinging/Animations/Blueprints/ABP_Climber.ABP_Climber)
+[2019.05.18-14.00.58:976][  0]LogLinker: Warning: Unable to load PhysicsSerializer with outer InstancedStaticMeshComponent /Game/Terrain/HoudiniBake/terrain_bishe_1_846516E4.terrain_bishe_1_846516E4_C:InstancedStaticMesh10_GEN_VARIABLE because its class does not exist
+[2019.05.18-14.00.58:976][  0]LogLinker: Warning: Unable to load PhysicsSerializer with outer InstancedStaticMeshComponent /Game/Terrain/HoudiniBake/terrain_bishe_1_846516E4.terrain_bishe_1_846516E4_C:InstancedStaticMesh11_GEN_VARIABLE because its class does not exist
+[2019.05.18-14.00.58:976][  0]LogLinker: Warning: Unable to load PhysicsSerializer with outer InstancedStaticMeshComponent /Game/Terrain/HoudiniBake/terrain_bishe_1_846516E4.terrain_bishe_1_846516E4_C:InstancedStaticMesh12_GEN_VARIABLE because its class does not exist
+[2019.05.18-14.00.58:976][  0]LogLinker: Warning: Unable to load PhysicsSerializer with outer InstancedStaticMeshComponent /Game/Terrain/HoudiniBake/terrain_bishe_1_846516E4.terrain_bishe_1_846516E4_C:InstancedStaticMesh13_GEN_VARIABLE because its class does not exist
+[2019.05.18-14.00.58:976][  0]LogLinker: Warning: Unable to load PhysicsSerializer with outer InstancedStaticMeshComponent /Game/Terrain/HoudiniBake/terrain_bishe_1_846516E4.terrain_bishe_1_846516E4_C:InstancedStaticMesh14_GEN_VARIABLE because its class does not exist
+[2019.05.18-14.00.58:976][  0]LogLinker: Warning: Unable to load PhysicsSerializer with outer InstancedStaticMeshComponent /Game/Terrain/HoudiniBake/terrain_bishe_1_846516E4.terrain_bishe_1_846516E4_C:InstancedStaticMesh15_GEN_VARIABLE because its class does not exist
+[2019.05.18-14.00.58:976][  0]LogLinker: Warning: Unable to load PhysicsSerializer with outer InstancedStaticMeshComponent /Game/Terrain/HoudiniBake/terrain_bishe_1_846516E4.terrain_bishe_1_846516E4_C:InstancedStaticMesh16_GEN_VARIABLE because its class does not exist
+[2019.05.18-14.00.58:976][  0]LogLinker: Warning: Unable to load PhysicsSerializer with outer InstancedStaticMeshComponent /Game/Terrain/HoudiniBake/terrain_bishe_1_846516E4.terrain_bishe_1_846516E4_C:InstancedStaticMesh17_GEN_VARIABLE because its class does not exist
+[2019.05.18-14.00.58:976][  0]LogLinker: Warning: Unable to load PhysicsSerializer with outer InstancedStaticMeshComponent /Game/Terrain/HoudiniBake/terrain_bishe_1_846516E4.terrain_bishe_1_846516E4_C:InstancedStaticMesh18_GEN_VARIABLE because its class does not exist
+[2019.05.18-14.00.58:976][  0]LogLinker: Warning: Unable to load PhysicsSerializer with outer InstancedStaticMeshComponent /Game/Terrain/HoudiniBake/terrain_bishe_1_846516E4.terrain_bishe_1_846516E4_C:InstancedStaticMesh19_GEN_VARIABLE because its class does not exist
+[2019.05.18-14.00.58:976][  0]LogLinker: Warning: Unable to load PhysicsSerializer with outer InstancedStaticMeshComponent /Game/Terrain/HoudiniBake/terrain_bishe_1_846516E4.terrain_bishe_1_846516E4_C:InstancedStaticMesh1_GEN_VARIABLE because its class does not exist
+[2019.05.18-14.00.58:976][  0]LogLinker: Warning: Unable to load PhysicsSerializer with outer InstancedStaticMeshComponent /Game/Terrain/HoudiniBake/terrain_bishe_1_846516E4.terrain_bishe_1_846516E4_C:InstancedStaticMesh20_GEN_VARIABLE because its class does not exist
+[2019.05.18-14.00.58:976][  0]LogLinker: Warning: Unable to load PhysicsSerializer with outer InstancedStaticMeshComponent /Game/Terrain/HoudiniBake/terrain_bishe_1_846516E4.terrain_bishe_1_846516E4_C:InstancedStaticMesh21_GEN_VARIABLE because its class does not exist
+[2019.05.18-14.00.58:976][  0]LogLinker: Warning: Unable to load PhysicsSerializer with outer InstancedStaticMeshComponent /Game/Terrain/HoudiniBake/terrain_bishe_1_846516E4.terrain_bishe_1_846516E4_C:InstancedStaticMesh22_GEN_VARIABLE because its class does not exist
+[2019.05.18-14.00.58:976][  0]LogLinker: Warning: Unable to load PhysicsSerializer with outer InstancedStaticMeshComponent /Game/Terrain/HoudiniBake/terrain_bishe_1_846516E4.terrain_bishe_1_846516E4_C:InstancedStaticMesh23_GEN_VARIABLE because its class does not exist
+[2019.05.18-14.00.58:976][  0]LogLinker: Warning: Unable to load PhysicsSerializer with outer InstancedStaticMeshComponent /Game/Terrain/HoudiniBake/terrain_bishe_1_846516E4.terrain_bishe_1_846516E4_C:InstancedStaticMesh24_GEN_VARIABLE because its class does not exist
+[2019.05.18-14.00.58:977][  0]LogLinker: Warning: Unable to load PhysicsSerializer with outer InstancedStaticMeshComponent /Game/Terrain/HoudiniBake/terrain_bishe_1_846516E4.terrain_bishe_1_846516E4_C:InstancedStaticMesh25_GEN_VARIABLE because its class does not exist
+[2019.05.18-14.00.58:977][  0]LogLinker: Warning: Unable to load PhysicsSerializer with outer InstancedStaticMeshComponent /Game/Terrain/HoudiniBake/terrain_bishe_1_846516E4.terrain_bishe_1_846516E4_C:InstancedStaticMesh26_GEN_VARIABLE because its class does not exist
+[2019.05.18-14.00.58:977][  0]LogLinker: Warning: Unable to load PhysicsSerializer with outer InstancedStaticMeshComponent /Game/Terrain/HoudiniBake/terrain_bishe_1_846516E4.terrain_bishe_1_846516E4_C:InstancedStaticMesh27_GEN_VARIABLE because its class does not exist
+[2019.05.18-14.00.58:977][  0]LogLinker: Warning: Unable to load PhysicsSerializer with outer InstancedStaticMeshComponent /Game/Terrain/HoudiniBake/terrain_bishe_1_846516E4.terrain_bishe_1_846516E4_C:InstancedStaticMesh28_GEN_VARIABLE because its class does not exist
+[2019.05.18-14.00.58:977][  0]LogLinker: Warning: Unable to load PhysicsSerializer with outer InstancedStaticMeshComponent /Game/Terrain/HoudiniBake/terrain_bishe_1_846516E4.terrain_bishe_1_846516E4_C:InstancedStaticMesh29_GEN_VARIABLE because its class does not exist
+[2019.05.18-14.00.58:977][  0]LogLinker: Warning: Unable to load PhysicsSerializer with outer InstancedStaticMeshComponent /Game/Terrain/HoudiniBake/terrain_bishe_1_846516E4.terrain_bishe_1_846516E4_C:InstancedStaticMesh2_GEN_VARIABLE because its class does not exist
+[2019.05.18-14.00.58:977][  0]LogLinker: Warning: Unable to load PhysicsSerializer with outer InstancedStaticMeshComponent /Game/Terrain/HoudiniBake/terrain_bishe_1_846516E4.terrain_bishe_1_846516E4_C:InstancedStaticMesh30_GEN_VARIABLE because its class does not exist
+[2019.05.18-14.00.58:977][  0]LogLinker: Warning: Unable to load PhysicsSerializer with outer InstancedStaticMeshComponent /Game/Terrain/HoudiniBake/terrain_bishe_1_846516E4.terrain_bishe_1_846516E4_C:InstancedStaticMesh31_GEN_VARIABLE because its class does not exist
+[2019.05.18-14.00.58:977][  0]LogLinker: Warning: Unable to load PhysicsSerializer with outer InstancedStaticMeshComponent /Game/Terrain/HoudiniBake/terrain_bishe_1_846516E4.terrain_bishe_1_846516E4_C:InstancedStaticMesh32_GEN_VARIABLE because its class does not exist
+[2019.05.18-14.00.58:977][  0]LogLinker: Warning: Unable to load PhysicsSerializer with outer InstancedStaticMeshComponent /Game/Terrain/HoudiniBake/terrain_bishe_1_846516E4.terrain_bishe_1_846516E4_C:InstancedStaticMesh3_GEN_VARIABLE because its class does not exist
+[2019.05.18-14.00.58:977][  0]LogLinker: Warning: Unable to load PhysicsSerializer with outer InstancedStaticMeshComponent /Game/Terrain/HoudiniBake/terrain_bishe_1_846516E4.terrain_bishe_1_846516E4_C:InstancedStaticMesh4_GEN_VARIABLE because its class does not exist
+[2019.05.18-14.00.58:977][  0]LogLinker: Warning: Unable to load PhysicsSerializer with outer InstancedStaticMeshComponent /Game/Terrain/HoudiniBake/terrain_bishe_1_846516E4.terrain_bishe_1_846516E4_C:InstancedStaticMesh5_GEN_VARIABLE because its class does not exist
+[2019.05.18-14.00.58:977][  0]LogLinker: Warning: Unable to load PhysicsSerializer with outer InstancedStaticMeshComponent /Game/Terrain/HoudiniBake/terrain_bishe_1_846516E4.terrain_bishe_1_846516E4_C:InstancedStaticMesh6_GEN_VARIABLE because its class does not exist
+[2019.05.18-14.00.58:977][  0]LogLinker: Warning: Unable to load PhysicsSerializer with outer InstancedStaticMeshComponent /Game/Terrain/HoudiniBake/terrain_bishe_1_846516E4.terrain_bishe_1_846516E4_C:InstancedStaticMesh7_GEN_VARIABLE because its class does not exist
+[2019.05.18-14.00.58:977][  0]LogLinker: Warning: Unable to load PhysicsSerializer with outer InstancedStaticMeshComponent /Game/Terrain/HoudiniBake/terrain_bishe_1_846516E4.terrain_bishe_1_846516E4_C:InstancedStaticMesh8_GEN_VARIABLE because its class does not exist
+[2019.05.18-14.00.58:977][  0]LogLinker: Warning: Unable to load PhysicsSerializer with outer InstancedStaticMeshComponent /Game/Terrain/HoudiniBake/terrain_bishe_1_846516E4.terrain_bishe_1_846516E4_C:InstancedStaticMesh9_GEN_VARIABLE because its class does not exist
+[2019.05.18-14.00.58:978][  0]LogLinker: Warning: Unable to load PhysicsSerializer with outer InstancedStaticMeshComponent /Game/Terrain/HoudiniBake/terrain_bishe_1_846516E4.terrain_bishe_1_846516E4_C:InstancedStaticMesh_GEN_VARIABLE because its class does not exist
+[2019.05.18-14.00.59:783][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Player/014_swimming_Treading_Water.014_swimming_Treading_Water
+[2019.05.18-14.00.59:784][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Player/014_swimming_Treading_Water.014_swimming_Treading_Water) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.05.18-14.00.59:811][  0]AssetCheck: Warning: 013_Swimming Particle system /Game/Terrain/VFX/P_1_ripple.P_1_ripple used in anim notify for asset /Game/Player/013_Swimming.013_Swimming is set to looping, but the slot is a one-shot (it won't be played to avoid leaking a component per notify).
+[2019.05.18-14.00.59:825][  0]AssetCheck: Warning: 013_Swimming Particle system /Game/Terrain/VFX/P_1_ripple.P_1_ripple used in anim notify for asset /Game/Player/013_Swimming.013_Swimming is set to looping, but the slot is a one-shot (it won't be played to avoid leaking a component per notify).
+[2019.05.18-14.00.59:831][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Player/013_Swimming.013_Swimming
+[2019.05.18-14.00.59:831][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Player/013_Swimming.013_Swimming) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.05.18-14.00.59:832][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Player/012_Crouched_Walking.012_Crouched_Walking
+[2019.05.18-14.00.59:832][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Player/012_Crouched_Walking.012_Crouched_Walking) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.05.18-14.00.59:833][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Player/011_Climbing_Hanging_Idle.011_Climbing_Hanging_Idle
+[2019.05.18-14.00.59:833][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Player/011_Climbing_Hanging_Idle.011_Climbing_Hanging_Idle) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.05.18-14.00.59:834][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Player/008_Climbing_Up_Wall1.008_Climbing_Up_Wall1
+[2019.05.18-14.00.59:834][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Player/008_Climbing_Up_Wall1.008_Climbing_Up_Wall1) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.05.18-14.00.59:836][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Player/NewFolder/NewFolder/006_Jumping_stopOld.006_Jumping_stopOld
+[2019.05.18-14.00.59:836][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Player/NewFolder/NewFolder/006_Jumping_stopOld.006_Jumping_stopOld) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.05.18-14.00.59:836][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Player/NewFolder/NewFolder/006_Jumping_stop.006_Jumping_stop
+[2019.05.18-14.00.59:836][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Player/NewFolder/NewFolder/006_Jumping_stop.006_Jumping_stop) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.05.18-14.00.59:838][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Player/NewFolder/007_Jumping_down.007_Jumping_down
+[2019.05.18-14.00.59:838][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Player/NewFolder/007_Jumping_down.007_Jumping_down) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.05.18-14.00.59:839][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Player/NewFolder/005_Jumping_up_Anim.005_Jumping_up_Anim
+[2019.05.18-14.00.59:839][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Player/NewFolder/005_Jumping_up_Anim.005_Jumping_up_Anim) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.05.18-14.00.59:840][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Player/015_Flying.015_Flying
+[2019.05.18-14.00.59:840][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Player/015_Flying.015_Flying) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.05.18-14.00.59:841][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Player/001_Idle_Anim.001_Idle_Anim
+[2019.05.18-14.00.59:842][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Player/001_Idle_Anim.001_Idle_Anim) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.05.18-14.01.00:184][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Player/004_Run_Forward.004_Run_Forward
+[2019.05.18-14.01.00:184][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Player/004_Run_Forward.004_Run_Forward) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.05.18-14.01.00:185][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Player/003_Walking.003_Walking
+[2019.05.18-14.01.00:185][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Player/003_Walking.003_Walking) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.05.18-14.01.00:840][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Player/009_Climbing_To_Top_.009_Climbing_To_Top_
+[2019.05.18-14.01.00:840][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Player/009_Climbing_To_Top_.009_Climbing_To_Top_) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.05.18-14.01.01:993][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Player/018-aTtack_Standing_1H_Cast_Spell_01.018-aTtack_Standing_1H_Cast_Spell_01
+[2019.05.18-14.01.01:993][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Player/018-aTtack_Standing_1H_Cast_Spell_01.018-aTtack_Standing_1H_Cast_Spell_01) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.05.18-14.01.02:526][  0]LogAIModule: Creating AISystem for world LakeLevel
+[2019.05.18-14.01.03:193][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.05.18-14.01.03:316][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.05.18-14.01.03:538][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 222.308ms to complete.
+[2019.05.18-14.01.03:538][  0]LogFileHelpers: Loading map 'LakeLevel' took 7.278
+[2019.05.18-14.01.03:775][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.18-14.01.03:784][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.18-14.01.03:826][  0]LogCollectionManager: Loaded 0 collections in 0.001145 seconds
+[2019.05.18-14.01.03:904][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Saved/Collections/' took 0.01s
+[2019.05.18-14.01.03:904][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Content/Developers/Ivy/Collections/' took 0.01s
+[2019.05.18-14.01.03:904][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Content/Collections/' took 0.01s
+[2019.05.18-14.01.03:904][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.05.18-14.01.03:930][  0]LogContentBrowser: Native class hierarchy populated in 0.0265 seconds. Added 2610 classes and 610 folders.
+[2019.05.18-14.01.03:964][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.05.18-14.01.04:594][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.05.18-14.01.04:650][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2019.05.18-14.01.04:885][  0]LogSlate: Took 0.006729 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.05.18-14.01.04:893][  0]LogSlate: Took 0.002968 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.05.18-14.01.04:913][  0]LogSlate: Took 0.017602 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.05.18-14.01.05:090][  0]LogRenderer: Reallocating scene render targets to support 728x252 Format 10 NumSamples 1 (Frame:1).
+[2019.05.18-14.01.05:178][  0]LogRenderer: Reallocating scene render targets to support 1452x504 Format 10 NumSamples 1 (Frame:1).
+[2019.05.18-14.01.05:515][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.05.18-14.01.05:515][  0]LogLoad: (Engine Initialization) Total time: 52.30 seconds
+[2019.05.18-14.01.05:515][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.05.18-14.01.05:592][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.05.18-14.01.05:743][  0]LogRenderer: Reallocating scene render targets to support 1452x516 Format 10 NumSamples 1 (Frame:3).
+[2019.05.18-14.01.05:743][  0]LogSlate: Took 0.055610 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2019.05.18-14.01.05:984][  2]LogSlate: Took 0.023111 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.05.18-14.01.06:039][  3]LogAssetRegistry: Asset discovery search completed in 32.2713 seconds
+[2019.05.18-14.01.06:041][  3]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.05.18-14.01.06:041][  3]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000051 seconds (updated 0 objects)
+[2019.05.18-14.01.07:012][  6]LogSlate: Took 0.000186 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.05.18-14.01.08:532][ 33]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.18-14.01.14:998][202]LogAIModule: Creating AISystem for world LakeLevelNew
+[2019.05.18-14.01.15:138][202]LogAssetEditorManager: Opening Asset editor for World /Game/Terrain/4/LakeLevelNew.LakeLevelNew
+[2019.05.18-14.01.15:174][202]Cmd: MAP LOAD FILE="C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Content/Terrain/4/LakeLevelNew.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.05.18-14.01.15:175][202]LightingResults: New page: Lighting Build
+[2019.05.18-14.01.15:176][202]LoadErrors: New page: Loading map: LakeLevelNew.umap
+[2019.05.18-14.01.15:185][202]MapCheck: New page: Map Check
+[2019.05.18-14.01.15:185][202]LightingResults: New page: Lighting Build
+[2019.05.18-14.01.16:424][202]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.05.18-14.01.16:546][202]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.05.18-14.01.16:868][202]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 321.608ms to complete.
+[2019.05.18-14.01.16:874][202]LogFileHelpers: Loading map 'LakeLevelNew' took 1.701
+[2019.05.18-14.01.32:069][830]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cone2)
+[2019.05.18-14.01.33:872][885]Cmd: DELETE
+[2019.05.18-14.01.33:872][885]Cmd: ACTOR DELETE
+[2019.05.18-14.01.33:904][885]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.18-14.01.34:004][885]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.18-14.01.34:030][885]LogEditorActor: Deleted 1 Actors (0.158 secs)
+[2019.05.18-14.01.41:315][161]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.18-14.01.43:325][237]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.05.18-14.01.50:064][531]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.18-14.02.02:032][ 69]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.18-14.02.21:396][829]LogEditorViewport: Clicking on Actor (LMB): BP_Bird_Spline1_C (BP_Bird_Spline1)
+[2019.05.18-14.02.23:048][898]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.18-14.02.34:444][403]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.18-14.02.38:344][574]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.18-14.02.46:149][943]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.18-14.03.04:039][678]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.18-14.03.34:359][920]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.18-14.04.03:028][ 59]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.18-14.04.20:671][814]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.18-14.04.38:464][506]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.18-14.04.54:080][ 71]LogEditorViewport: Clicking on Actor (LMB): startPointTest_C (SP3e)
+[2019.05.18-14.04.56:319][148]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.18-14.05.14:666][943]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.18-14.05.18:684][ 91]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (nest_part_2)
+[2019.05.18-14.05.19:972][132]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.18-14.05.32:661][594]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.18-14.05.32:726][598]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.18-14.05.32:748][598]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel' has LevelScriptBlueprint '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew' with GeneratedClass '/Game/Terrain/4/LakeLevelNew.LakeLevelNew_C' with ClassGeneratedBy '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew'
+[2019.05.18-14.05.32:748][598]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.18-14.05.32:820][598]PIE: New page: PIE session: LakeLevelNew (May 19, 2019, 6:05:32 AM)
+[2019.05.18-14.05.32:821][598]LogPlayLevel: Creating play world package: /Game/Terrain/4/UEDPIE_0_LakeLevelNew
+[2019.05.18-14.05.33:042][598]LogPlayLevel: PIE: StaticDuplicateObject took: (0.221155s)
+[2019.05.18-14.05.33:042][598]LogAIModule: Creating AISystem for world LakeLevelNew
+[2019.05.18-14.05.33:043][598]LogPlayLevel: PIE: World Init took: (0.000962s)
+[2019.05.18-14.05.33:043][598]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Terrain/4/LakeLevelNew.LakeLevelNew to /Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew (0.222449s)
+[2019.05.18-14.05.33:206][598]LogInit: XAudio2 using '扬声器/听筒 (Realtek Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.05.18-14.05.33:250][598]LogInit: FAudioDevice initialized.
+[2019.05.18-14.05.33:294][598]LogLoad: Game class is 'NewBlueprint_C'
+[2019.05.18-14.05.34:765][598]LogWorld: Bringing World /Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew up for play (max tick rate 60) at 2019.05.18-22.05.34
+[2019.05.18-14.05.34:778][598]LogWorld: Bringing up level for play took: 1.482093
+[2019.05.18-14.05.34:837][598]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 10 classes and 0 folders.
+[2019.05.18-14.05.34:837][598]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.05.18-14.05.34:837][598]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.05.18-14.05.34:837][598]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.05.18-14.05.34:838][598]LogBlueprintUserMessages: [SplineForAnim_8] Hello
+[2019.05.18-14.05.34:838][598]LogBlueprintUserMessages: [SplineForAnim2_12] Hello
+[2019.05.18-14.05.34:838][598]LogBlueprintUserMessages: [SplineForAnim3_15] Hello
+[2019.05.18-14.05.34:846][598]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.05.18-14.05.34:846][598]PIE: Play in editor start time for /Game/Terrain/4/UEDPIE_0_LakeLevelNew 1.894
+[2019.05.18-14.05.34:846][598]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel' has LevelScriptBlueprint '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew' with GeneratedClass '/Game/Terrain/4/LakeLevelNew.LakeLevelNew_C' with ClassGeneratedBy '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew'
+[2019.05.18-14.05.45:314][140]LogBlueprintUserMessages: [BTT_LanchAttack_C_1] Attack
+[2019.05.18-14.05.45:352][142]LogBlueprintUserMessages: [BTT_LanchAttack_C_1] Attack
+[2019.05.18-14.05.54:335][635]LogBlueprintUserMessages: [BTT_LanchAttack_C_1] Attack
+[2019.05.18-14.05.54:371][637]LogBlueprintUserMessages: [BTT_LanchAttack_C_1] Attack
+[2019.05.18-14.06.01:922][ 61]LogBlueprintUserMessages: [BTT_LanchAttack_C_1] Attack
+[2019.05.18-14.06.01:954][ 63]LogBlueprintUserMessages: [BTT_LanchAttack_C_1] Attack
+[2019.05.18-14.06.32:373][715]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.18-14.06.53:303][742]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.18-14.06.57:356][963]LogParticles: Warning: Particle Notify: Anim '013_Swimming' tried to spawn infinitely looping particle system 'P_1_ripple'. Spawning suppressed.
+[2019.05.18-14.06.57:717][983]LogParticles: Warning: Particle Notify: Anim '013_Swimming' tried to spawn infinitely looping particle system 'P_1_ripple'. Spawning suppressed.
+[2019.05.18-14.07.02:407][234]LogBlueprintUserMessages: [BTT_LanchAttack_C_1] Attack
+[2019.05.18-14.07.02:450][236]LogBlueprintUserMessages: [BTT_LanchAttack_C_1] Attack
+[2019.05.18-14.07.06:136][430]LogBlueprintUserMessages: [BTT_LanchAttack_C_1] Attack
+[2019.05.18-14.07.08:468][557]LogBlueprintUserMessages: [BTT_LanchAttack_C_1] Attack
+[2019.05.18-14.07.09:344][600]LogParticles: Warning: Particle Notify: Anim '013_Swimming' tried to spawn infinitely looping particle system 'P_1_ripple'. Spawning suppressed.
+[2019.05.18-14.07.09:693][617]LogParticles: Warning: Particle Notify: Anim '013_Swimming' tried to spawn infinitely looping particle system 'P_1_ripple'. Spawning suppressed.
+[2019.05.18-14.07.11:285][698]LogBlueprintUserMessages: [BTT_LanchAttack_C_1] Attack
+[2019.05.18-14.07.15:276][905]LogMaterial: Warning: Material /Game/Terrain/material/M_Decal.M_Decal missing bUsedWithMorphTargets=True! Default Material will be used in game.
+[2019.05.18-14.07.15:276][905]LogMaterial: Warning:      The material will recompile every editor launch until resaved.
+[2019.05.18-14.07.15:699][928]LogCharacterMovement: AITwo2_2 is stuck and failed to move! Velocity: X=34.03 Y=-2.68 Z=0.00 Location: X=-17434.55 Y=-50773.18 Z=3732.03 Normal: X=-0.99 Y=0.17 Z=-0.00 PenetrationDepth:10.463 Actor:MyChar2 Component:jingangchu BoneName:None (0 other events since notify)
+[2019.05.18-14.07.16:620][981]LogBlueprintUserMessages: [BTT_LanchAttack_C_1] Attack
+[2019.05.18-14.07.16:652][983]LogBlueprintUserMessages: [BTT_LanchAttack_C_1] Attack
+[2019.05.18-14.07.18:440][ 82]LogBlueprintUserMessages: [BTT_LanchAttack_C_1] Attack
+[2019.05.18-14.07.37:494][ 84]LogBlueprintUserMessages: [BP_Bird_Spline1_34488] bird
+[2019.05.18-14.07.43:941][448]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel' has LevelScriptBlueprint '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew' with GeneratedClass '/Game/Terrain/4/LakeLevelNew.LakeLevelNew_C' with ClassGeneratedBy '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew'
+[2019.05.18-14.07.43:941][448]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.18-14.07.43:992][448]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.18-14.07.43:992][448]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel' has LevelScriptBlueprint '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew' with GeneratedClass '/Game/Terrain/4/LakeLevelNew.LakeLevelNew_C' with ClassGeneratedBy '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew'
+[2019.05.18-14.07.44:018][448]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.18-14.07.44:019][448]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.18-14.07.44:019][448]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.18-14.07.44:019][448]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.18-14.07.44:019][448]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.18-14.07.44:019][448]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.18-14.07.44:019][448]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.18-14.07.44:019][448]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.18-14.07.44:019][448]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.18-14.07.44:019][448]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.18-14.07.44:019][448]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.18-14.07.44:019][448]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.18-14.07.44:019][448]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.18-14.07.44:019][448]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.18-14.07.44:019][448]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.18-14.07.44:019][448]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.18-14.07.44:019][448]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.18-14.07.44:019][448]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.18-14.07.44:019][448]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.18-14.07.44:019][448]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.18-14.07.44:019][448]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.18-14.07.44:019][448]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.18-14.07.44:021][448]LogActorComponent: UnregisterComponent: (None.None:None.None.None) Not registered. Aborting.
+[2019.05.18-14.07.44:021][448]LogActorComponent: UnregisterComponent: (None.None:None.None.None) Not registered. Aborting.
+[2019.05.18-14.07.44:021][448]LogActorComponent: UnregisterComponent: (None.None:None.None.None) Not registered. Aborting.
+[2019.05.18-14.07.44:021][448]LogActorComponent: UnregisterComponent: (None.None:None.None.None) Not registered. Aborting.
+[2019.05.18-14.07.44:022][448]LogActorComponent: UnregisterComponent: (None.None:None.None.None) Not registered. Aborting.
+[2019.05.18-14.07.44:022][448]LogActorComponent: UnregisterComponent: (None.None:None.None.None) Not registered. Aborting.
+[2019.05.18-14.07.44:022][448]LogActorComponent: UnregisterComponent: (None.None:None.None.None) Not registered. Aborting.
+[2019.05.18-14.07.44:022][448]LogActorComponent: UnregisterComponent: (None.None:None.None.None) Not registered. Aborting.
+[2019.05.18-14.07.44:022][448]LogActorComponent: UnregisterComponent: (None.None:None.None.None) Not registered. Aborting.
+[2019.05.18-14.07.44:022][448]LogActorComponent: UnregisterComponent: (None.None:None.None.None) Not registered. Aborting.
+[2019.05.18-14.07.44:022][448]LogActorComponent: UnregisterComponent: (None.None:None.None.None) Not registered. Aborting.
+[2019.05.18-14.07.44:022][448]LogActorComponent: UnregisterComponent: (None.None:None.None.None) Not registered. Aborting.
+[2019.05.18-14.07.44:022][448]LogActorComponent: UnregisterComponent: (None.None:None.None.None) Not registered. Aborting.
+[2019.05.18-14.07.44:022][448]LogActorComponent: UnregisterComponent: (None.None:None.None.None) Not registered. Aborting.
+[2019.05.18-14.07.44:022][448]LogActorComponent: UnregisterComponent: (None.None:None.None.None) Not registered. Aborting.
+[2019.05.18-14.07.44:022][448]LogActorComponent: UnregisterComponent: (None.None:None.None.None) Not registered. Aborting.
+[2019.05.18-14.07.44:022][448]LogActorComponent: UnregisterComponent: (None.None:None.None.None) Not registered. Aborting.
+[2019.05.18-14.07.44:022][448]LogActorComponent: UnregisterComponent: (None.None:None.None.None) Not registered. Aborting.
+[2019.05.18-14.07.44:022][448]LogActorComponent: UnregisterComponent: (None.None:None.None.None) Not registered. Aborting.
+[2019.05.18-14.07.44:022][448]LogActorComponent: UnregisterComponent: (None.None:None.None.None) Not registered. Aborting.
+[2019.05.18-14.07.44:022][448]LogActorComponent: UnregisterComponent: (None.None:None.None.None) Not registered. Aborting.
+[2019.05.18-14.07.44:022][448]LogActorComponent: UnregisterComponent: (None.None:None.None.None) Not registered. Aborting.
+[2019.05.18-14.07.44:022][448]LogActorComponent: UnregisterComponent: (None.None:None.None.None) Not registered. Aborting.
+[2019.05.18-14.07.44:022][448]LogActorComponent: UnregisterComponent: (None.None:None.None.None) Not registered. Aborting.
+[2019.05.18-14.07.44:022][448]LogActorComponent: UnregisterComponent: (None.None:None.None.None) Not registered. Aborting.
+[2019.05.18-14.07.44:022][448]LogActorComponent: UnregisterComponent: (None.None:None.None.None) Not registered. Aborting.
+[2019.05.18-14.07.44:022][448]LogActorComponent: UnregisterComponent: (None.None:None.None.None) Not registered. Aborting.
+[2019.05.18-14.07.44:022][448]LogActorComponent: UnregisterComponent: (None.None:None.None.None) Not registered. Aborting.
+[2019.05.18-14.07.44:022][448]LogActorComponent: UnregisterComponent: (None.None:None.None.None) Not registered. Aborting.
+[2019.05.18-14.07.44:031][448]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.18-14.07.44:088][449]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2019.05.18-14.07.45:581][523]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.18-14.07.46:568][527]LogSlate: Window 'Save Content' being destroyed
+[2019.05.18-14.07.46:992][527]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Terrain/4/LakeLevelNew" FILE="C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Content/Terrain/4/LakeLevelNew.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.05.18-14.07.52:704][527]LogSavePackage: Moving 'C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Saved/LakeLevelNewB3C7D84B43835B6C59A304AFDCAB09DE.tmp' to 'C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Content/Terrain/4/LakeLevelNew.umap'
+[2019.05.18-14.07.52:767][527]LogFileHelpers: Saving map 'LakeLevelNew' took 6.141
+[2019.05.18-14.07.55:202][651]LogRenderer: Reallocating scene render targets to support 1452x548 Format 10 NumSamples 1 (Frame:10664).
+[2019.05.18-14.07.55:274][652]LogRenderer: Reallocating scene render targets to support 1452x580 Format 10 NumSamples 1 (Frame:10666).
+[2019.05.18-14.07.55:349][653]LogRenderer: Reallocating scene render targets to support 1452x600 Format 10 NumSamples 1 (Frame:10668).
+[2019.05.18-14.07.55:427][654]LogRenderer: Reallocating scene render targets to support 1452x608 Format 10 NumSamples 1 (Frame:10670).
+[2019.05.18-14.07.55:493][656]LogRenderer: Reallocating scene render targets to support 1452x616 Format 10 NumSamples 1 (Frame:10672).
+[2019.05.18-14.08.07:182][210]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder2)
+[2019.05.18-14.08.12:313][464]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.18-14.08.19:774][813]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.18-14.08.58:723][755]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.18-14.08.58:788][758]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.18-14.08.58:816][758]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel' has LevelScriptBlueprint '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew' with GeneratedClass '/Game/Terrain/4/LakeLevelNew.LakeLevelNew_C' with ClassGeneratedBy '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew'
+[2019.05.18-14.08.58:817][758]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.18-14.08.58:817][758]PIE: New page: PIE session: LakeLevelNew (May 19, 2019, 6:08:58 AM)
+[2019.05.18-14.08.58:817][758]LogPlayLevel: Creating play world package: /Game/Terrain/4/UEDPIE_0_LakeLevelNew
+[2019.05.18-14.08.58:964][758]LogPlayLevel: PIE: StaticDuplicateObject took: (0.146367s)
+[2019.05.18-14.08.58:965][758]LogAIModule: Creating AISystem for world LakeLevelNew
+[2019.05.18-14.08.58:965][758]LogPlayLevel: PIE: World Init took: (0.001201s)
+[2019.05.18-14.08.58:966][758]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Terrain/4/LakeLevelNew.LakeLevelNew to /Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew (0.147940s)
+[2019.05.18-14.08.59:088][758]LogInit: XAudio2 using '扬声器/听筒 (Realtek Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.05.18-14.08.59:131][758]LogInit: FAudioDevice initialized.
+[2019.05.18-14.08.59:170][758]LogLoad: Game class is 'NewBlueprint_C'
+[2019.05.18-14.09.00:599][758]LogWorld: Bringing World /Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew up for play (max tick rate 60) at 2019.05.18-22.09.00
+[2019.05.18-14.09.00:614][758]LogWorld: Bringing up level for play took: 1.443526
+[2019.05.18-14.09.00:628][758]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.05.18-14.09.00:628][758]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.05.18-14.09.00:628][758]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.05.18-14.09.00:629][758]LogBlueprintUserMessages: [SplineForAnim_8] Hello
+[2019.05.18-14.09.00:629][758]LogBlueprintUserMessages: [SplineForAnim2_12] Hello
+[2019.05.18-14.09.00:629][758]LogBlueprintUserMessages: [SplineForAnim3_15] Hello
+[2019.05.18-14.09.00:635][758]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.05.18-14.09.00:635][758]PIE: Play in editor start time for /Game/Terrain/4/UEDPIE_0_LakeLevelNew 1.683
+[2019.05.18-14.09.00:635][758]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel' has LevelScriptBlueprint '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew' with GeneratedClass '/Game/Terrain/4/LakeLevelNew.LakeLevelNew_C' with ClassGeneratedBy '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew'
+[2019.05.18-14.09.05:331][985]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.05.18-14.09.23:146][802]LogEditorViewport: Clicking on Actor (LMB): AIBoss_C (AIBoss)
+[2019.05.18-14.09.30:296][ 96]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder2)
+[2019.05.18-14.09.38:930][490]LogEditorViewport: Clicking on Actor (LMB): AIBoss_C (AIBoss)
+[2019.05.18-14.09.57:107][281]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.18-14.10.01:918][483]PIE: Warning: Mobility of /Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.Cylinder2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.05.18-14.10.01:918][483]PIE: Warning: Mobility of /Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.Cylinder2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.05.18-14.10.01:954][485]PIE: Warning: Mobility of /Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.Cylinder2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.05.18-14.10.01:954][485]PIE: Warning: Mobility of /Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.Cylinder2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.05.18-14.10.01:975][486]PIE: Warning: Mobility of /Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.Cylinder2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.05.18-14.10.01:975][486]PIE: Warning: Mobility of /Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.Cylinder2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.05.18-14.10.01:997][487]PIE: Warning: Mobility of /Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.Cylinder2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.05.18-14.10.01:997][487]PIE: Warning: Mobility of /Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.Cylinder2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.05.18-14.10.02:017][488]PIE: Warning: Mobility of /Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.Cylinder2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.05.18-14.10.02:017][488]PIE: Warning: Mobility of /Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.Cylinder2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.05.18-14.10.02:037][489]PIE: Warning: Mobility of /Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.Cylinder2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.05.18-14.10.02:037][489]PIE: Warning: Mobility of /Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.Cylinder2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.05.18-14.10.02:055][490]PIE: Warning: Mobility of /Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.Cylinder2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.05.18-14.10.02:055][490]PIE: Warning: Mobility of /Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.Cylinder2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.05.18-14.10.02:076][491]PIE: Warning: Mobility of /Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.Cylinder2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.05.18-14.10.02:076][491]PIE: Warning: Mobility of /Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.Cylinder2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.05.18-14.10.02:131][494]PIE: Warning: Mobility of /Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.Cylinder2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.05.18-14.10.02:131][494]PIE: Warning: Mobility of /Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.Cylinder2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.05.18-14.10.02:152][495]PIE: Warning: Mobility of /Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.Cylinder2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.05.18-14.10.02:152][495]PIE: Warning: Mobility of /Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.Cylinder2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.05.18-14.10.02:172][496]PIE: Warning: Mobility of /Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.Cylinder2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.05.18-14.10.02:172][496]PIE: Warning: Mobility of /Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.Cylinder2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.05.18-14.10.02:334][505]PIE: Warning: Mobility of /Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.Cylinder2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.05.18-14.10.02:334][505]PIE: Warning: Mobility of /Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.Cylinder2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.05.18-14.10.02:352][506]PIE: Warning: Mobility of /Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.Cylinder2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.05.18-14.10.02:352][506]PIE: Warning: Mobility of /Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.Cylinder2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.05.18-14.10.03:254][537]PIE: Warning: Mobility of /Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.Cylinder2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.05.18-14.10.03:254][537]PIE: Warning: Mobility of /Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.Cylinder2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.05.18-14.10.03:280][538]PIE: Warning: Mobility of /Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.Cylinder2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.05.18-14.10.03:280][538]PIE: Warning: Mobility of /Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.Cylinder2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.05.18-14.10.03:300][539]PIE: Warning: Mobility of /Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.Cylinder2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.05.18-14.10.03:300][539]PIE: Warning: Mobility of /Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.Cylinder2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.05.18-14.10.03:319][540]PIE: Warning: Mobility of /Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.Cylinder2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.05.18-14.10.03:319][540]PIE: Warning: Mobility of /Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.Cylinder2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.05.18-14.10.03:337][541]PIE: Warning: Mobility of /Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.Cylinder2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.05.18-14.10.03:338][541]PIE: Warning: Mobility of /Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.Cylinder2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.05.18-14.10.04:198][576]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.18-14.10.04:295][581]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel' has LevelScriptBlueprint '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew' with GeneratedClass '/Game/Terrain/4/LakeLevelNew.LakeLevelNew_C' with ClassGeneratedBy '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew'
+[2019.05.18-14.10.04:296][581]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.18-14.10.04:356][581]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.18-14.10.04:356][581]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel' has LevelScriptBlueprint '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew' with GeneratedClass '/Game/Terrain/4/LakeLevelNew.LakeLevelNew_C' with ClassGeneratedBy '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew'
+[2019.05.18-14.10.04:381][581]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.18-14.10.04:381][581]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.18-14.10.04:381][581]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.18-14.10.04:381][581]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.18-14.10.04:381][581]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.18-14.10.04:381][581]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.18-14.10.04:382][581]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.18-14.10.04:382][581]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.18-14.10.04:382][581]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.18-14.10.04:382][581]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.18-14.10.04:382][581]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.18-14.10.04:382][581]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.18-14.10.04:382][581]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.18-14.10.04:382][581]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.18-14.10.04:382][581]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.18-14.10.04:382][581]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.18-14.10.04:382][581]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.18-14.10.04:382][581]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.18-14.10.04:382][581]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.18-14.10.04:382][581]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.18-14.10.04:382][581]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.18-14.10.04:382][581]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.18-14.10.04:392][581]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.18-14.10.04:393][581]LogActorComponent: UnregisterComponent: (None.None:None.None.None) Not registered. Aborting.
+[2019.05.18-14.10.04:394][581]LogActorComponent: UnregisterComponent: (None.None:None.None.None) Not registered. Aborting.
+[2019.05.18-14.10.04:394][581]LogActorComponent: UnregisterComponent: (None.None:None.None.None) Not registered. Aborting.
+[2019.05.18-14.10.04:394][581]LogActorComponent: UnregisterComponent: (None.None:None.None.None) Not registered. Aborting.
+[2019.05.18-14.10.04:394][581]LogActorComponent: UnregisterComponent: (None.None:None.None.None) Not registered. Aborting.
+[2019.05.18-14.10.04:394][581]LogActorComponent: UnregisterComponent: (None.None:None.None.None) Not registered. Aborting.
+[2019.05.18-14.10.04:394][581]LogActorComponent: UnregisterComponent: (None.None:None.None.None) Not registered. Aborting.
+[2019.05.18-14.10.04:394][581]LogActorComponent: UnregisterComponent: (None.None:None.None.None) Not registered. Aborting.
+[2019.05.18-14.10.04:394][581]LogActorComponent: UnregisterComponent: (None.None:None.None.None) Not registered. Aborting.
+[2019.05.18-14.10.04:394][581]LogActorComponent: UnregisterComponent: (None.None:None.None.None) Not registered. Aborting.
+[2019.05.18-14.10.04:394][581]LogActorComponent: UnregisterComponent: (None.None:None.None.None) Not registered. Aborting.
+[2019.05.18-14.10.04:394][581]LogActorComponent: UnregisterComponent: (None.None:None.None.None) Not registered. Aborting.
+[2019.05.18-14.10.04:394][581]LogActorComponent: UnregisterComponent: (None.None:None.None.None) Not registered. Aborting.
+[2019.05.18-14.10.04:394][581]LogActorComponent: UnregisterComponent: (None.None:None.None.None) Not registered. Aborting.
+[2019.05.18-14.10.04:394][581]LogActorComponent: UnregisterComponent: (None.None:None.None.None) Not registered. Aborting.
+[2019.05.18-14.10.04:394][581]LogActorComponent: UnregisterComponent: (None.None:None.None.None) Not registered. Aborting.
+[2019.05.18-14.10.04:394][581]LogActorComponent: UnregisterComponent: (None.None:None.None.None) Not registered. Aborting.
+[2019.05.18-14.10.04:394][581]LogActorComponent: UnregisterComponent: (None.None:None.None.None) Not registered. Aborting.
+[2019.05.18-14.10.04:394][581]LogActorComponent: UnregisterComponent: (None.None:None.None.None) Not registered. Aborting.
+[2019.05.18-14.10.04:394][581]LogActorComponent: UnregisterComponent: (None.None:None.None.None) Not registered. Aborting.
+[2019.05.18-14.10.04:394][581]LogActorComponent: UnregisterComponent: (None.None:None.None.None) Not registered. Aborting.
+[2019.05.18-14.10.04:394][581]LogActorComponent: UnregisterComponent: (None.None:None.None.None) Not registered. Aborting.
+[2019.05.18-14.10.04:394][581]LogActorComponent: UnregisterComponent: (None.None:None.None.None) Not registered. Aborting.
+[2019.05.18-14.10.04:394][581]LogActorComponent: UnregisterComponent: (None.None:None.None.None) Not registered. Aborting.
+[2019.05.18-14.10.04:394][581]LogActorComponent: UnregisterComponent: (None.None:None.None.None) Not registered. Aborting.
+[2019.05.18-14.10.04:394][581]LogActorComponent: UnregisterComponent: (None.None:None.None.None) Not registered. Aborting.
+[2019.05.18-14.10.04:394][581]LogActorComponent: UnregisterComponent: (None.None:None.None.None) Not registered. Aborting.
+[2019.05.18-14.10.04:394][581]LogActorComponent: UnregisterComponent: (None.None:None.None.None) Not registered. Aborting.
+[2019.05.18-14.10.04:394][581]LogActorComponent: UnregisterComponent: (None.None:None.None.None) Not registered. Aborting.
+[2019.05.18-14.10.04:443][582]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2019.05.18-14.10.06:592][661]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder2)
+[2019.05.18-14.10.22:896][468]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.18-14.10.32:085][818]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.18-14.10.32:706][842]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.18-14.10.32:728][842]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel' has LevelScriptBlueprint '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew' with GeneratedClass '/Game/Terrain/4/LakeLevelNew.LakeLevelNew_C' with ClassGeneratedBy '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew'
+[2019.05.18-14.10.32:728][842]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.18-14.10.32:728][842]PIE: New page: PIE session: LakeLevelNew (May 19, 2019, 6:10:32 AM)
+[2019.05.18-14.10.32:728][842]LogPlayLevel: Creating play world package: /Game/Terrain/4/UEDPIE_0_LakeLevelNew
+[2019.05.18-14.10.32:879][842]LogPlayLevel: PIE: StaticDuplicateObject took: (0.150462s)
+[2019.05.18-14.10.32:880][842]LogAIModule: Creating AISystem for world LakeLevelNew
+[2019.05.18-14.10.32:880][842]LogPlayLevel: PIE: World Init took: (0.000727s)
+[2019.05.18-14.10.32:880][842]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Terrain/4/LakeLevelNew.LakeLevelNew to /Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew (0.151592s)
+[2019.05.18-14.10.33:007][842]LogInit: XAudio2 using '扬声器/听筒 (Realtek Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.05.18-14.10.33:052][842]LogInit: FAudioDevice initialized.
+[2019.05.18-14.10.33:085][842]LogLoad: Game class is 'NewBlueprint_C'
+[2019.05.18-14.10.34:544][842]LogWorld: Bringing World /Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew up for play (max tick rate 60) at 2019.05.18-22.10.34
+[2019.05.18-14.10.34:555][842]LogWorld: Bringing up level for play took: 1.468840
+[2019.05.18-14.10.34:569][842]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.05.18-14.10.34:569][842]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.05.18-14.10.34:569][842]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.05.18-14.10.34:570][842]LogBlueprintUserMessages: [SplineForAnim_8] Hello
+[2019.05.18-14.10.34:570][842]LogBlueprintUserMessages: [SplineForAnim2_12] Hello
+[2019.05.18-14.10.34:570][842]LogBlueprintUserMessages: [SplineForAnim3_15] Hello
+[2019.05.18-14.10.34:577][842]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.05.18-14.10.34:577][842]PIE: Play in editor start time for /Game/Terrain/4/UEDPIE_0_LakeLevelNew 1.625
+[2019.05.18-14.10.34:577][842]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel' has LevelScriptBlueprint '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew' with GeneratedClass '/Game/Terrain/4/LakeLevelNew.LakeLevelNew_C' with ClassGeneratedBy '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew'
+[2019.05.18-14.10.37:320][967]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.05.18-14.10.38:818][ 31]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.05.18-14.11.07:503][293]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.18-14.11.18:732][851]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.18-14.11.18:849][857]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel' has LevelScriptBlueprint '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew' with GeneratedClass '/Game/Terrain/4/LakeLevelNew.LakeLevelNew_C' with ClassGeneratedBy '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew'
+[2019.05.18-14.11.18:850][857]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.18-14.11.18:906][857]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.18-14.11.18:907][857]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel' has LevelScriptBlueprint '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew' with GeneratedClass '/Game/Terrain/4/LakeLevelNew.LakeLevelNew_C' with ClassGeneratedBy '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew'
+[2019.05.18-14.11.18:935][857]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.18-14.11.18:935][857]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.18-14.11.18:935][857]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.18-14.11.18:935][857]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.18-14.11.18:935][857]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.18-14.11.18:935][857]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.18-14.11.18:935][857]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.18-14.11.18:935][857]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.18-14.11.18:935][857]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.18-14.11.18:935][857]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.18-14.11.18:935][857]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.18-14.11.18:936][857]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.18-14.11.18:936][857]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.18-14.11.18:936][857]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.18-14.11.18:936][857]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.18-14.11.18:936][857]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.18-14.11.18:936][857]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.18-14.11.18:936][857]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.18-14.11.18:936][857]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.18-14.11.18:936][857]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.18-14.11.18:936][857]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.18-14.11.18:936][857]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.18-14.11.18:936][857]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.18-14.11.18:936][857]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.18-14.11.18:936][857]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.18-14.11.18:936][857]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.18-14.11.18:936][857]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.18-14.11.18:936][857]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.18-14.11.18:936][857]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.18-14.11.18:943][857]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.18-14.11.18:944][857]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.18-14.11.18:944][857]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.18-14.11.18:944][857]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.18-14.11.18:944][857]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.18-14.11.18:944][857]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.18-14.11.18:944][857]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.18-14.11.18:944][857]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.18-14.11.18:944][857]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.18-14.11.18:944][857]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.18-14.11.18:944][857]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.18-14.11.18:944][857]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.18-14.11.18:944][857]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.18-14.11.18:944][857]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.18-14.11.18:944][857]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.18-14.11.18:944][857]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.18-14.11.18:944][857]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.18-14.11.18:944][857]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.18-14.11.18:944][857]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.18-14.11.18:944][857]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.18-14.11.18:944][857]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.18-14.11.18:944][857]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.18-14.11.18:944][857]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.18-14.11.18:979][858]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2019.05.18-14.11.30:695][378]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.18-14.11.41:282][798]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.18-14.11.41:366][802]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.18-14.11.41:388][802]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel' has LevelScriptBlueprint '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew' with GeneratedClass '/Game/Terrain/4/LakeLevelNew.LakeLevelNew_C' with ClassGeneratedBy '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew'
+[2019.05.18-14.11.41:388][802]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.18-14.11.41:388][802]PIE: New page: PIE session: LakeLevelNew (May 19, 2019, 6:11:41 AM)
+[2019.05.18-14.11.41:389][802]LogPlayLevel: Creating play world package: /Game/Terrain/4/UEDPIE_0_LakeLevelNew
+[2019.05.18-14.11.41:532][802]LogPlayLevel: PIE: StaticDuplicateObject took: (0.142689s)
+[2019.05.18-14.11.41:532][802]LogAIModule: Creating AISystem for world LakeLevelNew
+[2019.05.18-14.11.41:533][802]LogPlayLevel: PIE: World Init took: (0.000975s)
+[2019.05.18-14.11.41:533][802]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Terrain/4/LakeLevelNew.LakeLevelNew to /Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew (0.144415s)
+[2019.05.18-14.11.41:655][802]LogInit: XAudio2 using '扬声器/听筒 (Realtek Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.05.18-14.11.41:699][802]LogInit: FAudioDevice initialized.
+[2019.05.18-14.11.41:728][802]LogLoad: Game class is 'NewBlueprint_C'
+[2019.05.18-14.11.43:193][802]LogWorld: Bringing World /Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew up for play (max tick rate 60) at 2019.05.18-22.11.43
+[2019.05.18-14.11.43:207][802]LogWorld: Bringing up level for play took: 1.477728
+[2019.05.18-14.11.43:222][802]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.05.18-14.11.43:222][802]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.05.18-14.11.43:222][802]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.05.18-14.11.43:223][802]LogBlueprintUserMessages: [SplineForAnim_8] Hello
+[2019.05.18-14.11.43:223][802]LogBlueprintUserMessages: [SplineForAnim2_12] Hello
+[2019.05.18-14.11.43:223][802]LogBlueprintUserMessages: [SplineForAnim3_15] Hello
+[2019.05.18-14.11.43:229][802]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.05.18-14.11.43:230][802]PIE: Play in editor start time for /Game/Terrain/4/UEDPIE_0_LakeLevelNew 2.277
+[2019.05.18-14.11.43:230][802]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel' has LevelScriptBlueprint '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew' with GeneratedClass '/Game/Terrain/4/LakeLevelNew.LakeLevelNew_C' with ClassGeneratedBy '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew'
+[2019.05.18-14.11.59:029][525]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.18-14.11.59:115][529]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel' has LevelScriptBlueprint '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew' with GeneratedClass '/Game/Terrain/4/LakeLevelNew.LakeLevelNew_C' with ClassGeneratedBy '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew'
+[2019.05.18-14.11.59:116][529]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.18-14.11.59:165][529]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.18-14.11.59:165][529]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel' has LevelScriptBlueprint '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew' with GeneratedClass '/Game/Terrain/4/LakeLevelNew.LakeLevelNew_C' with ClassGeneratedBy '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew'
+[2019.05.18-14.11.59:192][529]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.18-14.11.59:192][529]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.18-14.11.59:192][529]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.18-14.11.59:192][529]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.18-14.11.59:192][529]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.18-14.11.59:192][529]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.18-14.11.59:192][529]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.18-14.11.59:192][529]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.18-14.11.59:192][529]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.18-14.11.59:192][529]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.18-14.11.59:193][529]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.18-14.11.59:193][529]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.18-14.11.59:193][529]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.18-14.11.59:193][529]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.18-14.11.59:193][529]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.18-14.11.59:193][529]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.18-14.11.59:193][529]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.18-14.11.59:193][529]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.18-14.11.59:193][529]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.18-14.11.59:193][529]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.18-14.11.59:193][529]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.18-14.11.59:193][529]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.18-14.11.59:193][529]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.18-14.11.59:193][529]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.18-14.11.59:193][529]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.18-14.11.59:193][529]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.18-14.11.59:193][529]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.18-14.11.59:193][529]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.18-14.11.59:193][529]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.18-14.11.59:199][529]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.18-14.11.59:200][529]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.18-14.11.59:200][529]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.18-14.11.59:200][529]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.18-14.11.59:200][529]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.18-14.11.59:200][529]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.18-14.11.59:200][529]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.18-14.11.59:200][529]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.18-14.11.59:200][529]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.18-14.11.59:200][529]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.18-14.11.59:200][529]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.18-14.11.59:200][529]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.18-14.11.59:200][529]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.18-14.11.59:200][529]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.18-14.11.59:200][529]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.18-14.11.59:200][529]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.18-14.11.59:200][529]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.18-14.11.59:200][529]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.18-14.11.59:200][529]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.18-14.11.59:200][529]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.18-14.11.59:200][529]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.18-14.11.59:200][529]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.18-14.11.59:200][529]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.18-14.11.59:245][530]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2019.05.18-14.12.02:639][666]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.18-14.12.29:810][ 27]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.18-14.12.29:830][ 27]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel' has LevelScriptBlueprint '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew' with GeneratedClass '/Game/Terrain/4/LakeLevelNew.LakeLevelNew_C' with ClassGeneratedBy '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew'
+[2019.05.18-14.12.29:831][ 27]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.18-14.12.29:831][ 27]PIE: New page: PIE session: LakeLevelNew (May 19, 2019, 6:12:29 AM)
+[2019.05.18-14.12.29:831][ 27]LogPlayLevel: Creating play world package: /Game/Terrain/4/UEDPIE_0_LakeLevelNew
+[2019.05.18-14.12.29:966][ 27]LogPlayLevel: PIE: StaticDuplicateObject took: (0.134834s)
+[2019.05.18-14.12.29:967][ 27]LogAIModule: Creating AISystem for world LakeLevelNew
+[2019.05.18-14.12.29:967][ 27]LogPlayLevel: PIE: World Init took: (0.000687s)
+[2019.05.18-14.12.29:967][ 27]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Terrain/4/LakeLevelNew.LakeLevelNew to /Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew (0.135799s)
+[2019.05.18-14.12.30:084][ 27]LogInit: XAudio2 using '扬声器/听筒 (Realtek Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.05.18-14.12.30:128][ 27]LogInit: FAudioDevice initialized.
+[2019.05.18-14.12.30:158][ 27]LogLoad: Game class is 'NewBlueprint_C'
+[2019.05.18-14.12.31:629][ 27]LogWorld: Bringing World /Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew up for play (max tick rate 60) at 2019.05.18-22.12.31
+[2019.05.18-14.12.31:640][ 27]LogWorld: Bringing up level for play took: 1.481299
+[2019.05.18-14.12.31:655][ 27]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.05.18-14.12.31:655][ 27]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.05.18-14.12.31:655][ 27]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.05.18-14.12.31:656][ 27]LogBlueprintUserMessages: [SplineForAnim_8] Hello
+[2019.05.18-14.12.31:656][ 27]LogBlueprintUserMessages: [SplineForAnim2_12] Hello
+[2019.05.18-14.12.31:656][ 27]LogBlueprintUserMessages: [SplineForAnim3_15] Hello
+[2019.05.18-14.12.31:662][ 27]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.05.18-14.12.31:662][ 27]PIE: Play in editor start time for /Game/Terrain/4/UEDPIE_0_LakeLevelNew 2.711
+[2019.05.18-14.12.31:663][ 27]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel' has LevelScriptBlueprint '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew' with GeneratedClass '/Game/Terrain/4/LakeLevelNew.LakeLevelNew_C' with ClassGeneratedBy '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew'
+[2019.05.18-14.12.36:786][288]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.05.18-14.12.50:849][988]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel' has LevelScriptBlueprint '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew' with GeneratedClass '/Game/Terrain/4/LakeLevelNew.LakeLevelNew_C' with ClassGeneratedBy '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew'
+[2019.05.18-14.12.50:850][988]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.18-14.12.50:904][988]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.18-14.12.50:904][988]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel' has LevelScriptBlueprint '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew' with GeneratedClass '/Game/Terrain/4/LakeLevelNew.LakeLevelNew_C' with ClassGeneratedBy '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew'
+[2019.05.18-14.12.50:932][988]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.18-14.12.50:932][988]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.18-14.12.50:932][988]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.18-14.12.50:932][988]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.18-14.12.50:932][988]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.18-14.12.50:932][988]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.18-14.12.50:932][988]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.18-14.12.50:932][988]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.18-14.12.50:932][988]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.18-14.12.50:932][988]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.18-14.12.50:932][988]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.18-14.12.50:932][988]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.18-14.12.50:932][988]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.18-14.12.50:932][988]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.18-14.12.50:932][988]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.18-14.12.50:932][988]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.18-14.12.50:932][988]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.18-14.12.50:932][988]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.18-14.12.50:932][988]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.18-14.12.50:932][988]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.18-14.12.50:932][988]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.18-14.12.50:932][988]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.18-14.12.50:935][988]LogActorComponent: UnregisterComponent: (None.None:None.None.None) Not registered. Aborting.
+[2019.05.18-14.12.50:935][988]LogActorComponent: UnregisterComponent: (None.None:None.None.None) Not registered. Aborting.
+[2019.05.18-14.12.50:935][988]LogActorComponent: UnregisterComponent: (None.None:None.None.None) Not registered. Aborting.
+[2019.05.18-14.12.50:935][988]LogActorComponent: UnregisterComponent: (None.None:None.None.None) Not registered. Aborting.
+[2019.05.18-14.12.50:935][988]LogActorComponent: UnregisterComponent: (None.None:None.None.None) Not registered. Aborting.
+[2019.05.18-14.12.50:935][988]LogActorComponent: UnregisterComponent: (None.None:None.None.None) Not registered. Aborting.
+[2019.05.18-14.12.50:935][988]LogActorComponent: UnregisterComponent: (None.None:None.None.None) Not registered. Aborting.
+[2019.05.18-14.12.50:935][988]LogActorComponent: UnregisterComponent: (None.None:None.None.None) Not registered. Aborting.
+[2019.05.18-14.12.50:935][988]LogActorComponent: UnregisterComponent: (None.None:None.None.None) Not registered. Aborting.
+[2019.05.18-14.12.50:935][988]LogActorComponent: UnregisterComponent: (None.None:None.None.None) Not registered. Aborting.
+[2019.05.18-14.12.50:935][988]LogActorComponent: UnregisterComponent: (None.None:None.None.None) Not registered. Aborting.
+[2019.05.18-14.12.50:935][988]LogActorComponent: UnregisterComponent: (None.None:None.None.None) Not registered. Aborting.
+[2019.05.18-14.12.50:935][988]LogActorComponent: UnregisterComponent: (None.None:None.None.None) Not registered. Aborting.
+[2019.05.18-14.12.50:935][988]LogActorComponent: UnregisterComponent: (None.None:None.None.None) Not registered. Aborting.
+[2019.05.18-14.12.50:935][988]LogActorComponent: UnregisterComponent: (None.None:None.None.None) Not registered. Aborting.
+[2019.05.18-14.12.50:935][988]LogActorComponent: UnregisterComponent: (None.None:None.None.None) Not registered. Aborting.
+[2019.05.18-14.12.50:935][988]LogActorComponent: UnregisterComponent: (None.None:None.None.None) Not registered. Aborting.
+[2019.05.18-14.12.50:935][988]LogActorComponent: UnregisterComponent: (None.None:None.None.None) Not registered. Aborting.
+[2019.05.18-14.12.50:935][988]LogActorComponent: UnregisterComponent: (None.None:None.None.None) Not registered. Aborting.
+[2019.05.18-14.12.50:935][988]LogActorComponent: UnregisterComponent: (None.None:None.None.None) Not registered. Aborting.
+[2019.05.18-14.12.50:935][988]LogActorComponent: UnregisterComponent: (None.None:None.None.None) Not registered. Aborting.
+[2019.05.18-14.12.50:935][988]LogActorComponent: UnregisterComponent: (None.None:None.None.None) Not registered. Aborting.
+[2019.05.18-14.12.50:935][988]LogActorComponent: UnregisterComponent: (None.None:None.None.None) Not registered. Aborting.
+[2019.05.18-14.12.50:935][988]LogActorComponent: UnregisterComponent: (None.None:None.None.None) Not registered. Aborting.
+[2019.05.18-14.12.50:935][988]LogActorComponent: UnregisterComponent: (None.None:None.None.None) Not registered. Aborting.
+[2019.05.18-14.12.50:935][988]LogActorComponent: UnregisterComponent: (None.None:None.None.None) Not registered. Aborting.
+[2019.05.18-14.12.50:935][988]LogActorComponent: UnregisterComponent: (None.None:None.None.None) Not registered. Aborting.
+[2019.05.18-14.12.50:935][988]LogActorComponent: UnregisterComponent: (None.None:None.None.None) Not registered. Aborting.
+[2019.05.18-14.12.50:935][988]LogActorComponent: UnregisterComponent: (None.None:None.None.None) Not registered. Aborting.
+[2019.05.18-14.12.50:941][988]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.18-14.12.50:987][989]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2019.05.18-14.13.05:579][627]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.18-14.13.16:932][182]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.18-14.13.28:304][738]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.18-14.13.38:566][223]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.18-14.13.43:983][507]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.18-14.13.46:700][659]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.18-14.13.47:192][688]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.18-14.13.47:217][688]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel' has LevelScriptBlueprint '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew' with GeneratedClass '/Game/Terrain/4/LakeLevelNew.LakeLevelNew_C' with ClassGeneratedBy '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew'
+[2019.05.18-14.13.47:217][688]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.18-14.13.47:217][688]PIE: New page: PIE session: LakeLevelNew (May 19, 2019, 6:13:47 AM)
+[2019.05.18-14.13.47:217][688]LogPlayLevel: Creating play world package: /Game/Terrain/4/UEDPIE_0_LakeLevelNew
+[2019.05.18-14.13.47:364][688]LogPlayLevel: PIE: StaticDuplicateObject took: (0.147554s)
+[2019.05.18-14.13.47:364][688]LogAIModule: Creating AISystem for world LakeLevelNew
+[2019.05.18-14.13.47:365][688]LogPlayLevel: PIE: World Init took: (0.000768s)
+[2019.05.18-14.13.47:365][688]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Terrain/4/LakeLevelNew.LakeLevelNew to /Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew (0.148768s)
+[2019.05.18-14.13.47:493][688]LogInit: XAudio2 using '扬声器/听筒 (Realtek Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.05.18-14.13.47:539][688]LogInit: FAudioDevice initialized.
+[2019.05.18-14.13.47:570][688]LogLoad: Game class is 'NewBlueprint_C'
+[2019.05.18-14.13.49:033][688]LogWorld: Bringing World /Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew up for play (max tick rate 60) at 2019.05.18-22.13.49
+[2019.05.18-14.13.49:044][688]LogWorld: Bringing up level for play took: 1.473544
+[2019.05.18-14.13.49:060][688]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.05.18-14.13.49:060][688]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.05.18-14.13.49:060][688]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.05.18-14.13.49:060][688]LogBlueprintUserMessages: [SplineForAnim_8] Hello
+[2019.05.18-14.13.49:061][688]LogBlueprintUserMessages: [SplineForAnim2_12] Hello
+[2019.05.18-14.13.49:061][688]LogBlueprintUserMessages: [SplineForAnim3_15] Hello
+[2019.05.18-14.13.49:067][688]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.05.18-14.13.49:067][688]PIE: Play in editor start time for /Game/Terrain/4/UEDPIE_0_LakeLevelNew 2.115
+[2019.05.18-14.13.49:067][688]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel' has LevelScriptBlueprint '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew' with GeneratedClass '/Game/Terrain/4/LakeLevelNew.LakeLevelNew_C' with ClassGeneratedBy '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew'
+[2019.05.18-14.13.50:932][783]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.18-14.14.10:725][563]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.18-14.15.10:428][497]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.18-14.15.21:690][ 93]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel' has LevelScriptBlueprint '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew' with GeneratedClass '/Game/Terrain/4/LakeLevelNew.LakeLevelNew_C' with ClassGeneratedBy '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew'
+[2019.05.18-14.15.21:691][ 93]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.18-14.15.21:737][ 93]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.18-14.15.21:737][ 93]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel' has LevelScriptBlueprint '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew' with GeneratedClass '/Game/Terrain/4/LakeLevelNew.LakeLevelNew_C' with ClassGeneratedBy '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew'
+[2019.05.18-14.15.21:763][ 93]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.18-14.15.21:763][ 93]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.18-14.15.21:764][ 93]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.18-14.15.21:764][ 93]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.18-14.15.21:764][ 93]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.18-14.15.21:764][ 93]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.18-14.15.21:764][ 93]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.18-14.15.21:764][ 93]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.18-14.15.21:764][ 93]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.18-14.15.21:764][ 93]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.18-14.15.21:764][ 93]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.18-14.15.21:764][ 93]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.18-14.15.21:764][ 93]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.18-14.15.21:764][ 93]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.18-14.15.21:764][ 93]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.18-14.15.21:764][ 93]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.18-14.15.21:764][ 93]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.18-14.15.21:764][ 93]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.18-14.15.21:764][ 93]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.18-14.15.21:764][ 93]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.18-14.15.21:764][ 93]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.18-14.15.21:764][ 93]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.18-14.15.21:767][ 93]LogActorComponent: UnregisterComponent: (None.None:None.None.None) Not registered. Aborting.
+[2019.05.18-14.15.21:767][ 93]LogActorComponent: UnregisterComponent: (None.None:None.None.None) Not registered. Aborting.
+[2019.05.18-14.15.21:767][ 93]LogActorComponent: UnregisterComponent: (None.None:None.None.None) Not registered. Aborting.
+[2019.05.18-14.15.21:767][ 93]LogActorComponent: UnregisterComponent: (None.None:None.None.None) Not registered. Aborting.
+[2019.05.18-14.15.21:767][ 93]LogActorComponent: UnregisterComponent: (None.None:None.None.None) Not registered. Aborting.
+[2019.05.18-14.15.21:767][ 93]LogActorComponent: UnregisterComponent: (None.None:None.None.None) Not registered. Aborting.
+[2019.05.18-14.15.21:767][ 93]LogActorComponent: UnregisterComponent: (None.None:None.None.None) Not registered. Aborting.
+[2019.05.18-14.15.21:767][ 93]LogActorComponent: UnregisterComponent: (None.None:None.None.None) Not registered. Aborting.
+[2019.05.18-14.15.21:767][ 93]LogActorComponent: UnregisterComponent: (None.None:None.None.None) Not registered. Aborting.
+[2019.05.18-14.15.21:767][ 93]LogActorComponent: UnregisterComponent: (None.None:None.None.None) Not registered. Aborting.
+[2019.05.18-14.15.21:767][ 93]LogActorComponent: UnregisterComponent: (None.None:None.None.None) Not registered. Aborting.
+[2019.05.18-14.15.21:767][ 93]LogActorComponent: UnregisterComponent: (None.None:None.None.None) Not registered. Aborting.
+[2019.05.18-14.15.21:767][ 93]LogActorComponent: UnregisterComponent: (None.None:None.None.None) Not registered. Aborting.
+[2019.05.18-14.15.21:767][ 93]LogActorComponent: UnregisterComponent: (None.None:None.None.None) Not registered. Aborting.
+[2019.05.18-14.15.21:767][ 93]LogActorComponent: UnregisterComponent: (None.None:None.None.None) Not registered. Aborting.
+[2019.05.18-14.15.21:767][ 93]LogActorComponent: UnregisterComponent: (None.None:None.None.None) Not registered. Aborting.
+[2019.05.18-14.15.21:767][ 93]LogActorComponent: UnregisterComponent: (None.None:None.None.None) Not registered. Aborting.
+[2019.05.18-14.15.21:767][ 93]LogActorComponent: UnregisterComponent: (None.None:None.None.None) Not registered. Aborting.
+[2019.05.18-14.15.21:767][ 93]LogActorComponent: UnregisterComponent: (None.None:None.None.None) Not registered. Aborting.
+[2019.05.18-14.15.21:767][ 93]LogActorComponent: UnregisterComponent: (None.None:None.None.None) Not registered. Aborting.
+[2019.05.18-14.15.21:767][ 93]LogActorComponent: UnregisterComponent: (None.None:None.None.None) Not registered. Aborting.
+[2019.05.18-14.15.21:767][ 93]LogActorComponent: UnregisterComponent: (None.None:None.None.None) Not registered. Aborting.
+[2019.05.18-14.15.21:767][ 93]LogActorComponent: UnregisterComponent: (None.None:None.None.None) Not registered. Aborting.
+[2019.05.18-14.15.21:768][ 93]LogActorComponent: UnregisterComponent: (None.None:None.None.None) Not registered. Aborting.
+[2019.05.18-14.15.21:768][ 93]LogActorComponent: UnregisterComponent: (None.None:None.None.None) Not registered. Aborting.
+[2019.05.18-14.15.21:768][ 93]LogActorComponent: UnregisterComponent: (None.None:None.None.None) Not registered. Aborting.
+[2019.05.18-14.15.21:768][ 93]LogActorComponent: UnregisterComponent: (None.None:None.None.None) Not registered. Aborting.
+[2019.05.18-14.15.21:768][ 93]LogActorComponent: UnregisterComponent: (None.None:None.None.None) Not registered. Aborting.
+[2019.05.18-14.15.21:768][ 93]LogActorComponent: UnregisterComponent: (None.None:None.None.None) Not registered. Aborting.
+[2019.05.18-14.15.21:776][ 93]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.18-14.15.21:817][ 94]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2019.05.18-14.15.23:784][126]LogSlate: Window 'Save Content' being destroyed
+[2019.05.18-14.15.24:163][126]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Terrain/4/LakeLevelNew" FILE="C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Content/Terrain/4/LakeLevelNew.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.05.18-14.15.29:306][126]LogSavePackage: Moving 'C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Saved/LakeLevelNewB94102A54AD300688BD43F9D6589C267.tmp' to 'C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Content/Terrain/4/LakeLevelNew.umap'
+[2019.05.18-14.15.29:383][126]LogFileHelpers: Saving map 'LakeLevelNew' took 5.554
+[2019.05.18-14.16.43:520][176]LogSlate: Took 0.050264 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.05.18-14.16.53:629][506]LogEditorActor: Deleted Actor: MyChar_C
+[2019.05.18-14.16.53:658][506]LogEditorActor: Deleted 1 Actors (0.081 secs)
+[2019.05.18-14.16.56:658][621]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Hero/MyChar.MyChar
+[2019.05.18-14.16.57:403][621]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0008 seconds. Added 116 classes and 0 folders.
+[2019.05.18-14.16.58:825][621]LogSlate: Took 0.010493 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.05.18-14.17.01:168][635]LogSlate: Window 'Save Content' being destroyed
+[2019.05.18-14.17.01:565][635]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Terrain/4/LakeLevelNew" FILE="C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Content/Terrain/4/LakeLevelNew.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.05.18-14.17.06:802][635]LogSavePackage: Moving 'C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Saved/LakeLevelNew670898F9487DBB46BE117BA589DD34D5.tmp' to 'C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Content/Terrain/4/LakeLevelNew.umap'
+[2019.05.18-14.17.06:878][635]LogFileHelpers: Saving map 'LakeLevelNew' took 5.666
+[2019.05.18-14.17.08:386][688]LogSlate: Window 'MyChar' being destroyed
+[2019.05.18-14.17.08:393][688]LogSlate: Window 'MyChar' being destroyed
+[2019.05.18-14.17.10:684][761]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Hero/MyChar.MyChar
+[2019.05.18-14.19.49:636][369]BlueprintLog: New page: Compile MyChar
+[2019.05.18-14.19.51:921][380]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Hero/MyChar" FILE="C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Content/Blueprints/Hero/MyChar.uasset" SILENT=true
+[2019.05.18-14.19.52:415][380]LogSavePackage: Moving 'C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Saved/MyChar71BFC1304CA23322D3B69B9DE2191C6A.tmp' to 'C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Content/Blueprints/Hero/MyChar.uasset'
+[2019.05.18-14.19.54:467][426]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.18-14.19.54:534][426]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel' has LevelScriptBlueprint '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew' with GeneratedClass '/Game/Terrain/4/LakeLevelNew.LakeLevelNew_C' with ClassGeneratedBy '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew'
+[2019.05.18-14.19.54:535][426]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.18-14.19.54:535][426]PIE: New page: PIE session: LakeLevelNew (May 19, 2019, 6:19:54 AM)
+[2019.05.18-14.19.54:535][426]LogPlayLevel: Creating play world package: /Game/Terrain/4/UEDPIE_0_LakeLevelNew
+[2019.05.18-14.19.54:686][426]LogPlayLevel: PIE: StaticDuplicateObject took: (0.150208s)
+[2019.05.18-14.19.54:686][426]LogAIModule: Creating AISystem for world LakeLevelNew
+[2019.05.18-14.19.54:686][426]LogPlayLevel: PIE: World Init took: (0.000701s)
+[2019.05.18-14.19.54:687][426]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Terrain/4/LakeLevelNew.LakeLevelNew to /Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew (0.151222s)
+[2019.05.18-14.19.54:853][426]LogInit: XAudio2 using '扬声器/听筒 (Realtek Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.05.18-14.19.54:900][426]LogInit: FAudioDevice initialized.
+[2019.05.18-14.19.54:933][426]LogLoad: Game class is 'NewBlueprint_C'
+[2019.05.18-14.19.56:333][426]LogWorld: Bringing World /Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew up for play (max tick rate 60) at 2019.05.18-22.19.56
+[2019.05.18-14.19.56:347][426]LogWorld: Bringing up level for play took: 1.411555
+[2019.05.18-14.19.56:361][426]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.05.18-14.19.56:361][426]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.05.18-14.19.56:361][426]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.05.18-14.19.56:362][426]LogBlueprintUserMessages: [SplineForAnim_8] Hello
+[2019.05.18-14.19.56:362][426]LogBlueprintUserMessages: [SplineForAnim2_12] Hello
+[2019.05.18-14.19.56:362][426]LogBlueprintUserMessages: [SplineForAnim3_15] Hello
+[2019.05.18-14.19.56:367][426]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.05.18-14.19.56:367][426]PIE: Play in editor start time for /Game/Terrain/4/UEDPIE_0_LakeLevelNew 1.415
+[2019.05.18-14.19.56:368][426]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel' has LevelScriptBlueprint '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew' with GeneratedClass '/Game/Terrain/4/LakeLevelNew.LakeLevelNew_C' with ClassGeneratedBy '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew'
+[2019.05.18-14.20.08:636][114]LogScript: Warning: Accessed None trying to read property splineTest
+	MyChar_C /Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.MyChar2
+	Function /Game/Blueprints/Hero/MyChar.MyChar_C:ExecuteUbergraph_MyChar:0086
+[2019.05.18-14.20.08:636][114]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property splineTest". Blueprint:  MyChar Function:  Execute Ubergraph My Char Graph:  EventGraph Node:  Moving
+[2019.05.18-14.20.14:611][455]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel' has LevelScriptBlueprint '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew' with GeneratedClass '/Game/Terrain/4/LakeLevelNew.LakeLevelNew_C' with ClassGeneratedBy '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew'
+[2019.05.18-14.20.14:612][455]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.18-14.20.14:670][455]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.18-14.20.14:670][455]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel' has LevelScriptBlueprint '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew' with GeneratedClass '/Game/Terrain/4/LakeLevelNew.LakeLevelNew_C' with ClassGeneratedBy '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew'
+[2019.05.18-14.20.14:709][455]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.18-14.20.14:709][455]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.18-14.20.14:709][455]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.18-14.20.14:709][455]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.18-14.20.14:709][455]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.18-14.20.14:709][455]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.18-14.20.14:709][455]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.18-14.20.14:709][455]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.18-14.20.14:709][455]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.18-14.20.14:709][455]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.18-14.20.14:709][455]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.18-14.20.14:710][455]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.18-14.20.14:710][455]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.18-14.20.14:710][455]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.18-14.20.14:710][455]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.18-14.20.14:710][455]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.18-14.20.14:710][455]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.18-14.20.14:710][455]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.18-14.20.14:710][455]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.18-14.20.14:710][455]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.18-14.20.14:710][455]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.18-14.20.14:710][455]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.18-14.20.14:714][455]LogActorComponent: UnregisterComponent: (None.None:None.None.InstancedStaticMeshComponent_14) Not registered. Aborting.
+[2019.05.18-14.20.14:714][455]LogActorComponent: UnregisterComponent: (None.None:None.None.InstancedStaticMeshComponent_1) Not registered. Aborting.
+[2019.05.18-14.20.14:714][455]LogActorComponent: UnregisterComponent: (None.None:None.None.InstancedStaticMeshComponent_2) Not registered. Aborting.
+[2019.05.18-14.20.14:714][455]LogActorComponent: UnregisterComponent: (None.None:None.None.InstancedStaticMeshComponent_3) Not registered. Aborting.
+[2019.05.18-14.20.14:714][455]LogActorComponent: UnregisterComponent: (None.None:None.None.InstancedStaticMeshComponent_4) Not registered. Aborting.
+[2019.05.18-14.20.14:714][455]LogActorComponent: UnregisterComponent: (None.None:None.None.InstancedStaticMeshComponent_5) Not registered. Aborting.
+[2019.05.18-14.20.14:714][455]LogActorComponent: UnregisterComponent: (None.None:None.None.InstancedStaticMeshComponent_6) Not registered. Aborting.
+[2019.05.18-14.20.14:714][455]LogActorComponent: UnregisterComponent: (None.None:None.None.InstancedStaticMeshComponent_7) Not registered. Aborting.
+[2019.05.18-14.20.14:714][455]LogActorComponent: UnregisterComponent: (None.None:None.None.InstancedStaticMeshComponent_8) Not registered. Aborting.
+[2019.05.18-14.20.14:714][455]LogActorComponent: UnregisterComponent: (None.None:None.None.InstancedStaticMeshComponent_9) Not registered. Aborting.
+[2019.05.18-14.20.14:714][455]LogActorComponent: UnregisterComponent: (None.None:None.None.InstancedStaticMeshComponent_10) Not registered. Aborting.
+[2019.05.18-14.20.14:714][455]LogActorComponent: UnregisterComponent: (None.None:None.None.InstancedStaticMeshComponent_11) Not registered. Aborting.
+[2019.05.18-14.20.14:714][455]LogActorComponent: UnregisterComponent: (None.None:None.None.InstancedStaticMeshComponent_12) Not registered. Aborting.
+[2019.05.18-14.20.14:714][455]LogActorComponent: UnregisterComponent: (None.None:None.None.InstancedStaticMeshComponent_13) Not registered. Aborting.
+[2019.05.18-14.20.14:714][455]LogActorComponent: UnregisterComponent: (None.None:None.None.InstancedStaticMeshComponent_0) Not registered. Aborting.
+[2019.05.18-14.20.14:714][455]LogActorComponent: UnregisterComponent: (None.None:None.None.InstancedStaticMeshComponent_15) Not registered. Aborting.
+[2019.05.18-14.20.14:714][455]LogActorComponent: UnregisterComponent: (None.None:None.None.InstancedStaticMeshComponent_16) Not registered. Aborting.
+[2019.05.18-14.20.14:714][455]LogActorComponent: UnregisterComponent: (None.None:None.None.InstancedStaticMeshComponent_17) Not registered. Aborting.
+[2019.05.18-14.20.14:714][455]LogActorComponent: UnregisterComponent: (None.None:None.None.InstancedStaticMeshComponent_18) Not registered. Aborting.
+[2019.05.18-14.20.14:714][455]LogActorComponent: UnregisterComponent: (None.None:None.None.InstancedStaticMeshComponent_19) Not registered. Aborting.
+[2019.05.18-14.20.14:714][455]LogActorComponent: UnregisterComponent: (None.None:None.None.InstancedStaticMeshComponent_20) Not registered. Aborting.
+[2019.05.18-14.20.14:714][455]LogActorComponent: UnregisterComponent: (None.None:None.None.InstancedStaticMeshComponent_21) Not registered. Aborting.
+[2019.05.18-14.20.14:714][455]LogActorComponent: UnregisterComponent: (None.None:None.None.InstancedStaticMeshComponent_22) Not registered. Aborting.
+[2019.05.18-14.20.14:714][455]LogActorComponent: UnregisterComponent: (None.None:None.None.InstancedStaticMeshComponent_23) Not registered. Aborting.
+[2019.05.18-14.20.14:714][455]LogActorComponent: UnregisterComponent: (None.None:None.None.InstancedStaticMeshComponent_24) Not registered. Aborting.
+[2019.05.18-14.20.14:714][455]LogActorComponent: UnregisterComponent: (None.None:None.None.InstancedStaticMeshComponent_25) Not registered. Aborting.
+[2019.05.18-14.20.14:714][455]LogActorComponent: UnregisterComponent: (None.None:None.None.InstancedStaticMeshComponent_26) Not registered. Aborting.
+[2019.05.18-14.20.14:714][455]LogActorComponent: UnregisterComponent: (None.None:None.None.InstancedStaticMeshComponent_27) Not registered. Aborting.
+[2019.05.18-14.20.14:714][455]LogActorComponent: UnregisterComponent: (None.None:None.None.InstancedStaticMeshComponent_28) Not registered. Aborting.
+[2019.05.18-14.20.14:720][455]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.18-14.20.14:827][456]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2019.05.18-14.20.16:368][529]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.18-14.20.18:227][603]LogSlate: Window 'Message Log' being destroyed
+[2019.05.18-14.20.18:256][603]LogSlate: Window 'Message Log' being destroyed
+[2019.05.18-14.20.20:293][712]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.18-14.20.21:975][777]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.18-14.20.23:220][780]LogSlate: Window 'Save Content' being destroyed
+[2019.05.18-14.20.23:623][780]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Terrain/4/LakeLevelNew" FILE="C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Content/Terrain/4/LakeLevelNew.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.05.18-14.20.28:879][780]LogSavePackage: Moving 'C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Saved/LakeLevelNew65AF90FB4FE0DB0D01CBF58F22927ACD.tmp' to 'C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Content/Terrain/4/LakeLevelNew.umap'
+[2019.05.18-14.20.28:957][780]LogFileHelpers: Saving map 'LakeLevelNew' took 5.688
+[2019.05.18-14.21.08:756][496]BlueprintLog: New page: Compile MyChar
+[2019.05.18-14.21.10:200][507]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Hero/MyChar" FILE="C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Content/Blueprints/Hero/MyChar.uasset" SILENT=true
+[2019.05.18-14.21.10:683][507]LogSavePackage: Moving 'C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Saved/MyCharCEE332824CE791CD35930385A9835CB8.tmp' to 'C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Content/Blueprints/Hero/MyChar.uasset'
+[2019.05.18-14.21.27:773][205]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Hero/MyChar" FILE="C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Content/Blueprints/Hero/MyChar.uasset" SILENT=true
+[2019.05.18-14.21.28:255][205]LogSavePackage: Moving 'C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Saved/MyChar4C517D6B4CA43DEC8C5A3BB0E74D141C.tmp' to 'C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Content/Blueprints/Hero/MyChar.uasset'
+[2019.05.18-14.21.36:937][580]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Test/荷叶/SplineTest.SplineTest
+[2019.05.18-14.21.58:757][538]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.18-14.22.16:483][284]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.18-14.22.35:259][ 78]EditorErrors: New page: Actor attachment
+[2019.05.18-14.22.42:306][486]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.18-14.22.57:810][164]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.18-14.23.08:980][631]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (狩猎6_320)
+[2019.05.18-14.23.09:071][631]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.18-14.23.14:038][834]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.18-14.23.32:061][510]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.18-14.23.44:254][968]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Test/荷叶/SplineTest" FILE="C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Content/Test/荷叶/SplineTest.uasset" SILENT=true
+[2019.05.18-14.23.44:323][968]LogSavePackage: Moving 'C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Saved/SplineTest3AF8D005473F8842393BE6843930A6C2.tmp' to 'C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Content/Test/荷叶/SplineTest.uasset'
+[2019.05.18-14.23.47:119][ 60]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.18-14.24.07:401][827]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Test/荷叶/SplineTest" FILE="C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Content/Test/荷叶/SplineTest.uasset" SILENT=true
+[2019.05.18-14.24.07:448][827]LogSavePackage: Moving 'C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Saved/SplineTest50505DC54B9ECFE5DCEDD893B845FA9A.tmp' to 'C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Content/Test/荷叶/SplineTest.uasset'
+[2019.05.18-14.24.08:772][877]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.18-14.24.14:177][ 68]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.18-14.24.33:003][468]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.18-14.24.33:031][468]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel' has LevelScriptBlueprint '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew' with GeneratedClass '/Game/Terrain/4/LakeLevelNew.LakeLevelNew_C' with ClassGeneratedBy '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew'
+[2019.05.18-14.24.33:031][468]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.18-14.24.33:031][468]PIE: New page: PIE session: LakeLevelNew (May 19, 2019, 6:24:33 AM)
+[2019.05.18-14.24.33:031][468]LogPlayLevel: Creating play world package: /Game/Terrain/4/UEDPIE_0_LakeLevelNew
+[2019.05.18-14.24.33:178][468]LogPlayLevel: PIE: StaticDuplicateObject took: (0.147417s)
+[2019.05.18-14.24.33:179][468]LogAIModule: Creating AISystem for world LakeLevelNew
+[2019.05.18-14.24.33:179][468]LogPlayLevel: PIE: World Init took: (0.000869s)
+[2019.05.18-14.24.33:180][468]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Terrain/4/LakeLevelNew.LakeLevelNew to /Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew (0.148762s)
+[2019.05.18-14.24.33:347][468]LogInit: XAudio2 using '扬声器/听筒 (Realtek Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.05.18-14.24.33:390][468]LogInit: FAudioDevice initialized.
+[2019.05.18-14.24.33:419][468]LogLoad: Game class is 'NewBlueprint_C'
+[2019.05.18-14.24.34:851][468]LogWorld: Bringing World /Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew up for play (max tick rate 60) at 2019.05.18-22.24.34
+[2019.05.18-14.24.34:865][468]LogWorld: Bringing up level for play took: 1.444979
+[2019.05.18-14.24.34:880][468]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.05.18-14.24.34:880][468]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.05.18-14.24.34:880][468]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.05.18-14.24.34:881][468]LogBlueprintUserMessages: [SplineForAnim_8] Hello
+[2019.05.18-14.24.34:882][468]LogBlueprintUserMessages: [SplineForAnim2_12] Hello
+[2019.05.18-14.24.34:882][468]LogBlueprintUserMessages: [SplineForAnim3_15] Hello
+[2019.05.18-14.24.34:889][468]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.05.18-14.24.34:889][468]PIE: Play in editor start time for /Game/Terrain/4/UEDPIE_0_LakeLevelNew 1.937
+[2019.05.18-14.24.34:889][468]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel' has LevelScriptBlueprint '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew' with GeneratedClass '/Game/Terrain/4/LakeLevelNew.LakeLevelNew_C' with ClassGeneratedBy '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew'
+[2019.05.18-14.25.04:011][ 95]LogBlueprintUserMessages: [BP_Bird_Spline1_34488] bird
+[2019.05.18-14.25.06:480][239]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel' has LevelScriptBlueprint '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew' with GeneratedClass '/Game/Terrain/4/LakeLevelNew.LakeLevelNew_C' with ClassGeneratedBy '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew'
+[2019.05.18-14.25.06:481][239]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.18-14.25.06:544][239]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.18-14.25.06:544][239]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel' has LevelScriptBlueprint '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew' with GeneratedClass '/Game/Terrain/4/LakeLevelNew.LakeLevelNew_C' with ClassGeneratedBy '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew'
+[2019.05.18-14.25.06:582][239]LogHoudiniEngine: Warning: None: null parameter when clearing
+[2019.05.18-14.25.06:582][239]LogHoudiniEngine: Warning: None: null parameter when clearing
+[2019.05.18-14.25.06:582][239]LogHoudiniEngine: Warning: None: null parameter when clearing
+[2019.05.18-14.25.06:582][239]LogHoudiniEngine: Warning: None: null parameter when clearing
+[2019.05.18-14.25.06:582][239]LogHoudiniEngine: Warning: None: null parameter when clearing
+[2019.05.18-14.25.06:582][239]LogHoudiniEngine: Warning: None: null parameter when clearing
+[2019.05.18-14.25.06:582][239]LogHoudiniEngine: Warning: None: null parameter when clearing
+[2019.05.18-14.25.06:582][239]LogHoudiniEngine: Warning: None: null parameter when clearing
+[2019.05.18-14.25.06:582][239]LogHoudiniEngine: Warning: None: null parameter when clearing
+[2019.05.18-14.25.06:582][239]LogHoudiniEngine: Warning: None: null parameter when clearing
+[2019.05.18-14.25.06:582][239]LogHoudiniEngine: Warning: None: null parameter when clearing
+[2019.05.18-14.25.06:583][239]LogHoudiniEngine: Warning: None: null parameter when clearing
+[2019.05.18-14.25.06:583][239]LogHoudiniEngine: Warning: None: null parameter when clearing
+[2019.05.18-14.25.06:583][239]LogHoudiniEngine: Warning: None: null parameter when clearing
+[2019.05.18-14.25.06:583][239]LogHoudiniEngine: Warning: None: null parameter when clearing
+[2019.05.18-14.25.06:583][239]LogHoudiniEngine: Warning: None: null parameter when clearing
+[2019.05.18-14.25.06:583][239]LogHoudiniEngine: Warning: None: null parameter when clearing
+[2019.05.18-14.25.06:583][239]LogHoudiniEngine: Warning: None: null parameter when clearing
+[2019.05.18-14.25.06:583][239]LogHoudiniEngine: Warning: None: null parameter when clearing
+[2019.05.18-14.25.06:583][239]LogHoudiniEngine: Warning: None: null parameter when clearing
+[2019.05.18-14.25.06:583][239]LogHoudiniEngine: Warning: None: null parameter when clearing
+[2019.05.18-14.25.06:583][239]LogHoudiniEngine: Warning: None: null parameter when clearing
+[2019.05.18-14.25.06:585][239]LogActorComponent: UnregisterComponent: (None.None:None.None.InstancedStaticMeshComponent_14) Not registered. Aborting.
+[2019.05.18-14.25.06:585][239]LogActorComponent: UnregisterComponent: (None.None:None.None.InstancedStaticMeshComponent_1) Not registered. Aborting.
+[2019.05.18-14.25.06:585][239]LogActorComponent: UnregisterComponent: (None.None:None.None.InstancedStaticMeshComponent_2) Not registered. Aborting.
+[2019.05.18-14.25.06:585][239]LogActorComponent: UnregisterComponent: (None.None:None.None.InstancedStaticMeshComponent_3) Not registered. Aborting.
+[2019.05.18-14.25.06:585][239]LogActorComponent: UnregisterComponent: (None.None:None.None.InstancedStaticMeshComponent_4) Not registered. Aborting.
+[2019.05.18-14.25.06:585][239]LogActorComponent: UnregisterComponent: (None.None:None.None.InstancedStaticMeshComponent_5) Not registered. Aborting.
+[2019.05.18-14.25.06:585][239]LogActorComponent: UnregisterComponent: (None.None:None.None.InstancedStaticMeshComponent_6) Not registered. Aborting.
+[2019.05.18-14.25.06:585][239]LogActorComponent: UnregisterComponent: (None.None:None.None.InstancedStaticMeshComponent_7) Not registered. Aborting.
+[2019.05.18-14.25.06:585][239]LogActorComponent: UnregisterComponent: (None.None:None.None.InstancedStaticMeshComponent_8) Not registered. Aborting.
+[2019.05.18-14.25.06:586][239]LogActorComponent: UnregisterComponent: (None.None:None.None.InstancedStaticMeshComponent_9) Not registered. Aborting.
+[2019.05.18-14.25.06:586][239]LogActorComponent: UnregisterComponent: (None.None:None.None.InstancedStaticMeshComponent_10) Not registered. Aborting.
+[2019.05.18-14.25.06:586][239]LogActorComponent: UnregisterComponent: (None.None:None.None.InstancedStaticMeshComponent_11) Not registered. Aborting.
+[2019.05.18-14.25.06:586][239]LogActorComponent: UnregisterComponent: (None.None:None.None.InstancedStaticMeshComponent_12) Not registered. Aborting.
+[2019.05.18-14.25.06:586][239]LogActorComponent: UnregisterComponent: (None.None:None.None.InstancedStaticMeshComponent_13) Not registered. Aborting.
+[2019.05.18-14.25.06:586][239]LogActorComponent: UnregisterComponent: (None.None:None.None.InstancedStaticMeshComponent_0) Not registered. Aborting.
+[2019.05.18-14.25.06:586][239]LogActorComponent: UnregisterComponent: (None.None:None.None.InstancedStaticMeshComponent_15) Not registered. Aborting.
+[2019.05.18-14.25.06:586][239]LogActorComponent: UnregisterComponent: (None.None:None.None.InstancedStaticMeshComponent_16) Not registered. Aborting.
+[2019.05.18-14.25.06:586][239]LogActorComponent: UnregisterComponent: (None.None:None.None.InstancedStaticMeshComponent_17) Not registered. Aborting.
+[2019.05.18-14.25.06:586][239]LogActorComponent: UnregisterComponent: (None.None:None.None.InstancedStaticMeshComponent_18) Not registered. Aborting.
+[2019.05.18-14.25.06:586][239]LogActorComponent: UnregisterComponent: (None.None:None.None.InstancedStaticMeshComponent_19) Not registered. Aborting.
+[2019.05.18-14.25.06:586][239]LogActorComponent: UnregisterComponent: (None.None:None.None.InstancedStaticMeshComponent_20) Not registered. Aborting.
+[2019.05.18-14.25.06:586][239]LogActorComponent: UnregisterComponent: (None.None:None.None.InstancedStaticMeshComponent_21) Not registered. Aborting.
+[2019.05.18-14.25.06:586][239]LogActorComponent: UnregisterComponent: (None.None:None.None.InstancedStaticMeshComponent_22) Not registered. Aborting.
+[2019.05.18-14.25.06:586][239]LogActorComponent: UnregisterComponent: (None.None:None.None.InstancedStaticMeshComponent_23) Not registered. Aborting.
+[2019.05.18-14.25.06:586][239]LogActorComponent: UnregisterComponent: (None.None:None.None.InstancedStaticMeshComponent_24) Not registered. Aborting.
+[2019.05.18-14.25.06:586][239]LogActorComponent: UnregisterComponent: (None.None:None.None.InstancedStaticMeshComponent_25) Not registered. Aborting.
+[2019.05.18-14.25.06:586][239]LogActorComponent: UnregisterComponent: (None.None:None.None.InstancedStaticMeshComponent_26) Not registered. Aborting.
+[2019.05.18-14.25.06:586][239]LogActorComponent: UnregisterComponent: (None.None:None.None.InstancedStaticMeshComponent_27) Not registered. Aborting.
+[2019.05.18-14.25.06:586][239]LogActorComponent: UnregisterComponent: (None.None:None.None.InstancedStaticMeshComponent_28) Not registered. Aborting.
+[2019.05.18-14.25.06:592][239]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.18-14.25.06:668][240]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2019.05.18-14.25.08:691][307]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.18-14.26.21:382][191]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Misc/Charm.Charm
+[2019.05.18-14.26.49:268][257]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/AI/AICharacter.AICharacter
+[2019.05.18-14.26.53:650][390]LogUObjectBase: Warning: Object is not registered
+[2019.05.18-14.26.54:465][390]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.815 s
+[2019.05.18-14.26.54:465][390]LogOutputDevice: Error: === Handled ensure: ===
+[2019.05.18-14.26.54:465][390]LogOutputDevice: Error: 
+[2019.05.18-14.26.54:465][390]LogOutputDevice: Error: Ensure condition failed: false [File:D:\Build\++UE4\Sync\Engine\Source\Editor\UnrealEd\Private\Kismet2\KismetDebugUtilities.cpp] [Line: 1142]
+[2019.05.18-14.26.54:465][390]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2019.05.18-14.26.54:465][390]LogOutputDevice: Error: Stack: 
+[2019.05.18-14.26.54:465][390]LogOutputDevice: Error: [Callstack] 0x00007ffa721b71f6 UE4Editor-Core.dll!UnknownFunction []
+[2019.05.18-14.26.54:465][390]LogOutputDevice: Error: [Callstack] 0x00007ffa71ef0c92 UE4Editor-Core.dll!UnknownFunction []
+[2019.05.18-14.26.54:465][390]LogOutputDevice: Error: [Callstack] 0x00007ffa71f0b356 UE4Editor-Core.dll!UnknownFunction []
+[2019.05.18-14.26.54:465][390]LogOutputDevice: Error: [Callstack] 0x00007ffa650d11db UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.05.18-14.26.54:465][390]LogOutputDevice: Error: [Callstack] 0x00007ffa650e060e UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.05.18-14.26.54:465][390]LogOutputDevice: Error: [Callstack] 0x00007ffa6376da7a UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2019.05.18-14.26.54:465][390]LogOutputDevice: Error: [Callstack] 0x00007ffa6e53ec2a UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.05.18-14.26.54:465][390]LogOutputDevice: Error: [Callstack] 0x00007ffa6e4ff337 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.05.18-14.26.54:465][390]LogOutputDevice: Error: [Callstack] 0x00007ffa738c8204 UE4Editor-Slate.dll!UnknownFunction []
+[2019.05.18-14.26.54:465][390]LogOutputDevice: Error: [Callstack] 0x00007ffa73b0e933 UE4Editor-Slate.dll!UnknownFunction []
+[2019.05.18-14.26.54:465][390]LogOutputDevice: Error: [Callstack] 0x00007ffa7392281a UE4Editor-Slate.dll!UnknownFunction []
+[2019.05.18-14.26.54:465][390]LogOutputDevice: Error: [Callstack] 0x00007ffa738f8190 UE4Editor-Slate.dll!UnknownFunction []
+[2019.05.18-14.26.54:465][390]LogOutputDevice: Error: [Callstack] 0x00007ffa738eb073 UE4Editor-Slate.dll!UnknownFunction []
+[2019.05.18-14.26.54:465][390]LogOutputDevice: Error: [Callstack] 0x00007ffa9286d007 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.05.18-14.26.54:465][390]LogOutputDevice: Error: [Callstack] 0x00007ffa92860270 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.05.18-14.26.54:465][390]LogOutputDevice: Error: [Callstack] 0x00007ffa9286f4c5 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.05.18-14.26.54:465][390]LogOutputDevice: Error: [Callstack] 0x00007ffa9285c209 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.05.18-14.26.54:465][390]LogOutputDevice: Error: [Callstack] 0x00007ffab9576d41 USER32.dll!UnknownFunction []
+[2019.05.18-14.26.54:465][390]LogOutputDevice: Error: [Callstack] 0x00007ffab9576713 USER32.dll!UnknownFunction []
+[2019.05.18-14.26.54:465][390]LogOutputDevice: Error: [Callstack] 0x00007ffa92870646 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.05.18-14.26.54:465][390]LogOutputDevice: Error: [Callstack] 0x00007ff6a8b154e5 UE4Editor.exe!UnknownFunction []
+[2019.05.18-14.26.54:465][390]LogOutputDevice: Error: [Callstack] 0x00007ff6a8b25b3c UE4Editor.exe!UnknownFunction []
+[2019.05.18-14.26.54:465][390]LogOutputDevice: Error: [Callstack] 0x00007ff6a8b25bba UE4Editor.exe!UnknownFunction []
+[2019.05.18-14.26.54:465][390]LogOutputDevice: Error: [Callstack] 0x00007ff6a8b33dac UE4Editor.exe!UnknownFunction []
+[2019.05.18-14.26.54:465][390]LogOutputDevice: Error: [Callstack] 0x00007ff6a8b35aaa UE4Editor.exe!UnknownFunction []
+[2019.05.18-14.26.54:465][390]LogOutputDevice: Error: [Callstack] 0x00007ffab9234034 KERNEL32.DLL!UnknownFunction []
+[2019.05.18-14.26.54:465][390]LogOutputDevice: Error: [Callstack] 0x00007ffaba183691 ntdll.dll!UnknownFunction []
+[2019.05.18-14.26.54:465][390]LogOutputDevice: Error: 
+[2019.05.18-14.26.54:471][390]LogStats:                SubmitErrorReport -  0.000 s
