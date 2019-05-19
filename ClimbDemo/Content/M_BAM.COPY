@@ -1,0 +1,281 @@
+Begin Object Class=/Script/Engine.Material Name="M_BAM"
+   Begin Object Class=/Script/UnrealEd.SceneThumbnailInfoWithPrimitive Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionVectorParameter Name="MaterialExpressionVectorParameter_0"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionTextureSampleParameter2D Name="MaterialExpressionTextureSampleParameter2D_1"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionTextureSampleParameter2D Name="MaterialExpressionTextureSampleParameter2D_0"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionTextureCoordinate Name="MaterialExpressionTextureCoordinate_1"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionTextureCoordinate Name="MaterialExpressionTextureCoordinate_0"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionStaticSwitchParameter Name="MaterialExpressionStaticSwitchParameter_2"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionStaticSwitchParameter Name="MaterialExpressionStaticSwitchParameter_1"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionStaticSwitchParameter Name="MaterialExpressionStaticSwitchParameter_0"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionScalarParameter Name="MaterialExpressionScalarParameter_3"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionScalarParameter Name="MaterialExpressionScalarParameter_2"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionScalarParameter Name="MaterialExpressionScalarParameter_1"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionOneMinus Name="MaterialExpressionOneMinus_0"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_0"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionLinearInterpolate Name="MaterialExpressionLinearInterpolate_1"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionLinearInterpolate Name="MaterialExpressionLinearInterpolate_0"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionFresnel Name="MaterialExpressionFresnel_0"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant Name="MaterialExpressionConstant_1"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionConstant Name="MaterialExpressionConstant_0"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionCollectionParameter Name="MaterialExpressionCollectionParameter_3"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionCollectionParameter Name="MaterialExpressionCollectionParameter_2"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionCollectionParameter Name="MaterialExpressionCollectionParameter_1"
+   End Object
+   Begin Object Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   Begin Object Name="MaterialExpressionVectorParameter_0"
+      DefaultValue=(R=1.000000,G=1.000000,B=1.000000,A=1.000000)
+      ParameterName="color"
+      ExpressionGUID=434489FF44E67A7891148CB72E852D00
+      MaterialExpressionEditorX=-670
+      MaterialExpressionEditorY=-457
+      MaterialExpressionGuid=41E2763E46FAB08B5AE331A668DC4DE1
+      Material=Material'"M_BAM"'
+   End Object
+   Begin Object Name="MaterialExpressionTextureSampleParameter2D_1"
+      ParameterName="OpacityMask"
+      ExpressionGUID=4BF36DC3441A3DE6CD5F6FAEED3326AF
+      Coordinates=(Expression=MaterialExpressionTextureCoordinate'"M_BAM:MaterialExpressionTextureCoordinate_1"')
+      Texture=Texture2D'"/Game/RoboBars/Textures/Gloss/T_GLossShadowCenter.T_GLossShadowCenter"'
+      SamplerType=SAMPLERTYPE_LinearColor
+      MaterialExpressionEditorX=-352
+      MaterialExpressionEditorY=592
+      MaterialExpressionGuid=C1C28AC64B74D60E8E50149665989DED
+      Material=Material'"M_BAM"'
+   End Object
+   Begin Object Name="MaterialExpressionTextureSampleParameter2D_0"
+      ParameterName="BaseColor"
+      ExpressionGUID=1420881F4F22012F5F8479A5B063372F
+      Coordinates=(Expression=MaterialExpressionTextureCoordinate'"M_BAM:MaterialExpressionTextureCoordinate_0"')
+      Texture=Texture2D'"/Game/RoboBars/Textures/Gloss/T_GLossShadowCenter.T_GLossShadowCenter"'
+      SamplerType=SAMPLERTYPE_LinearColor
+      MaterialExpressionEditorX=-686
+      MaterialExpressionEditorY=-681
+      MaterialExpressionGuid=C1C28AC64B74D60E8E50149665989DED
+      Material=Material'"M_BAM"'
+   End Object
+   Begin Object Name="MaterialExpressionTextureCoordinate_1"
+      MaterialExpressionEditorX=-560
+      MaterialExpressionEditorY=656
+      MaterialExpressionGuid=29457C7C458DBA5CA5CB6F8FDA58EDE5
+      Material=Material'"M_BAM"'
+   End Object
+   Begin Object Name="MaterialExpressionTextureCoordinate_0"
+      MaterialExpressionEditorX=-894
+      MaterialExpressionEditorY=-681
+      MaterialExpressionGuid=29457C7C458DBA5CA5CB6F8FDA58EDE5
+      Material=Material'"M_BAM"'
+   End Object
+   Begin Object Name="MaterialExpressionStaticSwitchParameter_2"
+      A=(Expression=MaterialExpressionStaticSwitchParameter'"M_BAM:MaterialExpressionStaticSwitchParameter_0"')
+      B=(Expression=MaterialExpressionConstant'"M_BAM:MaterialExpressionConstant_1"')
+      ParameterName="Use Emissive"
+      ExpressionGUID=40885B5948BBA86C60DC17926CF29976
+      Group="Emissive"
+      MaterialExpressionEditorX=-464
+      MaterialExpressionGuid=C0DC8571412BECEE825ABE9497C357E4
+      Material=Material'"M_BAM"'
+   End Object
+   Begin Object Name="MaterialExpressionStaticSwitchParameter_1"
+      A=(Expression=MaterialExpressionOneMinus'"M_BAM:MaterialExpressionOneMinus_0"')
+      B=(Expression=MaterialExpressionFresnel'"M_BAM:MaterialExpressionFresnel_0"')
+      ParameterName="Fresnel Invert"
+      ExpressionGUID=461E025A4C99AE39A85E2FA168B10030
+      Group="Emissive"
+      MaterialExpressionEditorX=-1040
+      MaterialExpressionEditorY=-224
+      MaterialExpressionGuid=C3B4B46A48BF6CA4B245C0A77AEB13E2
+      Material=Material'"M_BAM"'
+   End Object
+   Begin Object Name="MaterialExpressionStaticSwitchParameter_0"
+      A=(Expression=MaterialExpressionLinearInterpolate'"M_BAM:MaterialExpressionLinearInterpolate_1"')
+      B=(Expression=MaterialExpressionScalarParameter'"M_BAM:MaterialExpressionScalarParameter_3"')
+      ParameterName="Use Fresnel"
+      ExpressionGUID=BE68A38F44DB9283079780A69B73B472
+      Group="Emissive"
+      MaterialExpressionEditorX=-704
+      MaterialExpressionEditorY=-64
+      MaterialExpressionGuid=C9875B1E4B6F71DD1A8F9B80CD41CA1E
+      Material=Material'"M_BAM"'
+   End Object
+   Begin Object Name="MaterialExpressionScalarParameter_3"
+      ParameterName="Emissive Scaler"
+      ExpressionGUID=9C71DC744ED616D51ADC30B97C281765
+      Group="Emissive"
+      MaterialExpressionEditorX=-1024
+      MaterialExpressionEditorY=32
+      MaterialExpressionGuid=D418F34A46565BB31A3C16BDFBC39077
+      Material=Material'"M_BAM"'
+   End Object
+   Begin Object Name="MaterialExpressionScalarParameter_2"
+      DefaultValue=0.040000
+      ParameterName="Fresnel Base"
+      ExpressionGUID=A2476141472F0BD94DFDDE9849288EC0
+      Group="Emissive"
+      MaterialExpressionEditorX=-1472
+      MaterialExpressionEditorY=-112
+      MaterialExpressionGuid=AB67C80942C0C4F399322D922A49D782
+      Material=Material'"M_BAM"'
+   End Object
+   Begin Object Name="MaterialExpressionScalarParameter_1"
+      DefaultValue=5.000000
+      ParameterName="Fresnel Exp"
+      ExpressionGUID=8951070F4119946E486CEF9B480BF7E1
+      Group="Emissive"
+      MaterialExpressionEditorX=-1504
+      MaterialExpressionEditorY=-240
+      MaterialExpressionGuid=4022C3AB46F38F8AD95A189C83804439
+      Material=Material'"M_BAM"'
+   End Object
+   Begin Object Name="MaterialExpressionOneMinus_0"
+      Input=(Expression=MaterialExpressionFresnel'"M_BAM:MaterialExpressionFresnel_0"')
+      MaterialExpressionEditorX=-1120
+      MaterialExpressionEditorY=-256
+      MaterialExpressionGuid=7DE6F5154B7232750918709D19F1B349
+      Material=Material'"M_BAM"'
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_0"
+      A=(Expression=MaterialExpressionLinearInterpolate'"M_BAM:MaterialExpressionLinearInterpolate_0"')
+      B=(Expression=MaterialExpressionStaticSwitchParameter'"M_BAM:MaterialExpressionStaticSwitchParameter_2"')
+      MaterialExpressionEditorX=-304
+      MaterialExpressionEditorY=-176
+      MaterialExpressionGuid=DE64B3214B13D13256B842A34852FB1E
+      Material=Material'"M_BAM"'
+   End Object
+   Begin Object Name="MaterialExpressionLinearInterpolate_1"
+      A=(Expression=MaterialExpressionConstant'"M_BAM:MaterialExpressionConstant_0"')
+      B=(Expression=MaterialExpressionScalarParameter'"M_BAM:MaterialExpressionScalarParameter_3"')
+      Alpha=(Expression=MaterialExpressionStaticSwitchParameter'"M_BAM:MaterialExpressionStaticSwitchParameter_1"')
+      MaterialExpressionEditorX=-812
+      MaterialExpressionEditorY=-278
+      MaterialExpressionGuid=51FB842945D361B9D3DA9CB852E95E55
+      Material=Material'"M_BAM"'
+   End Object
+   Begin Object Name="MaterialExpressionLinearInterpolate_0"
+      A=(Expression=MaterialExpressionTextureSampleParameter2D'"M_BAM:MaterialExpressionTextureSampleParameter2D_0"',Mask=1,MaskR=1,MaskG=1,MaskB=1)
+      B=(Expression=MaterialExpressionVectorParameter'"M_BAM:MaterialExpressionVectorParameter_0"',Mask=1,MaskR=1,MaskG=1,MaskB=1)
+      ConstAlpha=0.000000
+      MaterialExpressionEditorX=-416
+      MaterialExpressionEditorY=-640
+      MaterialExpressionGuid=08E87DC64FCD1D8B66C54687D5E5270A
+      Material=Material'"M_BAM"'
+   End Object
+   Begin Object Name="MaterialExpressionFresnel_0"
+      ExponentIn=(Expression=MaterialExpressionScalarParameter'"M_BAM:MaterialExpressionScalarParameter_1"')
+      BaseReflectFractionIn=(Expression=MaterialExpressionScalarParameter'"M_BAM:MaterialExpressionScalarParameter_2"')
+      MaterialExpressionEditorX=-1344
+      MaterialExpressionEditorY=-224
+      MaterialExpressionGuid=5B67B4C1499B284F4FF437AAD0F9C3BC
+      Material=Material'"M_BAM"'
+   End Object
+   Begin Object Name="MaterialExpressionConstant_1"
+      MaterialExpressionEditorX=-632
+      MaterialExpressionEditorY=75
+      MaterialExpressionGuid=D5EEB21747BF4B3A0887EE837892FD84
+      Material=Material'"M_BAM"'
+   End Object
+   Begin Object Name="MaterialExpressionConstant_0"
+      MaterialExpressionEditorX=-912
+      MaterialExpressionEditorY=-336
+      MaterialExpressionGuid=CE167D0040E29FD96BC32590D2779E31
+      Material=Material'"M_BAM"'
+   End Object
+   Begin Object Name="MaterialExpressionCollectionParameter_3"
+      Collection=MaterialParameterCollection'"/Game/Terrain/MMMM_/MPC_Rough.MPC_Rough"'
+      ParameterName="Roughness"
+      ParameterId=18311B854CE0F589B635A0B977D013CC
+      MaterialExpressionEditorX=-624
+      MaterialExpressionEditorY=400
+      MaterialExpressionGuid=F01273C140681EC95474C9B1102EB022
+      Material=Material'"M_BAM"'
+      bCollapsed=True
+   End Object
+   Begin Object Name="MaterialExpressionCollectionParameter_2"
+      Collection=MaterialParameterCollection'"/Game/Terrain/MMMM_/MPC_Rough.MPC_Rough"'
+      ParameterName="Specular"
+      ParameterId=3AFDE9EE488294DA4A433A94B3D029C5
+      MaterialExpressionEditorX=-624
+      MaterialExpressionEditorY=304
+      MaterialExpressionGuid=F01273C140681EC95474C9B1102EB022
+      Material=Material'"M_BAM"'
+      bCollapsed=True
+   End Object
+   Begin Object Name="MaterialExpressionCollectionParameter_1"
+      Collection=MaterialParameterCollection'"/Game/Terrain/MMMM_/MPC_Rough.MPC_Rough"'
+      ParameterName="Metallic"
+      ParameterId=2CE4FD544E8A9173E698CFAB9011FADB
+      MaterialExpressionEditorX=-624
+      MaterialExpressionEditorY=208
+      MaterialExpressionGuid=F01273C140681EC95474C9B1102EB022
+      Material=Material'"M_BAM"'
+      bCollapsed=True
+   End Object
+   BaseColor=(Expression=MaterialExpressionLinearInterpolate'"MaterialExpressionLinearInterpolate_0"')
+   Metallic=(Expression=MaterialExpressionCollectionParameter'"MaterialExpressionCollectionParameter_1"')
+   Specular=(Expression=MaterialExpressionCollectionParameter'"MaterialExpressionCollectionParameter_2"')
+   Roughness=(Expression=MaterialExpressionCollectionParameter'"MaterialExpressionCollectionParameter_3"')
+   EmissiveColor=(Expression=MaterialExpressionMultiply'"MaterialExpressionMultiply_0"')
+   OpacityMask=(Expression=MaterialExpressionTextureSampleParameter2D'"MaterialExpressionTextureSampleParameter2D_1"',Mask=1,MaskR=1,MaskG=1,MaskB=1)
+   BlendMode=BLEND_Masked
+   TwoSided=True
+   bUsedWithInstancedStaticMeshes=True
+   EditorX=144
+   EditorY=-64
+   Expressions(0)=MaterialExpressionLinearInterpolate'"MaterialExpressionLinearInterpolate_0"'
+   Expressions(1)=MaterialExpressionCollectionParameter'"MaterialExpressionCollectionParameter_1"'
+   Expressions(2)=MaterialExpressionCollectionParameter'"MaterialExpressionCollectionParameter_2"'
+   Expressions(3)=MaterialExpressionCollectionParameter'"MaterialExpressionCollectionParameter_3"'
+   Expressions(4)=MaterialExpressionMultiply'"MaterialExpressionMultiply_0"'
+   Expressions(5)=MaterialExpressionTextureSampleParameter2D'"MaterialExpressionTextureSampleParameter2D_1"'
+   Expressions(6)=MaterialExpressionTextureSampleParameter2D'"MaterialExpressionTextureSampleParameter2D_0"'
+   Expressions(7)=MaterialExpressionTextureCoordinate'"MaterialExpressionTextureCoordinate_0"'
+   Expressions(8)=MaterialExpressionTextureCoordinate'"MaterialExpressionTextureCoordinate_1"'
+   Expressions(9)=MaterialExpressionVectorParameter'"MaterialExpressionVectorParameter_0"'
+   Expressions(10)=MaterialExpressionStaticSwitchParameter'"MaterialExpressionStaticSwitchParameter_0"'
+   Expressions(11)=MaterialExpressionFresnel'"MaterialExpressionFresnel_0"'
+   Expressions(12)=MaterialExpressionLinearInterpolate'"MaterialExpressionLinearInterpolate_1"'
+   Expressions(13)=MaterialExpressionConstant'"MaterialExpressionConstant_0"'
+   Expressions(14)=MaterialExpressionScalarParameter'"MaterialExpressionScalarParameter_1"'
+   Expressions(15)=MaterialExpressionScalarParameter'"MaterialExpressionScalarParameter_2"'
+   Expressions(16)=MaterialExpressionStaticSwitchParameter'"MaterialExpressionStaticSwitchParameter_1"'
+   Expressions(17)=MaterialExpressionOneMinus'"MaterialExpressionOneMinus_0"'
+   Expressions(18)=MaterialExpressionScalarParameter'"MaterialExpressionScalarParameter_3"'
+   Expressions(19)=MaterialExpressionStaticSwitchParameter'"MaterialExpressionStaticSwitchParameter_2"'
+   Expressions(20)=MaterialExpressionConstant'"MaterialExpressionConstant_1"'
+   ParameterGroupData(0)=(GroupName="None")
+   ParameterGroupData(1)=(GroupName="None")
+   ParameterGroupData(2)=(GroupName="None")
+   ParameterGroupData(3)=(GroupName="Emissive")
+   ParameterGroupData(4)=(GroupName="Emissive")
+   ParameterGroupData(5)=(GroupName="Emissive")
+   ParameterGroupData(6)=(GroupName="Emissive")
+   ParameterGroupData(7)=(GroupName="Emissive")
+   ParameterGroupData(8)=(GroupName="Emissive")
+   MaterialParameterCollectionInfos(0)=(StateId=C76437494CFEF515F131D394BAE2F09E,ParameterCollection=MaterialParameterCollection'"/Game/Terrain/MMMM_/MPC_Rough.MPC_Rough"')
+   StateId=2D0298B244266DD9886E53B0C89F574F
+   ReferencedTextureGuids(0)=2A20148B4917E4086A74A4A501754DA4
+   ThumbnailInfo=SceneThumbnailInfoWithPrimitive'"SceneThumbnailInfoWithPrimitive_0"'
+   LightingGuid=DE50FED14AB3B1A8912CEBB3378BE37F
+End Object

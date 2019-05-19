@@ -1,0 +1,1017 @@
+﻿Log file open, 05/19/19 17:33:21
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: ClimbDemo
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.346495
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +8:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin HoudiniEngine
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.536s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogHMD: Failed initializing OVRPlugin 1.25.0
+LogInit: Build: ++UE4+Release-4.20-CL-4369336
+LogInit: Engine Version: 4.20.3-4369336+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz, GPU: Intel(R) HD Graphics 630
+LogInit: Compiled (64-bit): Sep 17 2018 12:26:19
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line:  
+LogInit: Base Directory: D:/Program Files/Epic Games/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.011s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2019.05.19-09.33.23:495][  0]LogInit: Selected Device Profile: [Windows]
+[2019.05.19-09.33.23:495][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.05.19-09.33.23:528][  0]LogHAL: Display: Platform has ~ 16 GB [17046654976 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.05.19-09.33.23:528][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2019.05.19-09.33.23:528][  0]LogInit: Going up to parent DeviceProfile []
+[2019.05.19-09.33.23:529][  0]LogInit: Computer: DESKTOP-UHKKT41
+[2019.05.19-09.33.23:529][  0]LogInit: User: Ivy
+[2019.05.19-09.33.23:529][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.05.19-09.33.23:529][  0]LogInit: High frequency timer resolution =2.742188 MHz
+[2019.05.19-09.33.23:529][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2019.05.19-09.33.23:529][  0]LogMemory: Platform Memory Stats for Windows
+[2019.05.19-09.33.23:529][  0]LogMemory: Process Physical Memory: 106.13 MB used, 106.13 MB peak
+[2019.05.19-09.33.23:529][  0]LogMemory: Process Virtual Memory: 97.76 MB used, 97.76 MB peak
+[2019.05.19-09.33.23:529][  0]LogMemory: Physical Memory: 5710.36 MB used,  10546.59 MB free, 16256.96 MB total
+[2019.05.19-09.33.23:529][  0]LogMemory: Virtual Memory: 4662.07 MB used,  10546.59 MB free, 134217728.00 MB total
+[2019.05.19-09.33.24:201][  0]LogInit: Overriding language with editor language configuration option (en).
+[2019.05.19-09.33.24:201][  0]LogInit: Overriding locale with editor locale configuration option (en).
+[2019.05.19-09.33.24:908][  0]LogStreaming: Display: Took  0.706s to InitEngineTextLocalization.
+[2019.05.19-09.33.24:908][  0]LogInit: Setting process to per monitor DPI aware
+[2019.05.19-09.33.25:141][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.05.19-09.33.25:141][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.05.19-09.33.25:726][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.05.19-09.33.25:726][  0]LogD3D11RHI: D3D11 adapters:
+[2019.05.19-09.33.25:852][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070' (Feature Level 11_0)
+[2019.05.19-09.33.25:852][  0]LogD3D11RHI:       8089/0/8128 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.05.19-09.33.25:876][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2019.05.19-09.33.25:876][  0]LogD3D11RHI:       128/0/8128 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2019.05.19-09.33.25:881][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.05.19-09.33.25:881][  0]LogD3D11RHI:       0/0/8128 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.05.19-09.33.25:881][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.05.19-09.33.25:921][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.05.19-09.33.25:921][  0]LogD3D11RHI:     GPU DeviceId: 0x1ba1 (for the marketing name, search the web for "GPU Device Id")
+[2019.05.19-09.33.25:921][  0]LogWindows: EnumDisplayDevices:
+[2019.05.19-09.33.25:921][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:1 D:1)
+[2019.05.19-09.33.25:923][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2019.05.19-09.33.25:925][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2019.05.19-09.33.25:927][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2019.05.19-09.33.25:929][  0]LogWindows:    4. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2019.05.19-09.33.25:931][  0]LogWindows:    5. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2019.05.19-09.33.25:933][  0]LogWindows:    6. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2019.05.19-09.33.25:935][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2019.05.19-09.33.25:935][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070
+[2019.05.19-09.33.25:935][  0]LogD3D11RHI:   Driver Version: 389.12 (internal:23.21.13.8912, unified:389.12)
+[2019.05.19-09.33.25:935][  0]LogD3D11RHI:      Driver Date: 3-7-2018
+[2019.05.19-09.33.25:935][  0]LogRHI: Texture pool is 5662 MB (70% of 8089 MB)
+[2019.05.19-09.33.25:986][  0]LogD3D11RHI: Async texture creation enabled
+[2019.05.19-09.33.26:004][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2019.05.19-09.33.26:006][  0]LogShaderCompilers: Guid format shader working directory is 1 characters bigger than the processId version (C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Intermediate/Shaders/WorkingDirectory/940/).
+[2019.05.19-09.33.26:006][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Ivy/AppData/Local/Temp/UnrealShaderWorkingDir/F4E0AFC6407BA016A7CA9EA9F6940CB7/'.
+[2019.05.19-09.33.27:246][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.05.19-09.33.27:277][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.05.19-09.33.27:307][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.05.19-09.33.27:337][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.05.19-09.33.27:375][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.05.19-09.33.27:410][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.05.19-09.33.27:443][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.05.19-09.33.27:476][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.05.19-09.33.27:489][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.05.19-09.33.27:643][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.19-09.33.27:643][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.19-09.33.27:643][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.19-09.33.27:643][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.19-09.33.27:643][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.19-09.33.27:643][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.19-09.33.27:643][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.19-09.33.27:643][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.19-09.33.27:643][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.19-09.33.27:643][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.19-09.33.27:643][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.19-09.33.27:643][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.19-09.33.27:643][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.19-09.33.27:643][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.19-09.33.27:643][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.19-09.33.27:643][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.19-09.33.27:643][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.19-09.33.27:643][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.19-09.33.27:669][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.05.19-09.33.27:784][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.05.19-09.33.27:784][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.05.19-09.33.27:826][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.05.19-09.33.27:826][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.05.19-09.33.27:859][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.05.19-09.33.27:878][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.05.19-09.33.27:899][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.05.19-09.33.27:936][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.05.19-09.33.27:950][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.05.19-09.33.27:950][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.05.19-09.33.28:378][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.05.19-09.33.28:378][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.05.19-09.33.28:378][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.05.19-09.33.29:406][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.05.19-09.33.29:812][  0]LogDerivedDataCache: Loaded boot cache 0.41s 71MB C:/Users/Ivy/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2019.05.19-09.33.29:813][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Ivy/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2019.05.19-09.33.29:813][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.05.19-09.33.29:813][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.05.19-09.33.29:813][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.05.19-09.33.29:813][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.05.19-09.33.29:879][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.05.19-09.33.29:901][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Ivy/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.05.19-09.33.29:901][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.05.19-09.33.29:901][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.05.19-09.33.29:924][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.05.19-09.33.29:925][  0]LogSlate: Using FreeType 2.6.0
+[2019.05.19-09.33.29:949][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.05.19-09.33.30:181][  0]LogAssetRegistry: FAssetRegistry took 0.0285 seconds to start up
+[2019.05.19-09.33.30:761][  0]LogInit: Selected Device Profile: [Windows]
+[2019.05.19-09.33.31:123][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.05.19-09.33.31:188][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.05.19-09.33.31:188][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.05.19-09.33.31:188][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.05.19-09.33.31:188][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.05.19-09.33.31:208][  0]LogNetVersion: ClimbDemo 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 2394580764)
+[2019.05.19-09.33.32:141][  0]LogPackageLocalizationCache: Processed 12 localized package path(s) for 1 prioritized culture(s) in 0.263644 seconds
+[2019.05.19-09.33.32:149][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2019.05.19-09.33.32:149][  0]LogUObjectAllocator: 6690872 out of 0 bytes used by permanent object pool.
+[2019.05.19-09.33.32:149][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.05.19-09.33.38:523][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.05.19-09.33.38:556][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.05.19-09.33.39:003][  0]SourceControl: Source control is disabled
+[2019.05.19-09.33.39:004][  0]SourceControl: Source control is disabled
+[2019.05.19-09.33.39:043][  0]SourceControl: Source control is disabled
+[2019.05.19-09.33.39:050][  0]SourceControl: Source control is disabled
+[2019.05.19-09.33.39:718][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.05.19-09.33.40:085][  0]LogHoudiniEngine: Starting the Houdini Engine module.
+[2019.05.19-09.33.40:108][  0]LogHoudiniEngine: Loaded libHAPIL.dll from Registry path D:/Program Files/Side Effects Software/Houdini 17.0.416/bin
+[2019.05.19-09.33.40:110][  0]LogLinker: Warning: Asset '../../Plugins/Runtime/HoudiniEngine/Content/houdini_logo.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.05.19-09.33.40:113][  0]LogLinker: Warning: Asset '../../Plugins/Runtime/HoudiniEngine/Content/houdini_default_material.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.05.19-09.33.40:123][  0]LogLinker: Warning: Asset '../../Plugins/Runtime/HoudiniEngine/Content/houdini_bgeo_import.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.05.19-09.33.43:654][  0]LogHoudiniEngine: Error: Failed to create a Houdini Engine session
+[2019.05.19-09.33.43:654][  0]LogHoudiniEngine: Starting up the Houdini Engine API module failed: Generic Failure
+[2019.05.19-09.33.43:712][  0]LogOcInput: OculusInput pre-init called
+[2019.05.19-09.33.44:042][  0]LogEngine: Initializing Engine...
+[2019.05.19-09.33.44:046][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.05.19-09.33.44:047][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.05.19-09.33.44:047][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.05.19-09.33.44:048][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.05.19-09.33.44:048][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.05.19-09.33.44:331][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.05.19-09.33.44:423][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.05.19-09.33.44:553][  0]LogInit: XAudio2 using '扬声器/听筒 (Realtek Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.05.19-09.33.44:649][  0]LogInit: FAudioDevice initialized.
+[2019.05.19-09.33.44:649][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.05.19-09.33.44:866][  0]LogDerivedDataCache: Saved boot cache 0.22s 71MB C:/Users/Ivy/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2019.05.19-09.33.44:867][  0]LogInit: Texture streaming: Enabled
+[2019.05.19-09.33.45:005][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.05.19-09.33.45:071][  0]LogInit: Transaction tracking system initialized
+[2019.05.19-09.33.45:214][  0]BlueprintLog: New page: Editor Load
+[2019.05.19-09.33.45:703][  0]LocalizationService: Localization service is disabled
+[2019.05.19-09.33.46:806][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.05.19-09.33.46:806][  0]LogCook: Display: Mobile HDR setting 1
+[2019.05.19-09.33.46:806][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.05.19-09.33.46:806][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.05.19-09.33.46:807][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.05.19-09.33.46:807][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.05.19-09.33.46:807][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.05.19-09.33.47:290][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Content/' took 0.05s
+[2019.05.19-09.33.47:588][  0]LogHoudiniEngineEditor: Starting the Houdini Engine Editor module.
+[2019.05.19-09.33.47:624][  0]LogHoudiniEngineEditor: Houdini Engine Editor module startup complete.
+[2019.05.19-09.33.47:960][  0]SourceControl: Source control is disabled
+[2019.05.19-09.33.47:960][  0]Cmd: MAP LOAD FILE="C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Content/Terrain/4/LakeLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.05.19-09.33.47:961][  0]LightingResults: New page: Lighting Build
+[2019.05.19-09.33.47:977][  0]MapCheck: New page: Map Check
+[2019.05.19-09.33.47:977][  0]LightingResults: New page: Lighting Build
+[2019.05.19-09.33.49:834][  0]LogBlueprint: Warning: [Compiler ABP_Climber] Cling_BS to JumpEnd  will never be taken, please connect something to  Can Enter Transition
+[2019.05.19-09.33.50:566][  0]LogBlueprint: Warning: [Compiler ABP_Climber] [0041.49] Compile of ABP_Climber successful, but with 1 Warning(s) [in 1,011 ms] (/Game/Clinging/Animations/Blueprints/ABP_Climber.ABP_Climber)
+[2019.05.19-09.33.51:006][  0]LogLinker: Warning: Unable to load PhysicsSerializer with outer InstancedStaticMeshComponent /Game/Terrain/HoudiniBake/terrain_bishe_1_846516E4.terrain_bishe_1_846516E4_C:InstancedStaticMesh10_GEN_VARIABLE because its class does not exist
+[2019.05.19-09.33.51:007][  0]LogLinker: Warning: Unable to load PhysicsSerializer with outer InstancedStaticMeshComponent /Game/Terrain/HoudiniBake/terrain_bishe_1_846516E4.terrain_bishe_1_846516E4_C:InstancedStaticMesh11_GEN_VARIABLE because its class does not exist
+[2019.05.19-09.33.51:007][  0]LogLinker: Warning: Unable to load PhysicsSerializer with outer InstancedStaticMeshComponent /Game/Terrain/HoudiniBake/terrain_bishe_1_846516E4.terrain_bishe_1_846516E4_C:InstancedStaticMesh12_GEN_VARIABLE because its class does not exist
+[2019.05.19-09.33.51:007][  0]LogLinker: Warning: Unable to load PhysicsSerializer with outer InstancedStaticMeshComponent /Game/Terrain/HoudiniBake/terrain_bishe_1_846516E4.terrain_bishe_1_846516E4_C:InstancedStaticMesh13_GEN_VARIABLE because its class does not exist
+[2019.05.19-09.33.51:007][  0]LogLinker: Warning: Unable to load PhysicsSerializer with outer InstancedStaticMeshComponent /Game/Terrain/HoudiniBake/terrain_bishe_1_846516E4.terrain_bishe_1_846516E4_C:InstancedStaticMesh14_GEN_VARIABLE because its class does not exist
+[2019.05.19-09.33.51:007][  0]LogLinker: Warning: Unable to load PhysicsSerializer with outer InstancedStaticMeshComponent /Game/Terrain/HoudiniBake/terrain_bishe_1_846516E4.terrain_bishe_1_846516E4_C:InstancedStaticMesh15_GEN_VARIABLE because its class does not exist
+[2019.05.19-09.33.51:007][  0]LogLinker: Warning: Unable to load PhysicsSerializer with outer InstancedStaticMeshComponent /Game/Terrain/HoudiniBake/terrain_bishe_1_846516E4.terrain_bishe_1_846516E4_C:InstancedStaticMesh16_GEN_VARIABLE because its class does not exist
+[2019.05.19-09.33.51:007][  0]LogLinker: Warning: Unable to load PhysicsSerializer with outer InstancedStaticMeshComponent /Game/Terrain/HoudiniBake/terrain_bishe_1_846516E4.terrain_bishe_1_846516E4_C:InstancedStaticMesh17_GEN_VARIABLE because its class does not exist
+[2019.05.19-09.33.51:007][  0]LogLinker: Warning: Unable to load PhysicsSerializer with outer InstancedStaticMeshComponent /Game/Terrain/HoudiniBake/terrain_bishe_1_846516E4.terrain_bishe_1_846516E4_C:InstancedStaticMesh18_GEN_VARIABLE because its class does not exist
+[2019.05.19-09.33.51:007][  0]LogLinker: Warning: Unable to load PhysicsSerializer with outer InstancedStaticMeshComponent /Game/Terrain/HoudiniBake/terrain_bishe_1_846516E4.terrain_bishe_1_846516E4_C:InstancedStaticMesh19_GEN_VARIABLE because its class does not exist
+[2019.05.19-09.33.51:007][  0]LogLinker: Warning: Unable to load PhysicsSerializer with outer InstancedStaticMeshComponent /Game/Terrain/HoudiniBake/terrain_bishe_1_846516E4.terrain_bishe_1_846516E4_C:InstancedStaticMesh1_GEN_VARIABLE because its class does not exist
+[2019.05.19-09.33.51:007][  0]LogLinker: Warning: Unable to load PhysicsSerializer with outer InstancedStaticMeshComponent /Game/Terrain/HoudiniBake/terrain_bishe_1_846516E4.terrain_bishe_1_846516E4_C:InstancedStaticMesh20_GEN_VARIABLE because its class does not exist
+[2019.05.19-09.33.51:007][  0]LogLinker: Warning: Unable to load PhysicsSerializer with outer InstancedStaticMeshComponent /Game/Terrain/HoudiniBake/terrain_bishe_1_846516E4.terrain_bishe_1_846516E4_C:InstancedStaticMesh21_GEN_VARIABLE because its class does not exist
+[2019.05.19-09.33.51:007][  0]LogLinker: Warning: Unable to load PhysicsSerializer with outer InstancedStaticMeshComponent /Game/Terrain/HoudiniBake/terrain_bishe_1_846516E4.terrain_bishe_1_846516E4_C:InstancedStaticMesh22_GEN_VARIABLE because its class does not exist
+[2019.05.19-09.33.51:008][  0]LogLinker: Warning: Unable to load PhysicsSerializer with outer InstancedStaticMeshComponent /Game/Terrain/HoudiniBake/terrain_bishe_1_846516E4.terrain_bishe_1_846516E4_C:InstancedStaticMesh23_GEN_VARIABLE because its class does not exist
+[2019.05.19-09.33.51:008][  0]LogLinker: Warning: Unable to load PhysicsSerializer with outer InstancedStaticMeshComponent /Game/Terrain/HoudiniBake/terrain_bishe_1_846516E4.terrain_bishe_1_846516E4_C:InstancedStaticMesh24_GEN_VARIABLE because its class does not exist
+[2019.05.19-09.33.51:008][  0]LogLinker: Warning: Unable to load PhysicsSerializer with outer InstancedStaticMeshComponent /Game/Terrain/HoudiniBake/terrain_bishe_1_846516E4.terrain_bishe_1_846516E4_C:InstancedStaticMesh25_GEN_VARIABLE because its class does not exist
+[2019.05.19-09.33.51:008][  0]LogLinker: Warning: Unable to load PhysicsSerializer with outer InstancedStaticMeshComponent /Game/Terrain/HoudiniBake/terrain_bishe_1_846516E4.terrain_bishe_1_846516E4_C:InstancedStaticMesh26_GEN_VARIABLE because its class does not exist
+[2019.05.19-09.33.51:008][  0]LogLinker: Warning: Unable to load PhysicsSerializer with outer InstancedStaticMeshComponent /Game/Terrain/HoudiniBake/terrain_bishe_1_846516E4.terrain_bishe_1_846516E4_C:InstancedStaticMesh27_GEN_VARIABLE because its class does not exist
+[2019.05.19-09.33.51:008][  0]LogLinker: Warning: Unable to load PhysicsSerializer with outer InstancedStaticMeshComponent /Game/Terrain/HoudiniBake/terrain_bishe_1_846516E4.terrain_bishe_1_846516E4_C:InstancedStaticMesh28_GEN_VARIABLE because its class does not exist
+[2019.05.19-09.33.51:009][  0]LogLinker: Warning: Unable to load PhysicsSerializer with outer InstancedStaticMeshComponent /Game/Terrain/HoudiniBake/terrain_bishe_1_846516E4.terrain_bishe_1_846516E4_C:InstancedStaticMesh29_GEN_VARIABLE because its class does not exist
+[2019.05.19-09.33.51:009][  0]LogLinker: Warning: Unable to load PhysicsSerializer with outer InstancedStaticMeshComponent /Game/Terrain/HoudiniBake/terrain_bishe_1_846516E4.terrain_bishe_1_846516E4_C:InstancedStaticMesh2_GEN_VARIABLE because its class does not exist
+[2019.05.19-09.33.51:009][  0]LogLinker: Warning: Unable to load PhysicsSerializer with outer InstancedStaticMeshComponent /Game/Terrain/HoudiniBake/terrain_bishe_1_846516E4.terrain_bishe_1_846516E4_C:InstancedStaticMesh30_GEN_VARIABLE because its class does not exist
+[2019.05.19-09.33.51:009][  0]LogLinker: Warning: Unable to load PhysicsSerializer with outer InstancedStaticMeshComponent /Game/Terrain/HoudiniBake/terrain_bishe_1_846516E4.terrain_bishe_1_846516E4_C:InstancedStaticMesh31_GEN_VARIABLE because its class does not exist
+[2019.05.19-09.33.51:009][  0]LogLinker: Warning: Unable to load PhysicsSerializer with outer InstancedStaticMeshComponent /Game/Terrain/HoudiniBake/terrain_bishe_1_846516E4.terrain_bishe_1_846516E4_C:InstancedStaticMesh32_GEN_VARIABLE because its class does not exist
+[2019.05.19-09.33.51:009][  0]LogLinker: Warning: Unable to load PhysicsSerializer with outer InstancedStaticMeshComponent /Game/Terrain/HoudiniBake/terrain_bishe_1_846516E4.terrain_bishe_1_846516E4_C:InstancedStaticMesh3_GEN_VARIABLE because its class does not exist
+[2019.05.19-09.33.51:009][  0]LogLinker: Warning: Unable to load PhysicsSerializer with outer InstancedStaticMeshComponent /Game/Terrain/HoudiniBake/terrain_bishe_1_846516E4.terrain_bishe_1_846516E4_C:InstancedStaticMesh4_GEN_VARIABLE because its class does not exist
+[2019.05.19-09.33.51:009][  0]LogLinker: Warning: Unable to load PhysicsSerializer with outer InstancedStaticMeshComponent /Game/Terrain/HoudiniBake/terrain_bishe_1_846516E4.terrain_bishe_1_846516E4_C:InstancedStaticMesh5_GEN_VARIABLE because its class does not exist
+[2019.05.19-09.33.51:009][  0]LogLinker: Warning: Unable to load PhysicsSerializer with outer InstancedStaticMeshComponent /Game/Terrain/HoudiniBake/terrain_bishe_1_846516E4.terrain_bishe_1_846516E4_C:InstancedStaticMesh6_GEN_VARIABLE because its class does not exist
+[2019.05.19-09.33.51:009][  0]LogLinker: Warning: Unable to load PhysicsSerializer with outer InstancedStaticMeshComponent /Game/Terrain/HoudiniBake/terrain_bishe_1_846516E4.terrain_bishe_1_846516E4_C:InstancedStaticMesh7_GEN_VARIABLE because its class does not exist
+[2019.05.19-09.33.51:009][  0]LogLinker: Warning: Unable to load PhysicsSerializer with outer InstancedStaticMeshComponent /Game/Terrain/HoudiniBake/terrain_bishe_1_846516E4.terrain_bishe_1_846516E4_C:InstancedStaticMesh8_GEN_VARIABLE because its class does not exist
+[2019.05.19-09.33.51:009][  0]LogLinker: Warning: Unable to load PhysicsSerializer with outer InstancedStaticMeshComponent /Game/Terrain/HoudiniBake/terrain_bishe_1_846516E4.terrain_bishe_1_846516E4_C:InstancedStaticMesh9_GEN_VARIABLE because its class does not exist
+[2019.05.19-09.33.51:009][  0]LogLinker: Warning: Unable to load PhysicsSerializer with outer InstancedStaticMeshComponent /Game/Terrain/HoudiniBake/terrain_bishe_1_846516E4.terrain_bishe_1_846516E4_C:InstancedStaticMesh_GEN_VARIABLE because its class does not exist
+[2019.05.19-09.33.52:212][  0]AssetCheck: Warning: 013_Swimming Particle system /Game/Terrain/VFX/P_1_ripple.P_1_ripple used in anim notify for asset /Game/Player/013_Swimming.013_Swimming is set to looping, but the slot is a one-shot (it won't be played to avoid leaking a component per notify).
+[2019.05.19-09.33.52:229][  0]AssetCheck: Warning: 013_Swimming Particle system /Game/Terrain/VFX/P_1_ripple.P_1_ripple used in anim notify for asset /Game/Player/013_Swimming.013_Swimming is set to looping, but the slot is a one-shot (it won't be played to avoid leaking a component per notify).
+[2019.05.19-09.33.53:555][  0]LogMaterial: Display: Missing cached shader map for material M_BAM, compiling. 
+[2019.05.19-09.33.54:103][  0]LogShaderCompilers: Display: Shaders left to compile 89
+[2019.05.19-09.33.54:103][  0]LogShaderCompilers: Display: Shaders left to compile 79
+[2019.05.19-09.33.54:103][  0]LogShaderCompilers: Display: Shaders left to compile 69
+[2019.05.19-09.33.54:103][  0]LogShaderCompilers: Display: Shaders left to compile 59
+[2019.05.19-09.33.54:103][  0]LogShaderCompilers: Display: Shaders left to compile 49
+[2019.05.19-09.33.55:119][  0]LogAIModule: Creating AISystem for world LakeLevel
+[2019.05.19-09.33.55:563][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.05.19-09.33.55:705][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.05.19-09.33.56:024][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 319.538ms to complete.
+[2019.05.19-09.33.56:024][  0]LogFileHelpers: Loading map 'LakeLevel' took 8.064
+[2019.05.19-09.33.56:240][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.19-09.33.56:253][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.19-09.33.56:281][  0]LogCollectionManager: Loaded 0 collections in 0.001726 seconds
+[2019.05.19-09.33.56:341][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Saved/Collections/' took 0.01s
+[2019.05.19-09.33.56:341][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Content/Developers/Ivy/Collections/' took 0.01s
+[2019.05.19-09.33.56:341][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Content/Collections/' took 0.01s
+[2019.05.19-09.33.56:341][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.05.19-09.33.56:357][  0]LogContentBrowser: Native class hierarchy populated in 0.0153 seconds. Added 2610 classes and 610 folders.
+[2019.05.19-09.33.56:394][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.05.19-09.33.56:957][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.05.19-09.33.56:987][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2019.05.19-09.33.57:207][  0]LogShaderCompilers: Display: Shaders left to compile 39
+[2019.05.19-09.33.57:207][  0]LogSlate: Took 0.013711 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.05.19-09.33.57:214][  0]LogSlate: Took 0.005707 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.05.19-09.33.57:242][  0]LogSlate: Took 0.021097 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.05.19-09.33.57:389][  0]LogRenderer: Reallocating scene render targets to support 604x236 Format 10 NumSamples 1 (Frame:1).
+[2019.05.19-09.33.57:419][  0]LogRenderer: Reallocating scene render targets to support 1208x472 Format 10 NumSamples 1 (Frame:1).
+[2019.05.19-09.33.57:641][  0]LogShaderCompilers: Display: Shaders left to compile 29
+[2019.05.19-09.33.57:695][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.05.19-09.33.57:695][  0]LogLoad: (Engine Initialization) Total time: 48.61 seconds
+[2019.05.19-09.33.57:695][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.05.19-09.33.57:745][  0]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.05.19-09.33.57:745][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.05.19-09.33.57:823][  0]LogSlate: Took 0.001286 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.05.19-09.33.57:871][  1]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2019.05.19-09.33.58:202][  6]LogAssetRegistry: Asset discovery search completed in 28.0452 seconds
+[2019.05.19-09.33.58:206][  6]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.05.19-09.33.58:206][  6]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000094 seconds (updated 0 objects)
+[2019.05.19-09.33.58:779][ 31]LogSlate: Took 0.000271 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.05.19-09.34.00:132][105]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.05.19-09.34.00:475][123]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.05.19-09.34.53:156][498]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.19-09.34.53:203][498]LogAssetEditorManager: Opening Asset editor for Material /Game/Terrain/MMMM_/M_BAM.M_BAM
+[2019.05.19-09.34.53:209][498]LogMaterial: Display: Missing cached shader map for material M_BAM, compiling. 
+[2019.05.19-09.34.53:752][498]LogMaterial: Display: Missing cached shader map for material M_BAM, compiling. 
+[2019.05.19-09.34.53:790][498]LogMaterial: Display: Missing cached shader map for material M_BAM, compiling. 
+[2019.05.19-09.34.53:831][498]LogShaderCompilers: Display: Shaders left to compile 46
+[2019.05.19-09.34.53:831][498]LogShaderCompilers: Display: Shaders left to compile 45
+[2019.05.19-09.34.53:831][498]LogShaderCompilers: Display: Shaders left to compile 44
+[2019.05.19-09.34.53:831][498]LogShaderCompilers: Display: Shaders left to compile 43
+[2019.05.19-09.34.53:870][498]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_1, compiling. 
+[2019.05.19-09.34.53:888][498]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0, compiling. 
+[2019.05.19-09.34.53:895][498]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.05.19-09.34.53:973][498]LogSlate: Took 0.000212 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.05.19-09.34.59:631][501]LogSlate: Took 0.000326 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.05.19-09.35.04:274][675]LogSlate: Window 'M_BAM' being destroyed
+[2019.05.19-09.35.04:292][675]LogSlate: Window 'M_BAM' being destroyed
+[2019.05.19-09.35.09:490][825]LogSlate: Took 0.085656 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2019.05.19-09.35.10:238][825]LogShaderCompilers: Display: Shaders left to compile 42
+[2019.05.19-09.35.10:439][825]LogShaderCompilers: Display: Shaders left to compile 41
+[2019.05.19-09.35.11:345][825]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.05.19-09.35.11:345][825]LogShaderCompilers: Display: Shaders left to compile 39
+[2019.05.19-09.35.11:345][825]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: 'None' is not a standard unreal filename or a long path name. Reason: Path should start with a '/'
+[2019.05.19-09.35.12:055][825]LogShaderCompilers: Display: Shaders left to compile 38
+[2019.05.19-09.35.12:268][825]LogShaderCompilers: Display: Shaders left to compile 37
+[2019.05.19-09.35.12:653][825]LogShaderCompilers: Display: Shaders left to compile 36
+[2019.05.19-09.35.12:653][825]MapCheck: Warning: LandscapeComponent_0 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.12:722][825]MapCheck: Warning: LandscapeComponent_1 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.12:723][825]MapCheck: Warning: LandscapeComponent_2 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.12:723][825]MapCheck: Warning: LandscapeComponent_3 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.12:724][825]MapCheck: Warning: LandscapeComponent_4 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.12:725][825]MapCheck: Warning: LandscapeComponent_5 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.12:726][825]MapCheck: Warning: LandscapeComponent_6 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.12:727][825]MapCheck: Warning: LandscapeComponent_7 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.12:728][825]MapCheck: Warning: LandscapeComponent_8 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.12:730][825]MapCheck: Warning: LandscapeComponent_9 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.12:731][825]MapCheck: Warning: LandscapeComponent_10 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.12:732][825]MapCheck: Warning: LandscapeComponent_11 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.12:733][825]MapCheck: Warning: LandscapeComponent_12 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.12:734][825]MapCheck: Warning: LandscapeComponent_13 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.12:735][825]MapCheck: Warning: LandscapeComponent_14 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.12:736][825]MapCheck: Warning: LandscapeComponent_15 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.12:737][825]MapCheck: Warning: LandscapeComponent_16 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.12:738][825]MapCheck: Warning: LandscapeComponent_17 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.12:739][825]MapCheck: Warning: LandscapeComponent_18 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.12:740][825]MapCheck: Warning: LandscapeComponent_19 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.12:740][825]MapCheck: Warning: LandscapeComponent_20 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.12:741][825]MapCheck: Warning: LandscapeComponent_21 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.12:742][825]MapCheck: Warning: LandscapeComponent_22 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.12:743][825]MapCheck: Warning: LandscapeComponent_23 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.12:744][825]MapCheck: Warning: LandscapeComponent_24 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.12:745][825]MapCheck: Warning: LandscapeComponent_25 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.12:746][825]MapCheck: Warning: LandscapeComponent_26 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.12:747][825]MapCheck: Warning: LandscapeComponent_27 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.12:748][825]MapCheck: Warning: LandscapeComponent_28 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.12:749][825]MapCheck: Warning: LandscapeComponent_29 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.12:750][825]MapCheck: Warning: LandscapeComponent_30 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.12:751][825]MapCheck: Warning: LandscapeComponent_31 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.12:752][825]MapCheck: Warning: LandscapeComponent_32 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.12:753][825]MapCheck: Warning: LandscapeComponent_33 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.12:754][825]MapCheck: Warning: LandscapeComponent_34 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.12:755][825]MapCheck: Warning: LandscapeComponent_35 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.12:755][825]MapCheck: Warning: LandscapeComponent_36 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.12:758][825]MapCheck: Warning: LandscapeComponent_37 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.12:758][825]MapCheck: Warning: LandscapeComponent_38 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.12:759][825]MapCheck: Warning: LandscapeComponent_39 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.12:760][825]MapCheck: Warning: LandscapeComponent_40 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.12:761][825]MapCheck: Warning: LandscapeComponent_41 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.12:761][825]MapCheck: Warning: LandscapeComponent_42 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.12:762][825]MapCheck: Warning: LandscapeComponent_43 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.12:763][825]MapCheck: Warning: LandscapeComponent_44 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.12:764][825]MapCheck: Warning: LandscapeComponent_45 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.12:765][825]MapCheck: Warning: LandscapeComponent_46 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.12:765][825]MapCheck: Warning: LandscapeComponent_47 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.12:766][825]MapCheck: Warning: LandscapeComponent_48 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.12:767][825]MapCheck: Warning: LandscapeComponent_49 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.12:768][825]MapCheck: Warning: LandscapeComponent_50 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.12:769][825]MapCheck: Warning: LandscapeComponent_51 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.12:770][825]MapCheck: Warning: LandscapeComponent_52 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.12:771][825]MapCheck: Warning: LandscapeComponent_53 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.12:772][825]MapCheck: Warning: LandscapeComponent_54 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.12:772][825]MapCheck: Warning: LandscapeComponent_55 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.12:773][825]MapCheck: Warning: LandscapeComponent_56 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.12:775][825]MapCheck: Warning: LandscapeComponent_57 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.12:776][825]MapCheck: Warning: LandscapeComponent_58 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.12:777][825]MapCheck: Warning: LandscapeComponent_59 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.12:777][825]MapCheck: Warning: LandscapeComponent_60 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.12:779][825]MapCheck: Warning: LandscapeComponent_61 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.12:780][825]MapCheck: Warning: LandscapeComponent_62 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.12:780][825]MapCheck: Warning: LandscapeComponent_63 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.12:781][825]MapCheck: Warning: LandscapeComponent_64 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.12:783][825]MapCheck: Warning: LandscapeComponent_65 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.12:784][825]MapCheck: Warning: LandscapeComponent_66 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.12:784][825]MapCheck: Warning: LandscapeComponent_67 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.12:785][825]MapCheck: Warning: LandscapeComponent_68 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.12:787][825]MapCheck: Warning: LandscapeComponent_69 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.12:788][825]MapCheck: Warning: LandscapeComponent_70 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.12:788][825]MapCheck: Warning: LandscapeComponent_71 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.12:789][825]MapCheck: Warning: LandscapeComponent_72 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.12:791][825]MapCheck: Warning: LandscapeComponent_73 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.12:791][825]MapCheck: Warning: LandscapeComponent_74 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.12:792][825]MapCheck: Warning: LandscapeComponent_75 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.12:793][825]MapCheck: Warning: LandscapeComponent_76 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.12:795][825]MapCheck: Warning: LandscapeComponent_77 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.12:796][825]MapCheck: Warning: LandscapeComponent_78 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.12:796][825]MapCheck: Warning: LandscapeComponent_79 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.12:797][825]MapCheck: Warning: LandscapeComponent_80 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.12:799][825]MapCheck: Warning: LandscapeComponent_81 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.12:800][825]MapCheck: Warning: LandscapeComponent_82 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.12:801][825]MapCheck: Warning: LandscapeComponent_83 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.12:801][825]MapCheck: Warning: LandscapeComponent_84 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.12:803][825]MapCheck: Warning: LandscapeComponent_85 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.12:812][825]MapCheck: Warning: LandscapeComponent_86 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.12:815][825]MapCheck: Warning: LandscapeComponent_87 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.12:816][825]MapCheck: Warning: LandscapeComponent_88 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.12:817][825]MapCheck: Warning: LandscapeComponent_89 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.12:817][825]MapCheck: Warning: LandscapeComponent_90 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.12:819][825]MapCheck: Warning: LandscapeComponent_91 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.12:820][825]MapCheck: Warning: LandscapeComponent_92 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.12:821][825]MapCheck: Warning: LandscapeComponent_93 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.12:821][825]MapCheck: Warning: LandscapeComponent_94 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.12:824][825]MapCheck: Warning: LandscapeComponent_95 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.12:825][825]MapCheck: Warning: LandscapeComponent_96 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.12:825][825]MapCheck: Warning: LandscapeComponent_97 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.12:826][825]MapCheck: Warning: LandscapeComponent_98 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.12:828][825]MapCheck: Warning: LandscapeComponent_99 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.12:829][825]MapCheck: Warning: LandscapeComponent_100 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.12:829][825]MapCheck: Warning: LandscapeComponent_101 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.12:833][825]MapCheck: Warning: LandscapeComponent_102 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.12:843][825]MapCheck: Warning: LandscapeComponent_103 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.12:848][825]MapCheck: Warning: LandscapeComponent_104 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.12:853][825]MapCheck: Warning: LandscapeComponent_105 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.12:854][825]MapCheck: Warning: LandscapeComponent_106 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.12:855][825]MapCheck: Warning: LandscapeComponent_107 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.12:856][825]MapCheck: Warning: LandscapeComponent_108 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.12:857][825]MapCheck: Warning: LandscapeComponent_109 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.12:858][825]MapCheck: Warning: LandscapeComponent_110 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.12:859][825]MapCheck: Warning: LandscapeComponent_111 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.12:862][825]MapCheck: Warning: LandscapeComponent_112 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.12:863][825]MapCheck: Warning: LandscapeComponent_113 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.12:864][825]MapCheck: Warning: LandscapeComponent_114 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.12:865][825]MapCheck: Warning: LandscapeComponent_115 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.12:866][825]MapCheck: Warning: LandscapeComponent_116 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.12:869][825]MapCheck: Warning: LandscapeComponent_117 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.12:875][825]MapCheck: Warning: LandscapeComponent_118 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.12:880][825]MapCheck: Warning: LandscapeComponent_119 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.12:881][825]LogShaderCompilers: Display: Shaders left to compile 35
+[2019.05.19-09.35.12:884][825]MapCheck: Warning: LandscapeComponent_120 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.12:889][825]MapCheck: Warning: LandscapeComponent_121 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.12:893][825]MapCheck: Warning: LandscapeComponent_122 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.12:894][825]MapCheck: Warning: LandscapeComponent_123 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.12:894][825]MapCheck: Warning: LandscapeComponent_124 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.12:895][825]MapCheck: Warning: LandscapeComponent_125 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.12:896][825]MapCheck: Warning: LandscapeComponent_126 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.12:897][825]MapCheck: Warning: LandscapeComponent_127 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.12:898][825]MapCheck: Warning: LandscapeComponent_128 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.12:900][825]MapCheck: Warning: LandscapeComponent_129 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.12:901][825]MapCheck: Warning: LandscapeComponent_130 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.12:902][825]MapCheck: Warning: LandscapeComponent_131 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.12:903][825]MapCheck: Warning: LandscapeComponent_132 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.12:906][825]MapCheck: Warning: LandscapeComponent_133 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.12:907][825]MapCheck: Warning: LandscapeComponent_134 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.12:910][825]MapCheck: Warning: LandscapeComponent_135 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.12:915][825]MapCheck: Warning: LandscapeComponent_136 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.12:919][825]MapCheck: Warning: LandscapeComponent_137 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.12:923][825]MapCheck: Warning: LandscapeComponent_138 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.12:924][825]MapCheck: Warning: LandscapeComponent_139 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.12:925][825]MapCheck: Warning: LandscapeComponent_140 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.12:926][825]MapCheck: Warning: LandscapeComponent_141 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.12:927][825]MapCheck: Warning: LandscapeComponent_142 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.12:928][825]MapCheck: Warning: LandscapeComponent_143 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.12:929][825]MapCheck: Warning: LandscapeComponent_144 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.12:930][825]MapCheck: Warning: LandscapeComponent_145 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.12:931][825]MapCheck: Warning: LandscapeComponent_146 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.12:932][825]MapCheck: Warning: LandscapeComponent_147 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.12:935][825]MapCheck: Warning: LandscapeComponent_148 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.12:937][825]MapCheck: Warning: LandscapeComponent_149 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.12:940][825]MapCheck: Warning: LandscapeComponent_150 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.12:943][825]MapCheck: Warning: LandscapeComponent_151 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.12:948][825]MapCheck: Warning: LandscapeComponent_152 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.12:952][825]MapCheck: Warning: LandscapeComponent_153 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.12:953][825]MapCheck: Warning: LandscapeComponent_154 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.12:953][825]MapCheck: Warning: LandscapeComponent_155 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.12:954][825]MapCheck: Warning: LandscapeComponent_156 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.12:957][825]MapCheck: Warning: LandscapeComponent_157 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.12:957][825]MapCheck: Warning: LandscapeComponent_158 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.12:958][825]MapCheck: Warning: LandscapeComponent_159 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.12:959][825]MapCheck: Warning: LandscapeComponent_160 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.12:961][825]MapCheck: Warning: LandscapeComponent_161 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.12:962][825]MapCheck: Warning: LandscapeComponent_162 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.12:963][825]MapCheck: Warning: LandscapeComponent_163 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.12:964][825]MapCheck: Warning: LandscapeComponent_164 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.12:965][825]MapCheck: Warning: LandscapeComponent_165 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.12:966][825]MapCheck: Warning: LandscapeComponent_166 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.12:967][825]MapCheck: Warning: LandscapeComponent_167 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.12:967][825]MapCheck: Warning: LandscapeComponent_168 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.12:969][825]MapCheck: Warning: LandscapeComponent_169 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.12:969][825]MapCheck: Warning: LandscapeComponent_170 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.12:970][825]MapCheck: Warning: LandscapeComponent_171 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.12:971][825]MapCheck: Warning: LandscapeComponent_172 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.12:973][825]MapCheck: Warning: LandscapeComponent_173 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.12:974][825]MapCheck: Warning: LandscapeComponent_174 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.12:975][825]MapCheck: Warning: LandscapeComponent_175 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.12:976][825]MapCheck: Warning: LandscapeComponent_176 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.12:978][825]MapCheck: Warning: LandscapeComponent_177 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.12:979][825]MapCheck: Warning: LandscapeComponent_178 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.12:980][825]MapCheck: Warning: LandscapeComponent_179 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.12:981][825]MapCheck: Warning: LandscapeComponent_180 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.12:983][825]MapCheck: Warning: LandscapeComponent_181 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.12:983][825]MapCheck: Warning: LandscapeComponent_182 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.12:984][825]MapCheck: Warning: LandscapeComponent_183 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.12:985][825]MapCheck: Warning: LandscapeComponent_184 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.12:986][825]MapCheck: Warning: LandscapeComponent_185 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.12:987][825]MapCheck: Warning: LandscapeComponent_186 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.12:988][825]MapCheck: Warning: LandscapeComponent_187 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.12:989][825]MapCheck: Warning: LandscapeComponent_188 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.12:991][825]MapCheck: Warning: LandscapeComponent_189 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.12:992][825]MapCheck: Warning: LandscapeComponent_190 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.12:994][825]MapCheck: Warning: LandscapeComponent_191 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.12:995][825]MapCheck: Warning: LandscapeComponent_192 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.12:996][825]MapCheck: Warning: LandscapeComponent_193 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.12:997][825]MapCheck: Warning: LandscapeComponent_194 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.12:998][825]MapCheck: Warning: LandscapeComponent_195 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.12:999][825]MapCheck: Warning: LandscapeComponent_196 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.13:001][825]MapCheck: Warning: LandscapeComponent_197 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.13:002][825]MapCheck: Warning: LandscapeComponent_198 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.13:003][825]MapCheck: Warning: LandscapeComponent_199 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.13:004][825]MapCheck: Warning: LandscapeComponent_200 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.13:006][825]MapCheck: Warning: LandscapeComponent_201 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.13:007][825]MapCheck: Warning: LandscapeComponent_202 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.13:008][825]MapCheck: Warning: LandscapeComponent_203 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.13:009][825]MapCheck: Warning: LandscapeComponent_204 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.13:012][825]MapCheck: Warning: LandscapeComponent_205 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.13:013][825]MapCheck: Warning: LandscapeComponent_206 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.13:014][825]MapCheck: Warning: LandscapeComponent_207 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.13:015][825]MapCheck: Warning: LandscapeComponent_208 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.13:016][825]MapCheck: Warning: LandscapeComponent_209 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.13:017][825]MapCheck: Warning: LandscapeComponent_210 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.13:017][825]MapCheck: Warning: LandscapeComponent_211 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.13:018][825]MapCheck: Warning: LandscapeComponent_212 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.13:020][825]MapCheck: Warning: LandscapeComponent_213 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.13:020][825]MapCheck: Warning: LandscapeComponent_214 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.13:021][825]MapCheck: Warning: LandscapeComponent_215 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.13:022][825]MapCheck: Warning: LandscapeComponent_216 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.13:024][825]MapCheck: Warning: LandscapeComponent_217 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.13:024][825]MapCheck: Warning: LandscapeComponent_218 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.13:025][825]MapCheck: Warning: LandscapeComponent_219 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.13:026][825]MapCheck: Warning: LandscapeComponent_220 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.13:028][825]MapCheck: Warning: LandscapeComponent_221 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.13:029][825]MapCheck: Warning: LandscapeComponent_222 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.13:030][825]MapCheck: Warning: LandscapeComponent_223 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.13:031][825]MapCheck: Warning: LandscapeComponent_224 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.13:032][825]MapCheck: Warning: LandscapeComponent_225 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.13:032][825]MapCheck: Warning: LandscapeComponent_226 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.13:033][825]MapCheck: Warning: LandscapeComponent_227 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.13:034][825]MapCheck: Warning: LandscapeComponent_228 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.13:035][825]MapCheck: Warning: LandscapeComponent_229 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.13:036][825]MapCheck: Warning: LandscapeComponent_230 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.13:037][825]MapCheck: Warning: LandscapeComponent_231 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.13:038][825]MapCheck: Warning: LandscapeComponent_232 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.13:039][825]MapCheck: Warning: LandscapeComponent_233 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.13:040][825]MapCheck: Warning: LandscapeComponent_234 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.13:041][825]MapCheck: Warning: LandscapeComponent_235 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.13:042][825]MapCheck: Warning: LandscapeComponent_236 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.13:044][825]MapCheck: Warning: LandscapeComponent_237 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.13:045][825]MapCheck: Warning: LandscapeComponent_238 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.13:045][825]MapCheck: Warning: LandscapeComponent_239 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.13:046][825]MapCheck: Warning: LandscapeComponent_240 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.13:048][825]MapCheck: Warning: LandscapeComponent_241 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.13:048][825]MapCheck: Warning: LandscapeComponent_242 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.13:049][825]MapCheck: Warning: LandscapeComponent_243 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.13:050][825]MapCheck: Warning: LandscapeComponent_244 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.13:052][825]MapCheck: Warning: LandscapeComponent_245 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.13:053][825]MapCheck: Warning: LandscapeComponent_246 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.13:054][825]MapCheck: Warning: LandscapeComponent_247 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.13:055][825]MapCheck: Warning: LandscapeComponent_248 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.13:057][825]MapCheck: Warning: LandscapeComponent_249 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.13:058][825]MapCheck: Warning: LandscapeComponent_250 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.13:058][825]MapCheck: Warning: LandscapeComponent_251 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.13:059][825]MapCheck: Warning: LandscapeComponent_252 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.13:060][825]MapCheck: Warning: LandscapeComponent_253 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.13:061][825]MapCheck: Warning: LandscapeComponent_254 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.13:062][825]MapCheck: Warning: LandscapeComponent_255 : Fixed up deleted layer weightmap 
+[2019.05.19-09.35.13:263][825]LogShaderCompilers: Display: Shaders left to compile 34
+[2019.05.19-09.35.13:533][825]LogShaderCompilers: Display: Shaders left to compile 33
+[2019.05.19-09.35.14:072][825]LogShaderCompilers: Display: Shaders left to compile 32
+[2019.05.19-09.35.14:344][825]LogShaderCompilers: Display: Shaders left to compile 31
+[2019.05.19-09.35.14:513][825]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.05.19-09.35.14:890][825]LogShaderCompilers: Display: Shaders left to compile 29
+[2019.05.19-09.35.14:933][825]LogAIModule: Creating AISystem for world LakeLevelNew
+[2019.05.19-09.35.15:108][825]LogShaderCompilers: Display: Shaders left to compile 28
+[2019.05.19-09.35.15:108][825]LogScript: Warning: Script Msg: Attempted to access index 15 from array 'BIrdSBP' of length 15 in '/Game/Blueprints/Bird/InsectsBirdsFish/Blueprints/NewFolder/BP_Bird_Spline1.BP_Bird_Spline1_C'!
+[2019.05.19-09.35.15:108][825]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	BP_Bird_Spline1_C /Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.BP_Bird_Spline1_34488
+	Function /Game/Blueprints/Bird/InsectsBirdsFish/Blueprints/NewFolder/BP_Bird_Spline1.BP_Bird_Spline1_C:UpdateBird:027F
+[2019.05.19-09.35.15:109][825]LogScript: Warning: Script Msg: Attempted to access index 16 from array 'BIrdSBP' of length 15 in '/Game/Blueprints/Bird/InsectsBirdsFish/Blueprints/NewFolder/BP_Bird_Spline1.BP_Bird_Spline1_C'!
+[2019.05.19-09.35.15:109][825]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	BP_Bird_Spline1_C /Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.BP_Bird_Spline1_34488
+	Function /Game/Blueprints/Bird/InsectsBirdsFish/Blueprints/NewFolder/BP_Bird_Spline1.BP_Bird_Spline1_C:UpdateBird:027F
+[2019.05.19-09.35.15:109][825]LogScript: Warning: Script Msg: Attempted to access index 17 from array 'BIrdSBP' of length 15 in '/Game/Blueprints/Bird/InsectsBirdsFish/Blueprints/NewFolder/BP_Bird_Spline1.BP_Bird_Spline1_C'!
+[2019.05.19-09.35.15:109][825]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	BP_Bird_Spline1_C /Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.BP_Bird_Spline1_34488
+	Function /Game/Blueprints/Bird/InsectsBirdsFish/Blueprints/NewFolder/BP_Bird_Spline1.BP_Bird_Spline1_C:UpdateBird:027F
+[2019.05.19-09.35.15:109][825]LogScript: Warning: Script Msg: Attempted to access index 18 from array 'BIrdSBP' of length 15 in '/Game/Blueprints/Bird/InsectsBirdsFish/Blueprints/NewFolder/BP_Bird_Spline1.BP_Bird_Spline1_C'!
+[2019.05.19-09.35.15:109][825]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	BP_Bird_Spline1_C /Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.BP_Bird_Spline1_34488
+	Function /Game/Blueprints/Bird/InsectsBirdsFish/Blueprints/NewFolder/BP_Bird_Spline1.BP_Bird_Spline1_C:UpdateBird:027F
+[2019.05.19-09.35.15:109][825]LogScript: Warning: Script Msg: Attempted to access index 19 from array 'BIrdSBP' of length 15 in '/Game/Blueprints/Bird/InsectsBirdsFish/Blueprints/NewFolder/BP_Bird_Spline1.BP_Bird_Spline1_C'!
+[2019.05.19-09.35.15:109][825]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	BP_Bird_Spline1_C /Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.BP_Bird_Spline1_34488
+	Function /Game/Blueprints/Bird/InsectsBirdsFish/Blueprints/NewFolder/BP_Bird_Spline1.BP_Bird_Spline1_C:UpdateBird:027F
+[2019.05.19-09.35.15:272][825]LogAssetEditorManager: Opening Asset editor for World /Game/Terrain/4/LakeLevelNew.LakeLevelNew
+[2019.05.19-09.35.15:328][825]Cmd: MAP LOAD FILE="C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Content/Terrain/4/LakeLevelNew.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.05.19-09.35.15:328][825]LightingResults: New page: Lighting Build
+[2019.05.19-09.35.15:329][825]LoadErrors: New page: Loading map: LakeLevelNew.umap
+[2019.05.19-09.35.15:345][825]MapCheck: New page: Map Check
+[2019.05.19-09.35.15:345][825]LightingResults: New page: Lighting Build
+[2019.05.19-09.35.15:921][825]LogShaderCompilers: Display: Shaders left to compile 27
+[2019.05.19-09.35.15:921][825]LogScript: Warning: Script Msg: Attempted to access index 15 from array 'BIrdSBP' of length 15 in '/Game/Blueprints/Bird/InsectsBirdsFish/Blueprints/NewFolder/BP_Bird_Spline1.BP_Bird_Spline1_C'!
+[2019.05.19-09.35.15:921][825]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	BP_Bird_Spline1_C /Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.BP_Bird_Spline1_34488
+	Function /Game/Blueprints/Bird/InsectsBirdsFish/Blueprints/NewFolder/BP_Bird_Spline1.BP_Bird_Spline1_C:UpdateBird:027F
+[2019.05.19-09.35.15:921][825]LogScript: Warning: Script Msg: Attempted to access index 16 from array 'BIrdSBP' of length 15 in '/Game/Blueprints/Bird/InsectsBirdsFish/Blueprints/NewFolder/BP_Bird_Spline1.BP_Bird_Spline1_C'!
+[2019.05.19-09.35.15:921][825]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	BP_Bird_Spline1_C /Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.BP_Bird_Spline1_34488
+	Function /Game/Blueprints/Bird/InsectsBirdsFish/Blueprints/NewFolder/BP_Bird_Spline1.BP_Bird_Spline1_C:UpdateBird:027F
+[2019.05.19-09.35.15:921][825]LogScript: Warning: Script Msg: Attempted to access index 17 from array 'BIrdSBP' of length 15 in '/Game/Blueprints/Bird/InsectsBirdsFish/Blueprints/NewFolder/BP_Bird_Spline1.BP_Bird_Spline1_C'!
+[2019.05.19-09.35.15:921][825]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	BP_Bird_Spline1_C /Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.BP_Bird_Spline1_34488
+	Function /Game/Blueprints/Bird/InsectsBirdsFish/Blueprints/NewFolder/BP_Bird_Spline1.BP_Bird_Spline1_C:UpdateBird:027F
+[2019.05.19-09.35.15:921][825]LogScript: Warning: Script Msg: Attempted to access index 18 from array 'BIrdSBP' of length 15 in '/Game/Blueprints/Bird/InsectsBirdsFish/Blueprints/NewFolder/BP_Bird_Spline1.BP_Bird_Spline1_C'!
+[2019.05.19-09.35.15:921][825]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	BP_Bird_Spline1_C /Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.BP_Bird_Spline1_34488
+	Function /Game/Blueprints/Bird/InsectsBirdsFish/Blueprints/NewFolder/BP_Bird_Spline1.BP_Bird_Spline1_C:UpdateBird:027F
+[2019.05.19-09.35.15:921][825]LogScript: Warning: Script Msg: Attempted to access index 19 from array 'BIrdSBP' of length 15 in '/Game/Blueprints/Bird/InsectsBirdsFish/Blueprints/NewFolder/BP_Bird_Spline1.BP_Bird_Spline1_C'!
+[2019.05.19-09.35.15:921][825]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	BP_Bird_Spline1_C /Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.BP_Bird_Spline1_34488
+	Function /Game/Blueprints/Bird/InsectsBirdsFish/Blueprints/NewFolder/BP_Bird_Spline1.BP_Bird_Spline1_C:UpdateBird:027F
+[2019.05.19-09.35.17:490][825]LogShaderCompilers: Display: Shaders left to compile 26
+[2019.05.19-09.35.17:490][825]LogShaderCompilers: Display: Shaders left to compile 25
+[2019.05.19-09.35.17:490][825]LogShaderCompilers: Display: Shaders left to compile 24
+[2019.05.19-09.35.17:490][825]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.05.19-09.35.17:490][825]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.05.19-09.35.17:498][825]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.05.19-09.35.22:024][825]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.05.19-09.35.22:024][825]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.05.19-09.35.22:024][825]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.05.19-09.35.22:024][825]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.05.19-09.35.22:024][825]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.05.19-09.35.22:024][825]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.05.19-09.35.22:024][825]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.05.19-09.35.22:024][825]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.05.19-09.35.22:024][825]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.05.19-09.35.22:024][825]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.05.19-09.35.22:024][825]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.05.19-09.35.22:024][825]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.05.19-09.35.22:024][825]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.05.19-09.35.22:024][825]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.05.19-09.35.22:024][825]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.05.19-09.35.22:024][825]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.05.19-09.35.22:024][825]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.05.19-09.35.22:024][825]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.05.19-09.35.22:024][825]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.05.19-09.35.22:025][825]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.05.19-09.35.22:025][825]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.05.19-09.35.22:025][825]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.05.19-09.35.22:626][825]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 601.689ms to complete.
+[2019.05.19-09.35.22:629][825]LogFileHelpers: Loading map 'LakeLevelNew' took 7.303
+[2019.05.19-09.35.48:897][305]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.19-09.36.16:580][842]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/Terrain/MMMM_/xf-2-54/6_lotus/lotus.lotus
+[2019.05.19-09.36.17:101][843]LogRenderer: Reallocating scene render targets to support 1432x964 Format 10 NumSamples 1 (Frame:1).
+[2019.05.19-09.36.19:028][902]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/Terrain/MMMM_/xf-2-54/6_lotus/lotus_leaf_big.lotus_leaf_big
+[2019.05.19-09.36.20:743][939]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/Terrain/MMMM_/xf-2-54/6_lotus/aqua_plant_2.aqua_plant_2
+[2019.05.19-09.36.24:284][ 31]LogSlate: Window 'aqua_plant_2' being destroyed
+[2019.05.19-09.36.25:507][ 66]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/Terrain/MMMM_/xf-2-54/6_lotus/aqua_plant_1.aqua_plant_1
+[2019.05.19-09.36.33:161][400]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/Terrain/MMMM_/xf-2-54/6_lotus/lotus_leaf_middle.lotus_leaf_middle
+[2019.05.19-09.36.35:825][465]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/Terrain/MMMM_/xf-2-54/6_lotus/lotus_leaf_small.lotus_leaf_small
+[2019.05.19-09.37.01:102][976]LogAssetEditorManager: Opening Asset editor for MaterialInstanceConstant /Game/Terrain/MMMM_/xf-2-54/6_lotus/aqua_plant_1_BAM.aqua_plant_1_BAM
+[2019.05.19-09.37.03:174][ 15]LogSlate: Window 'aqua_plant_1_BAM' being destroyed
+[2019.05.19-09.37.04:168][ 44]LogAssetEditorManager: Opening Asset editor for MaterialInstanceConstant /Game/Terrain/MMMM_/xf-2-54/6_lotus/aqua_plant_2_BAM.aqua_plant_2_BAM
+[2019.05.19-09.37.06:265][103]LogAssetEditorManager: Opening Asset editor for MaterialInstanceConstant /Game/Terrain/MMMM_/xf-2-54/6_lotus/lotus_leaf_big_BAM.lotus_leaf_big_BAM
+[2019.05.19-09.37.07:969][152]LogAssetEditorManager: Opening Asset editor for MaterialInstanceConstant /Game/Terrain/MMMM_/xf-2-54/6_lotus/lotus_leaf_middle_BAM.lotus_leaf_middle_BAM
+[2019.05.19-09.37.10:069][214]LogAssetEditorManager: Opening Asset editor for MaterialInstanceConstant /Game/Terrain/MMMM_/xf-2-54/6_lotus/lotus_leaf_small_BAM.lotus_leaf_small_BAM
+[2019.05.19-09.37.15:580][518]LogMaterial: Display: Missing cached shader map for material M_BAM, compiling. 
+[2019.05.19-09.37.15:625][518]LogShaderCompilers: Display: Shaders left to compile 89
+[2019.05.19-09.37.15:625][518]LogShaderCompilers: Display: Shaders left to compile 79
+[2019.05.19-09.37.15:625][518]LogShaderCompilers: Display: Shaders left to compile 69
+[2019.05.19-09.37.15:625][518]LogShaderCompilers: Display: Shaders left to compile 59
+[2019.05.19-09.37.18:652][683]LogShaderCompilers: Display: Shaders left to compile 49
+[2019.05.19-09.37.20:699][805]LogShaderCompilers: Display: Shaders left to compile 39
+[2019.05.19-09.37.20:812][811]LogShaderCompilers: Display: Shaders left to compile 29
+[2019.05.19-09.37.21:485][848]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.05.19-09.37.22:069][867]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.05.19-09.37.22:890][887]LogAssetEditorManager: Opening Asset editor for MaterialInstanceConstant /Game/Terrain/MMMM_/M_BAM_Light.M_BAM_Light
+[2019.05.19-09.37.46:253][ 49]LogAssetEditorManager: Opening Asset editor for MaterialInstanceConstant /Game/Terrain/MMMM_/xf-2-54/6_lotus/lotus_BAM.lotus_BAM
+[2019.05.19-09.37.52:457][117]LogSlate: Window 'Message' being destroyed
+[2019.05.19-09.38.07:597][630]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.19-09.38.15:296][938]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Terrain/MMMM_/xf-2-54/6_lotus/M_BAM_Light_2" FILE="C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Content/Terrain/MMMM_/xf-2-54/6_lotus/M_BAM_Light_2.uasset" SILENT=true
+[2019.05.19-09.38.15:330][938]LogSavePackage: Moving 'C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Saved/M_BAM_Light_2D8F2AAEB45CE62C32F8B9FBEE7F128B8.tmp' to 'C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Content/Terrain/MMMM_/xf-2-54/6_lotus/M_BAM_Light_2.uasset'
+[2019.05.19-09.38.26:535][171]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Terrain/MMMM_/xf-2-54/6_lotus/lotus_BAM_M" FILE="C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Content/Terrain/MMMM_/xf-2-54/6_lotus/lotus_BAM_M.uasset" SILENT=true
+[2019.05.19-09.38.26:563][171]LogSavePackage: Moving 'C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Saved/lotus_BAM_M501261FC43E0DCE55C35CC88D5EA8445.tmp' to 'C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Content/Terrain/MMMM_/xf-2-54/6_lotus/lotus_BAM_M.uasset'
+[2019.05.19-09.38.28:276][192]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/Terrain/MMMM_/xf-2-54/6_lotus/lotus.lotus
+[2019.05.19-09.38.36:181][517]LogAssetEditorManager: Opening Asset editor for MaterialInstanceConstant /Game/Terrain/MMMM_/xf-2-54/6_lotus/lotus_BAM_M.lotus_BAM_M
+[2019.05.19-09.40.19:219][626]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.19-09.40.30:516][187]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.19-09.40.50:671][ 10]LogAssetEditorManager: Opening Asset editor for Material /Game/Terrain/MMMM_/M_BAM.M_BAM
+[2019.05.19-09.40.50:676][ 10]LogMaterial: Display: Missing cached shader map for material M_BAM, compiling. 
+[2019.05.19-09.40.50:826][ 10]LogMaterial: Display: Missing cached shader map for material M_BAM, compiling. 
+[2019.05.19-09.40.50:849][ 10]LogMaterial: Display: Missing cached shader map for material M_BAM, compiling. 
+[2019.05.19-09.40.50:893][ 10]LogShaderCompilers: Display: Shaders left to compile 46
+[2019.05.19-09.40.50:893][ 10]LogShaderCompilers: Display: Shaders left to compile 45
+[2019.05.19-09.40.50:893][ 10]LogShaderCompilers: Display: Shaders left to compile 44
+[2019.05.19-09.40.50:893][ 10]LogShaderCompilers: Display: Shaders left to compile 43
+[2019.05.19-09.40.50:905][ 10]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_1, compiling. 
+[2019.05.19-09.40.50:911][ 10]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0, compiling. 
+[2019.05.19-09.40.50:918][ 10]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.05.19-09.40.51:835][ 45]LogShaderCompilers: Display: Shaders left to compile 48
+[2019.05.19-09.40.52:082][ 56]LogShaderCompilers: Display: Shaders left to compile 47
+[2019.05.19-09.40.52:141][ 59]LogShaderCompilers: Display: Shaders left to compile 46
+[2019.05.19-09.40.52:141][ 59]LogShaderCompilers: Display: Shaders left to compile 45
+[2019.05.19-09.40.52:175][ 61]LogShaderCompilers: Display: Shaders left to compile 44
+[2019.05.19-09.40.52:417][ 73]LogShaderCompilers: Display: Shaders left to compile 43
+[2019.05.19-09.40.52:499][ 77]LogShaderCompilers: Display: Shaders left to compile 42
+[2019.05.19-09.40.52:533][ 79]LogShaderCompilers: Display: Shaders left to compile 41
+[2019.05.19-09.40.52:605][ 83]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.05.19-09.40.52:767][ 91]LogShaderCompilers: Display: Shaders left to compile 39
+[2019.05.19-09.40.52:966][100]LogShaderCompilers: Display: Shaders left to compile 38
+[2019.05.19-09.40.53:008][102]LogShaderCompilers: Display: Shaders left to compile 37
+[2019.05.19-09.40.53:095][106]LogShaderCompilers: Display: Shaders left to compile 36
+[2019.05.19-09.40.53:183][111]LogShaderCompilers: Display: Shaders left to compile 35
+[2019.05.19-09.40.53:341][120]LogShaderCompilers: Display: Shaders left to compile 34
+[2019.05.19-09.40.53:496][128]LogShaderCompilers: Display: Shaders left to compile 33
+[2019.05.19-09.40.53:525][130]LogShaderCompilers: Display: Shaders left to compile 32
+[2019.05.19-09.40.53:619][135]LogShaderCompilers: Display: Shaders left to compile 31
+[2019.05.19-09.40.53:828][146]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.05.19-09.40.53:849][147]LogShaderCompilers: Display: Shaders left to compile 29
+[2019.05.19-09.40.54:122][161]LogShaderCompilers: Display: Shaders left to compile 28
+[2019.05.19-09.40.54:176][164]LogShaderCompilers: Display: Shaders left to compile 27
+[2019.05.19-09.40.54:211][166]LogShaderCompilers: Display: Shaders left to compile 26
+[2019.05.19-09.40.54:230][167]LogShaderCompilers: Display: Shaders left to compile 25
+[2019.05.19-09.40.54:456][180]LogShaderCompilers: Display: Shaders left to compile 24
+[2019.05.19-09.40.54:484][182]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.05.19-09.40.54:502][183]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.05.19-09.40.54:534][185]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.05.19-09.40.54:737][197]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.05.19-09.40.54:954][208]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.05.19-09.40.55:225][222]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.05.19-09.40.55:242][223]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.05.19-09.40.55:430][233]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.05.19-09.40.55:623][243]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.05.19-09.40.55:739][249]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.05.19-09.40.56:051][266]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.05.19-09.40.56:089][268]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.05.19-09.40.56:348][282]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.05.19-09.40.56:540][292]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.05.19-09.40.56:577][294]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.05.19-09.40.56:653][298]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.05.19-09.40.56:924][313]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.05.19-09.40.56:943][314]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.05.19-09.40.57:135][325]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.05.19-09.40.57:334][337]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.05.19-09.40.57:391][340]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.05.19-09.40.57:420][341]MaterialEditorStats: Base pass shader: 117 instructions
+[2019.05.19-09.40.57:421][341]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2019.05.19-09.40.57:421][341]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2019.05.19-09.40.57:421][341]MaterialEditorStats: Texture samplers: 5/16
+[2019.05.19-09.40.57:421][341]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2019.05.19-09.40.57:421][341]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.05.19-09.40.57:474][344]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.05.19-09.40.57:545][348]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.05.19-09.41.08:643][669]LogMaterial: Display: Missing cached shader map for material M_BAM_2, compiling. 
+[2019.05.19-09.41.08:706][669]LogShaderCompilers: Display: Shaders left to compile 89
+[2019.05.19-09.41.08:706][669]LogShaderCompilers: Display: Shaders left to compile 79
+[2019.05.19-09.41.08:706][669]LogShaderCompilers: Display: Shaders left to compile 69
+[2019.05.19-09.41.08:706][669]LogShaderCompilers: Display: Shaders left to compile 59
+[2019.05.19-09.41.11:223][802]LogShaderCompilers: Display: Shaders left to compile 49
+[2019.05.19-09.41.12:560][877]LogShaderCompilers: Display: Shaders left to compile 39
+[2019.05.19-09.41.12:760][889]LogShaderCompilers: Display: Shaders left to compile 29
+[2019.05.19-09.41.17:535][931]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.05.19-09.41.17:535][931]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.05.19-09.41.17:565][931]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Terrain/MMMM_/xf-2-54/6_lotus/M_BAM_2" FILE="C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Content/Terrain/MMMM_/xf-2-54/6_lotus/M_BAM_2.uasset" SILENT=true
+[2019.05.19-09.41.17:605][931]LogSavePackage: Moving 'C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Saved/M_BAM_275AF094C4851E25587FAC08A57215282.tmp' to 'C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Content/Terrain/MMMM_/xf-2-54/6_lotus/M_BAM_2.uasset'
+[2019.05.19-09.41.37:700][418]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Terrain/MMMM_/xf-2-54/6_lotus/lotus_M" FILE="C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Content/Terrain/MMMM_/xf-2-54/6_lotus/lotus_M.uasset" SILENT=true
+[2019.05.19-09.41.37:741][418]LogSavePackage: Moving 'C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Saved/lotus_M951BFC7943ED4AC41A87088A8F455DDC.tmp' to 'C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Content/Terrain/MMMM_/xf-2-54/6_lotus/lotus_M.uasset'
+[2019.05.19-09.41.48:314][831]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy lotus_BAM_M, compiling. 
+[2019.05.19-09.41.48:982][831]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.05.19-09.41.48:985][831]TextureStreamingBuild: Display: Compiling optional shaders took 0.678 seconds.
+[2019.05.19-09.41.51:887][983]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy aqua_plant_1_BAM, compiling. 
+[2019.05.19-09.41.52:160][983]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.05.19-09.41.52:162][983]TextureStreamingBuild: Display: Compiling optional shaders took 0.283 seconds.
+[2019.05.19-09.41.52:636][995]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy aqua_plant_2_BAM, compiling. 
+[2019.05.19-09.41.52:895][995]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.05.19-09.41.52:899][995]TextureStreamingBuild: Display: Compiling optional shaders took 0.268 seconds.
+[2019.05.19-09.41.53:394][  8]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy lotus_leaf_big_BAM, compiling. 
+[2019.05.19-09.41.53:641][  8]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.05.19-09.41.53:643][  8]TextureStreamingBuild: Display: Compiling optional shaders took 0.254 seconds.
+[2019.05.19-09.41.54:130][ 14]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy lotus_leaf_middle_BAM, compiling. 
+[2019.05.19-09.41.54:381][ 14]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.05.19-09.41.54:386][ 14]TextureStreamingBuild: Display: Compiling optional shaders took 0.259 seconds.
+[2019.05.19-09.41.54:925][ 18]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy lotus_leaf_small_BAM, compiling. 
+[2019.05.19-09.41.55:162][ 18]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.05.19-09.41.55:166][ 18]TextureStreamingBuild: Display: Compiling optional shaders took 0.246 seconds.
+[2019.05.19-09.41.55:782][ 26]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy lotus_BAM, compiling. 
+[2019.05.19-09.41.56:031][ 26]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.05.19-09.41.56:036][ 26]TextureStreamingBuild: Display: Compiling optional shaders took 0.260 seconds.
+[2019.05.19-09.42.00:407][137]LogAssetEditorManager: Opening Asset editor for Material /Game/Terrain/MMMM_/xf-2-54/6_lotus/lotus_M.lotus_M
+[2019.05.19-09.42.00:411][137]LogMaterial: Display: Missing cached shader map for material lotus_M, compiling. 
+[2019.05.19-09.42.00:601][137]LogMaterial: Display: Missing cached shader map for material lotus_M, compiling. 
+[2019.05.19-09.42.00:634][137]LogMaterial: Display: Missing cached shader map for material lotus_M, compiling. 
+[2019.05.19-09.42.00:666][137]LogShaderCompilers: Display: Shaders left to compile 46
+[2019.05.19-09.42.00:666][137]LogShaderCompilers: Display: Shaders left to compile 45
+[2019.05.19-09.42.00:666][137]LogShaderCompilers: Display: Shaders left to compile 44
+[2019.05.19-09.42.00:666][137]LogShaderCompilers: Display: Shaders left to compile 43
+[2019.05.19-09.42.00:692][137]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_1, compiling. 
+[2019.05.19-09.42.00:700][137]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0, compiling. 
+[2019.05.19-09.42.00:706][137]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.05.19-09.42.01:030][141]LogShaderCompilers: Display: Shaders left to compile 48
+[2019.05.19-09.42.01:294][143]LogShaderCompilers: Display: Shaders left to compile 47
+[2019.05.19-09.42.01:742][150]LogShaderCompilers: Display: Shaders left to compile 46
+[2019.05.19-09.42.01:767][151]LogShaderCompilers: Display: Shaders left to compile 45
+[2019.05.19-09.42.01:788][151]LogShaderCompilers: Display: Shaders left to compile 44
+[2019.05.19-09.42.01:841][152]LogShaderCompilers: Display: Shaders left to compile 43
+[2019.05.19-09.42.02:048][156]LogShaderCompilers: Display: Shaders left to compile 42
+[2019.05.19-09.42.02:142][158]LogShaderCompilers: Display: Shaders left to compile 41
+[2019.05.19-09.42.02:175][158]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.05.19-09.42.02:212][159]LogShaderCompilers: Display: Shaders left to compile 39
+[2019.05.19-09.42.02:240][159]LogSlate: Window 'lotus_M' being destroyed
+[2019.05.19-09.42.02:304][159]LogSlate: Window 'lotus_M' being destroyed
+[2019.05.19-09.42.02:357][159]LogShaderCompilers: Display: Shaders left to compile 32
+[2019.05.19-09.42.02:457][160]LogShaderCompilers: Display: Shaders left to compile 31
+[2019.05.19-09.42.02:473][161]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.05.19-09.42.02:519][163]LogShaderCompilers: Display: Shaders left to compile 29
+[2019.05.19-09.42.02:656][166]LogShaderCompilers: Display: Shaders left to compile 28
+[2019.05.19-09.42.02:792][168]LogShaderCompilers: Display: Shaders left to compile 27
+[2019.05.19-09.42.02:819][169]LogShaderCompilers: Display: Shaders left to compile 26
+[2019.05.19-09.42.02:843][169]LogShaderCompilers: Display: Shaders left to compile 25
+[2019.05.19-09.42.03:156][174]LogShaderCompilers: Display: Shaders left to compile 24
+[2019.05.19-09.42.03:156][174]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.05.19-09.42.03:194][174]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.05.19-09.42.03:339][179]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.05.19-09.42.03:415][179]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/Terrain/MMMM_/xf-2-54/6_lotus/lotus.lotus
+[2019.05.19-09.42.03:443][179]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.05.19-09.42.03:659][179]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.05.19-09.42.03:659][179]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.05.19-09.42.03:659][179]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.05.19-09.42.03:798][179]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.05.19-09.42.03:798][179]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.05.19-09.42.03:874][179]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.05.19-09.42.04:180][195]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.05.19-09.42.04:327][204]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.05.19-09.42.04:505][210]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.05.19-09.42.04:519][210]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.05.19-09.42.04:803][215]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.05.19-09.42.04:861][216]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.05.19-09.42.05:193][222]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.05.19-09.42.05:249][223]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.05.19-09.42.05:382][225]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.05.19-09.42.05:455][226]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.05.19-09.42.05:742][231]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.05.19-09.42.05:858][231]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.05.19-09.42.06:048][237]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.05.19-09.42.06:117][237]LogAssetEditorManager: Opening Asset editor for MaterialInstanceConstant /Game/Terrain/MMMM_/xf-2-54/6_lotus/lotus_M_Inst.lotus_M_Inst
+[2019.05.19-09.42.14:754][367]LogMaterial: Display: Missing cached shader map for material lotus_M, compiling. 
+[2019.05.19-09.42.14:823][367]LogShaderCompilers: Display: Shaders left to compile 89
+[2019.05.19-09.42.14:823][367]LogShaderCompilers: Display: Shaders left to compile 79
+[2019.05.19-09.42.14:823][367]LogShaderCompilers: Display: Shaders left to compile 69
+[2019.05.19-09.42.14:823][367]LogShaderCompilers: Display: Shaders left to compile 59
+[2019.05.19-09.42.17:127][405]LogShaderCompilers: Display: Shaders left to compile 49
+[2019.05.19-09.42.17:629][414]LogShaderCompilers: Display: Shaders left to compile 39
+[2019.05.19-09.42.17:713][416]LogShaderCompilers: Display: Shaders left to compile 29
+[2019.05.19-09.42.19:313][441]LogMaterial: Display: Missing cached shader map for material lotus_M, compiling. 
+[2019.05.19-09.42.20:049][450]LogShaderCompilers: Display: Shaders left to compile 108
+[2019.05.19-09.42.20:642][461]LogShaderCompilers: Display: Shaders left to compile 98
+[2019.05.19-09.42.20:662][462]LogShaderCompilers: Display: Shaders left to compile 88
+[2019.05.19-09.42.20:796][468]LogShaderCompilers: Display: Shaders left to compile 78
+[2019.05.19-09.42.23:174][533]LogShaderCompilers: Display: Shaders left to compile 68
+[2019.05.19-09.42.24:260][552]LogShaderCompilers: Display: Shaders left to compile 58
+[2019.05.19-09.42.24:663][559]LogShaderCompilers: Display: Shaders left to compile 48
+[2019.05.19-09.42.25:380][560]LogShaderCompilers: Display: Shaders left to compile 38
+[2019.05.19-09.42.27:138][564]LogShaderCompilers: Display: Shaders left to compile 28
+[2019.05.19-09.42.27:972][588]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.05.19-09.42.28:483][615]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.05.19-09.42.32:823][738]LogWindows: Windows GetLastError: 操作成功完成。 (0)
+[2019.05.19-09.42.42:374][738]LogWindows: Windows GetLastError: 操作成功完成。 (0)
+[2019.05.19-09.42.42:432][738]LogWindows: Error: === Critical error: ===
+[2019.05.19-09.42.42:432][738]LogWindows: Error: 
+[2019.05.19-09.42.42:432][738]LogWindows: Error: Fatal error: [File:D:\Build\++UE4\Sync\Engine\Source\Runtime\RenderCore\Private\RenderingThread.cpp] [Line: 826] 
+[2019.05.19-09.42.42:432][738]LogWindows: Error: Rendering thread exception:
+[2019.05.19-09.42.42:432][738]LogWindows: Error: Assertion failed: bValid || !bFailOnInvalid [File:d:\build\++ue4\sync\engine\source\runtime\engine\public\MaterialShared.h] [Line: 868] 
+[2019.05.19-09.42.42:432][738]LogWindows: Error: FMaterialShaderMap lotus_M invalid for rendering: bCompilationFinalized: 1, bCompiledSuccessfully: 1, bDeletedThroughDeferredCleanup: 1
+[2019.05.19-09.42.42:432][738]LogWindows: Error: 
+[2019.05.19-09.42.42:432][738]LogWindows: Error: 
+[2019.05.19-09.42.42:432][738]LogWindows: Error: [Callstack] 0x00007ff81afba388 KERNELBASE.dll!UnknownFunction []
+[2019.05.19-09.42.42:432][738]LogWindows: Error: [Callstack] 0x00007ff811806850 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.05.19-09.42.42:432][738]LogWindows: Error: [Callstack] 0x00007fffe84b62fc UE4Editor-Core.dll!UnknownFunction []
+[2019.05.19-09.42.42:432][738]LogWindows: Error: [Callstack] 0x00007fffe84451db UE4Editor-Core.dll!UnknownFunction []
+[2019.05.19-09.42.42:432][738]LogWindows: Error: [Callstack] 0x00007fffcf26e94d UE4Editor-Renderer.dll!UnknownFunction []
+[2019.05.19-09.42.42:432][738]LogWindows: Error: [Callstack] 0x00007fffcf21aee8 UE4Editor-Renderer.dll!UnknownFunction []
+[2019.05.19-09.42.42:432][738]LogWindows: Error: [Callstack] 0x00007fffcecb2fa3 UE4Editor-Renderer.dll!UnknownFunction []
+[2019.05.19-09.42.42:432][738]LogWindows: Error: [Callstack] 0x00007fffcec51394 UE4Editor-Renderer.dll!UnknownFunction []
+[2019.05.19-09.42.42:432][738]LogWindows: Error: [Callstack] 0x00007fffcec535a5 UE4Editor-Renderer.dll!UnknownFunction []
+[2019.05.19-09.42.42:432][738]LogWindows: Error: [Callstack] 0x00007fffcec7b10e UE4Editor-Renderer.dll!UnknownFunction []
+[2019.05.19-09.42.42:433][738]LogWindows: Error: [Callstack] 0x00007fffceca31f0 UE4Editor-Renderer.dll!UnknownFunction []
+[2019.05.19-09.42.42:433][738]LogWindows: Error: [Callstack] 0x00007fffceca21d9 UE4Editor-Renderer.dll!UnknownFunction []
+[2019.05.19-09.42.42:433][738]LogWindows: Error: [Callstack] 0x00007fffcec98ba8 UE4Editor-Renderer.dll!UnknownFunction []
+[2019.05.19-09.42.42:433][738]LogWindows: Error: [Callstack] 0x00007fffcf1c6982 UE4Editor-Renderer.dll!UnknownFunction []
+[2019.05.19-09.42.42:433][738]LogWindows: Error: [Callstack] 0x00007fffcf198fb2 UE4Editor-Renderer.dll!UnknownFunction []
+[2019.05.19-09.42.42:433][738]LogWindows: Error: [Callstack] 0x00007fffe82d1f92 UE4Editor-Core.dll!UnknownFunction []
+[2019.05.19-09.42.42:433][738]LogWindows: Error: [Callstack] 0x00007fffe82d2456 UE4Editor-Core.dll!UnknownFunction []
+[2019.05.19-09.42.42:433][738]LogWindows: Error: [Callstack] 0x00007ff811c475f9 UE4Editor-RenderCore.dll!UnknownFunction []
+[2019.05.19-09.42.42:433][738]LogWindows: Error: [Callstack] 0x00007ff811c48574 UE4Editor-RenderCore.dll!UnknownFunction []
+[2019.05.19-09.42.42:433][738]LogWindows: Error: [Callstack] 0x00007fffe8716b7c UE4Editor-Core.dll!UnknownFunction []
+[2019.05.19-09.42.42:433][738]LogWindows: Error: [Callstack] 0x00007fffe87117c7 UE4Editor-Core.dll!UnknownFunction []
+[2019.05.19-09.42.42:433][738]LogWindows: Error: [Callstack] 0x00007ff81bf14034 KERNEL32.DLL!UnknownFunction []
+[2019.05.19-09.42.42:433][738]LogWindows: Error: [Callstack] 0x00007ff81e703691 ntdll.dll!UnknownFunction []
+[2019.05.19-09.42.42:433][738]LogWindows: Error: 
+[2019.05.19-09.42.42:433][738]LogWindows: Error: 
+[2019.05.19-09.42.42:433][738]LogWindows: Error: 
+[2019.05.19-09.42.42:433][738]LogWindows: Error: 
+[2019.05.19-09.42.42:458][738]LogExit: Executing StaticShutdownAfterError
+[2019.05.19-09.42.42:477][738]LogWindows: FPlatformMisc::RequestExit(1)
+[2019.05.19-09.42.42:526][738]Log file closed, 05/19/19 17:42:42

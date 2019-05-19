@@ -1,0 +1,20 @@
+Begin Object Class=/Script/Engine.MaterialInstanceConstant Name="M_BAM_Light"
+   Begin Object Class=/Script/UnrealEd.SceneThumbnailInfoWithPrimitive Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   Begin Object Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   ParameterStateId=C72C9450470CB2D31A2ED59949C98952
+   Parent=Material'"/Game/Terrain/MMMM_/M_BAM.M_BAM"'
+   bHasStaticPermutationResource=True
+   ScalarParameterValues(0)=(ParameterInfo=(Name="Emissive Scaler"),ParameterValue=1.576141,ExpressionGUID=9C71DC744ED616D51ADC30B97C281765)
+   ScalarParameterValues(1)=(ParameterInfo=(Name="Fresnel Base"),ParameterValue=0.090476,ExpressionGUID=A2476141472F0BD94DFDDE9849288EC0)
+   ScalarParameterValues(2)=(ParameterInfo=(Name="Fresnel Exp"),ParameterValue=3.276562,ExpressionGUID=8951070F4119946E486CEF9B480BF7E1)
+   ScalarParameterValues(3)=(ParameterInfo=(Name="RefractionDepthBias"))
+   BasePropertyOverrides=(OpacityMaskClipValue=0.333300,BlendMode=BLEND_Masked,TwoSided=True)
+   ReferencedTextureGuids(0)=2A20148B4917E4086A74A4A501754DA4
+   StaticParameters=(StaticSwitchParameters=((ParameterInfo=(Name="Fresnel Invert"),bOverride=True,ExpressionGUID=461E025A4C99AE39A85E2FA168B10030),(ParameterInfo=(Name="Use Emissive"),Value=True,bOverride=True,ExpressionGUID=40885B5948BBA86C60DC17926CF29976),(ParameterInfo=(Name="Use Fresnel"),Value=True,bOverride=True,ExpressionGUID=BE68A38F44DB9283079780A69B73B472)))
+   TextureStreamingDataVersion=1
+   TextureStreamingData(0)=(SamplingScale=1.000000,UVChannelIndex=0,TextureName="T_GLossShadowCenter",TextureReference=/Game/RoboBars/Textures/Gloss/T_GLossShadowCenter.T_GLossShadowCenter)
+   ThumbnailInfo=SceneThumbnailInfoWithPrimitive'"SceneThumbnailInfoWithPrimitive_0"'
+   LightingGuid=780FF6004C24B7FCD11690A0DEB7E42D
+End Object
