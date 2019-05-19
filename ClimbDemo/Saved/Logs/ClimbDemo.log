@@ -11167,3 +11167,54 @@ Make sure 'JinganglingNew_C' has been compiled for  Get Actro
 [2019.05.19-02.31.59:338][ 16]LogSavePackage: Moving 'C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Saved/TestJingangA364F30E419CA4CA478A21B9AD56858A.tmp' to 'C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Content/Test/TestJingang.umap'
 [2019.05.19-02.31.59:410][ 16]LogFileHelpers: Saving map 'TestJingang' took 0.719
 [2019.05.19-02.32.06:923][748]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.19-02.33.32:566][133]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.19-02.33.41:608][863]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.19-02.34.14:898][313]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.19-02.34.29:352][468]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.19-02.34.43:830][900]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.19-02.34.43:895][908]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.19-02.34.43:916][908]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.19-02.34.43:916][908]PIE: New page: PIE session: TestJingang (May 19, 2019, 6:34:43 PM)
+[2019.05.19-02.34.43:916][908]LogPlayLevel: Creating play world package: /Game/Test/UEDPIE_0_TestJingang
+[2019.05.19-02.34.43:919][908]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002657s)
+[2019.05.19-02.34.43:920][908]LogAIModule: Creating AISystem for world TestJingang
+[2019.05.19-02.34.43:920][908]LogPlayLevel: PIE: World Init took: (0.001168s)
+[2019.05.19-02.34.43:920][908]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Test/TestJingang.TestJingang to /Game/Test/UEDPIE_0_TestJingang.TestJingang (0.003973s)
+[2019.05.19-02.34.44:055][908]LogInit: XAudio2 using '扬声器/听筒 (Realtek Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.05.19-02.34.44:098][908]LogInit: FAudioDevice initialized.
+[2019.05.19-02.34.44:130][908]LogLoad: Game class is 'GameModeBase'
+[2019.05.19-02.34.44:132][908]LogWorld: Bringing World /Game/Test/UEDPIE_0_TestJingang.TestJingang up for play (max tick rate 0) at 2019.05.19-10.34.44
+[2019.05.19-02.34.44:132][908]LogWorld: Bringing up level for play took: 0.001573
+[2019.05.19-02.34.44:148][908]PIE: Play in editor start time for /Game/Test/UEDPIE_0_TestJingang 0.234
+[2019.05.19-02.34.50:506][526]LogEditorViewport: Clicking on Actor (LMB): JinganglingNew_C (JinganglingNew)
+[2019.05.19-02.35.27:204][230]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.19-02.35.27:255][235]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.19-02.35.27:300][235]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.19-02.35.27:341][235]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.19-02.35.27:395][236]LogPlayLevel: Display: Destroying online subsystem :Context_106
+[2019.05.19-02.35.27:937][285]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.05.19-02.35.28:299][307]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.19-02.37.23:161][ 51]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.19-02.39.50:571][613]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/SplineForAnimOld.SplineForAnimOld_C' ref from Metadata '/Game/ThirdPersonBP/Blueprints/SplineForAnim.PackageMetaData'
+[2019.05.19-02.39.50:571][613]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/SplineForAnimOld.SKEL_SplineForAnimOld_C' ref from Metadata '/Game/ThirdPersonBP/Blueprints/SplineForAnim.PackageMetaData'
+[2019.05.19-02.39.50:650][613]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/SplineForAnimOld" FILE="C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Content/ThirdPersonBP/Blueprints/SplineForAnimOld.uasset" SILENT=true
+[2019.05.19-02.39.50:788][613]LogSavePackage: Moving 'C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Saved/SplineForAnimOldA10622664EC842029625638D321D7D26.tmp' to 'C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Content/ThirdPersonBP/Blueprints/SplineForAnimOld.uasset'
+[2019.05.19-02.39.50:821][613]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/SplineForAnim" FILE="C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Content/ThirdPersonBP/Blueprints/SplineForAnim.uasset" SILENT=true
+[2019.05.19-02.39.50:864][613]LogSavePackage: Moving 'C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Saved/SplineForAnim8126581743FD4160E6044CAC54C3DFCF.tmp' to 'C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Content/ThirdPersonBP/Blueprints/SplineForAnim.uasset'
+[2019.05.19-02.42.41:213][358]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Test/TestJingang" FILE="C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Saved/Autosaves/Game/Test/TestJingang_Auto2.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2019.05.19-02.42.41:299][358]LogSavePackage: Moving 'C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Saved/TestJingang_Auto291AB35CD4612603E5E94D1BFD96D8C0A.tmp' to 'C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Saved/Autosaves/Game/Test/TestJingang_Auto2.umap'
+[2019.05.19-02.42.41:319][358]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Test/TestJingang' took 0.151
+[2019.05.19-02.42.41:319][358]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.151
+[2019.05.19-02.42.41:326][358]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Test/JinganglingNew] ([1] browsable assets)...
+[2019.05.19-02.42.41:347][358]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Test/JinganglingNew.JinganglingNew]
+[2019.05.19-02.42.41:347][358]OBJ SavePackage: Finished generating thumbnails for package [/Game/Test/JinganglingNew]
+[2019.05.19-02.42.41:347][358]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Test/JinganglingNew" FILE="C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Saved/Autosaves/Game/Test/JinganglingNew_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2019.05.19-02.42.41:446][358]LogSavePackage: Moving 'C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Saved/JinganglingNew_Auto24FC26BD4424F88EDC900B68EE345B0F9.tmp' to 'C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Saved/Autosaves/Game/Test/JinganglingNew_Auto2.uasset'
+[2019.05.19-02.42.41:458][358]LogFileHelpers: Auto-saving content packages took 0.134
+[2019.05.19-02.43.12:723][545]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.19-02.43.18:810][978]LogSlate: Window 'Save Content' being destroyed
+[2019.05.19-02.43.18:854][978]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Test/JinganglingNew" FILE="C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Content/Test/JinganglingNew.uasset" SILENT=true
+[2019.05.19-02.43.18:922][978]LogSavePackage: Moving 'C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Saved/JinganglingNew8C8749CA412BB17324A94C9FDDA12016.tmp' to 'C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Content/Test/JinganglingNew.uasset'
+[2019.05.19-02.43.19:524][978]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Test/TestJingang" FILE="C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Content/Test/TestJingang.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.05.19-02.43.19:665][978]LogSavePackage: Moving 'C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Saved/TestJingang3059C4544671A3169298C18FF1D20736.tmp' to 'C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Content/Test/TestJingang.umap'
+[2019.05.19-02.43.19:748][978]LogFileHelpers: Saving map 'TestJingang' took 0.802
