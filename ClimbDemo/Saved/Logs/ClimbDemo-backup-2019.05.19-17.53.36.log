@@ -1,0 +1,1056 @@
+﻿Log file open, 05/19/19 17:44:50
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: ClimbDemo
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.321893
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +8:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin HoudiniEngine
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.411s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogHMD: Failed initializing OVRPlugin 1.25.0
+LogInit: Build: ++UE4+Release-4.20-CL-4369336
+LogInit: Engine Version: 4.20.3-4369336+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz, GPU: Intel(R) HD Graphics 630
+LogInit: Compiled (64-bit): Sep 17 2018 12:26:19
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line: 
+LogInit: Base Directory: D:/Program Files/Epic Games/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.009s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2019.05.19-09.44.51:530][  0]LogInit: Selected Device Profile: [Windows]
+[2019.05.19-09.44.51:530][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.05.19-09.44.51:551][  0]LogHAL: Display: Platform has ~ 16 GB [17046654976 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.05.19-09.44.51:551][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2019.05.19-09.44.51:551][  0]LogInit: Going up to parent DeviceProfile []
+[2019.05.19-09.44.51:551][  0]LogInit: Computer: DESKTOP-UHKKT41
+[2019.05.19-09.44.51:551][  0]LogInit: User: Ivy
+[2019.05.19-09.44.51:551][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.05.19-09.44.51:551][  0]LogInit: High frequency timer resolution =2.742188 MHz
+[2019.05.19-09.44.51:552][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2019.05.19-09.44.51:552][  0]LogMemory: Platform Memory Stats for Windows
+[2019.05.19-09.44.51:552][  0]LogMemory: Process Physical Memory: 105.08 MB used, 105.08 MB peak
+[2019.05.19-09.44.51:552][  0]LogMemory: Process Virtual Memory: 100.16 MB used, 100.16 MB peak
+[2019.05.19-09.44.51:552][  0]LogMemory: Physical Memory: 6180.90 MB used,  10076.05 MB free, 16256.96 MB total
+[2019.05.19-09.44.51:552][  0]LogMemory: Virtual Memory: 4664.45 MB used,  10076.05 MB free, 134217728.00 MB total
+[2019.05.19-09.44.51:972][  0]LogInit: Overriding language with editor language configuration option (en).
+[2019.05.19-09.44.51:972][  0]LogInit: Overriding locale with editor locale configuration option (en).
+[2019.05.19-09.44.52:367][  0]LogStreaming: Display: Took  0.396s to InitEngineTextLocalization.
+[2019.05.19-09.44.52:367][  0]LogInit: Setting process to per monitor DPI aware
+[2019.05.19-09.44.52:483][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.05.19-09.44.52:483][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.05.19-09.44.52:731][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.05.19-09.44.52:731][  0]LogD3D11RHI: D3D11 adapters:
+[2019.05.19-09.44.52:838][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070' (Feature Level 11_0)
+[2019.05.19-09.44.52:838][  0]LogD3D11RHI:       8089/0/8128 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.05.19-09.44.52:855][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2019.05.19-09.44.52:855][  0]LogD3D11RHI:       128/0/8128 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2019.05.19-09.44.52:859][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.05.19-09.44.52:860][  0]LogD3D11RHI:       0/0/8128 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.05.19-09.44.52:860][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.05.19-09.44.52:895][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.05.19-09.44.52:895][  0]LogD3D11RHI:     GPU DeviceId: 0x1ba1 (for the marketing name, search the web for "GPU Device Id")
+[2019.05.19-09.44.52:895][  0]LogWindows: EnumDisplayDevices:
+[2019.05.19-09.44.52:895][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:1 D:1)
+[2019.05.19-09.44.52:897][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2019.05.19-09.44.52:898][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2019.05.19-09.44.52:900][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2019.05.19-09.44.52:902][  0]LogWindows:    4. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2019.05.19-09.44.52:903][  0]LogWindows:    5. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2019.05.19-09.44.52:904][  0]LogWindows:    6. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2019.05.19-09.44.52:905][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2019.05.19-09.44.52:905][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070
+[2019.05.19-09.44.52:905][  0]LogD3D11RHI:   Driver Version: 389.12 (internal:23.21.13.8912, unified:389.12)
+[2019.05.19-09.44.52:905][  0]LogD3D11RHI:      Driver Date: 3-7-2018
+[2019.05.19-09.44.52:905][  0]LogRHI: Texture pool is 5662 MB (70% of 8089 MB)
+[2019.05.19-09.44.52:948][  0]LogD3D11RHI: Async texture creation enabled
+[2019.05.19-09.44.52:960][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.05.19-09.44.52:962][  0]LogShaderCompilers: Guid format shader working directory is -1 characters bigger than the processId version (C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Intermediate/Shaders/WorkingDirectory/20184/).
+[2019.05.19-09.44.52:962][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Ivy/AppData/Local/Temp/UnrealShaderWorkingDir/8D5940B7426C6730B63273A23D70D9C1/'.
+[2019.05.19-09.44.53:810][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.05.19-09.44.53:828][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.05.19-09.44.53:845][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.05.19-09.44.53:865][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.05.19-09.44.53:888][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.05.19-09.44.53:908][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.05.19-09.44.53:926][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.05.19-09.44.53:943][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.05.19-09.44.53:955][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.05.19-09.44.54:054][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.19-09.44.54:054][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.19-09.44.54:054][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.19-09.44.54:054][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.19-09.44.54:054][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.19-09.44.54:054][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.19-09.44.54:054][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.19-09.44.54:054][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.19-09.44.54:054][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.19-09.44.54:054][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.19-09.44.54:054][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.19-09.44.54:054][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.19-09.44.54:054][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.19-09.44.54:054][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.19-09.44.54:054][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.19-09.44.54:054][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.19-09.44.54:054][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.19-09.44.54:054][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.19-09.44.54:057][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.05.19-09.44.54:140][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.05.19-09.44.54:140][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.05.19-09.44.54:172][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.05.19-09.44.54:172][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.05.19-09.44.54:188][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.05.19-09.44.54:204][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.05.19-09.44.54:219][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.05.19-09.44.54:235][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.05.19-09.44.54:246][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.05.19-09.44.54:246][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.05.19-09.44.54:330][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.05.19-09.44.54:330][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.05.19-09.44.54:330][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.05.19-09.44.55:201][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.05.19-09.44.55:259][  0]LogDerivedDataCache: Loaded boot cache 0.06s 71MB C:/Users/Ivy/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2019.05.19-09.44.55:260][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Ivy/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2019.05.19-09.44.55:260][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.05.19-09.44.55:260][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.05.19-09.44.55:260][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.05.19-09.44.55:260][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.05.19-09.44.55:276][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.05.19-09.44.55:297][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Ivy/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.05.19-09.44.55:297][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.05.19-09.44.55:297][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.05.19-09.44.55:317][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.05.19-09.44.55:320][  0]LogSlate: Using FreeType 2.6.0
+[2019.05.19-09.44.55:320][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.05.19-09.44.55:402][  0]LogAssetRegistry: FAssetRegistry took 0.0282 seconds to start up
+[2019.05.19-09.44.55:778][  0]LogInit: Selected Device Profile: [Windows]
+[2019.05.19-09.44.55:947][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.05.19-09.44.55:954][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.05.19-09.44.55:954][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.05.19-09.44.55:954][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.05.19-09.44.55:954][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.05.19-09.44.55:972][  0]LogNetVersion: ClimbDemo 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 2394580764)
+[2019.05.19-09.44.56:685][  0]LogPackageLocalizationCache: Processed 12 localized package path(s) for 1 prioritized culture(s) in 0.229005 seconds
+[2019.05.19-09.44.56:692][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2019.05.19-09.44.56:692][  0]LogUObjectAllocator: 6690864 out of 0 bytes used by permanent object pool.
+[2019.05.19-09.44.56:692][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.05.19-09.44.57:731][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.05.19-09.44.57:746][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.05.19-09.44.57:931][  0]SourceControl: Source control is disabled
+[2019.05.19-09.44.57:932][  0]SourceControl: Source control is disabled
+[2019.05.19-09.44.57:935][  0]SourceControl: Source control is disabled
+[2019.05.19-09.44.57:938][  0]SourceControl: Source control is disabled
+[2019.05.19-09.44.58:180][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.05.19-09.44.58:463][  0]LogHoudiniEngine: Starting the Houdini Engine module.
+[2019.05.19-09.44.58:467][  0]LogHoudiniEngine: Loaded libHAPIL.dll from Registry path D:/Program Files/Side Effects Software/Houdini 17.0.416/bin
+[2019.05.19-09.44.58:467][  0]LogLinker: Warning: Asset '../../Plugins/Runtime/HoudiniEngine/Content/houdini_logo.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.05.19-09.44.58:470][  0]LogLinker: Warning: Asset '../../Plugins/Runtime/HoudiniEngine/Content/houdini_default_material.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.05.19-09.44.58:477][  0]LogLinker: Warning: Asset '../../Plugins/Runtime/HoudiniEngine/Content/houdini_bgeo_import.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.05.19-09.45.04:025][  0]LogHoudiniEngine: Successfully intialized the Houdini Engine API module.
+[2019.05.19-09.45.04:046][  0]LogOcInput: OculusInput pre-init called
+[2019.05.19-09.45.04:130][  0]LogEngine: Initializing Engine...
+[2019.05.19-09.45.04:132][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.05.19-09.45.04:133][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.05.19-09.45.04:133][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.05.19-09.45.04:133][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.05.19-09.45.04:133][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.05.19-09.45.04:388][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.05.19-09.45.04:408][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.05.19-09.45.04:517][  0]LogInit: XAudio2 using '扬声器/听筒 (Realtek Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.05.19-09.45.04:597][  0]LogInit: FAudioDevice initialized.
+[2019.05.19-09.45.04:598][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.05.19-09.45.04:809][  0]LogDerivedDataCache: Saved boot cache 0.21s 71MB C:/Users/Ivy/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2019.05.19-09.45.04:812][  0]LogInit: Texture streaming: Enabled
+[2019.05.19-09.45.04:885][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.05.19-09.45.04:905][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=Crashed, SessionId={84B1C217-4BC6-BD42-85F0-9C8A062300B3}
+[2019.05.19-09.45.04:925][  0]LogInit: Transaction tracking system initialized
+[2019.05.19-09.45.04:953][  0]BlueprintLog: New page: Editor Load
+[2019.05.19-09.45.05:060][  0]LocalizationService: Localization service is disabled
+[2019.05.19-09.45.05:478][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.05.19-09.45.05:478][  0]LogCook: Display: Mobile HDR setting 1
+[2019.05.19-09.45.05:478][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.05.19-09.45.05:478][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.05.19-09.45.05:478][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.05.19-09.45.05:478][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.05.19-09.45.05:478][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.05.19-09.45.05:590][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Content/' took 0.05s
+[2019.05.19-09.45.05:590][  0]LogHoudiniEngineEditor: Starting the Houdini Engine Editor module.
+[2019.05.19-09.45.05:592][  0]LogHoudiniEngineEditor: Houdini Engine Editor module startup complete.
+[2019.05.19-09.45.05:662][  0]SourceControl: Source control is disabled
+[2019.05.19-09.45.05:662][  0]Cmd: MAP LOAD FILE="C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Content/Terrain/4/LakeLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.05.19-09.45.05:662][  0]LightingResults: New page: Lighting Build
+[2019.05.19-09.45.05:665][  0]MapCheck: New page: Map Check
+[2019.05.19-09.45.05:665][  0]LightingResults: New page: Lighting Build
+[2019.05.19-09.45.07:168][  0]LogBlueprint: Warning: [Compiler ABP_Climber] Cling_BS to JumpEnd  will never be taken, please connect something to  Can Enter Transition
+[2019.05.19-09.45.07:750][  0]LogBlueprint: Warning: [Compiler ABP_Climber] [0019.38] Compile of ABP_Climber successful, but with 1 Warning(s) [in 728 ms] (/Game/Clinging/Animations/Blueprints/ABP_Climber.ABP_Climber)
+[2019.05.19-09.45.08:100][  0]LogLinker: Warning: Unable to load PhysicsSerializer with outer InstancedStaticMeshComponent /Game/Terrain/HoudiniBake/terrain_bishe_1_846516E4.terrain_bishe_1_846516E4_C:InstancedStaticMesh10_GEN_VARIABLE because its class does not exist
+[2019.05.19-09.45.08:100][  0]LogLinker: Warning: Unable to load PhysicsSerializer with outer InstancedStaticMeshComponent /Game/Terrain/HoudiniBake/terrain_bishe_1_846516E4.terrain_bishe_1_846516E4_C:InstancedStaticMesh11_GEN_VARIABLE because its class does not exist
+[2019.05.19-09.45.08:100][  0]LogLinker: Warning: Unable to load PhysicsSerializer with outer InstancedStaticMeshComponent /Game/Terrain/HoudiniBake/terrain_bishe_1_846516E4.terrain_bishe_1_846516E4_C:InstancedStaticMesh12_GEN_VARIABLE because its class does not exist
+[2019.05.19-09.45.08:100][  0]LogLinker: Warning: Unable to load PhysicsSerializer with outer InstancedStaticMeshComponent /Game/Terrain/HoudiniBake/terrain_bishe_1_846516E4.terrain_bishe_1_846516E4_C:InstancedStaticMesh13_GEN_VARIABLE because its class does not exist
+[2019.05.19-09.45.08:100][  0]LogLinker: Warning: Unable to load PhysicsSerializer with outer InstancedStaticMeshComponent /Game/Terrain/HoudiniBake/terrain_bishe_1_846516E4.terrain_bishe_1_846516E4_C:InstancedStaticMesh14_GEN_VARIABLE because its class does not exist
+[2019.05.19-09.45.08:100][  0]LogLinker: Warning: Unable to load PhysicsSerializer with outer InstancedStaticMeshComponent /Game/Terrain/HoudiniBake/terrain_bishe_1_846516E4.terrain_bishe_1_846516E4_C:InstancedStaticMesh15_GEN_VARIABLE because its class does not exist
+[2019.05.19-09.45.08:100][  0]LogLinker: Warning: Unable to load PhysicsSerializer with outer InstancedStaticMeshComponent /Game/Terrain/HoudiniBake/terrain_bishe_1_846516E4.terrain_bishe_1_846516E4_C:InstancedStaticMesh16_GEN_VARIABLE because its class does not exist
+[2019.05.19-09.45.08:100][  0]LogLinker: Warning: Unable to load PhysicsSerializer with outer InstancedStaticMeshComponent /Game/Terrain/HoudiniBake/terrain_bishe_1_846516E4.terrain_bishe_1_846516E4_C:InstancedStaticMesh17_GEN_VARIABLE because its class does not exist
+[2019.05.19-09.45.08:100][  0]LogLinker: Warning: Unable to load PhysicsSerializer with outer InstancedStaticMeshComponent /Game/Terrain/HoudiniBake/terrain_bishe_1_846516E4.terrain_bishe_1_846516E4_C:InstancedStaticMesh18_GEN_VARIABLE because its class does not exist
+[2019.05.19-09.45.08:100][  0]LogLinker: Warning: Unable to load PhysicsSerializer with outer InstancedStaticMeshComponent /Game/Terrain/HoudiniBake/terrain_bishe_1_846516E4.terrain_bishe_1_846516E4_C:InstancedStaticMesh19_GEN_VARIABLE because its class does not exist
+[2019.05.19-09.45.08:101][  0]LogLinker: Warning: Unable to load PhysicsSerializer with outer InstancedStaticMeshComponent /Game/Terrain/HoudiniBake/terrain_bishe_1_846516E4.terrain_bishe_1_846516E4_C:InstancedStaticMesh1_GEN_VARIABLE because its class does not exist
+[2019.05.19-09.45.08:101][  0]LogLinker: Warning: Unable to load PhysicsSerializer with outer InstancedStaticMeshComponent /Game/Terrain/HoudiniBake/terrain_bishe_1_846516E4.terrain_bishe_1_846516E4_C:InstancedStaticMesh20_GEN_VARIABLE because its class does not exist
+[2019.05.19-09.45.08:101][  0]LogLinker: Warning: Unable to load PhysicsSerializer with outer InstancedStaticMeshComponent /Game/Terrain/HoudiniBake/terrain_bishe_1_846516E4.terrain_bishe_1_846516E4_C:InstancedStaticMesh21_GEN_VARIABLE because its class does not exist
+[2019.05.19-09.45.08:101][  0]LogLinker: Warning: Unable to load PhysicsSerializer with outer InstancedStaticMeshComponent /Game/Terrain/HoudiniBake/terrain_bishe_1_846516E4.terrain_bishe_1_846516E4_C:InstancedStaticMesh22_GEN_VARIABLE because its class does not exist
+[2019.05.19-09.45.08:101][  0]LogLinker: Warning: Unable to load PhysicsSerializer with outer InstancedStaticMeshComponent /Game/Terrain/HoudiniBake/terrain_bishe_1_846516E4.terrain_bishe_1_846516E4_C:InstancedStaticMesh23_GEN_VARIABLE because its class does not exist
+[2019.05.19-09.45.08:101][  0]LogLinker: Warning: Unable to load PhysicsSerializer with outer InstancedStaticMeshComponent /Game/Terrain/HoudiniBake/terrain_bishe_1_846516E4.terrain_bishe_1_846516E4_C:InstancedStaticMesh24_GEN_VARIABLE because its class does not exist
+[2019.05.19-09.45.08:101][  0]LogLinker: Warning: Unable to load PhysicsSerializer with outer InstancedStaticMeshComponent /Game/Terrain/HoudiniBake/terrain_bishe_1_846516E4.terrain_bishe_1_846516E4_C:InstancedStaticMesh25_GEN_VARIABLE because its class does not exist
+[2019.05.19-09.45.08:101][  0]LogLinker: Warning: Unable to load PhysicsSerializer with outer InstancedStaticMeshComponent /Game/Terrain/HoudiniBake/terrain_bishe_1_846516E4.terrain_bishe_1_846516E4_C:InstancedStaticMesh26_GEN_VARIABLE because its class does not exist
+[2019.05.19-09.45.08:101][  0]LogLinker: Warning: Unable to load PhysicsSerializer with outer InstancedStaticMeshComponent /Game/Terrain/HoudiniBake/terrain_bishe_1_846516E4.terrain_bishe_1_846516E4_C:InstancedStaticMesh27_GEN_VARIABLE because its class does not exist
+[2019.05.19-09.45.08:101][  0]LogLinker: Warning: Unable to load PhysicsSerializer with outer InstancedStaticMeshComponent /Game/Terrain/HoudiniBake/terrain_bishe_1_846516E4.terrain_bishe_1_846516E4_C:InstancedStaticMesh28_GEN_VARIABLE because its class does not exist
+[2019.05.19-09.45.08:101][  0]LogLinker: Warning: Unable to load PhysicsSerializer with outer InstancedStaticMeshComponent /Game/Terrain/HoudiniBake/terrain_bishe_1_846516E4.terrain_bishe_1_846516E4_C:InstancedStaticMesh29_GEN_VARIABLE because its class does not exist
+[2019.05.19-09.45.08:101][  0]LogLinker: Warning: Unable to load PhysicsSerializer with outer InstancedStaticMeshComponent /Game/Terrain/HoudiniBake/terrain_bishe_1_846516E4.terrain_bishe_1_846516E4_C:InstancedStaticMesh2_GEN_VARIABLE because its class does not exist
+[2019.05.19-09.45.08:101][  0]LogLinker: Warning: Unable to load PhysicsSerializer with outer InstancedStaticMeshComponent /Game/Terrain/HoudiniBake/terrain_bishe_1_846516E4.terrain_bishe_1_846516E4_C:InstancedStaticMesh30_GEN_VARIABLE because its class does not exist
+[2019.05.19-09.45.08:101][  0]LogLinker: Warning: Unable to load PhysicsSerializer with outer InstancedStaticMeshComponent /Game/Terrain/HoudiniBake/terrain_bishe_1_846516E4.terrain_bishe_1_846516E4_C:InstancedStaticMesh31_GEN_VARIABLE because its class does not exist
+[2019.05.19-09.45.08:101][  0]LogLinker: Warning: Unable to load PhysicsSerializer with outer InstancedStaticMeshComponent /Game/Terrain/HoudiniBake/terrain_bishe_1_846516E4.terrain_bishe_1_846516E4_C:InstancedStaticMesh32_GEN_VARIABLE because its class does not exist
+[2019.05.19-09.45.08:102][  0]LogLinker: Warning: Unable to load PhysicsSerializer with outer InstancedStaticMeshComponent /Game/Terrain/HoudiniBake/terrain_bishe_1_846516E4.terrain_bishe_1_846516E4_C:InstancedStaticMesh3_GEN_VARIABLE because its class does not exist
+[2019.05.19-09.45.08:102][  0]LogLinker: Warning: Unable to load PhysicsSerializer with outer InstancedStaticMeshComponent /Game/Terrain/HoudiniBake/terrain_bishe_1_846516E4.terrain_bishe_1_846516E4_C:InstancedStaticMesh4_GEN_VARIABLE because its class does not exist
+[2019.05.19-09.45.08:102][  0]LogLinker: Warning: Unable to load PhysicsSerializer with outer InstancedStaticMeshComponent /Game/Terrain/HoudiniBake/terrain_bishe_1_846516E4.terrain_bishe_1_846516E4_C:InstancedStaticMesh5_GEN_VARIABLE because its class does not exist
+[2019.05.19-09.45.08:102][  0]LogLinker: Warning: Unable to load PhysicsSerializer with outer InstancedStaticMeshComponent /Game/Terrain/HoudiniBake/terrain_bishe_1_846516E4.terrain_bishe_1_846516E4_C:InstancedStaticMesh6_GEN_VARIABLE because its class does not exist
+[2019.05.19-09.45.08:102][  0]LogLinker: Warning: Unable to load PhysicsSerializer with outer InstancedStaticMeshComponent /Game/Terrain/HoudiniBake/terrain_bishe_1_846516E4.terrain_bishe_1_846516E4_C:InstancedStaticMesh7_GEN_VARIABLE because its class does not exist
+[2019.05.19-09.45.08:102][  0]LogLinker: Warning: Unable to load PhysicsSerializer with outer InstancedStaticMeshComponent /Game/Terrain/HoudiniBake/terrain_bishe_1_846516E4.terrain_bishe_1_846516E4_C:InstancedStaticMesh8_GEN_VARIABLE because its class does not exist
+[2019.05.19-09.45.08:102][  0]LogLinker: Warning: Unable to load PhysicsSerializer with outer InstancedStaticMeshComponent /Game/Terrain/HoudiniBake/terrain_bishe_1_846516E4.terrain_bishe_1_846516E4_C:InstancedStaticMesh9_GEN_VARIABLE because its class does not exist
+[2019.05.19-09.45.08:102][  0]LogLinker: Warning: Unable to load PhysicsSerializer with outer InstancedStaticMeshComponent /Game/Terrain/HoudiniBake/terrain_bishe_1_846516E4.terrain_bishe_1_846516E4_C:InstancedStaticMesh_GEN_VARIABLE because its class does not exist
+[2019.05.19-09.45.08:758][  0]AssetCheck: Warning: 013_Swimming Particle system /Game/Terrain/VFX/P_1_ripple.P_1_ripple used in anim notify for asset /Game/Player/013_Swimming.013_Swimming is set to looping, but the slot is a one-shot (it won't be played to avoid leaking a component per notify).
+[2019.05.19-09.45.08:772][  0]AssetCheck: Warning: 013_Swimming Particle system /Game/Terrain/VFX/P_1_ripple.P_1_ripple used in anim notify for asset /Game/Player/013_Swimming.013_Swimming is set to looping, but the slot is a one-shot (it won't be played to avoid leaking a component per notify).
+[2019.05.19-09.45.10:508][  0]LogAIModule: Creating AISystem for world LakeLevel
+[2019.05.19-09.45.10:804][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.05.19-09.45.10:910][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.05.19-09.45.11:150][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 241.143ms to complete.
+[2019.05.19-09.45.11:151][  0]LogFileHelpers: Loading map 'LakeLevel' took 5.489
+[2019.05.19-09.45.11:279][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.19-09.45.11:286][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.19-09.45.11:298][  0]LogCollectionManager: Loaded 0 collections in 0.001932 seconds
+[2019.05.19-09.45.11:346][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Saved/Collections/' took 0.01s
+[2019.05.19-09.45.11:346][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Content/Developers/Ivy/Collections/' took 0.01s
+[2019.05.19-09.45.11:346][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Content/Collections/' took 0.01s
+[2019.05.19-09.45.11:346][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.05.19-09.45.11:355][  0]LogContentBrowser: Native class hierarchy populated in 0.0101 seconds. Added 2610 classes and 610 folders.
+[2019.05.19-09.45.11:360][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.05.19-09.45.11:420][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.05.19-09.45.11:429][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2019.05.19-09.45.11:568][  0]LogSlate: Took 0.000240 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.05.19-09.45.11:570][  0]LogSlate: Took 0.000170 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.05.19-09.45.11:580][  0]LogSlate: Took 0.000307 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.05.19-09.45.11:675][  0]LogRenderer: Reallocating scene render targets to support 604x236 Format 10 NumSamples 1 (Frame:1).
+[2019.05.19-09.45.11:699][  0]LogRenderer: Reallocating scene render targets to support 1208x472 Format 10 NumSamples 1 (Frame:1).
+[2019.05.19-09.45.11:840][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.05.19-09.45.11:840][  0]LogLoad: (Engine Initialization) Total time: 23.48 seconds
+[2019.05.19-09.45.11:840][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.05.19-09.45.11:891][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.05.19-09.45.11:939][  0]LogSlate: Took 0.000244 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.05.19-09.45.11:984][  1]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2019.05.19-09.45.12:028][  1]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.05.19-09.45.12:255][  5]LogAssetRegistry: Asset discovery search completed in 16.8748 seconds
+[2019.05.19-09.45.12:257][  5]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.05.19-09.45.12:257][  5]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000054 seconds (updated 0 objects)
+[2019.05.19-09.45.12:915][ 36]LogSlate: Took 0.000252 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.05.19-09.45.34:459][149]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.19-09.45.39:552][428]LogSlate: Took 0.002414 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2019.05.19-09.45.42:237][583]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/Terrain/MMMM_/xf-2-54/6_lotus/lotus.lotus
+[2019.05.19-09.45.42:825][583]LogRenderer: Reallocating scene render targets to support 1432x964 Format 10 NumSamples 1 (Frame:1).
+[2019.05.19-09.45.42:825][583]LogSlate: Took 0.000422 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.05.19-09.45.50:562][ 33]LogAssetEditorManager: Opening Asset editor for MaterialInstanceConstant /Game/Terrain/MMMM_/xf-2-54/6_lotus/aqua_plant_2_BAM.aqua_plant_2_BAM
+[2019.05.19-09.45.54:985][269]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.19-09.46.00:426][474]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: 'None' is not a standard unreal filename or a long path name. Reason: Path should start with a '/'
+[2019.05.19-09.46.01:691][474]MapCheck: Warning: LandscapeComponent_0 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:715][474]MapCheck: Warning: LandscapeComponent_1 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:716][474]MapCheck: Warning: LandscapeComponent_2 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:716][474]MapCheck: Warning: LandscapeComponent_3 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:717][474]MapCheck: Warning: LandscapeComponent_4 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:717][474]MapCheck: Warning: LandscapeComponent_5 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:718][474]MapCheck: Warning: LandscapeComponent_6 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:718][474]MapCheck: Warning: LandscapeComponent_7 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:719][474]MapCheck: Warning: LandscapeComponent_8 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:720][474]MapCheck: Warning: LandscapeComponent_9 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:720][474]MapCheck: Warning: LandscapeComponent_10 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:721][474]MapCheck: Warning: LandscapeComponent_11 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:721][474]MapCheck: Warning: LandscapeComponent_12 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:722][474]MapCheck: Warning: LandscapeComponent_13 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:723][474]MapCheck: Warning: LandscapeComponent_14 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:723][474]MapCheck: Warning: LandscapeComponent_15 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:724][474]MapCheck: Warning: LandscapeComponent_16 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:725][474]MapCheck: Warning: LandscapeComponent_17 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:725][474]MapCheck: Warning: LandscapeComponent_18 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:725][474]MapCheck: Warning: LandscapeComponent_19 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:726][474]MapCheck: Warning: LandscapeComponent_20 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:727][474]MapCheck: Warning: LandscapeComponent_21 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:727][474]MapCheck: Warning: LandscapeComponent_22 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:727][474]MapCheck: Warning: LandscapeComponent_23 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:728][474]MapCheck: Warning: LandscapeComponent_24 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:729][474]MapCheck: Warning: LandscapeComponent_25 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:729][474]MapCheck: Warning: LandscapeComponent_26 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:729][474]MapCheck: Warning: LandscapeComponent_27 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:730][474]MapCheck: Warning: LandscapeComponent_28 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:731][474]MapCheck: Warning: LandscapeComponent_29 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:731][474]MapCheck: Warning: LandscapeComponent_30 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:731][474]MapCheck: Warning: LandscapeComponent_31 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:732][474]MapCheck: Warning: LandscapeComponent_32 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:733][474]MapCheck: Warning: LandscapeComponent_33 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:733][474]MapCheck: Warning: LandscapeComponent_34 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:734][474]MapCheck: Warning: LandscapeComponent_35 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:734][474]MapCheck: Warning: LandscapeComponent_36 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:735][474]MapCheck: Warning: LandscapeComponent_37 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:736][474]MapCheck: Warning: LandscapeComponent_38 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:736][474]MapCheck: Warning: LandscapeComponent_39 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:737][474]MapCheck: Warning: LandscapeComponent_40 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:738][474]MapCheck: Warning: LandscapeComponent_41 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:739][474]MapCheck: Warning: LandscapeComponent_42 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:739][474]MapCheck: Warning: LandscapeComponent_43 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:740][474]MapCheck: Warning: LandscapeComponent_44 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:741][474]MapCheck: Warning: LandscapeComponent_45 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:742][474]MapCheck: Warning: LandscapeComponent_46 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:742][474]MapCheck: Warning: LandscapeComponent_47 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:742][474]MapCheck: Warning: LandscapeComponent_48 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:744][474]MapCheck: Warning: LandscapeComponent_49 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:744][474]MapCheck: Warning: LandscapeComponent_50 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:744][474]MapCheck: Warning: LandscapeComponent_51 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:745][474]MapCheck: Warning: LandscapeComponent_52 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:746][474]MapCheck: Warning: LandscapeComponent_53 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:747][474]MapCheck: Warning: LandscapeComponent_54 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:748][474]MapCheck: Warning: LandscapeComponent_55 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:748][474]MapCheck: Warning: LandscapeComponent_56 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:749][474]MapCheck: Warning: LandscapeComponent_57 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:749][474]MapCheck: Warning: LandscapeComponent_58 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:750][474]MapCheck: Warning: LandscapeComponent_59 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:750][474]MapCheck: Warning: LandscapeComponent_60 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:751][474]MapCheck: Warning: LandscapeComponent_61 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:751][474]MapCheck: Warning: LandscapeComponent_62 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:752][474]MapCheck: Warning: LandscapeComponent_63 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:752][474]MapCheck: Warning: LandscapeComponent_64 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:753][474]MapCheck: Warning: LandscapeComponent_65 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:753][474]MapCheck: Warning: LandscapeComponent_66 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:754][474]MapCheck: Warning: LandscapeComponent_67 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:754][474]MapCheck: Warning: LandscapeComponent_68 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:755][474]MapCheck: Warning: LandscapeComponent_69 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:756][474]MapCheck: Warning: LandscapeComponent_70 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:756][474]MapCheck: Warning: LandscapeComponent_71 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:756][474]MapCheck: Warning: LandscapeComponent_72 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:757][474]MapCheck: Warning: LandscapeComponent_73 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:758][474]MapCheck: Warning: LandscapeComponent_74 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:758][474]MapCheck: Warning: LandscapeComponent_75 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:758][474]MapCheck: Warning: LandscapeComponent_76 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:759][474]MapCheck: Warning: LandscapeComponent_77 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:760][474]MapCheck: Warning: LandscapeComponent_78 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:760][474]MapCheck: Warning: LandscapeComponent_79 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:760][474]MapCheck: Warning: LandscapeComponent_80 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:761][474]MapCheck: Warning: LandscapeComponent_81 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:761][474]MapCheck: Warning: LandscapeComponent_82 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:762][474]MapCheck: Warning: LandscapeComponent_83 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:762][474]MapCheck: Warning: LandscapeComponent_84 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:764][474]MapCheck: Warning: LandscapeComponent_85 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:770][474]MapCheck: Warning: LandscapeComponent_86 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:772][474]MapCheck: Warning: LandscapeComponent_87 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:772][474]MapCheck: Warning: LandscapeComponent_88 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:773][474]MapCheck: Warning: LandscapeComponent_89 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:774][474]MapCheck: Warning: LandscapeComponent_90 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:775][474]MapCheck: Warning: LandscapeComponent_91 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:775][474]MapCheck: Warning: LandscapeComponent_92 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:775][474]MapCheck: Warning: LandscapeComponent_93 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:775][474]MapCheck: Warning: LandscapeComponent_94 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:777][474]MapCheck: Warning: LandscapeComponent_95 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:777][474]MapCheck: Warning: LandscapeComponent_96 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:777][474]MapCheck: Warning: LandscapeComponent_97 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:778][474]MapCheck: Warning: LandscapeComponent_98 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:779][474]MapCheck: Warning: LandscapeComponent_99 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:779][474]MapCheck: Warning: LandscapeComponent_100 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:780][474]MapCheck: Warning: LandscapeComponent_101 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:782][474]MapCheck: Warning: LandscapeComponent_102 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:791][474]MapCheck: Warning: LandscapeComponent_103 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:793][474]MapCheck: Warning: LandscapeComponent_104 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:795][474]MapCheck: Warning: LandscapeComponent_105 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:796][474]MapCheck: Warning: LandscapeComponent_106 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:796][474]MapCheck: Warning: LandscapeComponent_107 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:797][474]MapCheck: Warning: LandscapeComponent_108 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:797][474]MapCheck: Warning: LandscapeComponent_109 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:797][474]MapCheck: Warning: LandscapeComponent_110 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:798][474]MapCheck: Warning: LandscapeComponent_111 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:799][474]MapCheck: Warning: LandscapeComponent_112 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:799][474]MapCheck: Warning: LandscapeComponent_113 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:800][474]MapCheck: Warning: LandscapeComponent_114 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:800][474]MapCheck: Warning: LandscapeComponent_115 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:801][474]MapCheck: Warning: LandscapeComponent_116 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:802][474]MapCheck: Warning: LandscapeComponent_117 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:805][474]MapCheck: Warning: LandscapeComponent_118 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:807][474]MapCheck: Warning: LandscapeComponent_119 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:810][474]MapCheck: Warning: LandscapeComponent_120 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:812][474]MapCheck: Warning: LandscapeComponent_121 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:816][474]MapCheck: Warning: LandscapeComponent_122 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:816][474]MapCheck: Warning: LandscapeComponent_123 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:817][474]MapCheck: Warning: LandscapeComponent_124 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:817][474]MapCheck: Warning: LandscapeComponent_125 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:818][474]MapCheck: Warning: LandscapeComponent_126 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:818][474]MapCheck: Warning: LandscapeComponent_127 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:819][474]MapCheck: Warning: LandscapeComponent_128 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:820][474]MapCheck: Warning: LandscapeComponent_129 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:820][474]MapCheck: Warning: LandscapeComponent_130 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:820][474]MapCheck: Warning: LandscapeComponent_131 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:821][474]MapCheck: Warning: LandscapeComponent_132 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:822][474]MapCheck: Warning: LandscapeComponent_133 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:823][474]MapCheck: Warning: LandscapeComponent_134 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:825][474]MapCheck: Warning: LandscapeComponent_135 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:828][474]MapCheck: Warning: LandscapeComponent_136 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:830][474]MapCheck: Warning: LandscapeComponent_137 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:833][474]MapCheck: Warning: LandscapeComponent_138 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:833][474]MapCheck: Warning: LandscapeComponent_139 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:834][474]MapCheck: Warning: LandscapeComponent_140 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:834][474]MapCheck: Warning: LandscapeComponent_141 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:835][474]MapCheck: Warning: LandscapeComponent_142 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:835][474]MapCheck: Warning: LandscapeComponent_143 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:836][474]MapCheck: Warning: LandscapeComponent_144 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:837][474]MapCheck: Warning: LandscapeComponent_145 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:837][474]MapCheck: Warning: LandscapeComponent_146 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:837][474]MapCheck: Warning: LandscapeComponent_147 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:838][474]MapCheck: Warning: LandscapeComponent_148 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:839][474]MapCheck: Warning: LandscapeComponent_149 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:841][474]MapCheck: Warning: LandscapeComponent_150 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:842][474]MapCheck: Warning: LandscapeComponent_151 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:844][474]MapCheck: Warning: LandscapeComponent_152 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:846][474]MapCheck: Warning: LandscapeComponent_153 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:846][474]MapCheck: Warning: LandscapeComponent_154 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:847][474]MapCheck: Warning: LandscapeComponent_155 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:847][474]MapCheck: Warning: LandscapeComponent_156 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:848][474]MapCheck: Warning: LandscapeComponent_157 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:848][474]MapCheck: Warning: LandscapeComponent_158 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:849][474]MapCheck: Warning: LandscapeComponent_159 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:849][474]MapCheck: Warning: LandscapeComponent_160 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:850][474]MapCheck: Warning: LandscapeComponent_161 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:851][474]MapCheck: Warning: LandscapeComponent_162 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:851][474]MapCheck: Warning: LandscapeComponent_163 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:851][474]MapCheck: Warning: LandscapeComponent_164 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:852][474]MapCheck: Warning: LandscapeComponent_165 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:853][474]MapCheck: Warning: LandscapeComponent_166 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:853][474]MapCheck: Warning: LandscapeComponent_167 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:854][474]MapCheck: Warning: LandscapeComponent_168 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:855][474]MapCheck: Warning: LandscapeComponent_169 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:856][474]MapCheck: Warning: LandscapeComponent_170 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:856][474]MapCheck: Warning: LandscapeComponent_171 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:856][474]MapCheck: Warning: LandscapeComponent_172 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:857][474]MapCheck: Warning: LandscapeComponent_173 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:858][474]MapCheck: Warning: LandscapeComponent_174 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:858][474]MapCheck: Warning: LandscapeComponent_175 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:859][474]MapCheck: Warning: LandscapeComponent_176 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:860][474]MapCheck: Warning: LandscapeComponent_177 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:860][474]MapCheck: Warning: LandscapeComponent_178 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:860][474]MapCheck: Warning: LandscapeComponent_179 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:861][474]MapCheck: Warning: LandscapeComponent_180 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:862][474]MapCheck: Warning: LandscapeComponent_181 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:862][474]MapCheck: Warning: LandscapeComponent_182 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:862][474]MapCheck: Warning: LandscapeComponent_183 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:863][474]MapCheck: Warning: LandscapeComponent_184 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:864][474]MapCheck: Warning: LandscapeComponent_185 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:864][474]MapCheck: Warning: LandscapeComponent_186 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:865][474]MapCheck: Warning: LandscapeComponent_187 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:865][474]MapCheck: Warning: LandscapeComponent_188 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:866][474]MapCheck: Warning: LandscapeComponent_189 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:867][474]MapCheck: Warning: LandscapeComponent_190 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:867][474]MapCheck: Warning: LandscapeComponent_191 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:868][474]MapCheck: Warning: LandscapeComponent_192 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:869][474]MapCheck: Warning: LandscapeComponent_193 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:869][474]MapCheck: Warning: LandscapeComponent_194 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:869][474]MapCheck: Warning: LandscapeComponent_195 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:870][474]MapCheck: Warning: LandscapeComponent_196 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:871][474]MapCheck: Warning: LandscapeComponent_197 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:871][474]MapCheck: Warning: LandscapeComponent_198 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:872][474]MapCheck: Warning: LandscapeComponent_199 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:872][474]MapCheck: Warning: LandscapeComponent_200 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:873][474]MapCheck: Warning: LandscapeComponent_201 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:874][474]MapCheck: Warning: LandscapeComponent_202 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:874][474]MapCheck: Warning: LandscapeComponent_203 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:875][474]MapCheck: Warning: LandscapeComponent_204 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:875][474]MapCheck: Warning: LandscapeComponent_205 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:876][474]MapCheck: Warning: LandscapeComponent_206 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:876][474]MapCheck: Warning: LandscapeComponent_207 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:876][474]MapCheck: Warning: LandscapeComponent_208 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:877][474]MapCheck: Warning: LandscapeComponent_209 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:878][474]MapCheck: Warning: LandscapeComponent_210 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:878][474]MapCheck: Warning: LandscapeComponent_211 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:878][474]MapCheck: Warning: LandscapeComponent_212 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:879][474]MapCheck: Warning: LandscapeComponent_213 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:880][474]MapCheck: Warning: LandscapeComponent_214 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:881][474]MapCheck: Warning: LandscapeComponent_215 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:882][474]MapCheck: Warning: LandscapeComponent_216 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:883][474]MapCheck: Warning: LandscapeComponent_217 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:883][474]MapCheck: Warning: LandscapeComponent_218 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:884][474]MapCheck: Warning: LandscapeComponent_219 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:884][474]MapCheck: Warning: LandscapeComponent_220 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:885][474]MapCheck: Warning: LandscapeComponent_221 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:886][474]MapCheck: Warning: LandscapeComponent_222 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:886][474]MapCheck: Warning: LandscapeComponent_223 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:887][474]MapCheck: Warning: LandscapeComponent_224 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:887][474]MapCheck: Warning: LandscapeComponent_225 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:888][474]MapCheck: Warning: LandscapeComponent_226 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:889][474]MapCheck: Warning: LandscapeComponent_227 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:889][474]MapCheck: Warning: LandscapeComponent_228 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:890][474]MapCheck: Warning: LandscapeComponent_229 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:890][474]MapCheck: Warning: LandscapeComponent_230 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:890][474]MapCheck: Warning: LandscapeComponent_231 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:891][474]MapCheck: Warning: LandscapeComponent_232 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:892][474]MapCheck: Warning: LandscapeComponent_233 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:892][474]MapCheck: Warning: LandscapeComponent_234 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:892][474]MapCheck: Warning: LandscapeComponent_235 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:893][474]MapCheck: Warning: LandscapeComponent_236 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:893][474]MapCheck: Warning: LandscapeComponent_237 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:894][474]MapCheck: Warning: LandscapeComponent_238 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:894][474]MapCheck: Warning: LandscapeComponent_239 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:895][474]MapCheck: Warning: LandscapeComponent_240 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:896][474]MapCheck: Warning: LandscapeComponent_241 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:896][474]MapCheck: Warning: LandscapeComponent_242 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:897][474]MapCheck: Warning: LandscapeComponent_243 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:897][474]MapCheck: Warning: LandscapeComponent_244 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:898][474]MapCheck: Warning: LandscapeComponent_245 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:899][474]MapCheck: Warning: LandscapeComponent_246 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:899][474]MapCheck: Warning: LandscapeComponent_247 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:900][474]MapCheck: Warning: LandscapeComponent_248 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:901][474]MapCheck: Warning: LandscapeComponent_249 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:901][474]MapCheck: Warning: LandscapeComponent_250 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:902][474]MapCheck: Warning: LandscapeComponent_251 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:902][474]MapCheck: Warning: LandscapeComponent_252 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:903][474]MapCheck: Warning: LandscapeComponent_253 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:904][474]MapCheck: Warning: LandscapeComponent_254 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.01:904][474]MapCheck: Warning: LandscapeComponent_255 : Fixed up deleted layer weightmap 
+[2019.05.19-09.46.02:761][474]LogAIModule: Creating AISystem for world LakeLevelNew
+[2019.05.19-09.46.02:873][474]LogScript: Warning: Script Msg: Attempted to access index 15 from array 'BIrdSBP' of length 15 in '/Game/Blueprints/Bird/InsectsBirdsFish/Blueprints/NewFolder/BP_Bird_Spline1.BP_Bird_Spline1_C'!
+[2019.05.19-09.46.02:873][474]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	BP_Bird_Spline1_C /Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.BP_Bird_Spline1_34488
+	Function /Game/Blueprints/Bird/InsectsBirdsFish/Blueprints/NewFolder/BP_Bird_Spline1.BP_Bird_Spline1_C:UpdateBird:027F
+[2019.05.19-09.46.02:873][474]LogScript: Warning: Script Msg: Attempted to access index 16 from array 'BIrdSBP' of length 15 in '/Game/Blueprints/Bird/InsectsBirdsFish/Blueprints/NewFolder/BP_Bird_Spline1.BP_Bird_Spline1_C'!
+[2019.05.19-09.46.02:873][474]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	BP_Bird_Spline1_C /Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.BP_Bird_Spline1_34488
+	Function /Game/Blueprints/Bird/InsectsBirdsFish/Blueprints/NewFolder/BP_Bird_Spline1.BP_Bird_Spline1_C:UpdateBird:027F
+[2019.05.19-09.46.02:873][474]LogScript: Warning: Script Msg: Attempted to access index 17 from array 'BIrdSBP' of length 15 in '/Game/Blueprints/Bird/InsectsBirdsFish/Blueprints/NewFolder/BP_Bird_Spline1.BP_Bird_Spline1_C'!
+[2019.05.19-09.46.02:873][474]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	BP_Bird_Spline1_C /Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.BP_Bird_Spline1_34488
+	Function /Game/Blueprints/Bird/InsectsBirdsFish/Blueprints/NewFolder/BP_Bird_Spline1.BP_Bird_Spline1_C:UpdateBird:027F
+[2019.05.19-09.46.02:873][474]LogScript: Warning: Script Msg: Attempted to access index 18 from array 'BIrdSBP' of length 15 in '/Game/Blueprints/Bird/InsectsBirdsFish/Blueprints/NewFolder/BP_Bird_Spline1.BP_Bird_Spline1_C'!
+[2019.05.19-09.46.02:874][474]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	BP_Bird_Spline1_C /Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.BP_Bird_Spline1_34488
+	Function /Game/Blueprints/Bird/InsectsBirdsFish/Blueprints/NewFolder/BP_Bird_Spline1.BP_Bird_Spline1_C:UpdateBird:027F
+[2019.05.19-09.46.02:874][474]LogScript: Warning: Script Msg: Attempted to access index 19 from array 'BIrdSBP' of length 15 in '/Game/Blueprints/Bird/InsectsBirdsFish/Blueprints/NewFolder/BP_Bird_Spline1.BP_Bird_Spline1_C'!
+[2019.05.19-09.46.02:874][474]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	BP_Bird_Spline1_C /Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.BP_Bird_Spline1_34488
+	Function /Game/Blueprints/Bird/InsectsBirdsFish/Blueprints/NewFolder/BP_Bird_Spline1.BP_Bird_Spline1_C:UpdateBird:027F
+[2019.05.19-09.46.02:954][474]LogAssetEditorManager: Opening Asset editor for World /Game/Terrain/4/LakeLevelNew.LakeLevelNew
+[2019.05.19-09.46.03:002][474]Cmd: MAP LOAD FILE="C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Content/Terrain/4/LakeLevelNew.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.05.19-09.46.03:003][474]LightingResults: New page: Lighting Build
+[2019.05.19-09.46.03:004][474]LoadErrors: New page: Loading map: LakeLevelNew.umap
+[2019.05.19-09.46.03:019][474]MapCheck: New page: Map Check
+[2019.05.19-09.46.03:019][474]LightingResults: New page: Lighting Build
+[2019.05.19-09.46.03:391][474]LogScript: Warning: Script Msg: Attempted to access index 15 from array 'BIrdSBP' of length 15 in '/Game/Blueprints/Bird/InsectsBirdsFish/Blueprints/NewFolder/BP_Bird_Spline1.BP_Bird_Spline1_C'!
+[2019.05.19-09.46.03:391][474]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	BP_Bird_Spline1_C /Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.BP_Bird_Spline1_34488
+	Function /Game/Blueprints/Bird/InsectsBirdsFish/Blueprints/NewFolder/BP_Bird_Spline1.BP_Bird_Spline1_C:UpdateBird:027F
+[2019.05.19-09.46.03:391][474]LogScript: Warning: Script Msg: Attempted to access index 16 from array 'BIrdSBP' of length 15 in '/Game/Blueprints/Bird/InsectsBirdsFish/Blueprints/NewFolder/BP_Bird_Spline1.BP_Bird_Spline1_C'!
+[2019.05.19-09.46.03:391][474]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	BP_Bird_Spline1_C /Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.BP_Bird_Spline1_34488
+	Function /Game/Blueprints/Bird/InsectsBirdsFish/Blueprints/NewFolder/BP_Bird_Spline1.BP_Bird_Spline1_C:UpdateBird:027F
+[2019.05.19-09.46.03:391][474]LogScript: Warning: Script Msg: Attempted to access index 17 from array 'BIrdSBP' of length 15 in '/Game/Blueprints/Bird/InsectsBirdsFish/Blueprints/NewFolder/BP_Bird_Spline1.BP_Bird_Spline1_C'!
+[2019.05.19-09.46.03:391][474]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	BP_Bird_Spline1_C /Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.BP_Bird_Spline1_34488
+	Function /Game/Blueprints/Bird/InsectsBirdsFish/Blueprints/NewFolder/BP_Bird_Spline1.BP_Bird_Spline1_C:UpdateBird:027F
+[2019.05.19-09.46.03:391][474]LogScript: Warning: Script Msg: Attempted to access index 18 from array 'BIrdSBP' of length 15 in '/Game/Blueprints/Bird/InsectsBirdsFish/Blueprints/NewFolder/BP_Bird_Spline1.BP_Bird_Spline1_C'!
+[2019.05.19-09.46.03:391][474]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	BP_Bird_Spline1_C /Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.BP_Bird_Spline1_34488
+	Function /Game/Blueprints/Bird/InsectsBirdsFish/Blueprints/NewFolder/BP_Bird_Spline1.BP_Bird_Spline1_C:UpdateBird:027F
+[2019.05.19-09.46.03:391][474]LogScript: Warning: Script Msg: Attempted to access index 19 from array 'BIrdSBP' of length 15 in '/Game/Blueprints/Bird/InsectsBirdsFish/Blueprints/NewFolder/BP_Bird_Spline1.BP_Bird_Spline1_C'!
+[2019.05.19-09.46.03:391][474]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	BP_Bird_Spline1_C /Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.BP_Bird_Spline1_34488
+	Function /Game/Blueprints/Bird/InsectsBirdsFish/Blueprints/NewFolder/BP_Bird_Spline1.BP_Bird_Spline1_C:UpdateBird:027F
+[2019.05.19-09.46.04:426][474]LogEditorServer: Finished looking for orphan Actors (0.001 secs)
+[2019.05.19-09.46.04:580][474]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.05.19-09.46.05:032][474]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 452.126ms to complete.
+[2019.05.19-09.46.05:037][474]LogFileHelpers: Loading map 'LakeLevelNew' took 2.036
+[2019.05.19-09.46.11:724][717]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.19-09.46.13:192][749]LogSlate: Window 'ClimbDemo - Unreal Editor' being destroyed
+[2019.05.19-09.46.13:278][749]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (搜狗拼音输入法).
+[2019.05.19-09.46.13:502][750]Cmd: QUIT_EDITOR
+[2019.05.19-09.46.13:556][750]LogExit: Preparing to exit.
+[2019.05.19-09.46.13:862][750]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.19-09.46.13:863][750]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.19-09.46.13:863][750]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.19-09.46.13:863][750]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.19-09.46.13:863][750]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.19-09.46.13:863][750]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.19-09.46.13:863][750]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.19-09.46.13:863][750]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.19-09.46.13:863][750]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.19-09.46.13:863][750]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.19-09.46.13:863][750]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.19-09.46.13:863][750]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.19-09.46.13:863][750]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.19-09.46.13:863][750]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.19-09.46.13:863][750]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.19-09.46.13:863][750]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.19-09.46.13:863][750]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.19-09.46.13:863][750]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.19-09.46.13:863][750]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.19-09.46.13:863][750]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.19-09.46.13:863][750]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.19-09.46.13:863][750]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.19-09.46.13:863][750]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.19-09.46.13:863][750]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.19-09.46.13:863][750]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.19-09.46.13:863][750]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.19-09.46.13:863][750]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.19-09.46.13:863][750]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.19-09.46.13:863][750]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.19-09.46.13:863][750]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.19-09.46.13:942][750]LogExit: Editor shut down
+[2019.05.19-09.46.13:943][750]LogExit: Transaction tracking system shut down
+[2019.05.19-09.46.14:654][750]LogExit: Object subsystem successfully closed.
+[2019.05.19-09.46.14:683][750]LogShaderCompilers: Display: Shaders left to compile 0
+[2019.05.19-09.46.14:690][750]LogD3D11RHI: Shutdown
+[2019.05.19-09.46.14:690][750]LogD3D11RHI: CleanupD3DDevice
+[2019.05.19-09.46.14:700][750]LogD3D11RHI: ~FD3D11DynamicRHI
+[2019.05.19-09.46.14:714][750]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (616)
+[2019.05.19-09.46.14:714][750]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (614)
+[2019.05.19-09.46.14:714][750]LogModuleManager: Shutting down and abandoning module SceneOutliner (612)
+[2019.05.19-09.46.14:714][750]LogModuleManager: Shutting down and abandoning module AddContentDialog (610)
+[2019.05.19-09.46.14:714][750]LogModuleManager: Shutting down and abandoning module WidgetCarousel (609)
+[2019.05.19-09.46.14:714][750]LogModuleManager: Shutting down and abandoning module EditorWidgets (606)
+[2019.05.19-09.46.14:714][750]LogModuleManager: Shutting down and abandoning module CollectionManager (604)
+[2019.05.19-09.46.14:715][750]LogModuleManager: Shutting down and abandoning module StatsViewer (602)
+[2019.05.19-09.46.14:715][750]LogModuleManager: Shutting down and abandoning module FoliageEdit (600)
+[2019.05.19-09.46.14:715][750]LogModuleManager: Shutting down and abandoning module LandscapeEditor (598)
+[2019.05.19-09.46.14:715][750]LogModuleManager: Shutting down and abandoning module MeshPaintMode (596)
+[2019.05.19-09.46.14:715][750]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (594)
+[2019.05.19-09.46.14:715][750]LogModuleManager: Shutting down and abandoning module ActorPickerMode (592)
+[2019.05.19-09.46.14:715][750]LogModuleManager: Shutting down and abandoning module GeometryMode (590)
+[2019.05.19-09.46.14:715][750]LogModuleManager: Shutting down and abandoning module TextureAlignMode (588)
+[2019.05.19-09.46.14:715][750]LogModuleManager: Shutting down and abandoning module BspMode (586)
+[2019.05.19-09.46.14:715][750]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (584)
+[2019.05.19-09.46.14:715][750]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (582)
+[2019.05.19-09.46.14:715][750]LogModuleManager: Shutting down and abandoning module AutomationWorker (580)
+[2019.05.19-09.46.14:715][750]LogModuleManager: Shutting down and abandoning module HoudiniEngineEditor (578)
+[2019.05.19-09.46.14:715][750]LogHoudiniEngineEditor: Shutting down the Houdini Engine Editor module.
+[2019.05.19-09.46.14:715][750]LogHoudiniEngineEditor: Houdini Engine Editor module shutdown complete.
+[2019.05.19-09.46.14:715][750]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (576)
+[2019.05.19-09.46.14:715][750]LogModuleManager: Shutting down and abandoning module SequenceRecorder (575)
+[2019.05.19-09.46.14:716][750]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (572)
+[2019.05.19-09.46.14:716][750]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (570)
+[2019.05.19-09.46.14:716][750]LogModuleManager: Shutting down and abandoning module PlacementMode (569)
+[2019.05.19-09.46.14:716][750]LogModuleManager: Shutting down and abandoning module MaterialEditor (568)
+[2019.05.19-09.46.14:716][750]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (564)
+[2019.05.19-09.46.14:716][750]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (562)
+[2019.05.19-09.46.14:716][750]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (560)
+[2019.05.19-09.46.14:716][750]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (558)
+[2019.05.19-09.46.14:716][750]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (556)
+[2019.05.19-09.46.14:716][750]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (554)
+[2019.05.19-09.46.14:716][750]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (552)
+[2019.05.19-09.46.14:716][750]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (550)
+[2019.05.19-09.46.14:716][750]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (548)
+[2019.05.19-09.46.14:716][750]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (546)
+[2019.05.19-09.46.14:716][750]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (544)
+[2019.05.19-09.46.14:716][750]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (542)
+[2019.05.19-09.46.14:716][750]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (540)
+[2019.05.19-09.46.14:716][750]LogModuleManager: Shutting down and abandoning module CharacterAI (538)
+[2019.05.19-09.46.14:716][750]LogModuleManager: Shutting down and abandoning module SmartSnapping (536)
+[2019.05.19-09.46.14:716][750]LogModuleManager: Shutting down and abandoning module SessionServices (534)
+[2019.05.19-09.46.14:716][750]LogModuleManager: Shutting down and abandoning module ViewportSnapping (532)
+[2019.05.19-09.46.14:716][750]LogModuleManager: Shutting down and abandoning module ViewportInteraction (530)
+[2019.05.19-09.46.14:716][750]LogModuleManager: Shutting down and abandoning module ClothPainter (528)
+[2019.05.19-09.46.14:716][750]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (527)
+[2019.05.19-09.46.14:717][750]LogModuleManager: Shutting down and abandoning module LogVisualizer (524)
+[2019.05.19-09.46.14:717][750]LogModuleManager: Shutting down and abandoning module IntroTutorials (522)
+[2019.05.19-09.46.14:717][750]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (521)
+[2019.05.19-09.46.14:717][750]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (518)
+[2019.05.19-09.46.14:717][750]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (516)
+[2019.05.19-09.46.14:717][750]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (514)
+[2019.05.19-09.46.14:717][750]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (512)
+[2019.05.19-09.46.14:717][750]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (511)
+[2019.05.19-09.46.15:150][750]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (508)
+[2019.05.19-09.46.15:150][750]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (506)
+[2019.05.19-09.46.15:150][750]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (504)
+[2019.05.19-09.46.15:150][750]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (502)
+[2019.05.19-09.46.15:150][750]LogModuleManager: Shutting down and abandoning module InputBindingEditor (500)
+[2019.05.19-09.46.15:150][750]LogModuleManager: Shutting down and abandoning module MergeActors (498)
+[2019.05.19-09.46.15:150][750]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (496)
+[2019.05.19-09.46.15:150][750]LogModuleManager: Shutting down and abandoning module LocalizationService (495)
+[2019.05.19-09.46.15:150][750]LogModuleManager: Shutting down and abandoning module HardwareTargeting (492)
+[2019.05.19-09.46.15:150][750]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (490)
+[2019.05.19-09.46.15:150][750]LogModuleManager: Shutting down and abandoning module UndoHistory (488)
+[2019.05.19-09.46.15:150][750]LogModuleManager: Shutting down and abandoning module XmlParser (486)
+[2019.05.19-09.46.15:150][750]LogModuleManager: Shutting down and abandoning module Blutility (484)
+[2019.05.19-09.46.15:151][750]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (482)
+[2019.05.19-09.46.15:151][750]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (481)
+[2019.05.19-09.46.15:151][750]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (478)
+[2019.05.19-09.46.15:151][750]LogModuleManager: Shutting down and abandoning module SettingsEditor (476)
+[2019.05.19-09.46.15:151][750]LogModuleManager: Shutting down and abandoning module ProjectLauncher (474)
+[2019.05.19-09.46.15:151][750]LogModuleManager: Shutting down and abandoning module SessionFrontend (472)
+[2019.05.19-09.46.15:151][750]LogModuleManager: Shutting down and abandoning module ProfilerClient (470)
+[2019.05.19-09.46.15:151][750]LogModuleManager: Shutting down and abandoning module DeviceManager (468)
+[2019.05.19-09.46.15:151][750]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (467)
+[2019.05.19-09.46.15:206][750]LogModuleManager: Shutting down and abandoning module AutomationController (464)
+[2019.05.19-09.46.15:206][750]LogModuleManager: Shutting down and abandoning module AutomationWindow (462)
+[2019.05.19-09.46.15:206][750]LogModuleManager: Shutting down and abandoning module Layers (460)
+[2019.05.19-09.46.15:206][750]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (458)
+[2019.05.19-09.46.15:206][750]LogModuleManager: Shutting down and abandoning module DetailCustomizations (456)
+[2019.05.19-09.46.15:206][750]LogModuleManager: Shutting down and abandoning module PackagesDialog (454)
+[2019.05.19-09.46.15:206][750]LogModuleManager: Shutting down and abandoning module Persona (452)
+[2019.05.19-09.46.15:206][750]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (451)
+[2019.05.19-09.46.15:206][750]LogModuleManager: Shutting down and abandoning module AnimGraph (449)
+[2019.05.19-09.46.15:206][750]LogModuleManager: Shutting down and abandoning module Kismet (446)
+[2019.05.19-09.46.15:209][750]LogModuleManager: Shutting down and abandoning module GraphEditor (444)
+[2019.05.19-09.46.15:209][750]LogModuleManager: Shutting down and abandoning module ClassViewer (442)
+[2019.05.19-09.46.15:209][750]LogModuleManager: Shutting down and abandoning module Toolbox (440)
+[2019.05.19-09.46.15:209][750]LogModuleManager: Shutting down and abandoning module ModuleUI (438)
+[2019.05.19-09.46.15:209][750]LogModuleManager: Shutting down and abandoning module MovieSceneTools (436)
+[2019.05.19-09.46.15:209][750]LogModuleManager: Shutting down and abandoning module OutputLog (434)
+[2019.05.19-09.46.15:209][750]LogModuleManager: Shutting down and abandoning module GammaUI (432)
+[2019.05.19-09.46.15:209][750]LogModuleManager: Shutting down and abandoning module Documentation (430)
+[2019.05.19-09.46.15:209][750]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (428)
+[2019.05.19-09.46.15:209][750]LogModuleManager: Shutting down and abandoning module MovieScene (426)
+[2019.05.19-09.46.15:209][750]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (424)
+[2019.05.19-09.46.15:209][750]LogModuleManager: Shutting down and abandoning module LauncherPlatform (422)
+[2019.05.19-09.46.15:209][750]LogModuleManager: Shutting down and abandoning module AnalyticsET (420)
+[2019.05.19-09.46.15:210][750]LogModuleManager: Shutting down and abandoning module PortalServices (418)
+[2019.05.19-09.46.15:210][750]LogModuleManager: Shutting down and abandoning module PortalRpc (416)
+[2019.05.19-09.46.15:210][750]LogModuleManager: Shutting down and abandoning module MessagingRpc (414)
+[2019.05.19-09.46.15:210][750]LogModuleManager: Shutting down and abandoning module AIModule (412)
+[2019.05.19-09.46.15:210][750]LogModuleManager: Shutting down and abandoning module GameplayDebugger (411)
+[2019.05.19-09.46.15:210][750]LogModuleManager: Shutting down and abandoning module AITestSuite (409)
+[2019.05.19-09.46.15:210][750]LogModuleManager: Shutting down and abandoning module NavigationSystem (407)
+[2019.05.19-09.46.15:210][750]LogModuleManager: Shutting down and abandoning module DesktopPlatform (404)
+[2019.05.19-09.46.15:210][750]LogModuleManager: Shutting down and abandoning module ProfilerService (402)
+[2019.05.19-09.46.15:448][750]LogModuleManager: Shutting down and abandoning module TaskGraph (400)
+[2019.05.19-09.46.15:448][750]LogModuleManager: Shutting down and abandoning module SteamVRController (398)
+[2019.05.19-09.46.15:448][750]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (396)
+[2019.05.19-09.46.15:448][750]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (394)
+[2019.05.19-09.46.15:448][750]LogModuleManager: Shutting down and abandoning module OculusInput (392)
+[2019.05.19-09.46.15:448][750]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (390)
+[2019.05.19-09.46.15:448][750]LogModuleManager: Shutting down and abandoning module HoudiniEngineRuntime (388)
+[2019.05.19-09.46.15:449][750]LogHoudiniEngine: Shutting down the Houdini Engine module.
+[2019.05.19-09.46.15:451][750]LogModuleManager: Shutting down and abandoning module EditableMesh (386)
+[2019.05.19-09.46.15:451][750]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (384)
+[2019.05.19-09.46.15:451][750]LogModuleManager: Shutting down and abandoning module CableComponent (382)
+[2019.05.19-09.46.15:451][750]LogModuleManager: Shutting down and abandoning module AudioCapture (380)
+[2019.05.19-09.46.15:451][750]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (378)
+[2019.05.19-09.46.15:451][750]LogModuleManager: Shutting down and abandoning module AndroidPermission (376)
+[2019.05.19-09.46.15:451][750]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (374)
+[2019.05.19-09.46.15:452][750]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (372)
+[2019.05.19-09.46.15:452][750]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (370)
+[2019.05.19-09.46.15:452][750]LogModuleManager: Shutting down and abandoning module MediaCompositing (368)
+[2019.05.19-09.46.15:452][750]LogModuleManager: Shutting down and abandoning module LinearTimecode (366)
+[2019.05.19-09.46.15:452][750]LogModuleManager: Shutting down and abandoning module ImgMedia (364)
+[2019.05.19-09.46.15:456][750]LogModuleManager: Shutting down and abandoning module HTML5Networking (362)
+[2019.05.19-09.46.15:456][750]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (360)
+[2019.05.19-09.46.15:456][750]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (358)
+[2019.05.19-09.46.15:456][750]LogModuleManager: Shutting down and abandoning module BackChannel (356)
+[2019.05.19-09.46.15:456][750]LogModuleManager: Shutting down and abandoning module AppleVision (354)
+[2019.05.19-09.46.15:456][750]LogModuleManager: Shutting down and abandoning module AppleImageUtils (352)
+[2019.05.19-09.46.15:456][750]LogModuleManager: Shutting down and abandoning module AlembicImporter (350)
+[2019.05.19-09.46.15:457][750]LogModuleManager: Shutting down and abandoning module AlembicLibrary (349)
+[2019.05.19-09.46.15:457][750]LogModuleManager: Shutting down and abandoning module GeometryCache (348)
+[2019.05.19-09.46.15:457][750]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (347)
+[2019.05.19-09.46.15:457][750]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (342)
+[2019.05.19-09.46.15:457][750]LogModuleManager: Shutting down and abandoning module DatasmithContent (340)
+[2019.05.19-09.46.15:459][750]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (338)
+[2019.05.19-09.46.15:459][750]LogModuleManager: Shutting down and abandoning module PluginBrowser (336)
+[2019.05.19-09.46.15:459][750]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (334)
+[2019.05.19-09.46.15:460][750]LogModuleManager: Shutting down and abandoning module PolygonModeling (332)
+[2019.05.19-09.46.15:460][750]LogModuleManager: Shutting down and abandoning module MeshEditor (330)
+[2019.05.19-09.46.15:460][750]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (328)
+[2019.05.19-09.46.15:460][750]LogModuleManager: Shutting down and abandoning module CryptoKeys (326)
+[2019.05.19-09.46.15:460][750]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (324)
+[2019.05.19-09.46.15:460][750]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (322)
+[2019.05.19-09.46.15:460][750]LogModuleManager: Shutting down and abandoning module UObjectPlugin (320)
+[2019.05.19-09.46.15:460][750]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (318)
+[2019.05.19-09.46.15:460][750]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (316)
+[2019.05.19-09.46.15:460][750]LogModuleManager: Shutting down and abandoning module GitSourceControl (314)
+[2019.05.19-09.46.15:460][750]LogModuleManager: Shutting down and abandoning module SourceControl (313)
+[2019.05.19-09.46.15:460][750]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (310)
+[2019.05.19-09.46.15:460][750]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (308)
+[2019.05.19-09.46.15:460][750]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (306)
+[2019.05.19-09.46.15:460][750]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (304)
+[2019.05.19-09.46.15:460][750]LogModuleManager: Shutting down and abandoning module Paper2DEditor (302)
+[2019.05.19-09.46.15:460][750]LogModuleManager: Shutting down and abandoning module MeshPaint (301)
+[2019.05.19-09.46.15:460][750]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (298)
+[2019.05.19-09.46.15:460][750]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (296)
+[2019.05.19-09.46.15:460][750]LogModuleManager: Shutting down and abandoning module PhysXVehicles (294)
+[2019.05.19-09.46.15:460][750]LogModuleManager: Shutting down and abandoning module OculusEditor (292)
+[2019.05.19-09.46.15:460][750]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (290)
+[2019.05.19-09.46.15:460][750]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (288)
+[2019.05.19-09.46.15:460][750]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (286)
+[2019.05.19-09.46.15:460][750]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2019.05.19-09.46.15:460][750]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2019.05.19-09.46.15:562][750]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2019.05.19-09.46.15:662][750]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (278)
+[2019.05.19-09.46.15:662][750]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (276)
+[2019.05.19-09.46.15:662][750]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (274)
+[2019.05.19-09.46.15:662][750]LogModuleManager: Shutting down and abandoning module FacialAnimation (272)
+[2019.05.19-09.46.15:662][750]LogModuleManager: Shutting down and abandoning module DataValidation (270)
+[2019.05.19-09.46.15:662][750]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (268)
+[2019.05.19-09.46.15:662][750]LogModuleManager: Shutting down and abandoning module LevelEditor (267)
+[2019.05.19-09.46.15:663][750]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (266)
+[2019.05.19-09.46.15:663][750]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (264)
+[2019.05.19-09.46.15:663][750]LogModuleManager: Shutting down and abandoning module MainFrame (262)
+[2019.05.19-09.46.15:663][750]LogModuleManager: Shutting down and abandoning module HotReload (261)
+[2019.05.19-09.46.15:666][750]LogModuleManager: Shutting down and abandoning module ContentBrowser (257)
+[2019.05.19-09.46.15:667][750]LogModuleManager: Shutting down and abandoning module TreeMap (255)
+[2019.05.19-09.46.15:667][750]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2019.05.19-09.46.15:667][750]LogModuleManager: Shutting down and abandoning module AISupportModule (250)
+[2019.05.19-09.46.15:667][750]LogModuleManager: Shutting down and abandoning module Paper2D (248)
+[2019.05.19-09.46.15:667][750]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (246)
+[2019.05.19-09.46.15:667][750]LogModuleManager: Shutting down and abandoning module WmfMedia (244)
+[2019.05.19-09.46.15:669][750]LogModuleManager: Shutting down and abandoning module Media (243)
+[2019.05.19-09.46.15:675][750]LogModuleManager: Shutting down and abandoning module PacketHandler (240)
+[2019.05.19-09.46.15:675][750]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (238)
+[2019.05.19-09.46.15:676][750]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (236)
+[2019.05.19-09.46.15:676][750]LogModuleManager: Shutting down and abandoning module MediaAssets (234)
+[2019.05.19-09.46.15:676][750]LogModuleManager: Shutting down and abandoning module Overlay (232)
+[2019.05.19-09.46.15:676][750]LogModuleManager: Shutting down and abandoning module OverlayEditor (231)
+[2019.05.19-09.46.15:676][750]LogModuleManager: Shutting down and abandoning module VREditor (228)
+[2019.05.19-09.46.15:676][750]LogModuleManager: Shutting down and abandoning module StringTableEditor (226)
+[2019.05.19-09.46.15:676][750]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (224)
+[2019.05.19-09.46.15:676][750]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (222)
+[2019.05.19-09.46.15:676][750]LogModuleManager: Shutting down and abandoning module FunctionalTesting (220)
+[2019.05.19-09.46.15:676][750]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (218)
+[2019.05.19-09.46.15:676][750]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (217)
+[2019.05.19-09.46.15:676][750]LogModuleManager: Shutting down and abandoning module UMG (214)
+[2019.05.19-09.46.15:676][750]LogModuleManager: Shutting down and abandoning module UMGEditor (213)
+[2019.05.19-09.46.15:676][750]LogModuleManager: Shutting down and abandoning module Sequencer (212)
+[2019.05.19-09.46.15:677][750]LogModuleManager: Shutting down and abandoning module MessageLog (209)
+[2019.05.19-09.46.15:677][750]LogModuleManager: Shutting down and abandoning module SlateReflector (204)
+[2019.05.19-09.46.15:677][750]LogModuleManager: Shutting down and abandoning module Slate (202)
+[2019.05.19-09.46.15:677][750]LogModuleManager: Shutting down and abandoning module EditorStyle (200)
+[2019.05.19-09.46.15:679][750]LogModuleManager: Shutting down and abandoning module MRMesh (198)
+[2019.05.19-09.46.15:680][750]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (196)
+[2019.05.19-09.46.15:680][750]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (194)
+[2019.05.19-09.46.15:680][750]LogModuleManager: Shutting down and abandoning module XAudio2 (192)
+[2019.05.19-09.46.15:680][750]LogModuleManager: Shutting down and abandoning module Networking (190)
+[2019.05.19-09.46.15:680][750]LogModuleManager: Shutting down and abandoning module Core (188)
+[2019.05.19-09.46.15:680][750]LogModuleManager: Shutting down and abandoning module LevelSequence (186)
+[2019.05.19-09.46.15:680][750]LogModuleManager: Shutting down and abandoning module KismetCompiler (184)
+[2019.05.19-09.46.15:680][750]LogModuleManager: Shutting down and abandoning module MeshUtilities (182)
+[2019.05.19-09.46.15:680][750]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (181)
+[2019.05.19-09.46.15:680][750]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (180)
+[2019.05.19-09.46.15:680][750]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (179)
+[2019.05.19-09.46.15:680][750]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (177)
+[2019.05.19-09.46.15:680][750]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (175)
+[2019.05.19-09.46.15:680][750]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (173)
+[2019.05.19-09.46.15:680][750]LogModuleManager: Shutting down and abandoning module MaterialBaking (169)
+[2019.05.19-09.46.15:680][750]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (165)
+[2019.05.19-09.46.15:680][750]LogModuleManager: Shutting down and abandoning module DerivedDataCache (162)
+[2019.05.19-09.46.15:876][750]LogDerivedDataCache: Shutdown
+[2019.05.19-09.46.15:876][750]LogModuleManager: Shutting down and abandoning module XGEController (160)
+[2019.05.19-09.46.15:876][750]LogModuleManager: Shutting down and abandoning module TargetPlatform (158)
+[2019.05.19-09.46.15:876][750]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (157)
+[2019.05.19-09.46.15:876][750]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (155)
+[2019.05.19-09.46.15:876][750]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (153)
+[2019.05.19-09.46.15:876][750]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (151)
+[2019.05.19-09.46.15:876][750]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (149)
+[2019.05.19-09.46.15:876][750]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (147)
+[2019.05.19-09.46.15:876][750]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (145)
+[2019.05.19-09.46.15:876][750]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (143)
+[2019.05.19-09.46.15:876][750]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (141)
+[2019.05.19-09.46.15:876][750]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (139)
+[2019.05.19-09.46.15:876][750]LogModuleManager: Shutting down and abandoning module ImageWrapper (138)
+[2019.05.19-09.46.15:876][750]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (135)
+[2019.05.19-09.46.15:876][750]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (133)
+[2019.05.19-09.46.15:876][750]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (131)
+[2019.05.19-09.46.15:876][750]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (129)
+[2019.05.19-09.46.15:876][750]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (127)
+[2019.05.19-09.46.15:876][750]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (125)
+[2019.05.19-09.46.15:876][750]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (123)
+[2019.05.19-09.46.15:876][750]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (121)
+[2019.05.19-09.46.15:876][750]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (119)
+[2019.05.19-09.46.15:876][750]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (117)
+[2019.05.19-09.46.15:877][750]LogModuleManager: Shutting down and abandoning module Messaging (115)
+[2019.05.19-09.46.15:877][750]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (113)
+[2019.05.19-09.46.15:880][750]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (111)
+[2019.05.19-09.46.15:880][750]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (109)
+[2019.05.19-09.46.15:886][750]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (107)
+[2019.05.19-09.46.15:886][750]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (105)
+[2019.05.19-09.46.15:887][750]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (103)
+[2019.05.19-09.46.15:887][750]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (101)
+[2019.05.19-09.46.15:887][750]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (99)
+[2019.05.19-09.46.15:887][750]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (97)
+[2019.05.19-09.46.15:887][750]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (95)
+[2019.05.19-09.46.15:887][750]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (93)
+[2019.05.19-09.46.15:887][750]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (91)
+[2019.05.19-09.46.15:887][750]LogModuleManager: Shutting down and abandoning module InputCore (88)
+[2019.05.19-09.46.15:887][750]LogModuleManager: Shutting down and abandoning module Settings (86)
+[2019.05.19-09.46.15:887][750]LogModuleManager: Shutting down and abandoning module PhysXCooking (84)
+[2019.05.19-09.46.15:887][750]LogModuleManager: Shutting down and abandoning module SteamVR (82)
+[2019.05.19-09.46.15:887][750]LogModuleManager: Shutting down and abandoning module OculusHMD (80)
+[2019.05.19-09.46.15:887][750]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (78)
+[2019.05.19-09.46.15:887][750]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (76)
+[2019.05.19-09.46.15:887][750]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (74)
+[2019.05.19-09.46.15:887][750]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (70)
+[2019.05.19-09.46.15:888][750]LogModuleManager: Shutting down and abandoning module XMPP (65)
+[2019.05.19-09.46.15:888][750]LogModuleManager: Shutting down and abandoning module WebSockets (64)
+[2019.05.19-09.46.15:908][750]LogModuleManager: Shutting down and abandoning module HTTP (61)
+[2019.05.19-09.46.15:908][750]LogHttp: Display: Http module shutting down, but needs to wait on 2 outstanding Http requests:
+[2019.05.19-09.46.15:908][750]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BB29B579B-4C8A-333B-5C95-4BAC0A1ACE8A%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.20.3-4369336%2B%2B%2BUE4%2BRelease-4.20&UserID=2a032a53428410f50062e6b5760ca375%7Ca35fb2764eea4101b35ba65f18c87623%7Ced5698cd-8358-4ba6-98cd-94077bf59d32&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2019.05.19-09.46.15:908][750]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BB29B579B-4C8A-333B-5C95-4BAC0A1ACE8A%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.20.3-4369336%2B%2B%2BUE4%2BRelease-4.20&UserID=2a032a53428410f50062e6b5760ca375%7Ca35fb2764eea4101b35ba65f18c87623%7Ced5698cd-8358-4ba6-98cd-94077bf59d32&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2019.05.19-09.46.15:938][750]LogModuleManager: Shutting down and abandoning module SSL (60)
+[2019.05.19-09.46.15:939][750]LogModuleManager: Shutting down and abandoning module MagicLeapEmulator (56)
+[2019.05.19-09.46.15:939][750]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (54)
+[2019.05.19-09.46.15:939][750]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (52)
+[2019.05.19-09.46.15:939][750]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (50)
+[2019.05.19-09.46.15:939][750]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (48)
+[2019.05.19-09.46.15:939][750]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (46)
+[2019.05.19-09.46.15:939][750]LogModuleManager: Shutting down and abandoning module MagicLeapGestures (44)
+[2019.05.19-09.46.15:939][750]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (42)
+[2019.05.19-09.46.15:939][750]LogModuleManager: Shutting down and abandoning module MagicLeapController (40)
+[2019.05.19-09.46.15:939][750]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2019.05.19-09.46.15:939][750]LogModuleManager: Shutting down and abandoning module MagicLeap (38)
+[2019.05.19-09.46.15:939][750]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2019.05.19-09.46.15:939][750]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2019.05.19-09.46.15:939][750]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2019.05.19-09.46.15:939][750]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2019.05.19-09.46.15:939][750]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2019.05.19-09.46.15:939][750]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2019.05.19-09.46.15:939][750]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2019.05.19-09.46.15:940][750]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2019.05.19-09.46.15:940][750]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2019.05.19-09.46.15:940][750]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2019.05.19-09.46.15:940][750]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2019.05.19-09.46.15:940][750]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2019.05.19-09.46.15:940][750]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2019.05.19-09.46.15:940][750]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2019.05.19-09.46.15:940][750]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2019.05.19-09.46.15:940][750]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2019.05.19-09.46.15:940][750]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2019.05.19-09.46.15:940][750]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2019.05.19-09.46.15:948][750]LogExit: Exiting.
+[2019.05.19-09.46.15:950][750]Log file closed, 05/19/19 17:46:15
