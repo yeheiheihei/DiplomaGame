@@ -1,0 +1,1617 @@
+﻿Log file open, 05/28/19 20:36:10
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: ClimbDemo
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 1.990952
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +8:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin HoudiniEngine
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.490s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogHMD: Failed initializing OVRPlugin 1.25.0
+LogInit: Build: ++UE4+Release-4.20-CL-4369336
+LogInit: Engine Version: 4.20.3-4369336+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz, GPU: Intel(R) HD Graphics 630
+LogInit: Compiled (64-bit): Sep 17 2018 12:26:19
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line:  
+LogInit: Base Directory: D:/Program Files/Epic Games/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.006s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2019.05.28-12.36.13:164][  0]LogInit: Selected Device Profile: [Windows]
+[2019.05.28-12.36.13:164][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.05.28-12.36.13:205][  0]LogHAL: Display: Platform has ~ 16 GB [17046654976 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.05.28-12.36.13:209][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2019.05.28-12.36.13:209][  0]LogInit: Going up to parent DeviceProfile []
+[2019.05.28-12.36.13:210][  0]LogInit: Computer: DESKTOP-UHKKT41
+[2019.05.28-12.36.13:210][  0]LogInit: User: Ivy
+[2019.05.28-12.36.13:210][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.05.28-12.36.13:210][  0]LogInit: High frequency timer resolution =2.742188 MHz
+[2019.05.28-12.36.13:210][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2019.05.28-12.36.13:210][  0]LogMemory: Platform Memory Stats for Windows
+[2019.05.28-12.36.13:210][  0]LogMemory: Process Physical Memory: 105.30 MB used, 105.30 MB peak
+[2019.05.28-12.36.13:210][  0]LogMemory: Process Virtual Memory: 105.01 MB used, 105.01 MB peak
+[2019.05.28-12.36.13:210][  0]LogMemory: Physical Memory: 5105.92 MB used,  11151.04 MB free, 16256.96 MB total
+[2019.05.28-12.36.13:210][  0]LogMemory: Virtual Memory: 4669.45 MB used,  11151.04 MB free, 134217728.00 MB total
+[2019.05.28-12.36.13:976][  0]LogInit: Overriding language with editor language configuration option (en).
+[2019.05.28-12.36.13:976][  0]LogInit: Overriding locale with editor locale configuration option (en).
+[2019.05.28-12.36.14:769][  0]LogStreaming: Display: Took  0.792s to InitEngineTextLocalization.
+[2019.05.28-12.36.14:769][  0]LogInit: Setting process to per monitor DPI aware
+[2019.05.28-12.36.15:262][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.05.28-12.36.15:262][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.05.28-12.36.15:979][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.05.28-12.36.15:990][  0]LogD3D11RHI: D3D11 adapters:
+[2019.05.28-12.36.16:153][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070' (Feature Level 11_0)
+[2019.05.28-12.36.16:153][  0]LogD3D11RHI:       8089/0/8128 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2019.05.28-12.36.16:174][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2019.05.28-12.36.16:174][  0]LogD3D11RHI:       128/0/8128 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2019.05.28-12.36.16:181][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.05.28-12.36.16:181][  0]LogD3D11RHI:       0/0/8128 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.05.28-12.36.16:181][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.05.28-12.36.16:221][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.05.28-12.36.16:221][  0]LogD3D11RHI:     GPU DeviceId: 0x1ba1 (for the marketing name, search the web for "GPU Device Id")
+[2019.05.28-12.36.16:221][  0]LogWindows: EnumDisplayDevices:
+[2019.05.28-12.36.16:221][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:1 D:1)
+[2019.05.28-12.36.16:223][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2019.05.28-12.36.16:224][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2019.05.28-12.36.16:226][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070' (P:0 D:1)
+[2019.05.28-12.36.16:227][  0]LogWindows:    4. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2019.05.28-12.36.16:229][  0]LogWindows:    5. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2019.05.28-12.36.16:230][  0]LogWindows:    6. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2019.05.28-12.36.16:232][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2019.05.28-12.36.16:232][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070
+[2019.05.28-12.36.16:232][  0]LogD3D11RHI:   Driver Version: 389.12 (internal:23.21.13.8912, unified:389.12)
+[2019.05.28-12.36.16:232][  0]LogD3D11RHI:      Driver Date: 3-7-2018
+[2019.05.28-12.36.16:232][  0]LogRHI: Texture pool is 5662 MB (70% of 8089 MB)
+[2019.05.28-12.36.16:287][  0]LogD3D11RHI: Async texture creation enabled
+[2019.05.28-12.36.16:379][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.05.28-12.36.16:450][  0]LogShaderCompilers: Guid format shader working directory is -1 characters bigger than the processId version (C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Intermediate/Shaders/WorkingDirectory/17644/).
+[2019.05.28-12.36.16:450][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Ivy/AppData/Local/Temp/UnrealShaderWorkingDir/99E822E44D6588C0A615BABDBAD471EB/'.
+[2019.05.28-12.36.17:627][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.05.28-12.36.17:655][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.05.28-12.36.17:692][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.05.28-12.36.17:716][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.05.28-12.36.17:743][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.05.28-12.36.17:774][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.05.28-12.36.17:799][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.05.28-12.36.17:829][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.05.28-12.36.17:841][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.05.28-12.36.17:953][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.28-12.36.17:954][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.28-12.36.17:954][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.28-12.36.17:954][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.28-12.36.17:954][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.28-12.36.17:954][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.28-12.36.17:954][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.28-12.36.17:954][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.28-12.36.17:954][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.28-12.36.17:954][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.28-12.36.17:954][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.28-12.36.17:954][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.28-12.36.17:954][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.28-12.36.17:954][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.28-12.36.17:954][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.28-12.36.17:954][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.28-12.36.17:954][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.28-12.36.17:954][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.28-12.36.17:981][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.05.28-12.36.18:094][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.05.28-12.36.18:094][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.05.28-12.36.18:126][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.05.28-12.36.18:126][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.05.28-12.36.18:151][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.05.28-12.36.18:170][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.05.28-12.36.18:191][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.05.28-12.36.18:220][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.05.28-12.36.18:252][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.05.28-12.36.18:252][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.05.28-12.36.18:722][  0]LogXGEController: Cleaning working directory: C:/Users/Ivy/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.05.28-12.36.18:723][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.05.28-12.36.18:723][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.05.28-12.36.18:723][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.05.28-12.36.19:694][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.05.28-12.36.20:122][  0]LogDerivedDataCache: Loaded boot cache 0.42s 71MB C:/Users/Ivy/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2019.05.28-12.36.20:124][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Ivy/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2019.05.28-12.36.20:124][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.05.28-12.36.20:124][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.05.28-12.36.20:124][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.05.28-12.36.20:124][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.05.28-12.36.20:208][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.05.28-12.36.20:230][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Ivy/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.05.28-12.36.20:230][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.05.28-12.36.20:230][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.05.28-12.36.20:252][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.05.28-12.36.20:254][  0]LogSlate: Using FreeType 2.6.0
+[2019.05.28-12.36.20:291][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.05.28-12.36.20:565][  0]LogAssetRegistry: FAssetRegistry took 0.0263 seconds to start up
+[2019.05.28-12.36.21:561][  0]LogInit: Selected Device Profile: [Windows]
+[2019.05.28-12.36.22:473][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.05.28-12.36.22:571][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.05.28-12.36.22:585][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.05.28-12.36.22:585][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.05.28-12.36.22:585][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.05.28-12.36.22:669][  0]LogNetVersion: ClimbDemo 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 2394580764)
+[2019.05.28-12.36.24:543][  0]LogPackageLocalizationCache: Processed 12 localized package path(s) for 1 prioritized culture(s) in 0.271939 seconds
+[2019.05.28-12.36.24:552][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2019.05.28-12.36.24:552][  0]LogUObjectAllocator: 6690864 out of 0 bytes used by permanent object pool.
+[2019.05.28-12.36.24:552][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.05.28-12.36.31:704][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.05.28-12.36.31:734][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.05.28-12.36.32:461][  0]SourceControl: Source control is disabled
+[2019.05.28-12.36.32:462][  0]SourceControl: Source control is disabled
+[2019.05.28-12.36.32:540][  0]SourceControl: Source control is disabled
+[2019.05.28-12.36.32:556][  0]SourceControl: Source control is disabled
+[2019.05.28-12.36.33:554][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.05.28-12.36.33:981][  0]LogHoudiniEngine: Starting the Houdini Engine module.
+[2019.05.28-12.36.34:038][  0]LogHoudiniEngine: Loaded libHAPIL.dll from Registry path D:/Program Files/Side Effects Software/Houdini 17.0.416/bin
+[2019.05.28-12.36.34:040][  0]LogLinker: Warning: Asset '../../Plugins/Runtime/HoudiniEngine/Content/houdini_logo.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.05.28-12.36.34:044][  0]LogLinker: Warning: Asset '../../Plugins/Runtime/HoudiniEngine/Content/houdini_default_material.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.05.28-12.36.34:052][  0]LogLinker: Warning: Asset '../../Plugins/Runtime/HoudiniEngine/Content/houdini_bgeo_import.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.05.28-12.36.37:680][  0]LogHoudiniEngine: Error: Failed to create a Houdini Engine session
+[2019.05.28-12.36.37:680][  0]LogHoudiniEngine: Starting up the Houdini Engine API module failed: Generic Failure
+[2019.05.28-12.36.37:742][  0]LogOcInput: OculusInput pre-init called
+[2019.05.28-12.36.38:296][  0]LogEngine: Initializing Engine...
+[2019.05.28-12.36.38:307][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.05.28-12.36.38:309][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.05.28-12.36.38:309][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.05.28-12.36.38:336][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.05.28-12.36.38:338][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.002 s
+[2019.05.28-12.36.39:048][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.05.28-12.36.39:164][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.05.28-12.36.39:305][  0]LogInit: XAudio2 using '扬声器/听筒 (Realtek Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.05.28-12.36.40:038][  0]LogInit: FAudioDevice initialized.
+[2019.05.28-12.36.40:039][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.05.28-12.36.40:305][  0]LogDerivedDataCache: Saved boot cache 0.27s 71MB C:/Users/Ivy/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2019.05.28-12.36.40:318][  0]LogInit: Texture streaming: Enabled
+[2019.05.28-12.36.40:481][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.05.28-12.36.40:550][  0]LogInit: Transaction tracking system initialized
+[2019.05.28-12.36.40:734][  0]BlueprintLog: New page: Editor Load
+[2019.05.28-12.36.41:397][  0]LocalizationService: Localization service is disabled
+[2019.05.28-12.36.43:518][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.05.28-12.36.43:518][  0]LogCook: Display: Mobile HDR setting 1
+[2019.05.28-12.36.43:536][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.05.28-12.36.43:536][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.05.28-12.36.43:536][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.05.28-12.36.43:536][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.05.28-12.36.43:536][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.05.28-12.36.43:894][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Content/' took 0.05s
+[2019.05.28-12.36.44:477][  0]LogHoudiniEngineEditor: Starting the Houdini Engine Editor module.
+[2019.05.28-12.36.44:504][  0]LogHoudiniEngineEditor: Houdini Engine Editor module startup complete.
+[2019.05.28-12.36.44:985][  0]SourceControl: Source control is disabled
+[2019.05.28-12.36.44:985][  0]Cmd: MAP LOAD FILE="C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Content/Terrain/4/LakeLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.05.28-12.36.44:997][  0]LightingResults: New page: Lighting Build
+[2019.05.28-12.36.45:014][  0]MapCheck: New page: Map Check
+[2019.05.28-12.36.45:014][  0]LightingResults: New page: Lighting Build
+[2019.05.28-12.36.47:133][  0]LogBlueprint: Warning: [Compiler ABP_Climber] Cling_BS to JumpEnd  will never be taken, please connect something to  Can Enter Transition
+[2019.05.28-12.36.47:743][  0]LogBlueprint: Warning: [Compiler ABP_Climber] [0046.87] Compile of ABP_Climber successful, but with 1 Warning(s) [in 845 ms] (/Game/Clinging/Animations/Blueprints/ABP_Climber.ABP_Climber)
+[2019.05.28-12.36.48:112][  0]LogLinker: Warning: Asset 'C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Content/BaseMaterials/SeaShaders/Textures/T_SmallWaves_N.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.05.28-12.36.48:288][  0]LogLinker: Warning: Unable to load PhysicsSerializer with outer InstancedStaticMeshComponent /Game/Terrain/HoudiniBake/terrain_bishe_1_846516E4.terrain_bishe_1_846516E4_C:InstancedStaticMesh10_GEN_VARIABLE because its class does not exist
+[2019.05.28-12.36.48:288][  0]LogLinker: Warning: Unable to load PhysicsSerializer with outer InstancedStaticMeshComponent /Game/Terrain/HoudiniBake/terrain_bishe_1_846516E4.terrain_bishe_1_846516E4_C:InstancedStaticMesh11_GEN_VARIABLE because its class does not exist
+[2019.05.28-12.36.48:288][  0]LogLinker: Warning: Unable to load PhysicsSerializer with outer InstancedStaticMeshComponent /Game/Terrain/HoudiniBake/terrain_bishe_1_846516E4.terrain_bishe_1_846516E4_C:InstancedStaticMesh12_GEN_VARIABLE because its class does not exist
+[2019.05.28-12.36.48:289][  0]LogLinker: Warning: Unable to load PhysicsSerializer with outer InstancedStaticMeshComponent /Game/Terrain/HoudiniBake/terrain_bishe_1_846516E4.terrain_bishe_1_846516E4_C:InstancedStaticMesh13_GEN_VARIABLE because its class does not exist
+[2019.05.28-12.36.48:289][  0]LogLinker: Warning: Unable to load PhysicsSerializer with outer InstancedStaticMeshComponent /Game/Terrain/HoudiniBake/terrain_bishe_1_846516E4.terrain_bishe_1_846516E4_C:InstancedStaticMesh14_GEN_VARIABLE because its class does not exist
+[2019.05.28-12.36.48:289][  0]LogLinker: Warning: Unable to load PhysicsSerializer with outer InstancedStaticMeshComponent /Game/Terrain/HoudiniBake/terrain_bishe_1_846516E4.terrain_bishe_1_846516E4_C:InstancedStaticMesh15_GEN_VARIABLE because its class does not exist
+[2019.05.28-12.36.48:289][  0]LogLinker: Warning: Unable to load PhysicsSerializer with outer InstancedStaticMeshComponent /Game/Terrain/HoudiniBake/terrain_bishe_1_846516E4.terrain_bishe_1_846516E4_C:InstancedStaticMesh16_GEN_VARIABLE because its class does not exist
+[2019.05.28-12.36.48:289][  0]LogLinker: Warning: Unable to load PhysicsSerializer with outer InstancedStaticMeshComponent /Game/Terrain/HoudiniBake/terrain_bishe_1_846516E4.terrain_bishe_1_846516E4_C:InstancedStaticMesh17_GEN_VARIABLE because its class does not exist
+[2019.05.28-12.36.48:289][  0]LogLinker: Warning: Unable to load PhysicsSerializer with outer InstancedStaticMeshComponent /Game/Terrain/HoudiniBake/terrain_bishe_1_846516E4.terrain_bishe_1_846516E4_C:InstancedStaticMesh18_GEN_VARIABLE because its class does not exist
+[2019.05.28-12.36.48:289][  0]LogLinker: Warning: Unable to load PhysicsSerializer with outer InstancedStaticMeshComponent /Game/Terrain/HoudiniBake/terrain_bishe_1_846516E4.terrain_bishe_1_846516E4_C:InstancedStaticMesh19_GEN_VARIABLE because its class does not exist
+[2019.05.28-12.36.48:289][  0]LogLinker: Warning: Unable to load PhysicsSerializer with outer InstancedStaticMeshComponent /Game/Terrain/HoudiniBake/terrain_bishe_1_846516E4.terrain_bishe_1_846516E4_C:InstancedStaticMesh1_GEN_VARIABLE because its class does not exist
+[2019.05.28-12.36.48:289][  0]LogLinker: Warning: Unable to load PhysicsSerializer with outer InstancedStaticMeshComponent /Game/Terrain/HoudiniBake/terrain_bishe_1_846516E4.terrain_bishe_1_846516E4_C:InstancedStaticMesh20_GEN_VARIABLE because its class does not exist
+[2019.05.28-12.36.48:289][  0]LogLinker: Warning: Unable to load PhysicsSerializer with outer InstancedStaticMeshComponent /Game/Terrain/HoudiniBake/terrain_bishe_1_846516E4.terrain_bishe_1_846516E4_C:InstancedStaticMesh21_GEN_VARIABLE because its class does not exist
+[2019.05.28-12.36.48:289][  0]LogLinker: Warning: Unable to load PhysicsSerializer with outer InstancedStaticMeshComponent /Game/Terrain/HoudiniBake/terrain_bishe_1_846516E4.terrain_bishe_1_846516E4_C:InstancedStaticMesh22_GEN_VARIABLE because its class does not exist
+[2019.05.28-12.36.48:289][  0]LogLinker: Warning: Unable to load PhysicsSerializer with outer InstancedStaticMeshComponent /Game/Terrain/HoudiniBake/terrain_bishe_1_846516E4.terrain_bishe_1_846516E4_C:InstancedStaticMesh23_GEN_VARIABLE because its class does not exist
+[2019.05.28-12.36.48:289][  0]LogLinker: Warning: Unable to load PhysicsSerializer with outer InstancedStaticMeshComponent /Game/Terrain/HoudiniBake/terrain_bishe_1_846516E4.terrain_bishe_1_846516E4_C:InstancedStaticMesh24_GEN_VARIABLE because its class does not exist
+[2019.05.28-12.36.48:289][  0]LogLinker: Warning: Unable to load PhysicsSerializer with outer InstancedStaticMeshComponent /Game/Terrain/HoudiniBake/terrain_bishe_1_846516E4.terrain_bishe_1_846516E4_C:InstancedStaticMesh25_GEN_VARIABLE because its class does not exist
+[2019.05.28-12.36.48:289][  0]LogLinker: Warning: Unable to load PhysicsSerializer with outer InstancedStaticMeshComponent /Game/Terrain/HoudiniBake/terrain_bishe_1_846516E4.terrain_bishe_1_846516E4_C:InstancedStaticMesh26_GEN_VARIABLE because its class does not exist
+[2019.05.28-12.36.48:290][  0]LogLinker: Warning: Unable to load PhysicsSerializer with outer InstancedStaticMeshComponent /Game/Terrain/HoudiniBake/terrain_bishe_1_846516E4.terrain_bishe_1_846516E4_C:InstancedStaticMesh27_GEN_VARIABLE because its class does not exist
+[2019.05.28-12.36.48:290][  0]LogLinker: Warning: Unable to load PhysicsSerializer with outer InstancedStaticMeshComponent /Game/Terrain/HoudiniBake/terrain_bishe_1_846516E4.terrain_bishe_1_846516E4_C:InstancedStaticMesh28_GEN_VARIABLE because its class does not exist
+[2019.05.28-12.36.48:290][  0]LogLinker: Warning: Unable to load PhysicsSerializer with outer InstancedStaticMeshComponent /Game/Terrain/HoudiniBake/terrain_bishe_1_846516E4.terrain_bishe_1_846516E4_C:InstancedStaticMesh29_GEN_VARIABLE because its class does not exist
+[2019.05.28-12.36.48:290][  0]LogLinker: Warning: Unable to load PhysicsSerializer with outer InstancedStaticMeshComponent /Game/Terrain/HoudiniBake/terrain_bishe_1_846516E4.terrain_bishe_1_846516E4_C:InstancedStaticMesh2_GEN_VARIABLE because its class does not exist
+[2019.05.28-12.36.48:290][  0]LogLinker: Warning: Unable to load PhysicsSerializer with outer InstancedStaticMeshComponent /Game/Terrain/HoudiniBake/terrain_bishe_1_846516E4.terrain_bishe_1_846516E4_C:InstancedStaticMesh30_GEN_VARIABLE because its class does not exist
+[2019.05.28-12.36.48:290][  0]LogLinker: Warning: Unable to load PhysicsSerializer with outer InstancedStaticMeshComponent /Game/Terrain/HoudiniBake/terrain_bishe_1_846516E4.terrain_bishe_1_846516E4_C:InstancedStaticMesh31_GEN_VARIABLE because its class does not exist
+[2019.05.28-12.36.48:290][  0]LogLinker: Warning: Unable to load PhysicsSerializer with outer InstancedStaticMeshComponent /Game/Terrain/HoudiniBake/terrain_bishe_1_846516E4.terrain_bishe_1_846516E4_C:InstancedStaticMesh32_GEN_VARIABLE because its class does not exist
+[2019.05.28-12.36.48:290][  0]LogLinker: Warning: Unable to load PhysicsSerializer with outer InstancedStaticMeshComponent /Game/Terrain/HoudiniBake/terrain_bishe_1_846516E4.terrain_bishe_1_846516E4_C:InstancedStaticMesh3_GEN_VARIABLE because its class does not exist
+[2019.05.28-12.36.48:290][  0]LogLinker: Warning: Unable to load PhysicsSerializer with outer InstancedStaticMeshComponent /Game/Terrain/HoudiniBake/terrain_bishe_1_846516E4.terrain_bishe_1_846516E4_C:InstancedStaticMesh4_GEN_VARIABLE because its class does not exist
+[2019.05.28-12.36.48:290][  0]LogLinker: Warning: Unable to load PhysicsSerializer with outer InstancedStaticMeshComponent /Game/Terrain/HoudiniBake/terrain_bishe_1_846516E4.terrain_bishe_1_846516E4_C:InstancedStaticMesh5_GEN_VARIABLE because its class does not exist
+[2019.05.28-12.36.48:290][  0]LogLinker: Warning: Unable to load PhysicsSerializer with outer InstancedStaticMeshComponent /Game/Terrain/HoudiniBake/terrain_bishe_1_846516E4.terrain_bishe_1_846516E4_C:InstancedStaticMesh6_GEN_VARIABLE because its class does not exist
+[2019.05.28-12.36.48:290][  0]LogLinker: Warning: Unable to load PhysicsSerializer with outer InstancedStaticMeshComponent /Game/Terrain/HoudiniBake/terrain_bishe_1_846516E4.terrain_bishe_1_846516E4_C:InstancedStaticMesh7_GEN_VARIABLE because its class does not exist
+[2019.05.28-12.36.48:290][  0]LogLinker: Warning: Unable to load PhysicsSerializer with outer InstancedStaticMeshComponent /Game/Terrain/HoudiniBake/terrain_bishe_1_846516E4.terrain_bishe_1_846516E4_C:InstancedStaticMesh8_GEN_VARIABLE because its class does not exist
+[2019.05.28-12.36.48:290][  0]LogLinker: Warning: Unable to load PhysicsSerializer with outer InstancedStaticMeshComponent /Game/Terrain/HoudiniBake/terrain_bishe_1_846516E4.terrain_bishe_1_846516E4_C:InstancedStaticMesh9_GEN_VARIABLE because its class does not exist
+[2019.05.28-12.36.48:290][  0]LogLinker: Warning: Unable to load PhysicsSerializer with outer InstancedStaticMeshComponent /Game/Terrain/HoudiniBake/terrain_bishe_1_846516E4.terrain_bishe_1_846516E4_C:InstancedStaticMesh_GEN_VARIABLE because its class does not exist
+[2019.05.28-12.36.51:814][  0]LogAIModule: Creating AISystem for world LakeLevel
+[2019.05.28-12.36.52:491][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.05.28-12.36.52:650][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.05.28-12.36.52:903][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 252.158ms to complete.
+[2019.05.28-12.36.52:903][  0]LogFileHelpers: Loading map 'LakeLevel' took 7.918
+[2019.05.28-12.36.53:239][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.28-12.36.53:248][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.28-12.36.53:311][  0]LogCollectionManager: Loaded 0 collections in 0.001874 seconds
+[2019.05.28-12.36.53:389][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Saved/Collections/' took 0.01s
+[2019.05.28-12.36.53:390][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Content/Developers/Ivy/Collections/' took 0.01s
+[2019.05.28-12.36.53:390][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Content/Collections/' took 0.01s
+[2019.05.28-12.36.53:390][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.05.28-12.36.53:401][  0]LogContentBrowser: Native class hierarchy populated in 0.0103 seconds. Added 2610 classes and 610 folders.
+[2019.05.28-12.36.53:448][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2019.05.28-12.36.54:069][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.05.28-12.36.54:117][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2019.05.28-12.36.54:218][  0]LogSlate: Took 0.004377 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.05.28-12.36.54:251][  0]LogSlate: Took 0.026873 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.05.28-12.36.54:271][  0]LogSlate: Took 0.016030 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.05.28-12.36.54:414][  0]LogRenderer: Reallocating scene render targets to support 456x260 Format 10 NumSamples 1 (Frame:1).
+[2019.05.28-12.36.54:454][  0]LogRenderer: Reallocating scene render targets to support 912x520 Format 10 NumSamples 1 (Frame:1).
+[2019.05.28-12.36.54:602][  0]LogSlate: Took 0.063211 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2019.05.28-12.36.54:756][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.05.28-12.36.54:756][  0]LogLoad: (Engine Initialization) Total time: 53.88 seconds
+[2019.05.28-12.36.54:756][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.05.28-12.36.54:818][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.05.28-12.36.55:026][  2]LogSlate: Took 0.009153 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.05.28-12.36.55:101][  3]LogAssetRegistry: Asset discovery search completed in 34.5585 seconds
+[2019.05.28-12.36.55:103][  3]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.05.28-12.36.55:103][  3]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000078 seconds (updated 0 objects)
+[2019.05.28-12.36.55:820][ 41]LogSlate: Took 0.000285 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.05.28-12.36.57:927][160]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.28-12.37.14:208][674]LogAIModule: Creating AISystem for world LakeLevelNew
+[2019.05.28-12.37.14:375][674]LogScript: Warning: Script Msg: Attempted to access index 15 from array 'BIrdSBP' of length 15 in '/Game/Blueprints/Bird/InsectsBirdsFish/Blueprints/NewFolder/BP_Bird_Spline1.BP_Bird_Spline1_C'!
+[2019.05.28-12.37.14:375][674]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	BP_Bird_Spline1_C /Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.BP_Bird_Spline1_34488
+	Function /Game/Blueprints/Bird/InsectsBirdsFish/Blueprints/NewFolder/BP_Bird_Spline1.BP_Bird_Spline1_C:UpdateBird:027F
+[2019.05.28-12.37.14:375][674]LogScript: Warning: Script Msg: Attempted to access index 16 from array 'BIrdSBP' of length 15 in '/Game/Blueprints/Bird/InsectsBirdsFish/Blueprints/NewFolder/BP_Bird_Spline1.BP_Bird_Spline1_C'!
+[2019.05.28-12.37.14:375][674]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	BP_Bird_Spline1_C /Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.BP_Bird_Spline1_34488
+	Function /Game/Blueprints/Bird/InsectsBirdsFish/Blueprints/NewFolder/BP_Bird_Spline1.BP_Bird_Spline1_C:UpdateBird:027F
+[2019.05.28-12.37.14:375][674]LogScript: Warning: Script Msg: Attempted to access index 17 from array 'BIrdSBP' of length 15 in '/Game/Blueprints/Bird/InsectsBirdsFish/Blueprints/NewFolder/BP_Bird_Spline1.BP_Bird_Spline1_C'!
+[2019.05.28-12.37.14:375][674]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	BP_Bird_Spline1_C /Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.BP_Bird_Spline1_34488
+	Function /Game/Blueprints/Bird/InsectsBirdsFish/Blueprints/NewFolder/BP_Bird_Spline1.BP_Bird_Spline1_C:UpdateBird:027F
+[2019.05.28-12.37.14:375][674]LogScript: Warning: Script Msg: Attempted to access index 18 from array 'BIrdSBP' of length 15 in '/Game/Blueprints/Bird/InsectsBirdsFish/Blueprints/NewFolder/BP_Bird_Spline1.BP_Bird_Spline1_C'!
+[2019.05.28-12.37.14:375][674]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	BP_Bird_Spline1_C /Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.BP_Bird_Spline1_34488
+	Function /Game/Blueprints/Bird/InsectsBirdsFish/Blueprints/NewFolder/BP_Bird_Spline1.BP_Bird_Spline1_C:UpdateBird:027F
+[2019.05.28-12.37.14:375][674]LogScript: Warning: Script Msg: Attempted to access index 19 from array 'BIrdSBP' of length 15 in '/Game/Blueprints/Bird/InsectsBirdsFish/Blueprints/NewFolder/BP_Bird_Spline1.BP_Bird_Spline1_C'!
+[2019.05.28-12.37.14:375][674]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	BP_Bird_Spline1_C /Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.BP_Bird_Spline1_34488
+	Function /Game/Blueprints/Bird/InsectsBirdsFish/Blueprints/NewFolder/BP_Bird_Spline1.BP_Bird_Spline1_C:UpdateBird:027F
+[2019.05.28-12.37.14:501][674]LogAssetEditorManager: Opening Asset editor for World /Game/Terrain/4/LakeLevelNew.LakeLevelNew
+[2019.05.28-12.37.14:544][674]Cmd: MAP LOAD FILE="C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Content/Terrain/4/LakeLevelNew.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.05.28-12.37.14:544][674]LightingResults: New page: Lighting Build
+[2019.05.28-12.37.14:545][674]LoadErrors: New page: Loading map: LakeLevelNew.umap
+[2019.05.28-12.37.14:565][674]MapCheck: New page: Map Check
+[2019.05.28-12.37.14:565][674]LightingResults: New page: Lighting Build
+[2019.05.28-12.37.15:195][674]LogScript: Warning: Script Msg: Attempted to access index 15 from array 'BIrdSBP' of length 15 in '/Game/Blueprints/Bird/InsectsBirdsFish/Blueprints/NewFolder/BP_Bird_Spline1.BP_Bird_Spline1_C'!
+[2019.05.28-12.37.15:195][674]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	BP_Bird_Spline1_C /Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.BP_Bird_Spline1_34488
+	Function /Game/Blueprints/Bird/InsectsBirdsFish/Blueprints/NewFolder/BP_Bird_Spline1.BP_Bird_Spline1_C:UpdateBird:027F
+[2019.05.28-12.37.15:195][674]LogScript: Warning: Script Msg: Attempted to access index 16 from array 'BIrdSBP' of length 15 in '/Game/Blueprints/Bird/InsectsBirdsFish/Blueprints/NewFolder/BP_Bird_Spline1.BP_Bird_Spline1_C'!
+[2019.05.28-12.37.15:195][674]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	BP_Bird_Spline1_C /Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.BP_Bird_Spline1_34488
+	Function /Game/Blueprints/Bird/InsectsBirdsFish/Blueprints/NewFolder/BP_Bird_Spline1.BP_Bird_Spline1_C:UpdateBird:027F
+[2019.05.28-12.37.15:195][674]LogScript: Warning: Script Msg: Attempted to access index 17 from array 'BIrdSBP' of length 15 in '/Game/Blueprints/Bird/InsectsBirdsFish/Blueprints/NewFolder/BP_Bird_Spline1.BP_Bird_Spline1_C'!
+[2019.05.28-12.37.15:195][674]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	BP_Bird_Spline1_C /Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.BP_Bird_Spline1_34488
+	Function /Game/Blueprints/Bird/InsectsBirdsFish/Blueprints/NewFolder/BP_Bird_Spline1.BP_Bird_Spline1_C:UpdateBird:027F
+[2019.05.28-12.37.15:195][674]LogScript: Warning: Script Msg: Attempted to access index 18 from array 'BIrdSBP' of length 15 in '/Game/Blueprints/Bird/InsectsBirdsFish/Blueprints/NewFolder/BP_Bird_Spline1.BP_Bird_Spline1_C'!
+[2019.05.28-12.37.15:195][674]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	BP_Bird_Spline1_C /Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.BP_Bird_Spline1_34488
+	Function /Game/Blueprints/Bird/InsectsBirdsFish/Blueprints/NewFolder/BP_Bird_Spline1.BP_Bird_Spline1_C:UpdateBird:027F
+[2019.05.28-12.37.15:195][674]LogScript: Warning: Script Msg: Attempted to access index 19 from array 'BIrdSBP' of length 15 in '/Game/Blueprints/Bird/InsectsBirdsFish/Blueprints/NewFolder/BP_Bird_Spline1.BP_Bird_Spline1_C'!
+[2019.05.28-12.37.15:195][674]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	BP_Bird_Spline1_C /Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.BP_Bird_Spline1_34488
+	Function /Game/Blueprints/Bird/InsectsBirdsFish/Blueprints/NewFolder/BP_Bird_Spline1.BP_Bird_Spline1_C:UpdateBird:027F
+[2019.05.28-12.37.15:430][674]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.05.28-12.37.15:582][674]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.05.28-12.37.16:052][674]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 469.175ms to complete.
+[2019.05.28-12.37.16:060][674]LogFileHelpers: Loading map 'LakeLevelNew' took 1.516
+[2019.05.28-12.37.41:281][633]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.28-12.37.41:369][638]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.28-12.37.41:405][638]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel' has LevelScriptBlueprint '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew' with GeneratedClass '/Game/Terrain/4/LakeLevelNew.LakeLevelNew_C' with ClassGeneratedBy '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew'
+[2019.05.28-12.37.41:405][638]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.28-12.37.41:481][638]PIE: New page: PIE session: LakeLevelNew (May 29, 2019, 4:37:41 AM)
+[2019.05.28-12.37.41:481][638]LogPlayLevel: Creating play world package: /Game/Terrain/4/UEDPIE_0_LakeLevelNew
+[2019.05.28-12.37.41:783][638]LogPlayLevel: PIE: StaticDuplicateObject took: (0.302260s)
+[2019.05.28-12.37.41:784][638]LogAIModule: Creating AISystem for world LakeLevelNew
+[2019.05.28-12.37.41:785][638]LogPlayLevel: PIE: World Init took: (0.001427s)
+[2019.05.28-12.37.41:785][638]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Terrain/4/LakeLevelNew.LakeLevelNew to /Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew (0.304616s)
+[2019.05.28-12.37.41:915][638]LogInit: XAudio2 using '扬声器/听筒 (Realtek Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.05.28-12.37.41:959][638]LogInit: FAudioDevice initialized.
+[2019.05.28-12.37.42:002][638]LogLoad: Game class is 'NewGameMode_C'
+[2019.05.28-12.37.46:798][638]LogWorld: Bringing World /Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew up for play (max tick rate 60) at 2019.05.28-20.37.46
+[2019.05.28-12.37.46:816][638]LogWorld: Bringing up level for play took: 4.812297
+[2019.05.28-12.37.46:860][638]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 10 classes and 0 folders.
+[2019.05.28-12.37.46:868][638]PIE: Play in editor start time for /Game/Terrain/4/UEDPIE_0_LakeLevelNew 5.5
+[2019.05.28-12.37.46:868][638]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel' has LevelScriptBlueprint '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew' with GeneratedClass '/Game/Terrain/4/LakeLevelNew.LakeLevelNew_C' with ClassGeneratedBy '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew'
+[2019.05.28-12.38.06:016][991]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel' has LevelScriptBlueprint '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew' with GeneratedClass '/Game/Terrain/4/LakeLevelNew.LakeLevelNew_C' with ClassGeneratedBy '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew'
+[2019.05.28-12.38.06:016][991]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.28-12.38.06:087][991]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.28-12.38.06:087][991]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel' has LevelScriptBlueprint '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew' with GeneratedClass '/Game/Terrain/4/LakeLevelNew.LakeLevelNew_C' with ClassGeneratedBy '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew'
+[2019.05.28-12.38.06:117][991]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.28-12.38.06:117][991]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.28-12.38.06:117][991]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.28-12.38.06:117][991]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.28-12.38.06:117][991]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.28-12.38.06:117][991]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.28-12.38.06:117][991]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.28-12.38.06:117][991]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.28-12.38.06:117][991]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.28-12.38.06:117][991]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.28-12.38.06:117][991]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.28-12.38.06:117][991]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.28-12.38.06:117][991]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.28-12.38.06:117][991]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.28-12.38.06:117][991]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.28-12.38.06:117][991]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.28-12.38.06:117][991]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.28-12.38.06:117][991]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.28-12.38.06:117][991]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.28-12.38.06:117][991]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.28-12.38.06:117][991]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.28-12.38.06:117][991]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.28-12.38.06:117][991]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.28-12.38.06:117][991]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.28-12.38.06:117][991]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.28-12.38.06:117][991]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.28-12.38.06:117][991]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.28-12.38.06:117][991]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.28-12.38.06:117][991]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.28-12.38.06:122][991]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.28-12.38.06:122][991]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.28-12.38.06:122][991]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.28-12.38.06:122][991]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.28-12.38.06:122][991]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.28-12.38.06:122][991]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.28-12.38.06:122][991]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.28-12.38.06:122][991]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.28-12.38.06:122][991]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.28-12.38.06:122][991]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.28-12.38.06:122][991]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.28-12.38.06:122][991]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.28-12.38.06:122][991]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.28-12.38.06:122][991]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.28-12.38.06:122][991]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.28-12.38.06:122][991]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.28-12.38.06:122][991]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.28-12.38.06:122][991]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.28-12.38.06:122][991]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.28-12.38.06:122][991]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.28-12.38.06:122][991]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.28-12.38.06:122][991]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.28-12.38.06:130][991]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.28-12.38.06:188][992]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2019.05.28-12.38.10:661][110]LogEditorViewport: Clicking on Actor (LMB): CinemachinePeople_C (5_PlantPeople)
+[2019.05.28-12.38.28:846][512]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.28-12.38.28:988][514]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Misc/CinemachinePeople.CinemachinePeople
+[2019.05.28-12.38.29:840][514]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 116 classes and 0 folders.
+[2019.05.28-12.38.31:254][514]LogSlate: Took 0.021604 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.05.28-12.38.31:514][515]LogSlate: Took 0.001355 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.05.28-12.38.46:122][902]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.28-12.39.13:742][ 28]LogSlate: Window 'Save Content' being destroyed
+[2019.05.28-12.39.14:290][ 28]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Terrain/4/LakeLevelNew" FILE="C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Content/Terrain/4/LakeLevelNew.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.05.28-12.39.21:870][ 28]LogSavePackage: Moving 'C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Saved/LakeLevelNew661FEFE048AE42F05E77E3AFF08AEA2D.tmp' to 'C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Content/Terrain/4/LakeLevelNew.umap'
+[2019.05.28-12.39.21:964][ 28]LogFileHelpers: Saving map 'LakeLevelNew' took 8.185
+[2019.05.28-12.39.29:281][305]LogSlate: Window 'Save Content' being destroyed
+[2019.05.28-12.39.29:780][305]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Terrain/4/LakeLevelNew" FILE="C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Content/Terrain/4/LakeLevelNew.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.05.28-12.39.36:693][305]LogSavePackage: Moving 'C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Saved/LakeLevelNew5B482F24410192928C7C2D908C3E6168.tmp' to 'C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Content/Terrain/4/LakeLevelNew.umap'
+[2019.05.28-12.39.36:788][305]LogFileHelpers: Saving map 'LakeLevelNew' took 7.465
+[2019.05.28-12.39.42:223][467]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.28-12.39.42:316][469]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.28-12.39.42:353][469]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel' has LevelScriptBlueprint '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew' with GeneratedClass '/Game/Terrain/4/LakeLevelNew.LakeLevelNew_C' with ClassGeneratedBy '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew'
+[2019.05.28-12.39.42:353][469]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.28-12.39.42:353][469]PIE: New page: PIE session: LakeLevelNew (May 29, 2019, 4:39:42 AM)
+[2019.05.28-12.39.42:353][469]LogPlayLevel: Creating play world package: /Game/Terrain/4/UEDPIE_0_LakeLevelNew
+[2019.05.28-12.39.42:558][469]LogPlayLevel: PIE: StaticDuplicateObject took: (0.203889s)
+[2019.05.28-12.39.42:558][469]LogAIModule: Creating AISystem for world LakeLevelNew
+[2019.05.28-12.39.42:559][469]LogPlayLevel: PIE: World Init took: (0.000965s)
+[2019.05.28-12.39.42:559][469]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Terrain/4/LakeLevelNew.LakeLevelNew to /Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew (0.205169s)
+[2019.05.28-12.39.42:695][469]LogInit: XAudio2 using '扬声器/听筒 (Realtek Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.05.28-12.39.42:736][469]LogInit: FAudioDevice initialized.
+[2019.05.28-12.39.42:766][469]LogLoad: Game class is 'NewGameMode_C'
+[2019.05.28-12.39.47:534][469]LogWorld: Bringing World /Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew up for play (max tick rate 60) at 2019.05.28-20.39.47
+[2019.05.28-12.39.47:551][469]LogWorld: Bringing up level for play took: 4.784485
+[2019.05.28-12.39.47:577][469]PIE: Play in editor start time for /Game/Terrain/4/UEDPIE_0_LakeLevelNew 6.209
+[2019.05.28-12.39.47:577][469]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel' has LevelScriptBlueprint '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew' with GeneratedClass '/Game/Terrain/4/LakeLevelNew.LakeLevelNew_C' with ClassGeneratedBy '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew'
+[2019.05.28-12.40.17:004][977]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel' has LevelScriptBlueprint '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew' with GeneratedClass '/Game/Terrain/4/LakeLevelNew.LakeLevelNew_C' with ClassGeneratedBy '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew'
+[2019.05.28-12.40.17:005][977]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.28-12.40.17:106][977]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.28-12.40.17:106][977]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel' has LevelScriptBlueprint '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew' with GeneratedClass '/Game/Terrain/4/LakeLevelNew.LakeLevelNew_C' with ClassGeneratedBy '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew'
+[2019.05.28-12.40.17:149][977]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.InstancedStaticMeshComponent_15) Not registered. Aborting.
+[2019.05.28-12.40.17:149][977]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.InstancedStaticMeshComponent_28) Not registered. Aborting.
+[2019.05.28-12.40.17:149][977]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.InstancedStaticMeshComponent_27) Not registered. Aborting.
+[2019.05.28-12.40.17:149][977]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.InstancedStaticMeshComponent_26) Not registered. Aborting.
+[2019.05.28-12.40.17:149][977]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.InstancedStaticMeshComponent_25) Not registered. Aborting.
+[2019.05.28-12.40.17:149][977]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.InstancedStaticMeshComponent_24) Not registered. Aborting.
+[2019.05.28-12.40.17:149][977]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.InstancedStaticMeshComponent_23) Not registered. Aborting.
+[2019.05.28-12.40.17:149][977]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.InstancedStaticMeshComponent_22) Not registered. Aborting.
+[2019.05.28-12.40.17:149][977]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.InstancedStaticMeshComponent_21) Not registered. Aborting.
+[2019.05.28-12.40.17:149][977]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.InstancedStaticMeshComponent_20) Not registered. Aborting.
+[2019.05.28-12.40.17:149][977]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.InstancedStaticMeshComponent_19) Not registered. Aborting.
+[2019.05.28-12.40.17:149][977]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.InstancedStaticMeshComponent_18) Not registered. Aborting.
+[2019.05.28-12.40.17:149][977]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.InstancedStaticMeshComponent_17) Not registered. Aborting.
+[2019.05.28-12.40.17:149][977]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.InstancedStaticMeshComponent_16) Not registered. Aborting.
+[2019.05.28-12.40.17:149][977]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.InstancedStaticMeshComponent_14) Not registered. Aborting.
+[2019.05.28-12.40.17:150][977]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.InstancedStaticMeshComponent_0) Not registered. Aborting.
+[2019.05.28-12.40.17:150][977]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.InstancedStaticMeshComponent_13) Not registered. Aborting.
+[2019.05.28-12.40.17:150][977]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.InstancedStaticMeshComponent_12) Not registered. Aborting.
+[2019.05.28-12.40.17:150][977]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.InstancedStaticMeshComponent_11) Not registered. Aborting.
+[2019.05.28-12.40.17:150][977]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.InstancedStaticMeshComponent_10) Not registered. Aborting.
+[2019.05.28-12.40.17:150][977]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.InstancedStaticMeshComponent_9) Not registered. Aborting.
+[2019.05.28-12.40.17:150][977]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.InstancedStaticMeshComponent_8) Not registered. Aborting.
+[2019.05.28-12.40.17:150][977]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.InstancedStaticMeshComponent_7) Not registered. Aborting.
+[2019.05.28-12.40.17:150][977]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.InstancedStaticMeshComponent_6) Not registered. Aborting.
+[2019.05.28-12.40.17:150][977]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.InstancedStaticMeshComponent_5) Not registered. Aborting.
+[2019.05.28-12.40.17:150][977]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.InstancedStaticMeshComponent_4) Not registered. Aborting.
+[2019.05.28-12.40.17:150][977]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.InstancedStaticMeshComponent_3) Not registered. Aborting.
+[2019.05.28-12.40.17:150][977]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.InstancedStaticMeshComponent_2) Not registered. Aborting.
+[2019.05.28-12.40.17:150][977]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.InstancedStaticMeshComponent_1) Not registered. Aborting.
+[2019.05.28-12.40.17:157][977]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.28-12.40.17:160][977]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.28-12.40.17:160][977]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.28-12.40.17:160][977]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.28-12.40.17:160][977]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.28-12.40.17:160][977]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.28-12.40.17:160][977]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.28-12.40.17:160][977]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.28-12.40.17:160][977]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.28-12.40.17:160][977]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.28-12.40.17:160][977]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.28-12.40.17:160][977]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.28-12.40.17:160][977]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.28-12.40.17:160][977]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.28-12.40.17:160][977]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.28-12.40.17:160][977]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.28-12.40.17:160][977]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.28-12.40.17:161][977]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.28-12.40.17:161][977]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.28-12.40.17:161][977]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.28-12.40.17:161][977]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.28-12.40.17:161][977]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.28-12.40.17:161][977]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.28-12.40.17:343][978]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2019.05.28-12.40.21:082][ 68]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.28-12.40.35:718][386]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Hero/MyChar.MyChar
+[2019.05.28-12.40.48:874][641]LogAssetEditorManager: Opening Asset editor for AnimBlueprint /Game/Blueprints/Hero/ABP_Player.ABP_Player
+[2019.05.28-12.40.48:984][641]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2019.05.28-12.40.49:791][641]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.05.28-12.40.49:846][641]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0004 seconds. Added 1 classes and 0 folders.
+[2019.05.28-12.40.50:444][641]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.05.28-12.40.51:620][641]LogContentBrowser: Native class hierarchy updated for 'ClothingSystemEditorInterface' in 0.0003 seconds. Added 1 classes and 0 folders.
+[2019.05.28-12.40.51:887][641]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.05.28-12.41.09:757][ 18]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/Player/004_Run_Forward.004_Run_Forward
+[2019.05.28-12.41.09:799][ 18]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.05.28-12.41.09:912][ 18]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.05.28-12.41.10:685][ 18]LogRenderer: Reallocating scene render targets to support 936x572 Format 10 NumSamples 1 (Frame:1).
+[2019.05.28-12.41.10:685][ 18]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.05.28-12.41.48:823][821]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/004_Run_Forward" FILE="C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Content/Player/004_Run_Forward.uasset" SILENT=true
+[2019.05.28-12.41.48:889][821]LogSavePackage: Moving 'C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Saved/004_Run_Forward1385856147B94FABBF5AD69624236C43.tmp' to 'C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Content/Player/004_Run_Forward.uasset'
+[2019.05.28-12.41.50:087][847]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.28-12.41.50:130][847]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel' has LevelScriptBlueprint '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew' with GeneratedClass '/Game/Terrain/4/LakeLevelNew.LakeLevelNew_C' with ClassGeneratedBy '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew'
+[2019.05.28-12.41.50:130][847]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.28-12.41.50:130][847]PIE: New page: PIE session: LakeLevelNew (May 29, 2019, 4:41:50 AM)
+[2019.05.28-12.41.50:130][847]LogPlayLevel: Creating play world package: /Game/Terrain/4/UEDPIE_0_LakeLevelNew
+[2019.05.28-12.41.50:343][847]LogPlayLevel: PIE: StaticDuplicateObject took: (0.212973s)
+[2019.05.28-12.41.50:344][847]LogAIModule: Creating AISystem for world LakeLevelNew
+[2019.05.28-12.41.50:344][847]LogPlayLevel: PIE: World Init took: (0.001159s)
+[2019.05.28-12.41.50:345][847]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Terrain/4/LakeLevelNew.LakeLevelNew to /Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew (0.214627s)
+[2019.05.28-12.41.50:522][847]LogInit: XAudio2 using '扬声器/听筒 (Realtek Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.05.28-12.41.50:564][847]LogInit: FAudioDevice initialized.
+[2019.05.28-12.41.50:594][847]LogLoad: Game class is 'NewGameMode_C'
+[2019.05.28-12.41.55:477][847]LogWorld: Bringing World /Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew up for play (max tick rate 60) at 2019.05.28-20.41.55
+[2019.05.28-12.41.55:496][847]LogWorld: Bringing up level for play took: 4.900549
+[2019.05.28-12.41.55:517][847]PIE: Play in editor start time for /Game/Terrain/4/UEDPIE_0_LakeLevelNew 6.149
+[2019.05.28-12.41.55:518][847]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel' has LevelScriptBlueprint '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew' with GeneratedClass '/Game/Terrain/4/LakeLevelNew.LakeLevelNew_C' with ClassGeneratedBy '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew'
+[2019.05.28-12.42.06:549][ 34]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel' has LevelScriptBlueprint '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew' with GeneratedClass '/Game/Terrain/4/LakeLevelNew.LakeLevelNew_C' with ClassGeneratedBy '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew'
+[2019.05.28-12.42.06:549][ 34]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.28-12.42.06:630][ 34]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.28-12.42.06:630][ 34]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel' has LevelScriptBlueprint '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew' with GeneratedClass '/Game/Terrain/4/LakeLevelNew.LakeLevelNew_C' with ClassGeneratedBy '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew'
+[2019.05.28-12.42.06:670][ 34]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.28-12.42.06:670][ 34]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.28-12.42.06:670][ 34]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.28-12.42.06:670][ 34]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.28-12.42.06:670][ 34]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.28-12.42.06:670][ 34]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.28-12.42.06:670][ 34]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.28-12.42.06:670][ 34]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.28-12.42.06:670][ 34]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.28-12.42.06:670][ 34]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.28-12.42.06:670][ 34]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.28-12.42.06:670][ 34]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.28-12.42.06:670][ 34]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.28-12.42.06:670][ 34]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.28-12.42.06:670][ 34]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.28-12.42.06:670][ 34]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.28-12.42.06:670][ 34]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.28-12.42.06:670][ 34]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.28-12.42.06:670][ 34]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.28-12.42.06:670][ 34]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.28-12.42.06:670][ 34]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.28-12.42.06:670][ 34]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.28-12.42.06:670][ 34]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.28-12.42.06:670][ 34]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.28-12.42.06:670][ 34]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.28-12.42.06:670][ 34]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.28-12.42.06:670][ 34]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.28-12.42.06:670][ 34]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.28-12.42.06:670][ 34]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.28-12.42.06:675][ 34]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.28-12.42.06:675][ 34]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.28-12.42.06:675][ 34]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.28-12.42.06:675][ 34]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.28-12.42.06:675][ 34]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.28-12.42.06:675][ 34]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.28-12.42.06:675][ 34]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.28-12.42.06:675][ 34]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.28-12.42.06:675][ 34]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.28-12.42.06:675][ 34]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.28-12.42.06:675][ 34]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.28-12.42.06:675][ 34]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.28-12.42.06:675][ 34]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.28-12.42.06:675][ 34]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.28-12.42.06:675][ 34]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.28-12.42.06:675][ 34]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.28-12.42.06:675][ 34]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.28-12.42.06:675][ 34]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.28-12.42.06:675][ 34]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.28-12.42.06:675][ 34]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.28-12.42.06:675][ 34]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.28-12.42.06:675][ 34]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.28-12.42.06:681][ 34]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.28-12.42.06:750][ 35]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2019.05.28-12.42.09:662][172]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.28-12.42.12:294][284]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Giant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.05.28-12.42.12:598][295]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew
+[2019.05.28-12.43.58:926][189]LogAssetEditorManager: Opening Asset editor for SoundCue /Game/Audio/Sound/NewSoundCue.NewSoundCue
+[2019.05.28-12.45.07:904][509]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.28-12.45.07:939][509]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel' has LevelScriptBlueprint '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew' with GeneratedClass '/Game/Terrain/4/LakeLevelNew.LakeLevelNew_C' with ClassGeneratedBy '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew'
+[2019.05.28-12.45.07:940][509]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.28-12.45.07:940][509]PIE: New page: PIE session: LakeLevelNew (May 29, 2019, 4:45:07 AM)
+[2019.05.28-12.45.07:940][509]LogPlayLevel: Creating play world package: /Game/Terrain/4/UEDPIE_0_LakeLevelNew
+[2019.05.28-12.45.08:153][509]LogPlayLevel: PIE: StaticDuplicateObject took: (0.212480s)
+[2019.05.28-12.45.08:153][509]LogAIModule: Creating AISystem for world LakeLevelNew
+[2019.05.28-12.45.08:154][509]LogPlayLevel: PIE: World Init took: (0.000805s)
+[2019.05.28-12.45.08:154][509]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Terrain/4/LakeLevelNew.LakeLevelNew to /Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew (0.213719s)
+[2019.05.28-12.45.08:386][509]LogInit: XAudio2 using '扬声器/听筒 (Realtek Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.05.28-12.45.08:434][509]LogInit: FAudioDevice initialized.
+[2019.05.28-12.45.08:463][509]LogLoad: Game class is 'NewGameMode_C'
+[2019.05.28-12.45.13:197][509]LogWorld: Bringing World /Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew up for play (max tick rate 60) at 2019.05.28-20.45.13
+[2019.05.28-12.45.13:216][509]LogWorld: Bringing up level for play took: 4.751415
+[2019.05.28-12.45.13:239][509]PIE: Play in editor start time for /Game/Terrain/4/UEDPIE_0_LakeLevelNew 5.871
+[2019.05.28-12.45.13:240][509]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel' has LevelScriptBlueprint '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew' with GeneratedClass '/Game/Terrain/4/LakeLevelNew.LakeLevelNew_C' with ClassGeneratedBy '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew'
+[2019.05.28-12.45.25:330][760]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel' has LevelScriptBlueprint '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew' with GeneratedClass '/Game/Terrain/4/LakeLevelNew.LakeLevelNew_C' with ClassGeneratedBy '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew'
+[2019.05.28-12.45.25:331][760]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.28-12.45.25:476][760]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.28-12.45.25:476][760]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel' has LevelScriptBlueprint '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew' with GeneratedClass '/Game/Terrain/4/LakeLevelNew.LakeLevelNew_C' with ClassGeneratedBy '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew'
+[2019.05.28-12.45.25:517][760]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.28-12.45.25:517][760]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.28-12.45.25:517][760]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.28-12.45.25:517][760]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.28-12.45.25:517][760]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.28-12.45.25:517][760]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.28-12.45.25:517][760]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.28-12.45.25:517][760]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.28-12.45.25:517][760]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.28-12.45.25:517][760]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.28-12.45.25:517][760]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.28-12.45.25:517][760]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.28-12.45.25:517][760]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.28-12.45.25:517][760]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.28-12.45.25:517][760]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.28-12.45.25:517][760]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.28-12.45.25:517][760]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.28-12.45.25:517][760]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.28-12.45.25:517][760]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.28-12.45.25:517][760]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.28-12.45.25:517][760]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.28-12.45.25:517][760]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.28-12.45.25:517][760]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.28-12.45.25:517][760]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.28-12.45.25:517][760]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.28-12.45.25:518][760]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.28-12.45.25:518][760]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.28-12.45.25:518][760]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.28-12.45.25:518][760]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.28-12.45.25:524][760]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.28-12.45.25:524][760]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.28-12.45.25:524][760]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.28-12.45.25:524][760]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.28-12.45.25:524][760]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.28-12.45.25:524][760]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.28-12.45.25:524][760]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.28-12.45.25:524][760]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.28-12.45.25:524][760]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.28-12.45.25:524][760]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.28-12.45.25:524][760]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.28-12.45.25:524][760]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.28-12.45.25:524][760]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.28-12.45.25:524][760]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.28-12.45.25:524][760]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.28-12.45.25:524][760]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.28-12.45.25:524][760]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.28-12.45.25:524][760]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.28-12.45.25:524][760]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.28-12.45.25:524][760]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.28-12.45.25:524][760]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.28-12.45.25:524][760]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.28-12.45.25:531][760]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.28-12.45.25:596][761]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2019.05.28-12.45.30:517][904]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.28-12.45.58:296][699]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.28-12.45.58:337][699]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel' has LevelScriptBlueprint '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew' with GeneratedClass '/Game/Terrain/4/LakeLevelNew.LakeLevelNew_C' with ClassGeneratedBy '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew'
+[2019.05.28-12.45.58:337][699]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.28-12.45.58:337][699]PIE: New page: PIE session: LakeLevelNew (May 29, 2019, 4:45:58 AM)
+[2019.05.28-12.45.58:337][699]LogPlayLevel: Creating play world package: /Game/Terrain/4/UEDPIE_0_LakeLevelNew
+[2019.05.28-12.45.58:552][699]LogPlayLevel: PIE: StaticDuplicateObject took: (0.214401s)
+[2019.05.28-12.45.58:552][699]LogAIModule: Creating AISystem for world LakeLevelNew
+[2019.05.28-12.45.58:553][699]LogPlayLevel: PIE: World Init took: (0.000925s)
+[2019.05.28-12.45.58:553][699]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Terrain/4/LakeLevelNew.LakeLevelNew to /Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew (0.215711s)
+[2019.05.28-12.45.58:700][699]LogInit: XAudio2 using '扬声器/听筒 (Realtek Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.05.28-12.45.58:745][699]LogInit: FAudioDevice initialized.
+[2019.05.28-12.45.58:777][699]LogLoad: Game class is 'NewGameMode_C'
+[2019.05.28-12.46.03:470][699]LogWorld: Bringing World /Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew up for play (max tick rate 60) at 2019.05.28-20.46.03
+[2019.05.28-12.46.03:494][699]LogWorld: Bringing up level for play took: 4.715644
+[2019.05.28-12.46.03:516][699]PIE: Play in editor start time for /Game/Terrain/4/UEDPIE_0_LakeLevelNew 6.148
+[2019.05.28-12.46.03:516][699]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel' has LevelScriptBlueprint '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew' with GeneratedClass '/Game/Terrain/4/LakeLevelNew.LakeLevelNew_C' with ClassGeneratedBy '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew'
+[2019.05.28-12.47.17:812][183]Cmd: ce CE_ChangeStages
+[2019.05.28-12.47.18:145][184]LogMaterial: Warning: Material /Game/WaterMaterials/Materials/M_Water_Clean.M_Water_Clean missing bUsedWithMorphTargets=True! Default Material will be used in game.
+[2019.05.28-12.47.18:145][184]LogMaterial: Warning:      The material will recompile every editor launch until resaved.
+[2019.05.28-12.47.19:909][222]Cmd: ce CE_RetureStages
+[2019.05.28-12.47.50:235][818]LogBlueprintUserMessages: [AITwo2_2] Attack!!
+[2019.05.28-12.47.59:900][ 11]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel' has LevelScriptBlueprint '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew' with GeneratedClass '/Game/Terrain/4/LakeLevelNew.LakeLevelNew_C' with ClassGeneratedBy '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew'
+[2019.05.28-12.47.59:900][ 11]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.28-12.47.59:982][ 11]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.28-12.47.59:983][ 11]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel' has LevelScriptBlueprint '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew' with GeneratedClass '/Game/Terrain/4/LakeLevelNew.LakeLevelNew_C' with ClassGeneratedBy '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew'
+[2019.05.28-12.48.00:034][ 11]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.28-12.48.00:034][ 11]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.28-12.48.00:034][ 11]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.28-12.48.00:034][ 11]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.28-12.48.00:034][ 11]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.28-12.48.00:034][ 11]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.28-12.48.00:034][ 11]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.28-12.48.00:034][ 11]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.28-12.48.00:034][ 11]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.28-12.48.00:035][ 11]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.28-12.48.00:035][ 11]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.28-12.48.00:035][ 11]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.28-12.48.00:035][ 11]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.28-12.48.00:035][ 11]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.28-12.48.00:035][ 11]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.28-12.48.00:035][ 11]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.28-12.48.00:035][ 11]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.28-12.48.00:035][ 11]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.28-12.48.00:035][ 11]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.28-12.48.00:035][ 11]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.28-12.48.00:035][ 11]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.28-12.48.00:035][ 11]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.28-12.48.00:035][ 11]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.28-12.48.00:037][ 11]LogActorComponent: UnregisterComponent: (None.None:None.None.None) Not registered. Aborting.
+[2019.05.28-12.48.00:037][ 11]LogActorComponent: UnregisterComponent: (None.None:None.None.None) Not registered. Aborting.
+[2019.05.28-12.48.00:037][ 11]LogActorComponent: UnregisterComponent: (None.None:None.None.None) Not registered. Aborting.
+[2019.05.28-12.48.00:037][ 11]LogActorComponent: UnregisterComponent: (None.None:None.None.None) Not registered. Aborting.
+[2019.05.28-12.48.00:037][ 11]LogActorComponent: UnregisterComponent: (None.None:None.None.None) Not registered. Aborting.
+[2019.05.28-12.48.00:037][ 11]LogActorComponent: UnregisterComponent: (None.None:None.None.None) Not registered. Aborting.
+[2019.05.28-12.48.00:037][ 11]LogActorComponent: UnregisterComponent: (None.None:None.None.None) Not registered. Aborting.
+[2019.05.28-12.48.00:037][ 11]LogActorComponent: UnregisterComponent: (None.None:None.None.None) Not registered. Aborting.
+[2019.05.28-12.48.00:037][ 11]LogActorComponent: UnregisterComponent: (None.None:None.None.None) Not registered. Aborting.
+[2019.05.28-12.48.00:037][ 11]LogActorComponent: UnregisterComponent: (None.None:None.None.None) Not registered. Aborting.
+[2019.05.28-12.48.00:037][ 11]LogActorComponent: UnregisterComponent: (None.None:None.None.None) Not registered. Aborting.
+[2019.05.28-12.48.00:037][ 11]LogActorComponent: UnregisterComponent: (None.None:None.None.None) Not registered. Aborting.
+[2019.05.28-12.48.00:037][ 11]LogActorComponent: UnregisterComponent: (None.None:None.None.None) Not registered. Aborting.
+[2019.05.28-12.48.00:037][ 11]LogActorComponent: UnregisterComponent: (None.None:None.None.None) Not registered. Aborting.
+[2019.05.28-12.48.00:037][ 11]LogActorComponent: UnregisterComponent: (None.None:None.None.None) Not registered. Aborting.
+[2019.05.28-12.48.00:037][ 11]LogActorComponent: UnregisterComponent: (None.None:None.None.None) Not registered. Aborting.
+[2019.05.28-12.48.00:037][ 11]LogActorComponent: UnregisterComponent: (None.None:None.None.None) Not registered. Aborting.
+[2019.05.28-12.48.00:037][ 11]LogActorComponent: UnregisterComponent: (None.None:None.None.None) Not registered. Aborting.
+[2019.05.28-12.48.00:037][ 11]LogActorComponent: UnregisterComponent: (None.None:None.None.None) Not registered. Aborting.
+[2019.05.28-12.48.00:037][ 11]LogActorComponent: UnregisterComponent: (None.None:None.None.None) Not registered. Aborting.
+[2019.05.28-12.48.00:037][ 11]LogActorComponent: UnregisterComponent: (None.None:None.None.None) Not registered. Aborting.
+[2019.05.28-12.48.00:037][ 11]LogActorComponent: UnregisterComponent: (None.None:None.None.None) Not registered. Aborting.
+[2019.05.28-12.48.00:037][ 11]LogActorComponent: UnregisterComponent: (None.None:None.None.None) Not registered. Aborting.
+[2019.05.28-12.48.00:037][ 11]LogActorComponent: UnregisterComponent: (None.None:None.None.None) Not registered. Aborting.
+[2019.05.28-12.48.00:037][ 11]LogActorComponent: UnregisterComponent: (None.None:None.None.None) Not registered. Aborting.
+[2019.05.28-12.48.00:037][ 11]LogActorComponent: UnregisterComponent: (None.None:None.None.None) Not registered. Aborting.
+[2019.05.28-12.48.00:037][ 11]LogActorComponent: UnregisterComponent: (None.None:None.None.None) Not registered. Aborting.
+[2019.05.28-12.48.00:037][ 11]LogActorComponent: UnregisterComponent: (None.None:None.None.None) Not registered. Aborting.
+[2019.05.28-12.48.00:037][ 11]LogActorComponent: UnregisterComponent: (None.None:None.None.None) Not registered. Aborting.
+[2019.05.28-12.48.00:098][ 12]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2019.05.28-12.48.01:853][ 52]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.28-12.48.03:692][ 83]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Little_C /Engine/Transient.World_29:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Little_C_0
+	Function /Game/AI/ABP_Little.ABP_Little_C:ExecuteUbergraph_ABP_Little:00A2
+[2019.05.28-12.48.06:280][139]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ZanTwo_C /Engine/Transient.World_30:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ZanTwo_C_0
+	Function /Game/AI/NewAI/ZanTwo.ZanTwo_C:ExecuteUbergraph_ZanTwo:009D
+[2019.05.28-12.48.06:313][140]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ZanOne_C /Engine/Transient.World_31:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ZanOne_C_0
+	Function /Game/AI/NewAI/ZanOne.ZanOne_C:ExecuteUbergraph_ZanOne:009D
+[2019.05.28-12.48.49:734][811]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Ivy\Documents\Tencent Files\1205591375\FileRecv\zan2_attack.FBX)
+[2019.05.28-12.48.49:946][811]LogFbx: Loading FBX Scene from C:\Users\Ivy\Documents\Tencent Files\1205591375\FileRecv\zan2_attack.FBX
+[2019.05.28-12.48.50:010][811]LogFbx: FBX Scene Loaded Succesfully
+[2019.05.28-12.49.09:058][811]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.05.28-12.49.09:200][811]LogFbx: =================================================
+[2019.05.28-12.49.09:200][811]LogFbx: Dumping Node START [zan2_low:zan2_loW] 
+[2019.05.28-12.49.09:200][811]LogFbx: 	Total Deformer Count -1813930272.
+[2019.05.28-12.49.09:200][811]LogFbx: 		[Node 1]  (Type Skin).
+[2019.05.28-12.49.09:200][811]LogFbx: =================================================
+[2019.05.28-12.49.09:200][811]LogFbx: 	Attribute () Type (4).
+[2019.05.28-12.49.09:200][811]LogFbx: 		[Node Attribute Child 1] zan2_low:zan2_loW (Type Mesh).
+[2019.05.28-12.49.09:200][811]LogFbx: Dumping Node END [zan2_low:zan2_loW]
+[2019.05.28-12.49.09:200][811]LogFbx: =================================================
+[2019.05.28-12.49.09:200][811]LogFbx: Dumping Node START [zan2_low:zan2_loW] 
+[2019.05.28-12.49.09:200][811]LogFbx: 	Total Deformer Count -1813930272.
+[2019.05.28-12.49.09:200][811]LogFbx: 		[Node 1]  (Type Skin).
+[2019.05.28-12.49.09:200][811]LogFbx: =================================================
+[2019.05.28-12.49.09:200][811]LogFbx: 	Attribute () Type (4).
+[2019.05.28-12.49.09:200][811]LogFbx: 		[Node Attribute Child 1] zan2_low:zan2_loW (Type Mesh).
+[2019.05.28-12.49.09:200][811]LogFbx: Dumping Node END [zan2_low:zan2_loW]
+[2019.05.28-12.49.09:204][811]LogFbx: SortedLinks :(0) Hips
+[2019.05.28-12.49.09:204][811]LogFbx: SortedLinks :(1) Spine
+[2019.05.28-12.49.09:204][811]LogFbx: SortedLinks :(2) Spine1
+[2019.05.28-12.49.09:204][811]LogFbx: SortedLinks :(3) Spine2
+[2019.05.28-12.49.09:204][811]LogFbx: SortedLinks :(4) Neck
+[2019.05.28-12.49.09:204][811]LogFbx: SortedLinks :(5) Head
+[2019.05.28-12.49.09:204][811]LogFbx: SortedLinks :(6) HeadTop_End
+[2019.05.28-12.49.09:204][811]LogFbx: SortedLinks :(7) LeftShoulder
+[2019.05.28-12.49.09:204][811]LogFbx: SortedLinks :(8) LeftArm
+[2019.05.28-12.49.09:204][811]LogFbx: SortedLinks :(9) LeftForeArm
+[2019.05.28-12.49.09:204][811]LogFbx: SortedLinks :(10) LeftHand
+[2019.05.28-12.49.09:204][811]LogFbx: SortedLinks :(11) LeftHandIndex1
+[2019.05.28-12.49.09:204][811]LogFbx: SortedLinks :(12) LeftHandIndex2
+[2019.05.28-12.49.09:204][811]LogFbx: SortedLinks :(13) LeftHandIndex3
+[2019.05.28-12.49.09:204][811]LogFbx: SortedLinks :(14) LeftHandIndex4
+[2019.05.28-12.49.09:204][811]LogFbx: SortedLinks :(15) RightShoulder
+[2019.05.28-12.49.09:204][811]LogFbx: SortedLinks :(16) RightArm
+[2019.05.28-12.49.09:204][811]LogFbx: SortedLinks :(17) RightForeArm
+[2019.05.28-12.49.09:204][811]LogFbx: SortedLinks :(18) RightHand
+[2019.05.28-12.49.09:204][811]LogFbx: SortedLinks :(19) RightHandIndex1
+[2019.05.28-12.49.09:204][811]LogFbx: SortedLinks :(20) RightHandIndex2
+[2019.05.28-12.49.09:204][811]LogFbx: SortedLinks :(21) RightHandIndex3
+[2019.05.28-12.49.09:204][811]LogFbx: SortedLinks :(22) RightHandIndex4
+[2019.05.28-12.49.09:204][811]LogFbx: SortedLinks :(23) LeftUpLeg
+[2019.05.28-12.49.09:204][811]LogFbx: SortedLinks :(24) LeftLeg
+[2019.05.28-12.49.09:204][811]LogFbx: SortedLinks :(25) LeftFoot
+[2019.05.28-12.49.09:204][811]LogFbx: SortedLinks :(26) LeftToeBase
+[2019.05.28-12.49.09:204][811]LogFbx: SortedLinks :(27) LeftToe_End
+[2019.05.28-12.49.09:204][811]LogFbx: SortedLinks :(28) RightUpLeg
+[2019.05.28-12.49.09:204][811]LogFbx: SortedLinks :(29) RightLeg
+[2019.05.28-12.49.09:204][811]LogFbx: SortedLinks :(30) RightFoot
+[2019.05.28-12.49.09:204][811]LogFbx: SortedLinks :(31) RightToeBase
+[2019.05.28-12.49.09:204][811]LogFbx: SortedLinks :(32) RightToe_End
+[2019.05.28-12.49.09:217][811]LogFbx: Parsing AnimStack Take 001
+[2019.05.28-12.49.09:252][811]LogLinker: Can't find file '/Game/-Models/NewBoss/Zan2/Attack/zan2_attack'
+[2019.05.28-12.49.09:252][811]LogLinker: Can't find file '/Game/-Models/NewBoss/Zan2/Attack/zan2_attack'
+[2019.05.28-12.49.09:537][811]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/-Models/NewBoss/Zan2/Attack/zan2_attack.zan2_attack
+[2019.05.28-12.49.09:538][811]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.zan2_attack) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.05.28-12.49.09:687][811]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Giant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.05.28-12.49.09:687][811]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Little_C /Engine/Transient.World_29:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Little_C_0
+	Function /Game/AI/ABP_Little.ABP_Little_C:ExecuteUbergraph_ABP_Little:00A2
+[2019.05.28-12.49.09:688][811]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ZanTwo_C /Engine/Transient.World_30:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ZanTwo_C_0
+	Function /Game/AI/NewAI/ZanTwo.ZanTwo_C:ExecuteUbergraph_ZanTwo:009D
+[2019.05.28-12.49.09:688][811]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ZanOne_C /Engine/Transient.World_31:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ZanOne_C_0
+	Function /Game/AI/NewAI/ZanOne.ZanOne_C:ExecuteUbergraph_ZanOne:009D
+[2019.05.28-12.49.14:446][920]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.28-12.49.23:718][203]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.28-12.49.33:513][737]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.28-12.49.51:948][589]LogHttp: Warning: 0000020B42E32AC0: request failed, libcurl error: 7 (Couldn't connect to server)
+[2019.05.28-12.49.51:948][589]LogHttp: Warning: 0000020B42E32AC0: libcurl info message cache 0 (Connection 4 seems to be dead!)
+[2019.05.28-12.49.51:948][589]LogHttp: Warning: 0000020B42E32AC0: libcurl info message cache 1 (Closing connection 4)
+[2019.05.28-12.49.51:948][589]LogHttp: Warning: 0000020B42E32AC0: libcurl info message cache 2 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2019.05.28-12.49.51:948][589]LogHttp: Warning: 0000020B42E32AC0: libcurl info message cache 3 (  Trying 52.200.81.49...)
+[2019.05.28-12.49.51:948][589]LogHttp: Warning: 0000020B42E32AC0: libcurl info message cache 4 (TCP_NODELAY set)
+[2019.05.28-12.49.51:948][589]LogHttp: Warning: 0000020B42E32AC0: libcurl info message cache 5 (connect to 52.200.81.49 port 443 failed: Timed out)
+[2019.05.28-12.49.51:948][589]LogHttp: Warning: 0000020B42E32AC0: libcurl info message cache 6 (  Trying 52.71.135.85...)
+[2019.05.28-12.49.51:948][589]LogHttp: Warning: 0000020B42E32AC0: libcurl info message cache 7 (TCP_NODELAY set)
+[2019.05.28-12.49.51:948][589]LogHttp: Warning: 0000020B42E32AC0: libcurl info message cache 8 (connect to 52.71.135.85 port 443 failed: Timed out)
+[2019.05.28-12.49.51:948][589]LogHttp: Warning: 0000020B42E32AC0: libcurl info message cache 9 (Failed to connect to datarouter.ol.epicgames.com port 443: Timed out)
+[2019.05.28-12.49.51:948][589]LogHttp: Warning: 0000020B42E32AC0: libcurl info message cache 10 (Closing connection 5)
+[2019.05.28-12.49.52:197][603]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.28-12.50.02:320][138]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (zan2_Idle)
+[2019.05.28-12.50.03:859][225]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (zan2_attack)
+[2019.05.28-12.50.04:685][270]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (zan2_Idle)
+[2019.05.28-12.50.05:263][300]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (zan2_attack)
+[2019.05.28-12.50.05:803][328]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (zan2_Idle)
+[2019.05.28-12.50.06:322][353]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (zan2_attack)
+[2019.05.28-12.50.06:816][378]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (zan2_Idle)
+[2019.05.28-12.50.07:416][409]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (zan2_attack)
+[2019.05.28-12.50.07:946][436]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (zan2_Idle)
+[2019.05.28-12.50.08:428][460]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (zan2_attack)
+[2019.05.28-12.50.10:040][551]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (zan2_Idle)
+[2019.05.28-12.50.10:688][584]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (zan2_attack)
+[2019.05.28-12.50.11:250][612]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (zan2_Idle)
+[2019.05.28-12.50.11:792][639]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (zan2_attack)
+[2019.05.28-12.50.12:369][669]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (zan2_Idle)
+[2019.05.28-12.50.14:653][797]Cmd: DELETE
+[2019.05.28-12.50.14:653][797]Cmd: ACTOR DELETE
+[2019.05.28-12.50.14:738][797]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.28-12.50.14:904][797]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2019.05.28-12.50.14:961][797]LogEditorActor: Deleted 1 Actors (0.294 secs)
+[2019.05.28-12.50.15:524][830]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (zan2_attack)
+[2019.05.28-12.50.15:943][849]Cmd: DELETE
+[2019.05.28-12.50.15:943][849]Cmd: ACTOR DELETE
+[2019.05.28-12.50.16:014][849]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2019.05.28-12.50.16:053][849]LogEditorActor: Deleted 1 Actors (0.111 secs)
+[2019.05.28-12.50.17:287][917]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.28-12.50.22:573][100]LogSlate: Window 'Delete Assets' being destroyed
+[2019.05.28-12.50.22:854][100]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.05.28-12.50.23:832][100]LogSlate: Window 'NewSoundCue*' being destroyed
+[2019.05.28-12.50.35:179][338]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Ivy\Documents\Tencent Files\1205591375\FileRecv\zan2_attack.FBX)
+[2019.05.28-12.50.35:192][338]LogFbx: Loading FBX Scene from C:\Users\Ivy\Documents\Tencent Files\1205591375\FileRecv\zan2_attack.FBX
+[2019.05.28-12.50.35:223][338]LogFbx: FBX Scene Loaded Succesfully
+[2019.05.28-12.50.49:714][338]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.05.28-12.50.49:775][338]LogFbx: =================================================
+[2019.05.28-12.50.49:775][338]LogFbx: Dumping Node START [zan2_low:zan2_loW] 
+[2019.05.28-12.50.49:775][338]LogFbx: 	Total Deformer Count 268690080.
+[2019.05.28-12.50.49:775][338]LogFbx: 		[Node 1]  (Type Skin).
+[2019.05.28-12.50.49:775][338]LogFbx: =================================================
+[2019.05.28-12.50.49:776][338]LogFbx: 	Attribute () Type (4).
+[2019.05.28-12.50.49:776][338]LogFbx: 		[Node Attribute Child 1] zan2_low:zan2_loW (Type Mesh).
+[2019.05.28-12.50.49:776][338]LogFbx: Dumping Node END [zan2_low:zan2_loW]
+[2019.05.28-12.50.49:776][338]LogFbx: =================================================
+[2019.05.28-12.50.49:776][338]LogFbx: Dumping Node START [zan2_low:zan2_loW] 
+[2019.05.28-12.50.49:776][338]LogFbx: 	Total Deformer Count 268690080.
+[2019.05.28-12.50.49:776][338]LogFbx: 		[Node 1]  (Type Skin).
+[2019.05.28-12.50.49:776][338]LogFbx: =================================================
+[2019.05.28-12.50.49:776][338]LogFbx: 	Attribute () Type (4).
+[2019.05.28-12.50.49:776][338]LogFbx: 		[Node Attribute Child 1] zan2_low:zan2_loW (Type Mesh).
+[2019.05.28-12.50.49:776][338]LogFbx: Dumping Node END [zan2_low:zan2_loW]
+[2019.05.28-12.50.49:776][338]LogFbx: SortedLinks :(0) Hips
+[2019.05.28-12.50.49:776][338]LogFbx: SortedLinks :(1) Spine
+[2019.05.28-12.50.49:776][338]LogFbx: SortedLinks :(2) Spine1
+[2019.05.28-12.50.49:776][338]LogFbx: SortedLinks :(3) Spine2
+[2019.05.28-12.50.49:776][338]LogFbx: SortedLinks :(4) Neck
+[2019.05.28-12.50.49:776][338]LogFbx: SortedLinks :(5) Head
+[2019.05.28-12.50.49:776][338]LogFbx: SortedLinks :(6) HeadTop_End
+[2019.05.28-12.50.49:776][338]LogFbx: SortedLinks :(7) LeftShoulder
+[2019.05.28-12.50.49:777][338]LogFbx: SortedLinks :(8) LeftArm
+[2019.05.28-12.50.49:777][338]LogFbx: SortedLinks :(9) LeftForeArm
+[2019.05.28-12.50.49:777][338]LogFbx: SortedLinks :(10) LeftHand
+[2019.05.28-12.50.49:777][338]LogFbx: SortedLinks :(11) LeftHandIndex1
+[2019.05.28-12.50.49:777][338]LogFbx: SortedLinks :(12) LeftHandIndex2
+[2019.05.28-12.50.49:777][338]LogFbx: SortedLinks :(13) LeftHandIndex3
+[2019.05.28-12.50.49:777][338]LogFbx: SortedLinks :(14) LeftHandIndex4
+[2019.05.28-12.50.49:777][338]LogFbx: SortedLinks :(15) RightShoulder
+[2019.05.28-12.50.49:777][338]LogFbx: SortedLinks :(16) RightArm
+[2019.05.28-12.50.49:777][338]LogFbx: SortedLinks :(17) RightForeArm
+[2019.05.28-12.50.49:777][338]LogFbx: SortedLinks :(18) RightHand
+[2019.05.28-12.50.49:777][338]LogFbx: SortedLinks :(19) RightHandIndex1
+[2019.05.28-12.50.49:777][338]LogFbx: SortedLinks :(20) RightHandIndex2
+[2019.05.28-12.50.49:777][338]LogFbx: SortedLinks :(21) RightHandIndex3
+[2019.05.28-12.50.49:777][338]LogFbx: SortedLinks :(22) RightHandIndex4
+[2019.05.28-12.50.49:777][338]LogFbx: SortedLinks :(23) LeftUpLeg
+[2019.05.28-12.50.49:777][338]LogFbx: SortedLinks :(24) LeftLeg
+[2019.05.28-12.50.49:777][338]LogFbx: SortedLinks :(25) LeftFoot
+[2019.05.28-12.50.49:777][338]LogFbx: SortedLinks :(26) LeftToeBase
+[2019.05.28-12.50.49:777][338]LogFbx: SortedLinks :(27) LeftToe_End
+[2019.05.28-12.50.49:777][338]LogFbx: SortedLinks :(28) RightUpLeg
+[2019.05.28-12.50.49:777][338]LogFbx: SortedLinks :(29) RightLeg
+[2019.05.28-12.50.49:777][338]LogFbx: SortedLinks :(30) RightFoot
+[2019.05.28-12.50.49:777][338]LogFbx: SortedLinks :(31) RightToeBase
+[2019.05.28-12.50.49:777][338]LogFbx: SortedLinks :(32) RightToe_End
+[2019.05.28-12.50.49:777][338]LogFbx: Parsing AnimStack Take 001
+[2019.05.28-12.50.50:018][338]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/-Models/NewBoss/Zan2/Attack/zan2_attack.zan2_attack
+[2019.05.28-12.50.50:018][338]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.zan2_attack) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.05.28-12.50.50:129][338]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Giant_C already exists. Remove duplicates from the animation graph for this class.
+[2019.05.28-12.50.50:130][338]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Little_C /Engine/Transient.World_29:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Little_C_0
+	Function /Game/AI/ABP_Little.ABP_Little_C:ExecuteUbergraph_ABP_Little:00A2
+[2019.05.28-12.50.50:131][338]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ZanTwo_C /Engine/Transient.World_30:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ZanTwo_C_0
+	Function /Game/AI/NewAI/ZanTwo.ZanTwo_C:ExecuteUbergraph_ZanTwo:009D
+[2019.05.28-12.50.50:131][338]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ZanOne_C /Engine/Transient.World_31:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ZanOne_C_0
+	Function /Game/AI/NewAI/ZanOne.ZanOne_C:ExecuteUbergraph_ZanOne:009D
+[2019.05.28-12.50.57:957][778]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.28-12.50.58:859][793]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Boss_C /Engine/Transient.World_32:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Boss_C_0
+	Function /Game/-Models/NewBoss/NewBIgBoss/ABP_Boss.ABP_Boss_C:ExecuteUbergraph_ABP_Boss:009D
+[2019.05.28-12.51.05:974][181]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.28-12.51.06:982][239]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (zan2_attack)
+[2019.05.28-12.51.07:484][263]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (zan2_Idle)
+[2019.05.28-12.51.08:658][329]Cmd: DELETE
+[2019.05.28-12.51.08:658][329]Cmd: ACTOR DELETE
+[2019.05.28-12.51.08:720][329]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2019.05.28-12.51.08:754][329]LogEditorActor: Deleted 1 Actors (0.096 secs)
+[2019.05.28-12.51.09:225][356]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (zan2_attack)
+[2019.05.28-12.51.09:738][380]Cmd: DELETE
+[2019.05.28-12.51.09:738][380]Cmd: ACTOR DELETE
+[2019.05.28-12.51.09:806][380]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2019.05.28-12.51.09:841][380]LogEditorActor: Deleted 1 Actors (0.103 secs)
+[2019.05.28-12.51.11:650][478]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.28-12.51.32:563][677]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/AI/NewAI/AITwo.AITwo
+[2019.05.28-12.51.35:060][774]LogSlate: Window 'AITwo' being destroyed
+[2019.05.28-12.51.35:171][774]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/AI/NewAI/AITwo.AITwo
+[2019.05.28-12.51.44:181][214]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.28-12.51.44:214][214]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel' has LevelScriptBlueprint '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew' with GeneratedClass '/Game/Terrain/4/LakeLevelNew.LakeLevelNew_C' with ClassGeneratedBy '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew'
+[2019.05.28-12.51.44:214][214]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.28-12.51.44:214][214]PIE: New page: PIE session: LakeLevelNew (May 29, 2019, 4:51:44 AM)
+[2019.05.28-12.51.44:214][214]LogPlayLevel: Creating play world package: /Game/Terrain/4/UEDPIE_0_LakeLevelNew
+[2019.05.28-12.51.44:416][214]LogPlayLevel: PIE: StaticDuplicateObject took: (0.201517s)
+[2019.05.28-12.51.44:417][214]LogAIModule: Creating AISystem for world LakeLevelNew
+[2019.05.28-12.51.44:417][214]LogPlayLevel: PIE: World Init took: (0.000760s)
+[2019.05.28-12.51.44:417][214]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Terrain/4/LakeLevelNew.LakeLevelNew to /Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew (0.202600s)
+[2019.05.28-12.51.44:560][214]LogInit: XAudio2 using '扬声器/听筒 (Realtek Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.05.28-12.51.44:620][214]LogInit: FAudioDevice initialized.
+[2019.05.28-12.51.44:655][214]LogLoad: Game class is 'NewGameMode_C'
+[2019.05.28-12.51.49:274][214]LogWorld: Bringing World /Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew up for play (max tick rate 60) at 2019.05.28-20.51.49
+[2019.05.28-12.51.49:293][214]LogWorld: Bringing up level for play took: 4.637398
+[2019.05.28-12.51.49:316][214]PIE: Play in editor start time for /Game/Terrain/4/UEDPIE_0_LakeLevelNew 5.949
+[2019.05.28-12.51.49:316][214]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel' has LevelScriptBlueprint '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew' with GeneratedClass '/Game/Terrain/4/LakeLevelNew.LakeLevelNew_C' with ClassGeneratedBy '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew'
+[2019.05.28-12.52.28:531][905]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel' has LevelScriptBlueprint '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew' with GeneratedClass '/Game/Terrain/4/LakeLevelNew.LakeLevelNew_C' with ClassGeneratedBy '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew'
+[2019.05.28-12.52.28:532][905]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.28-12.52.28:603][905]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.28-12.52.28:604][905]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel' has LevelScriptBlueprint '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew' with GeneratedClass '/Game/Terrain/4/LakeLevelNew.LakeLevelNew_C' with ClassGeneratedBy '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew'
+[2019.05.28-12.52.28:634][905]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.28-12.52.28:634][905]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.28-12.52.28:634][905]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.28-12.52.28:634][905]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.28-12.52.28:634][905]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.28-12.52.28:634][905]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.28-12.52.28:634][905]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.28-12.52.28:634][905]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.28-12.52.28:634][905]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.28-12.52.28:634][905]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.28-12.52.28:634][905]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.28-12.52.28:634][905]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.28-12.52.28:634][905]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.28-12.52.28:634][905]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.28-12.52.28:634][905]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.28-12.52.28:634][905]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.28-12.52.28:634][905]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.28-12.52.28:634][905]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.28-12.52.28:634][905]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.28-12.52.28:634][905]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.InstancedStaticMeshComponent_20) Not registered. Aborting.
+[2019.05.28-12.52.28:634][905]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.InstancedStaticMeshComponent_21) Not registered. Aborting.
+[2019.05.28-12.52.28:634][905]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.InstancedStaticMeshComponent_22) Not registered. Aborting.
+[2019.05.28-12.52.28:634][905]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.InstancedStaticMeshComponent_23) Not registered. Aborting.
+[2019.05.28-12.52.28:634][905]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.InstancedStaticMeshComponent_24) Not registered. Aborting.
+[2019.05.28-12.52.28:634][905]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.InstancedStaticMeshComponent_25) Not registered. Aborting.
+[2019.05.28-12.52.28:634][905]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.InstancedStaticMeshComponent_26) Not registered. Aborting.
+[2019.05.28-12.52.28:634][905]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.InstancedStaticMeshComponent_27) Not registered. Aborting.
+[2019.05.28-12.52.28:634][905]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.InstancedStaticMeshComponent_28) Not registered. Aborting.
+[2019.05.28-12.52.28:634][905]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.InstancedStaticMeshComponent_15) Not registered. Aborting.
+[2019.05.28-12.52.28:635][905]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.28-12.52.28:635][905]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.28-12.52.28:635][905]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.28-12.52.28:635][905]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.28-12.52.28:635][905]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.28-12.52.28:635][905]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.28-12.52.28:635][905]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.28-12.52.28:635][905]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.28-12.52.28:635][905]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.28-12.52.28:635][905]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.28-12.52.28:635][905]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.28-12.52.28:635][905]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.28-12.52.28:635][905]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.28-12.52.28:635][905]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.28-12.52.28:635][905]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.28-12.52.28:635][905]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.28-12.52.28:635][905]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.28-12.52.28:635][905]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.28-12.52.28:635][905]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.28-12.52.28:635][905]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.28-12.52.28:635][905]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.28-12.52.28:636][905]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.28-12.52.28:647][905]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.28-12.52.28:745][906]LogPlayLevel: Display: Destroying online subsystem :Context_42
+[2019.05.28-12.52.29:574][920]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.28-12.52.37:011][ 33]LogAssetEditorManager: Opening Asset editor for AnimMontage /Game/-Models/NewBoss/Zan2/Attack/zan2_attack3_Montage.zan2_attack3_Montage
+[2019.05.28-12.52.37:052][ 33]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_36:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.05.28-12.52.37:444][ 33]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_36:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.05.28-12.52.38:103][ 33]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.05.28-12.52.49:258][203]LogAssetEditorManager: Opening Asset editor for AnimMontage /Game/-Models/NewBoss/Zan2/Attack/zan2_attack_Montage.zan2_attack_Montage
+[2019.05.28-12.53.32:525][593]LogSavePackage: Moving 'C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Saved/zan2_attack_Montage75D296AC479A18BC148408A805D599FA.tmp' to 'C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Content/-Models/NewBoss/Zan2/Attack/zan2_attack_Montage.uasset'
+[2019.05.28-12.53.39:695][594]LogSavePackage: Moving 'C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Saved/LakeLevelNew_Auto12DFF4137402326B49D3B9B9797936022.tmp' to 'C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Saved/Autosaves/Game/Terrain/4/LakeLevelNew_Auto1.umap'
+[2019.05.28-12.53.39:998][594]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Terrain/4/LakeLevelNew' took 7.008
+[2019.05.28-12.53.39:998][594]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 7.008
+[2019.05.28-12.53.40:005][594]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Player/walk] ([1] browsable assets)...
+[2019.05.28-12.53.40:016][594]OBJ SavePackage:     Rendered thumbnail for [BlendSpace1D /Game/Player/walk.walk]
+[2019.05.28-12.53.40:016][594]OBJ SavePackage: Finished generating thumbnails for package [/Game/Player/walk]
+[2019.05.28-12.53.40:016][594]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/walk" FILE="C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Saved/Autosaves/Game/Player/walk_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2019.05.28-12.53.40:054][594]LogSavePackage: Moving 'C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Saved/walk_Auto1F037B29242AC9D89A8ACD8948C45C5E0.tmp' to 'C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Saved/Autosaves/Game/Player/walk_Auto1.uasset'
+[2019.05.28-12.53.40:072][594]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Audio/Sound/NewSoundCue] ([1] browsable assets)...
+[2019.05.28-12.53.40:072][594]OBJ SavePackage: Finished generating thumbnails for package [/Game/Audio/Sound/NewSoundCue]
+[2019.05.28-12.53.40:072][594]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio/Sound/NewSoundCue" FILE="C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Saved/Autosaves/Game/Audio/Sound/NewSoundCue_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2019.05.28-12.53.40:105][594]LogSavePackage: Moving 'C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Saved/NewSoundCue_Auto10D9475324BAE90C2747862BC22A0F1A6.tmp' to 'C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Saved/Autosaves/Game/Audio/Sound/NewSoundCue_Auto1.uasset'
+[2019.05.28-12.53.40:121][594]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AI/NewAI/AITwo] ([1] browsable assets)...
+[2019.05.28-12.53.40:132][594]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/AI/NewAI/AITwo.AITwo]
+[2019.05.28-12.53.40:133][594]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/NewAI/AITwo]
+[2019.05.28-12.53.40:133][594]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/NewAI/AITwo" FILE="C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Saved/Autosaves/Game/AI/NewAI/AITwo_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2019.05.28-12.53.40:191][594]LogSavePackage: Moving 'C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Saved/AITwo_Auto1F2CBD87947F4AFF953EC9F926C3631BB.tmp' to 'C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Saved/Autosaves/Game/AI/NewAI/AITwo_Auto1.uasset'
+[2019.05.28-12.53.40:208][594]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/-Models/NewBoss/Zan2/Attack/zan2_attack] ([1] browsable assets)...
+[2019.05.28-12.53.40:220][594]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/-Models/NewBoss/Zan2/Attack/zan2_attack.zan2_attack]
+[2019.05.28-12.53.40:220][594]OBJ SavePackage: Finished generating thumbnails for package [/Game/-Models/NewBoss/Zan2/Attack/zan2_attack]
+[2019.05.28-12.53.40:250][594]LogSavePackage: Moving 'C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Saved/zan2_attack_Auto1BCE3AEFD40516CFCFB82E2A0950E591A.tmp' to 'C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Saved/Autosaves/Game/-Models/NewBoss/Zan2/Attack/zan2_attack_Auto1.uasset'
+[2019.05.28-12.53.40:268][594]LogFileHelpers: Auto-saving content packages took 0.267
+[2019.05.28-12.53.52:227][728]LogSlate: Window 'Delete Assets' being destroyed
+[2019.05.28-12.53.55:930][786]BlueprintLog: New page: Compile AITwo
+[2019.05.28-12.53.56:984][796]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/NewAI/AITwo" FILE="C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Content/AI/NewAI/AITwo.uasset" SILENT=true
+[2019.05.28-12.53.57:038][796]LogSavePackage: Moving 'C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Saved/AITwo5A4F9AEC4E778B13367E3AB48C2DEB86.tmp' to 'C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Content/AI/NewAI/AITwo.uasset'
+[2019.05.28-12.54.04:258][886]LogSlate: Window 'Delete Assets' being destroyed
+[2019.05.28-12.54.04:528][886]LogSlate: Window 'AITwo' being destroyed
+[2019.05.28-12.54.08:049][911]LogSlate: Window 'Save Content' being destroyed
+[2019.05.28-12.54.08:090][911]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/-Models/NewBoss/Zan2/Attack/zan2_attack" FILE="C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Content/-Models/NewBoss/Zan2/Attack/zan2_attack.uasset" SILENT=true
+[2019.05.28-12.54.08:117][911]LogSavePackage: Moving 'C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Saved/zan2_attack4879133A4F071D3E6E8CBFADC1F3A21F.tmp' to 'C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Content/-Models/NewBoss/Zan2/Attack/zan2_attack.uasset'
+[2019.05.28-12.54.08:143][911]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio/Sound/NewSoundCue" FILE="C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Content/Audio/Sound/NewSoundCue.uasset" SILENT=true
+[2019.05.28-12.54.08:171][911]LogSavePackage: Moving 'C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Saved/NewSoundCue3B0B214D4694967146ABDDBC06275BC7.tmp' to 'C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Content/Audio/Sound/NewSoundCue.uasset'
+[2019.05.28-12.54.08:198][911]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/walk" FILE="C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Content/Player/walk.uasset" SILENT=true
+[2019.05.28-12.54.08:226][911]LogSavePackage: Moving 'C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Saved/walkDBE626AC4623DD34ED82B2BD91B00E4D.tmp' to 'C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Content/Player/walk.uasset'
+[2019.05.28-12.54.08:763][911]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Terrain/4/LakeLevelNew" FILE="C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Content/Terrain/4/LakeLevelNew.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.05.28-12.54.15:784][911]LogSavePackage: Moving 'C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Saved/LakeLevelNewA60DC08E4671D74FF542538522753B5B.tmp' to 'C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Content/Terrain/4/LakeLevelNew.umap'
+[2019.05.28-12.54.15:876][911]LogFileHelpers: Saving map 'LakeLevelNew' took 7.620
+[2019.05.28-12.54.17:300][935]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.28-12.54.17:348][935]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel' has LevelScriptBlueprint '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew' with GeneratedClass '/Game/Terrain/4/LakeLevelNew.LakeLevelNew_C' with ClassGeneratedBy '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew'
+[2019.05.28-12.54.17:348][935]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.28-12.54.17:348][935]PIE: New page: PIE session: LakeLevelNew (May 29, 2019, 4:54:17 AM)
+[2019.05.28-12.54.17:348][935]LogPlayLevel: Creating play world package: /Game/Terrain/4/UEDPIE_0_LakeLevelNew
+[2019.05.28-12.54.17:543][935]LogPlayLevel: PIE: StaticDuplicateObject took: (0.194670s)
+[2019.05.28-12.54.17:544][935]LogAIModule: Creating AISystem for world LakeLevelNew
+[2019.05.28-12.54.17:544][935]LogPlayLevel: PIE: World Init took: (0.001034s)
+[2019.05.28-12.54.17:545][935]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Terrain/4/LakeLevelNew.LakeLevelNew to /Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew (0.196206s)
+[2019.05.28-12.54.17:680][935]LogInit: XAudio2 using '扬声器/听筒 (Realtek Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.05.28-12.54.17:723][935]LogInit: FAudioDevice initialized.
+[2019.05.28-12.54.17:757][935]LogLoad: Game class is 'NewGameMode_C'
+[2019.05.28-12.54.22:412][935]LogWorld: Bringing World /Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew up for play (max tick rate 60) at 2019.05.28-20.54.22
+[2019.05.28-12.54.22:430][935]LogWorld: Bringing up level for play took: 4.671819
+[2019.05.28-12.54.22:452][935]PIE: Play in editor start time for /Game/Terrain/4/UEDPIE_0_LakeLevelNew 5.084
+[2019.05.28-12.54.22:453][935]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel' has LevelScriptBlueprint '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew' with GeneratedClass '/Game/Terrain/4/LakeLevelNew.LakeLevelNew_C' with ClassGeneratedBy '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew'
+[2019.05.28-12.54.46:203][434]LogBlueprintUserMessages: [AITwo2_2] Attack!!
+[2019.05.28-12.54.50:407][516]LogBlueprintUserMessages: [AITwo2_2] Attack!!
+[2019.05.28-12.54.55:421][614]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel' has LevelScriptBlueprint '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew' with GeneratedClass '/Game/Terrain/4/LakeLevelNew.LakeLevelNew_C' with ClassGeneratedBy '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew'
+[2019.05.28-12.54.55:421][614]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.28-12.54.55:494][614]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.28-12.54.55:495][614]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel' has LevelScriptBlueprint '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew' with GeneratedClass '/Game/Terrain/4/LakeLevelNew.LakeLevelNew_C' with ClassGeneratedBy '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew'
+[2019.05.28-12.54.55:528][614]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.28-12.54.55:528][614]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.28-12.54.55:528][614]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.28-12.54.55:528][614]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.28-12.54.55:528][614]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.28-12.54.55:528][614]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.28-12.54.55:528][614]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.28-12.54.55:528][614]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.28-12.54.55:528][614]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.28-12.54.55:528][614]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.28-12.54.55:528][614]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.28-12.54.55:528][614]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.28-12.54.55:528][614]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.28-12.54.55:528][614]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.28-12.54.55:528][614]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.28-12.54.55:528][614]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.28-12.54.55:528][614]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.28-12.54.55:528][614]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.28-12.54.55:528][614]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.28-12.54.55:528][614]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.28-12.54.55:528][614]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.28-12.54.55:528][614]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.28-12.54.55:528][614]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.28-12.54.55:528][614]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.28-12.54.55:528][614]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.28-12.54.55:528][614]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.28-12.54.55:528][614]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.28-12.54.55:528][614]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.28-12.54.55:528][614]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.28-12.54.55:538][614]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.28-12.54.55:539][614]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.28-12.54.55:539][614]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.28-12.54.55:540][614]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.28-12.54.55:540][614]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.28-12.54.55:540][614]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.28-12.54.55:540][614]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.28-12.54.55:540][614]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.28-12.54.55:540][614]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.28-12.54.55:540][614]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.28-12.54.55:540][614]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.28-12.54.55:540][614]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.28-12.54.55:540][614]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.28-12.54.55:540][614]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.28-12.54.55:540][614]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.28-12.54.55:540][614]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.28-12.54.55:540][614]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.28-12.54.55:540][614]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.28-12.54.55:540][614]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.28-12.54.55:540][614]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.28-12.54.55:540][614]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.28-12.54.55:540][614]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.28-12.54.55:540][614]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.28-12.54.55:602][615]LogPlayLevel: Display: Destroying online subsystem :Context_45
+[2019.05.28-12.54.56:557][628]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.28-12.56.45:771][ 12]LogSlate: Window 'ClimbDemo - Unreal Editor' being destroyed
+[2019.05.28-12.56.45:780][ 12]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (搜狗拼音输入法).
+[2019.05.28-12.56.46:068][ 13]Cmd: QUIT_EDITOR
+[2019.05.28-12.56.46:890][ 13]LogExit: Preparing to exit.
+[2019.05.28-12.56.47:750][ 13]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.28-12.56.47:751][ 13]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.28-12.56.47:751][ 13]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.28-12.56.47:751][ 13]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.28-12.56.47:751][ 13]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.28-12.56.47:751][ 13]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.28-12.56.47:751][ 13]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.28-12.56.47:751][ 13]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.28-12.56.47:751][ 13]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.28-12.56.47:751][ 13]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.28-12.56.47:751][ 13]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.28-12.56.47:751][ 13]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.28-12.56.47:751][ 13]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.28-12.56.47:751][ 13]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.28-12.56.47:751][ 13]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.28-12.56.47:751][ 13]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.28-12.56.47:751][ 13]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.28-12.56.47:751][ 13]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.28-12.56.47:751][ 13]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.28-12.56.47:751][ 13]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.28-12.56.47:751][ 13]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.28-12.56.47:751][ 13]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.28-12.56.47:751][ 13]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.28-12.56.47:751][ 13]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.28-12.56.47:751][ 13]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.28-12.56.47:751][ 13]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.28-12.56.47:751][ 13]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.28-12.56.47:751][ 13]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.28-12.56.47:751][ 13]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.28-12.56.47:752][ 13]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.28-12.56.47:872][ 13]LogExit: Editor shut down
+[2019.05.28-12.56.47:873][ 13]LogExit: Transaction tracking system shut down
+[2019.05.28-12.56.50:150][ 13]LogExit: Object subsystem successfully closed.
+[2019.05.28-12.56.50:287][ 13]LogShaderCompilers: Display: Shaders left to compile 0
+[2019.05.28-12.56.50:314][ 13]LogD3D11RHI: Shutdown
+[2019.05.28-12.56.50:314][ 13]LogD3D11RHI: CleanupD3DDevice
+[2019.05.28-12.56.50:360][ 13]LogD3D11RHI: ~FD3D11DynamicRHI
+[2019.05.28-12.56.51:340][ 13]LogModuleManager: Shutting down and abandoning module AnimationEditor (630)
+[2019.05.28-12.56.51:340][ 13]LogModuleManager: Shutting down and abandoning module ClothingSystemEditorInterface (628)
+[2019.05.28-12.56.51:340][ 13]LogModuleManager: Shutting down and abandoning module PinnedCommandList (626)
+[2019.05.28-12.56.51:340][ 13]LogModuleManager: Shutting down and abandoning module SkeletonEditor (624)
+[2019.05.28-12.56.51:349][ 13]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (622)
+[2019.05.28-12.56.51:349][ 13]LogModuleManager: Shutting down and abandoning module BlueprintGraph (620)
+[2019.05.28-12.56.51:349][ 13]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (618)
+[2019.05.28-12.56.51:349][ 13]LogModuleManager: Shutting down and abandoning module Voice (616)
+[2019.05.28-12.56.51:355][ 13]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (614)
+[2019.05.28-12.56.51:355][ 13]LogModuleManager: Shutting down and abandoning module SceneOutliner (612)
+[2019.05.28-12.56.51:355][ 13]LogModuleManager: Shutting down and abandoning module AddContentDialog (610)
+[2019.05.28-12.56.51:366][ 13]LogModuleManager: Shutting down and abandoning module WidgetCarousel (609)
+[2019.05.28-12.56.51:366][ 13]LogModuleManager: Shutting down and abandoning module EditorWidgets (606)
+[2019.05.28-12.56.51:366][ 13]LogModuleManager: Shutting down and abandoning module CollectionManager (604)
+[2019.05.28-12.56.51:367][ 13]LogModuleManager: Shutting down and abandoning module StatsViewer (602)
+[2019.05.28-12.56.51:383][ 13]LogModuleManager: Shutting down and abandoning module FoliageEdit (600)
+[2019.05.28-12.56.51:391][ 13]LogModuleManager: Shutting down and abandoning module LandscapeEditor (598)
+[2019.05.28-12.56.51:436][ 13]LogModuleManager: Shutting down and abandoning module MeshPaintMode (596)
+[2019.05.28-12.56.51:444][ 13]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (594)
+[2019.05.28-12.56.51:445][ 13]LogModuleManager: Shutting down and abandoning module ActorPickerMode (592)
+[2019.05.28-12.56.51:445][ 13]LogModuleManager: Shutting down and abandoning module GeometryMode (590)
+[2019.05.28-12.56.51:445][ 13]LogModuleManager: Shutting down and abandoning module TextureAlignMode (588)
+[2019.05.28-12.56.51:445][ 13]LogModuleManager: Shutting down and abandoning module BspMode (586)
+[2019.05.28-12.56.51:445][ 13]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (584)
+[2019.05.28-12.56.51:454][ 13]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (582)
+[2019.05.28-12.56.51:465][ 13]LogModuleManager: Shutting down and abandoning module AutomationWorker (580)
+[2019.05.28-12.56.51:465][ 13]LogModuleManager: Shutting down and abandoning module HoudiniEngineEditor (578)
+[2019.05.28-12.56.51:465][ 13]LogHoudiniEngineEditor: Shutting down the Houdini Engine Editor module.
+[2019.05.28-12.56.51:465][ 13]LogHoudiniEngineEditor: Houdini Engine Editor module shutdown complete.
+[2019.05.28-12.56.51:465][ 13]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (576)
+[2019.05.28-12.56.51:465][ 13]LogModuleManager: Shutting down and abandoning module SequenceRecorder (575)
+[2019.05.28-12.56.51:475][ 13]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (572)
+[2019.05.28-12.56.51:499][ 13]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (570)
+[2019.05.28-12.56.51:521][ 13]LogModuleManager: Shutting down and abandoning module PlacementMode (569)
+[2019.05.28-12.56.51:521][ 13]LogModuleManager: Shutting down and abandoning module MaterialEditor (568)
+[2019.05.28-12.56.51:562][ 13]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (564)
+[2019.05.28-12.56.51:563][ 13]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (562)
+[2019.05.28-12.56.51:563][ 13]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (560)
+[2019.05.28-12.56.51:580][ 13]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (558)
+[2019.05.28-12.56.51:580][ 13]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (556)
+[2019.05.28-12.56.51:580][ 13]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (554)
+[2019.05.28-12.56.51:580][ 13]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (552)
+[2019.05.28-12.56.51:580][ 13]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (550)
+[2019.05.28-12.56.51:580][ 13]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (548)
+[2019.05.28-12.56.51:580][ 13]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (546)
+[2019.05.28-12.56.51:580][ 13]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (544)
+[2019.05.28-12.56.51:580][ 13]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (542)
+[2019.05.28-12.56.51:580][ 13]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (540)
+[2019.05.28-12.56.51:580][ 13]LogModuleManager: Shutting down and abandoning module CharacterAI (538)
+[2019.05.28-12.56.51:580][ 13]LogModuleManager: Shutting down and abandoning module SmartSnapping (536)
+[2019.05.28-12.56.51:580][ 13]LogModuleManager: Shutting down and abandoning module SessionServices (534)
+[2019.05.28-12.56.51:580][ 13]LogModuleManager: Shutting down and abandoning module ViewportSnapping (532)
+[2019.05.28-12.56.51:580][ 13]LogModuleManager: Shutting down and abandoning module ViewportInteraction (530)
+[2019.05.28-12.56.51:580][ 13]LogModuleManager: Shutting down and abandoning module ClothPainter (528)
+[2019.05.28-12.56.51:592][ 13]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (527)
+[2019.05.28-12.56.51:613][ 13]LogModuleManager: Shutting down and abandoning module LogVisualizer (524)
+[2019.05.28-12.56.51:624][ 13]LogModuleManager: Shutting down and abandoning module IntroTutorials (522)
+[2019.05.28-12.56.51:654][ 13]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (521)
+[2019.05.28-12.56.51:666][ 13]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (518)
+[2019.05.28-12.56.51:666][ 13]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (516)
+[2019.05.28-12.56.51:671][ 13]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (514)
+[2019.05.28-12.56.51:671][ 13]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (512)
+[2019.05.28-12.56.51:671][ 13]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (511)
+[2019.05.28-12.56.53:325][ 13]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (508)
+[2019.05.28-12.56.53:326][ 13]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (506)
+[2019.05.28-12.56.53:326][ 13]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (504)
+[2019.05.28-12.56.53:326][ 13]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (502)
+[2019.05.28-12.56.53:326][ 13]LogModuleManager: Shutting down and abandoning module InputBindingEditor (500)
+[2019.05.28-12.56.53:680][ 13]LogModuleManager: Shutting down and abandoning module MergeActors (498)
+[2019.05.28-12.56.53:693][ 13]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (496)
+[2019.05.28-12.56.53:706][ 13]LogModuleManager: Shutting down and abandoning module LocalizationService (495)
+[2019.05.28-12.56.53:706][ 13]LogModuleManager: Shutting down and abandoning module HardwareTargeting (492)
+[2019.05.28-12.56.53:706][ 13]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (490)
+[2019.05.28-12.56.53:706][ 13]LogModuleManager: Shutting down and abandoning module UndoHistory (488)
+[2019.05.28-12.56.53:717][ 13]LogModuleManager: Shutting down and abandoning module XmlParser (486)
+[2019.05.28-12.56.53:717][ 13]LogModuleManager: Shutting down and abandoning module Blutility (484)
+[2019.05.28-12.56.53:717][ 13]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (482)
+[2019.05.28-12.56.53:717][ 13]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (481)
+[2019.05.28-12.56.53:717][ 13]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (478)
+[2019.05.28-12.56.53:717][ 13]LogModuleManager: Shutting down and abandoning module SettingsEditor (476)
+[2019.05.28-12.56.53:732][ 13]LogModuleManager: Shutting down and abandoning module ProjectLauncher (474)
+[2019.05.28-12.56.53:748][ 13]LogModuleManager: Shutting down and abandoning module SessionFrontend (472)
+[2019.05.28-12.56.53:754][ 13]LogModuleManager: Shutting down and abandoning module ProfilerClient (470)
+[2019.05.28-12.56.53:764][ 13]LogModuleManager: Shutting down and abandoning module DeviceManager (468)
+[2019.05.28-12.56.53:777][ 13]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (467)
+[2019.05.28-12.56.53:832][ 13]LogModuleManager: Shutting down and abandoning module AutomationController (464)
+[2019.05.28-12.56.53:839][ 13]LogModuleManager: Shutting down and abandoning module AutomationWindow (462)
+[2019.05.28-12.56.53:857][ 13]LogModuleManager: Shutting down and abandoning module Layers (460)
+[2019.05.28-12.56.53:873][ 13]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (458)
+[2019.05.28-12.56.53:873][ 13]LogModuleManager: Shutting down and abandoning module DetailCustomizations (456)
+[2019.05.28-12.56.53:873][ 13]LogModuleManager: Shutting down and abandoning module PackagesDialog (454)
+[2019.05.28-12.56.53:873][ 13]LogModuleManager: Shutting down and abandoning module Persona (452)
+[2019.05.28-12.56.53:873][ 13]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (451)
+[2019.05.28-12.56.53:873][ 13]LogModuleManager: Shutting down and abandoning module AnimGraph (449)
+[2019.05.28-12.56.53:873][ 13]LogModuleManager: Shutting down and abandoning module Kismet (446)
+[2019.05.28-12.56.53:882][ 13]LogModuleManager: Shutting down and abandoning module GraphEditor (444)
+[2019.05.28-12.56.53:884][ 13]LogModuleManager: Shutting down and abandoning module ClassViewer (442)
+[2019.05.28-12.56.53:884][ 13]LogModuleManager: Shutting down and abandoning module Toolbox (440)
+[2019.05.28-12.56.53:884][ 13]LogModuleManager: Shutting down and abandoning module ModuleUI (438)
+[2019.05.28-12.56.53:887][ 13]LogModuleManager: Shutting down and abandoning module MovieSceneTools (436)
+[2019.05.28-12.56.53:912][ 13]LogModuleManager: Shutting down and abandoning module OutputLog (434)
+[2019.05.28-12.56.53:912][ 13]LogModuleManager: Shutting down and abandoning module GammaUI (432)
+[2019.05.28-12.56.53:924][ 13]LogModuleManager: Shutting down and abandoning module Documentation (430)
+[2019.05.28-12.56.53:924][ 13]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (428)
+[2019.05.28-12.56.53:924][ 13]LogModuleManager: Shutting down and abandoning module MovieScene (426)
+[2019.05.28-12.56.53:924][ 13]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (424)
+[2019.05.28-12.56.53:934][ 13]LogModuleManager: Shutting down and abandoning module LauncherPlatform (422)
+[2019.05.28-12.56.53:934][ 13]LogModuleManager: Shutting down and abandoning module AnalyticsET (420)
+[2019.05.28-12.56.53:934][ 13]LogModuleManager: Shutting down and abandoning module PortalServices (418)
+[2019.05.28-12.56.53:934][ 13]LogModuleManager: Shutting down and abandoning module PortalRpc (416)
+[2019.05.28-12.56.53:934][ 13]LogModuleManager: Shutting down and abandoning module MessagingRpc (414)
+[2019.05.28-12.56.53:934][ 13]LogModuleManager: Shutting down and abandoning module AIModule (412)
+[2019.05.28-12.56.53:934][ 13]LogModuleManager: Shutting down and abandoning module GameplayDebugger (411)
+[2019.05.28-12.56.53:947][ 13]LogModuleManager: Shutting down and abandoning module AITestSuite (409)
+[2019.05.28-12.56.53:954][ 13]LogModuleManager: Shutting down and abandoning module NavigationSystem (407)
+[2019.05.28-12.56.53:954][ 13]LogModuleManager: Shutting down and abandoning module DesktopPlatform (404)
+[2019.05.28-12.56.53:954][ 13]LogModuleManager: Shutting down and abandoning module ProfilerService (402)
+[2019.05.28-12.56.54:184][ 13]LogModuleManager: Shutting down and abandoning module TaskGraph (400)
+[2019.05.28-12.56.54:184][ 13]LogModuleManager: Shutting down and abandoning module SteamVRController (398)
+[2019.05.28-12.56.54:184][ 13]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (396)
+[2019.05.28-12.56.54:184][ 13]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (394)
+[2019.05.28-12.56.54:198][ 13]LogModuleManager: Shutting down and abandoning module OculusInput (392)
+[2019.05.28-12.56.54:198][ 13]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (390)
+[2019.05.28-12.56.54:198][ 13]LogModuleManager: Shutting down and abandoning module HoudiniEngineRuntime (388)
+[2019.05.28-12.56.54:207][ 13]LogHoudiniEngine: Shutting down the Houdini Engine module.
+[2019.05.28-12.56.54:218][ 13]LogModuleManager: Shutting down and abandoning module EditableMesh (386)
+[2019.05.28-12.56.54:227][ 13]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (384)
+[2019.05.28-12.56.54:227][ 13]LogModuleManager: Shutting down and abandoning module CableComponent (382)
+[2019.05.28-12.56.54:227][ 13]LogModuleManager: Shutting down and abandoning module AudioCapture (380)
+[2019.05.28-12.56.54:227][ 13]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (378)
+[2019.05.28-12.56.54:227][ 13]LogModuleManager: Shutting down and abandoning module AndroidPermission (376)
+[2019.05.28-12.56.54:227][ 13]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (374)
+[2019.05.28-12.56.54:227][ 13]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (372)
+[2019.05.28-12.56.54:249][ 13]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (370)
+[2019.05.28-12.56.54:249][ 13]LogModuleManager: Shutting down and abandoning module MediaCompositing (368)
+[2019.05.28-12.56.54:249][ 13]LogModuleManager: Shutting down and abandoning module LinearTimecode (366)
+[2019.05.28-12.56.54:249][ 13]LogModuleManager: Shutting down and abandoning module ImgMedia (364)
+[2019.05.28-12.56.54:262][ 13]LogModuleManager: Shutting down and abandoning module HTML5Networking (362)
+[2019.05.28-12.56.54:262][ 13]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (360)
+[2019.05.28-12.56.54:262][ 13]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (358)
+[2019.05.28-12.56.54:262][ 13]LogModuleManager: Shutting down and abandoning module BackChannel (356)
+[2019.05.28-12.56.54:270][ 13]LogModuleManager: Shutting down and abandoning module AppleVision (354)
+[2019.05.28-12.56.54:270][ 13]LogModuleManager: Shutting down and abandoning module AppleImageUtils (352)
+[2019.05.28-12.56.54:270][ 13]LogModuleManager: Shutting down and abandoning module AlembicImporter (350)
+[2019.05.28-12.56.54:270][ 13]LogModuleManager: Shutting down and abandoning module AlembicLibrary (349)
+[2019.05.28-12.56.54:270][ 13]LogModuleManager: Shutting down and abandoning module GeometryCache (348)
+[2019.05.28-12.56.54:270][ 13]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (347)
+[2019.05.28-12.56.54:270][ 13]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (342)
+[2019.05.28-12.56.54:279][ 13]LogModuleManager: Shutting down and abandoning module DatasmithContent (340)
+[2019.05.28-12.56.54:282][ 13]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (338)
+[2019.05.28-12.56.54:282][ 13]LogModuleManager: Shutting down and abandoning module PluginBrowser (336)
+[2019.05.28-12.56.54:312][ 13]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (334)
+[2019.05.28-12.56.54:318][ 13]LogModuleManager: Shutting down and abandoning module PolygonModeling (332)
+[2019.05.28-12.56.54:318][ 13]LogModuleManager: Shutting down and abandoning module MeshEditor (330)
+[2019.05.28-12.56.54:328][ 13]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (328)
+[2019.05.28-12.56.54:334][ 13]LogModuleManager: Shutting down and abandoning module CryptoKeys (326)
+[2019.05.28-12.56.54:334][ 13]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (324)
+[2019.05.28-12.56.54:334][ 13]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (322)
+[2019.05.28-12.56.54:334][ 13]LogModuleManager: Shutting down and abandoning module UObjectPlugin (320)
+[2019.05.28-12.56.54:334][ 13]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (318)
+[2019.05.28-12.56.54:338][ 13]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (316)
+[2019.05.28-12.56.54:355][ 13]LogModuleManager: Shutting down and abandoning module GitSourceControl (314)
+[2019.05.28-12.56.54:365][ 13]LogModuleManager: Shutting down and abandoning module SourceControl (313)
+[2019.05.28-12.56.54:380][ 13]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (310)
+[2019.05.28-12.56.54:380][ 13]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (308)
+[2019.05.28-12.56.54:380][ 13]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (306)
+[2019.05.28-12.56.54:380][ 13]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (304)
+[2019.05.28-12.56.54:380][ 13]LogModuleManager: Shutting down and abandoning module Paper2DEditor (302)
+[2019.05.28-12.56.54:401][ 13]LogModuleManager: Shutting down and abandoning module MeshPaint (301)
+[2019.05.28-12.56.54:409][ 13]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (298)
+[2019.05.28-12.56.54:409][ 13]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (296)
+[2019.05.28-12.56.54:409][ 13]LogModuleManager: Shutting down and abandoning module PhysXVehicles (294)
+[2019.05.28-12.56.54:409][ 13]LogModuleManager: Shutting down and abandoning module OculusEditor (292)
+[2019.05.28-12.56.54:419][ 13]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (290)
+[2019.05.28-12.56.54:419][ 13]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (288)
+[2019.05.28-12.56.54:419][ 13]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (286)
+[2019.05.28-12.56.54:430][ 13]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2019.05.28-12.56.54:430][ 13]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2019.05.28-12.56.54:531][ 13]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2019.05.28-12.56.54:639][ 13]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (278)
+[2019.05.28-12.56.54:639][ 13]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (276)
+[2019.05.28-12.56.54:646][ 13]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (274)
+[2019.05.28-12.56.54:646][ 13]LogModuleManager: Shutting down and abandoning module FacialAnimation (272)
+[2019.05.28-12.56.54:646][ 13]LogModuleManager: Shutting down and abandoning module DataValidation (270)
+[2019.05.28-12.56.54:646][ 13]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (268)
+[2019.05.28-12.56.54:655][ 13]LogModuleManager: Shutting down and abandoning module LevelEditor (267)
+[2019.05.28-12.56.54:657][ 13]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (266)
+[2019.05.28-12.56.54:669][ 13]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (264)
+[2019.05.28-12.56.54:669][ 13]LogModuleManager: Shutting down and abandoning module MainFrame (262)
+[2019.05.28-12.56.54:679][ 13]LogModuleManager: Shutting down and abandoning module HotReload (261)
+[2019.05.28-12.56.54:688][ 13]LogModuleManager: Shutting down and abandoning module ContentBrowser (257)
+[2019.05.28-12.56.54:690][ 13]LogModuleManager: Shutting down and abandoning module TreeMap (255)
+[2019.05.28-12.56.54:705][ 13]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2019.05.28-12.56.54:705][ 13]LogModuleManager: Shutting down and abandoning module AISupportModule (250)
+[2019.05.28-12.56.54:705][ 13]LogModuleManager: Shutting down and abandoning module Paper2D (248)
+[2019.05.28-12.56.54:715][ 13]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (246)
+[2019.05.28-12.56.54:725][ 13]LogModuleManager: Shutting down and abandoning module WmfMedia (244)
+[2019.05.28-12.56.54:732][ 13]LogModuleManager: Shutting down and abandoning module Media (243)
+[2019.05.28-12.56.54:738][ 13]LogModuleManager: Shutting down and abandoning module PacketHandler (240)
+[2019.05.28-12.56.54:738][ 13]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (238)
+[2019.05.28-12.56.54:738][ 13]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (236)
+[2019.05.28-12.56.54:738][ 13]LogModuleManager: Shutting down and abandoning module MediaAssets (234)
+[2019.05.28-12.56.54:738][ 13]LogModuleManager: Shutting down and abandoning module Overlay (232)
+[2019.05.28-12.56.54:738][ 13]LogModuleManager: Shutting down and abandoning module OverlayEditor (231)
+[2019.05.28-12.56.54:738][ 13]LogModuleManager: Shutting down and abandoning module VREditor (228)
+[2019.05.28-12.56.54:753][ 13]LogModuleManager: Shutting down and abandoning module StringTableEditor (226)
+[2019.05.28-12.56.54:762][ 13]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (224)
+[2019.05.28-12.56.54:762][ 13]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (222)
+[2019.05.28-12.56.54:788][ 13]LogModuleManager: Shutting down and abandoning module FunctionalTesting (220)
+[2019.05.28-12.56.54:798][ 13]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (218)
+[2019.05.28-12.56.54:804][ 13]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (217)
+[2019.05.28-12.56.54:805][ 13]LogModuleManager: Shutting down and abandoning module UMG (214)
+[2019.05.28-12.56.54:805][ 13]LogModuleManager: Shutting down and abandoning module UMGEditor (213)
+[2019.05.28-12.56.54:840][ 13]LogModuleManager: Shutting down and abandoning module Sequencer (212)
+[2019.05.28-12.56.54:863][ 13]LogModuleManager: Shutting down and abandoning module MessageLog (209)
+[2019.05.28-12.56.54:863][ 13]LogModuleManager: Shutting down and abandoning module SlateReflector (204)
+[2019.05.28-12.56.54:885][ 13]LogModuleManager: Shutting down and abandoning module Slate (202)
+[2019.05.28-12.56.54:885][ 13]LogModuleManager: Shutting down and abandoning module EditorStyle (200)
+[2019.05.28-12.56.54:886][ 13]LogModuleManager: Shutting down and abandoning module MRMesh (198)
+[2019.05.28-12.56.54:895][ 13]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (196)
+[2019.05.28-12.56.54:895][ 13]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (194)
+[2019.05.28-12.56.54:896][ 13]LogModuleManager: Shutting down and abandoning module XAudio2 (192)
+[2019.05.28-12.56.54:896][ 13]LogModuleManager: Shutting down and abandoning module Networking (190)
+[2019.05.28-12.56.54:896][ 13]LogModuleManager: Shutting down and abandoning module Core (188)
+[2019.05.28-12.56.54:896][ 13]LogModuleManager: Shutting down and abandoning module LevelSequence (186)
+[2019.05.28-12.56.54:896][ 13]LogModuleManager: Shutting down and abandoning module KismetCompiler (184)
+[2019.05.28-12.56.54:896][ 13]LogModuleManager: Shutting down and abandoning module MeshUtilities (182)
+[2019.05.28-12.56.54:914][ 13]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (181)
+[2019.05.28-12.56.54:928][ 13]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (180)
+[2019.05.28-12.56.54:928][ 13]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (179)
+[2019.05.28-12.56.54:943][ 13]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (177)
+[2019.05.28-12.56.54:959][ 13]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (175)
+[2019.05.28-12.56.54:959][ 13]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (173)
+[2019.05.28-12.56.54:975][ 13]LogModuleManager: Shutting down and abandoning module MaterialBaking (169)
+[2019.05.28-12.56.54:986][ 13]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (165)
+[2019.05.28-12.56.54:986][ 13]LogModuleManager: Shutting down and abandoning module DerivedDataCache (162)
+[2019.05.28-12.56.55:031][ 13]LogDerivedDataCache: Shutdown
+[2019.05.28-12.56.55:031][ 13]LogModuleManager: Shutting down and abandoning module XGEController (160)
+[2019.05.28-12.56.55:031][ 13]LogXGEController: Cleaning working directory: C:/Users/Ivy/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.05.28-12.56.55:044][ 13]LogModuleManager: Shutting down and abandoning module TargetPlatform (158)
+[2019.05.28-12.56.55:044][ 13]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (157)
+[2019.05.28-12.56.55:048][ 13]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (155)
+[2019.05.28-12.56.55:054][ 13]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (153)
+[2019.05.28-12.56.55:065][ 13]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (151)
+[2019.05.28-12.56.55:065][ 13]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (149)
+[2019.05.28-12.56.55:088][ 13]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (147)
+[2019.05.28-12.56.55:088][ 13]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (145)
+[2019.05.28-12.56.55:088][ 13]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (143)
+[2019.05.28-12.56.55:088][ 13]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (141)
+[2019.05.28-12.56.55:091][ 13]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (139)
+[2019.05.28-12.56.55:091][ 13]LogModuleManager: Shutting down and abandoning module ImageWrapper (138)
+[2019.05.28-12.56.55:091][ 13]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (135)
+[2019.05.28-12.56.55:091][ 13]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (133)
+[2019.05.28-12.56.55:091][ 13]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (131)
+[2019.05.28-12.56.55:091][ 13]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (129)
+[2019.05.28-12.56.55:091][ 13]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (127)
+[2019.05.28-12.56.55:091][ 13]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (125)
+[2019.05.28-12.56.55:091][ 13]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (123)
+[2019.05.28-12.56.55:091][ 13]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (121)
+[2019.05.28-12.56.55:100][ 13]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (119)
+[2019.05.28-12.56.55:100][ 13]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (117)
+[2019.05.28-12.56.55:101][ 13]LogModuleManager: Shutting down and abandoning module Messaging (115)
+[2019.05.28-12.56.55:101][ 13]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (113)
+[2019.05.28-12.56.55:101][ 13]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (111)
+[2019.05.28-12.56.55:101][ 13]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (109)
+[2019.05.28-12.56.55:125][ 13]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (107)
+[2019.05.28-12.56.55:125][ 13]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (105)
+[2019.05.28-12.56.55:125][ 13]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (103)
+[2019.05.28-12.56.55:125][ 13]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (101)
+[2019.05.28-12.56.55:125][ 13]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (99)
+[2019.05.28-12.56.55:125][ 13]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (97)
+[2019.05.28-12.56.55:125][ 13]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (95)
+[2019.05.28-12.56.55:125][ 13]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (93)
+[2019.05.28-12.56.55:125][ 13]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (91)
+[2019.05.28-12.56.55:125][ 13]LogModuleManager: Shutting down and abandoning module InputCore (88)
+[2019.05.28-12.56.55:125][ 13]LogModuleManager: Shutting down and abandoning module Settings (86)
+[2019.05.28-12.56.55:125][ 13]LogModuleManager: Shutting down and abandoning module PhysXCooking (84)
+[2019.05.28-12.56.55:125][ 13]LogModuleManager: Shutting down and abandoning module SteamVR (82)
+[2019.05.28-12.56.55:125][ 13]LogModuleManager: Shutting down and abandoning module OculusHMD (80)
+[2019.05.28-12.56.55:136][ 13]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (78)
+[2019.05.28-12.56.55:136][ 13]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (76)
+[2019.05.28-12.56.55:136][ 13]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (74)
+[2019.05.28-12.56.55:136][ 13]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (70)
+[2019.05.28-12.56.55:143][ 13]LogModuleManager: Shutting down and abandoning module XMPP (65)
+[2019.05.28-12.56.55:166][ 13]LogModuleManager: Shutting down and abandoning module WebSockets (64)
+[2019.05.28-12.56.55:229][ 13]LogModuleManager: Shutting down and abandoning module HTTP (61)
+[2019.05.28-12.56.55:241][ 13]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2019.05.28-12.56.55:241][ 13]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B5535E868-4DDD-14A8-0FF7-15A037EBCF21%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.20.3-4369336%2B%2B%2BUE4%2BRelease-4.20&UserID=2a032a53428410f50062e6b5760ca375%7Ca35fb2764eea4101b35ba65f18c87623%7Ced5698cd-8358-4ba6-98cd-94077bf59d32&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2019.05.28-12.56.55:241][ 13]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2019.05.28-12.56.55:743][ 13]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2019.05.28-12.56.56:243][ 13]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2019.05.28-12.56.56:744][ 13]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2019.05.28-12.56.57:245][ 13]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2019.05.28-12.56.57:745][ 13]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2019.05.28-12.56.58:246][ 13]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2019.05.28-12.56.58:755][ 13]LogModuleManager: Shutting down and abandoning module SSL (60)
+[2019.05.28-12.56.58:791][ 13]LogModuleManager: Shutting down and abandoning module MagicLeapEmulator (56)
+[2019.05.28-12.56.58:791][ 13]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (54)
+[2019.05.28-12.56.58:791][ 13]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (52)
+[2019.05.28-12.56.58:791][ 13]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (50)
+[2019.05.28-12.56.58:791][ 13]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (48)
+[2019.05.28-12.56.58:792][ 13]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (46)
+[2019.05.28-12.56.58:792][ 13]LogModuleManager: Shutting down and abandoning module MagicLeapGestures (44)
+[2019.05.28-12.56.58:792][ 13]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (42)
+[2019.05.28-12.56.58:792][ 13]LogModuleManager: Shutting down and abandoning module MagicLeapController (40)
+[2019.05.28-12.56.58:792][ 13]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2019.05.28-12.56.58:792][ 13]LogModuleManager: Shutting down and abandoning module MagicLeap (38)
+[2019.05.28-12.56.58:792][ 13]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2019.05.28-12.56.58:814][ 13]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2019.05.28-12.56.58:814][ 13]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2019.05.28-12.56.58:814][ 13]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2019.05.28-12.56.58:829][ 13]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2019.05.28-12.56.58:829][ 13]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2019.05.28-12.56.58:829][ 13]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2019.05.28-12.56.58:841][ 13]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2019.05.28-12.56.58:852][ 13]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2019.05.28-12.56.58:852][ 13]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2019.05.28-12.56.58:863][ 13]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2019.05.28-12.56.58:863][ 13]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2019.05.28-12.56.58:863][ 13]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2019.05.28-12.56.58:863][ 13]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2019.05.28-12.56.58:869][ 13]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2019.05.28-12.56.58:869][ 13]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2019.05.28-12.56.58:882][ 13]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2019.05.28-12.56.58:882][ 13]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2019.05.28-12.56.58:904][ 13]LogExit: Exiting.
+[2019.05.28-12.56.58:909][ 13]Log file closed, 05/28/19 20:56:58
