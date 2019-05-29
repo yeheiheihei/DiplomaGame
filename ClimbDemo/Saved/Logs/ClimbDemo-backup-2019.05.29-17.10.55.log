@@ -1,0 +1,983 @@
+﻿Log file open, 05/29/19 15:53:08
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: ClimbDemo
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 3.238364
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +8:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin HoudiniEngine
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.321s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4369336
+LogInit: Engine Version: 4.20.3-4369336+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i5-4590 CPU @ 3.30GHz, GPU: NVIDIA GeForce GTX 960
+LogInit: Compiled (64-bit): Sep 17 2018 12:26:19
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line:  
+LogInit: Base Directory: E:/UE4/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.002s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2019.05.29-07.53.11:046][  0]LogInit: Selected Device Profile: [Windows]
+[2019.05.29-07.53.11:047][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.05.29-07.53.11:095][  0]LogHAL: Display: Platform has ~ 16 GB [17069932544 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.05.29-07.53.11:122][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2019.05.29-07.53.11:129][  0]LogInit: Going up to parent DeviceProfile []
+[2019.05.29-07.53.11:155][  0]LogInit: Computer: DESKTOP-LAG4IKO
+[2019.05.29-07.53.11:155][  0]LogInit: User: 14367
+[2019.05.29-07.53.11:155][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.05.29-07.53.11:156][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.05.29-07.53.11:156][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2019.05.29-07.53.11:156][  0]LogMemory: Platform Memory Stats for Windows
+[2019.05.29-07.53.11:156][  0]LogMemory: Process Physical Memory: 102.42 MB used, 102.42 MB peak
+[2019.05.29-07.53.11:156][  0]LogMemory: Process Virtual Memory: 98.71 MB used, 98.71 MB peak
+[2019.05.29-07.53.11:156][  0]LogMemory: Physical Memory: 6434.53 MB used,  9844.63 MB free, 16279.16 MB total
+[2019.05.29-07.53.11:156][  0]LogMemory: Virtual Memory: 4640.59 MB used,  9844.63 MB free, 134217728.00 MB total
+[2019.05.29-07.53.12:010][  0]LogInit: Using OS detected language (zh-CN).
+[2019.05.29-07.53.12:010][  0]LogInit: Using OS detected locale (zh-CN).
+[2019.05.29-07.53.12:769][  0]LogStreaming: Display: Took  0.745s to InitEngineTextLocalization.
+[2019.05.29-07.53.12:775][  0]LogInit: Setting process to per monitor DPI aware
+[2019.05.29-07.53.13:341][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.05.29-07.53.13:341][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.05.29-07.53.15:878][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.05.29-07.53.15:878][  0]LogD3D11RHI: D3D11 adapters:
+[2019.05.29-07.53.15:971][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 960' (Feature Level 11_0)
+[2019.05.29-07.53.15:971][  0]LogD3D11RHI:       4062/0/8139 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.05.29-07.53.16:141][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 4600' (Feature Level 11_0)
+[2019.05.29-07.53.16:141][  0]LogD3D11RHI:       112/0/2048 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2019.05.29-07.53.16:146][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.05.29-07.53.16:146][  0]LogD3D11RHI:       0/0/8139 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.05.29-07.53.16:146][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.05.29-07.53.16:158][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.05.29-07.53.16:158][  0]LogD3D11RHI:     GPU DeviceId: 0x1401 (for the marketing name, search the web for "GPU Device Id")
+[2019.05.29-07.53.16:161][  0]LogWindows: EnumDisplayDevices:
+[2019.05.29-07.53.16:162][  0]LogWindows:    0. 'NVIDIA GeForce GTX 960' (P:1 D:1)
+[2019.05.29-07.53.16:164][  0]LogWindows:    1. 'NVIDIA GeForce GTX 960' (P:0 D:0)
+[2019.05.29-07.53.16:166][  0]LogWindows:    2. 'NVIDIA GeForce GTX 960' (P:0 D:0)
+[2019.05.29-07.53.16:168][  0]LogWindows:    3. 'NVIDIA GeForce GTX 960' (P:0 D:0)
+[2019.05.29-07.53.16:171][  0]LogWindows:    4. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2019.05.29-07.53.16:173][  0]LogWindows:    5. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2019.05.29-07.53.16:176][  0]LogWindows:    6. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2019.05.29-07.53.16:178][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2019.05.29-07.53.16:178][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 960
+[2019.05.29-07.53.16:187][  0]LogD3D11RHI:   Driver Version: 388.13 (internal:23.21.13.8813, unified:388.13)
+[2019.05.29-07.53.16:187][  0]LogD3D11RHI:      Driver Date: 10-27-2017
+[2019.05.29-07.53.16:187][  0]LogRHI: Texture pool is 2843 MB (70% of 4062 MB)
+[2019.05.29-07.53.16:235][  0]LogD3D11RHI: Async texture creation enabled
+[2019.05.29-07.53.16:430][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.05.29-07.53.16:493][  0]LogShaderCompilers: Guid format shader working directory is 12 characters bigger than the processId version (D:/Documents/DiplomaGame/ClimbDemo/Intermediate/Shaders/WorkingDirectory/5676/).
+[2019.05.29-07.53.16:493][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/14367/AppData/Local/Temp/UnrealShaderWorkingDir/6DD5BB264555A9752DA34A8815451D24/'.
+[2019.05.29-07.53.17:757][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.05.29-07.53.17:794][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.05.29-07.53.17:821][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.05.29-07.53.17:848][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.05.29-07.53.17:902][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.05.29-07.53.17:941][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.05.29-07.53.17:973][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.05.29-07.53.18:010][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.05.29-07.53.18:038][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.05.29-07.53.18:168][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.29-07.53.18:168][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.29-07.53.18:168][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.29-07.53.18:168][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.29-07.53.18:168][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.29-07.53.18:168][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.29-07.53.18:168][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.29-07.53.18:168][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.29-07.53.18:168][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.29-07.53.18:168][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.29-07.53.18:168][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.29-07.53.18:168][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.29-07.53.18:168][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.29-07.53.18:168][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.29-07.53.18:168][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.29-07.53.18:168][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.29-07.53.18:168][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.29-07.53.18:168][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.29-07.53.18:194][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.05.29-07.53.18:333][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.05.29-07.53.18:333][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.05.29-07.53.18:379][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.05.29-07.53.18:379][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.05.29-07.53.18:405][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.05.29-07.53.18:440][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.05.29-07.53.18:478][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.05.29-07.53.18:513][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.05.29-07.53.18:558][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.05.29-07.53.18:558][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.05.29-07.53.19:380][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.05.29-07.53.19:381][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.05.29-07.53.19:381][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.05.29-07.53.22:136][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.05.29-07.53.23:039][  0]LogDerivedDataCache: Loaded boot cache 0.90s 73MB C:/Users/14367/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2019.05.29-07.53.23:039][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/14367/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2019.05.29-07.53.23:039][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/Documents/DiplomaGame/ClimbDemo/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.05.29-07.53.23:039][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.05.29-07.53.23:039][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/Documents/DiplomaGame/ClimbDemo/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.05.29-07.53.23:039][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.05.29-07.53.23:098][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.05.29-07.53.23:112][  0]LogDerivedDataCache: Using Local data cache path C:/Users/14367/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.05.29-07.53.23:112][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.05.29-07.53.23:112][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.05.29-07.53.23:183][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.05.29-07.53.23:225][  0]LogSlate: Using FreeType 2.6.0
+[2019.05.29-07.53.23:292][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.05.29-07.53.24:091][  0]LogAssetRegistry: FAssetRegistry took 0.0456 seconds to start up
+[2019.05.29-07.53.27:722][  0]LogInit: Selected Device Profile: [Windows]
+[2019.05.29-07.53.31:970][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.05.29-07.53.32:435][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.05.29-07.53.32:448][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.05.29-07.53.32:462][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.05.29-07.53.32:462][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.05.29-07.53.33:159][  0]LogNetVersion: ClimbDemo 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 2394580764)
+[2019.05.29-07.53.40:412][  0]LogPackageLocalizationCache: Processed 12 localized package path(s) for 4 prioritized culture(s) in 0.351162 seconds
+[2019.05.29-07.53.40:437][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2019.05.29-07.53.40:437][  0]LogUObjectAllocator: 6690872 out of 0 bytes used by permanent object pool.
+[2019.05.29-07.53.40:437][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.05.29-07.54.05:583][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.05.29-07.54.05:654][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.05.29-07.54.08:970][  0]SourceControl: 源码管理已禁用
+[2019.05.29-07.54.08:998][  0]SourceControl: 源码管理已禁用
+[2019.05.29-07.54.09:238][  0]SourceControl: 源码管理已禁用
+[2019.05.29-07.54.09:327][  0]SourceControl: 源码管理已禁用
+[2019.05.29-07.54.13:145][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.05.29-07.54.14:137][  0]LogHoudiniEngine: Starting the Houdini Engine module.
+[2019.05.29-07.54.14:140][  0]LogHoudiniEngine: Loaded libHAPIL.dll from Registry path F:/AnZhuangChengXu/Houdini 17.0.416/bin
+[2019.05.29-07.54.14:171][  0]LogLinker: Warning: Asset '../../Plugins/Runtime/HoudiniEngine/Content/houdini_logo.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.05.29-07.54.14:245][  0]LogLinker: Warning: Asset '../../Plugins/Runtime/HoudiniEngine/Content/houdini_default_material.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.05.29-07.54.14:308][  0]LogLinker: Warning: Asset '../../Plugins/Runtime/HoudiniEngine/Content/houdini_bgeo_import.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.05.29-07.54.17:380][  0]LogHoudiniEngine: Error: Failed to create a Houdini Engine session
+[2019.05.29-07.54.17:395][  0]LogHoudiniEngine: Starting up the Houdini Engine API module failed: Generic Failure
+[2019.05.29-07.54.17:527][  0]LogOcInput: OculusInput pre-init called
+[2019.05.29-07.54.18:590][  0]LogEngine: Initializing Engine...
+[2019.05.29-07.54.18:661][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.05.29-07.54.18:699][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.002 s
+[2019.05.29-07.54.18:699][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.05.29-07.54.18:699][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.05.29-07.54.18:722][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.023 s
+[2019.05.29-07.54.19:172][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.05.29-07.54.19:850][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.05.29-07.54.20:313][  0]LogInit: XAudio2 using '数字音频(S/PDIF) (High Definition Audio 设备)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.05.29-07.54.20:374][  0]LogInit: FAudioDevice initialized.
+[2019.05.29-07.54.20:374][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.05.29-07.54.20:570][  0]LogDerivedDataCache: Saved boot cache 0.20s 73MB C:/Users/14367/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2019.05.29-07.54.20:605][  0]LogInit: Texture streaming: Enabled
+[2019.05.29-07.54.22:051][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.05.29-07.54.22:188][  0]LogInit: Transaction tracking system initialized
+[2019.05.29-07.54.23:020][  0]BlueprintLog: New page: 编辑器加载
+[2019.05.29-07.54.26:550][  0]LocalizationService: 本地化服务已禁用
+[2019.05.29-07.54.30:287][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.05.29-07.54.30:303][  0]LogCook: Display: Mobile HDR setting 1
+[2019.05.29-07.54.30:319][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.05.29-07.54.30:319][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.05.29-07.54.30:319][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.05.29-07.54.30:319][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.05.29-07.54.30:319][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.05.29-07.54.30:369][  0]LogFileCache: Scanning file cache for directory 'D:/Documents/DiplomaGame/ClimbDemo/Content/' took 0.09s
+[2019.05.29-07.54.32:928][  0]LogHoudiniEngineEditor: Starting the Houdini Engine Editor module.
+[2019.05.29-07.54.33:048][  0]LogHoudiniEngineEditor: Houdini Engine Editor module startup complete.
+[2019.05.29-07.54.34:355][  0]SourceControl: 源码管理已禁用
+[2019.05.29-07.54.34:381][  0]Cmd: MAP LOAD FILE="D:/Documents/DiplomaGame/ClimbDemo/Content/Terrain/4/LakeLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.05.29-07.54.34:401][  0]LightingResults: New page: 光照构建
+[2019.05.29-07.54.34:604][  0]MapCheck: New page: 地图检测
+[2019.05.29-07.54.34:604][  0]LightingResults: New page: 光照构建
+[2019.05.29-07.54.42:078][  0]LogBlueprint: Warning: [Compiler ABP_Climber] Cling_BS到JumpEnd  will never be taken, please connect something to  Can Enter Transition
+[2019.05.29-07.54.43:096][  0]LogBlueprint: Warning: [Compiler ABP_Climber] [0114.74]ABP_Climber 编译成功，但出现了 1 个警告[2,079 毫秒内]（/Game/Clinging/Animations/Blueprints/ABP_Climber.ABP_Climber）
+[2019.05.29-07.54.44:424][  0]LogLinker: Warning: Asset 'D:/Documents/DiplomaGame/ClimbDemo/Content/BaseMaterials/SeaShaders/Textures/T_SmallWaves_N.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.05.29-07.54.44:675][  0]LogLinker: Warning: Unable to load PhysicsSerializer with outer InstancedStaticMeshComponent /Game/Terrain/HoudiniBake/terrain_bishe_1_846516E4.terrain_bishe_1_846516E4_C:InstancedStaticMesh10_GEN_VARIABLE because its class does not exist
+[2019.05.29-07.54.44:675][  0]LogLinker: Warning: Unable to load PhysicsSerializer with outer InstancedStaticMeshComponent /Game/Terrain/HoudiniBake/terrain_bishe_1_846516E4.terrain_bishe_1_846516E4_C:InstancedStaticMesh11_GEN_VARIABLE because its class does not exist
+[2019.05.29-07.54.44:675][  0]LogLinker: Warning: Unable to load PhysicsSerializer with outer InstancedStaticMeshComponent /Game/Terrain/HoudiniBake/terrain_bishe_1_846516E4.terrain_bishe_1_846516E4_C:InstancedStaticMesh12_GEN_VARIABLE because its class does not exist
+[2019.05.29-07.54.44:675][  0]LogLinker: Warning: Unable to load PhysicsSerializer with outer InstancedStaticMeshComponent /Game/Terrain/HoudiniBake/terrain_bishe_1_846516E4.terrain_bishe_1_846516E4_C:InstancedStaticMesh13_GEN_VARIABLE because its class does not exist
+[2019.05.29-07.54.44:675][  0]LogLinker: Warning: Unable to load PhysicsSerializer with outer InstancedStaticMeshComponent /Game/Terrain/HoudiniBake/terrain_bishe_1_846516E4.terrain_bishe_1_846516E4_C:InstancedStaticMesh14_GEN_VARIABLE because its class does not exist
+[2019.05.29-07.54.44:676][  0]LogLinker: Warning: Unable to load PhysicsSerializer with outer InstancedStaticMeshComponent /Game/Terrain/HoudiniBake/terrain_bishe_1_846516E4.terrain_bishe_1_846516E4_C:InstancedStaticMesh15_GEN_VARIABLE because its class does not exist
+[2019.05.29-07.54.44:676][  0]LogLinker: Warning: Unable to load PhysicsSerializer with outer InstancedStaticMeshComponent /Game/Terrain/HoudiniBake/terrain_bishe_1_846516E4.terrain_bishe_1_846516E4_C:InstancedStaticMesh16_GEN_VARIABLE because its class does not exist
+[2019.05.29-07.54.44:676][  0]LogLinker: Warning: Unable to load PhysicsSerializer with outer InstancedStaticMeshComponent /Game/Terrain/HoudiniBake/terrain_bishe_1_846516E4.terrain_bishe_1_846516E4_C:InstancedStaticMesh17_GEN_VARIABLE because its class does not exist
+[2019.05.29-07.54.44:676][  0]LogLinker: Warning: Unable to load PhysicsSerializer with outer InstancedStaticMeshComponent /Game/Terrain/HoudiniBake/terrain_bishe_1_846516E4.terrain_bishe_1_846516E4_C:InstancedStaticMesh18_GEN_VARIABLE because its class does not exist
+[2019.05.29-07.54.44:676][  0]LogLinker: Warning: Unable to load PhysicsSerializer with outer InstancedStaticMeshComponent /Game/Terrain/HoudiniBake/terrain_bishe_1_846516E4.terrain_bishe_1_846516E4_C:InstancedStaticMesh19_GEN_VARIABLE because its class does not exist
+[2019.05.29-07.54.44:676][  0]LogLinker: Warning: Unable to load PhysicsSerializer with outer InstancedStaticMeshComponent /Game/Terrain/HoudiniBake/terrain_bishe_1_846516E4.terrain_bishe_1_846516E4_C:InstancedStaticMesh1_GEN_VARIABLE because its class does not exist
+[2019.05.29-07.54.44:676][  0]LogLinker: Warning: Unable to load PhysicsSerializer with outer InstancedStaticMeshComponent /Game/Terrain/HoudiniBake/terrain_bishe_1_846516E4.terrain_bishe_1_846516E4_C:InstancedStaticMesh20_GEN_VARIABLE because its class does not exist
+[2019.05.29-07.54.44:676][  0]LogLinker: Warning: Unable to load PhysicsSerializer with outer InstancedStaticMeshComponent /Game/Terrain/HoudiniBake/terrain_bishe_1_846516E4.terrain_bishe_1_846516E4_C:InstancedStaticMesh21_GEN_VARIABLE because its class does not exist
+[2019.05.29-07.54.44:676][  0]LogLinker: Warning: Unable to load PhysicsSerializer with outer InstancedStaticMeshComponent /Game/Terrain/HoudiniBake/terrain_bishe_1_846516E4.terrain_bishe_1_846516E4_C:InstancedStaticMesh22_GEN_VARIABLE because its class does not exist
+[2019.05.29-07.54.44:676][  0]LogLinker: Warning: Unable to load PhysicsSerializer with outer InstancedStaticMeshComponent /Game/Terrain/HoudiniBake/terrain_bishe_1_846516E4.terrain_bishe_1_846516E4_C:InstancedStaticMesh23_GEN_VARIABLE because its class does not exist
+[2019.05.29-07.54.44:676][  0]LogLinker: Warning: Unable to load PhysicsSerializer with outer InstancedStaticMeshComponent /Game/Terrain/HoudiniBake/terrain_bishe_1_846516E4.terrain_bishe_1_846516E4_C:InstancedStaticMesh24_GEN_VARIABLE because its class does not exist
+[2019.05.29-07.54.44:676][  0]LogLinker: Warning: Unable to load PhysicsSerializer with outer InstancedStaticMeshComponent /Game/Terrain/HoudiniBake/terrain_bishe_1_846516E4.terrain_bishe_1_846516E4_C:InstancedStaticMesh25_GEN_VARIABLE because its class does not exist
+[2019.05.29-07.54.44:676][  0]LogLinker: Warning: Unable to load PhysicsSerializer with outer InstancedStaticMeshComponent /Game/Terrain/HoudiniBake/terrain_bishe_1_846516E4.terrain_bishe_1_846516E4_C:InstancedStaticMesh26_GEN_VARIABLE because its class does not exist
+[2019.05.29-07.54.44:676][  0]LogLinker: Warning: Unable to load PhysicsSerializer with outer InstancedStaticMeshComponent /Game/Terrain/HoudiniBake/terrain_bishe_1_846516E4.terrain_bishe_1_846516E4_C:InstancedStaticMesh27_GEN_VARIABLE because its class does not exist
+[2019.05.29-07.54.44:676][  0]LogLinker: Warning: Unable to load PhysicsSerializer with outer InstancedStaticMeshComponent /Game/Terrain/HoudiniBake/terrain_bishe_1_846516E4.terrain_bishe_1_846516E4_C:InstancedStaticMesh28_GEN_VARIABLE because its class does not exist
+[2019.05.29-07.54.44:676][  0]LogLinker: Warning: Unable to load PhysicsSerializer with outer InstancedStaticMeshComponent /Game/Terrain/HoudiniBake/terrain_bishe_1_846516E4.terrain_bishe_1_846516E4_C:InstancedStaticMesh29_GEN_VARIABLE because its class does not exist
+[2019.05.29-07.54.44:677][  0]LogLinker: Warning: Unable to load PhysicsSerializer with outer InstancedStaticMeshComponent /Game/Terrain/HoudiniBake/terrain_bishe_1_846516E4.terrain_bishe_1_846516E4_C:InstancedStaticMesh2_GEN_VARIABLE because its class does not exist
+[2019.05.29-07.54.44:677][  0]LogLinker: Warning: Unable to load PhysicsSerializer with outer InstancedStaticMeshComponent /Game/Terrain/HoudiniBake/terrain_bishe_1_846516E4.terrain_bishe_1_846516E4_C:InstancedStaticMesh30_GEN_VARIABLE because its class does not exist
+[2019.05.29-07.54.44:677][  0]LogLinker: Warning: Unable to load PhysicsSerializer with outer InstancedStaticMeshComponent /Game/Terrain/HoudiniBake/terrain_bishe_1_846516E4.terrain_bishe_1_846516E4_C:InstancedStaticMesh31_GEN_VARIABLE because its class does not exist
+[2019.05.29-07.54.44:677][  0]LogLinker: Warning: Unable to load PhysicsSerializer with outer InstancedStaticMeshComponent /Game/Terrain/HoudiniBake/terrain_bishe_1_846516E4.terrain_bishe_1_846516E4_C:InstancedStaticMesh32_GEN_VARIABLE because its class does not exist
+[2019.05.29-07.54.44:677][  0]LogLinker: Warning: Unable to load PhysicsSerializer with outer InstancedStaticMeshComponent /Game/Terrain/HoudiniBake/terrain_bishe_1_846516E4.terrain_bishe_1_846516E4_C:InstancedStaticMesh3_GEN_VARIABLE because its class does not exist
+[2019.05.29-07.54.44:677][  0]LogLinker: Warning: Unable to load PhysicsSerializer with outer InstancedStaticMeshComponent /Game/Terrain/HoudiniBake/terrain_bishe_1_846516E4.terrain_bishe_1_846516E4_C:InstancedStaticMesh4_GEN_VARIABLE because its class does not exist
+[2019.05.29-07.54.44:677][  0]LogLinker: Warning: Unable to load PhysicsSerializer with outer InstancedStaticMeshComponent /Game/Terrain/HoudiniBake/terrain_bishe_1_846516E4.terrain_bishe_1_846516E4_C:InstancedStaticMesh5_GEN_VARIABLE because its class does not exist
+[2019.05.29-07.54.44:677][  0]LogLinker: Warning: Unable to load PhysicsSerializer with outer InstancedStaticMeshComponent /Game/Terrain/HoudiniBake/terrain_bishe_1_846516E4.terrain_bishe_1_846516E4_C:InstancedStaticMesh6_GEN_VARIABLE because its class does not exist
+[2019.05.29-07.54.44:677][  0]LogLinker: Warning: Unable to load PhysicsSerializer with outer InstancedStaticMeshComponent /Game/Terrain/HoudiniBake/terrain_bishe_1_846516E4.terrain_bishe_1_846516E4_C:InstancedStaticMesh7_GEN_VARIABLE because its class does not exist
+[2019.05.29-07.54.44:677][  0]LogLinker: Warning: Unable to load PhysicsSerializer with outer InstancedStaticMeshComponent /Game/Terrain/HoudiniBake/terrain_bishe_1_846516E4.terrain_bishe_1_846516E4_C:InstancedStaticMesh8_GEN_VARIABLE because its class does not exist
+[2019.05.29-07.54.44:677][  0]LogLinker: Warning: Unable to load PhysicsSerializer with outer InstancedStaticMeshComponent /Game/Terrain/HoudiniBake/terrain_bishe_1_846516E4.terrain_bishe_1_846516E4_C:InstancedStaticMesh9_GEN_VARIABLE because its class does not exist
+[2019.05.29-07.54.44:677][  0]LogLinker: Warning: Unable to load PhysicsSerializer with outer InstancedStaticMeshComponent /Game/Terrain/HoudiniBake/terrain_bishe_1_846516E4.terrain_bishe_1_846516E4_C:InstancedStaticMesh_GEN_VARIABLE because its class does not exist
+[2019.05.29-07.54.47:036][  0]LogTexture: Display: 正在编译纹理：Model_Texture_BodyFaceBead_BaseColor2_1_（AutoDXT、4096X4096）
+[2019.05.29-07.54.48:666][  0]LogMaterial: Display: Missing cached shader map for material Model_Texture_BodyFaceBead_BaseColor_Mat1, compiling. 
+[2019.05.29-07.54.49:114][  0]LogTexture: Display: 正在编译纹理：Boss_texture_Roughness（AutoDXT、4096X4096）
+[2019.05.29-07.54.49:114][  0]LogSkeletalMesh: Building Skeletal Mesh 001_Idle...
+[2019.05.29-07.54.49:343][  0]LogShaderCompilers: Display: Shaders left to compile 60
+[2019.05.29-07.54.49:343][  0]LogShaderCompilers: Display: Shaders left to compile 50
+[2019.05.29-07.54.49:343][  0]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.05.29-07.54.49:343][  0]LogSkeletalMesh: Built Skeletal Mesh [0.23s] /Game/Player/001_Idle.001_Idle
+[2019.05.29-07.54.50:150][  0]LogTexture: Display: 正在编译纹理：Boss_texture_Normal（BC5、4096X4096）
+[2019.05.29-07.54.52:354][  0]LogTexture: Display: 正在编译纹理：Boss_texture_Metallic（AutoDXT、4096X4096）
+[2019.05.29-07.54.53:524][  0]LogTexture: Display: 正在编译纹理：Boss_texture_BaseColor（AutoDXT、4096X4096）
+[2019.05.29-07.54.54:903][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/-Models/NewBoss/NewBIgBoss/Boss_motion_attack.Boss_motion_attack
+[2019.05.29-07.54.54:919][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/-Models/NewBoss/NewBIgBoss/Boss_motion_attack.Boss_motion_attack) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.05.29-07.54.55:002][  0]LogSkeletalMesh: Building Skeletal Mesh Boss_motion_jump...
+[2019.05.29-07.54.55:079][  0]LogSkeletalMesh: Built Skeletal Mesh [0.08s] /Game/-Models/NewBoss/NewBIgBoss/Boss_motion_jump.Boss_motion_jump
+[2019.05.29-07.54.56:366][  0]LogMaterial: Display: Missing cached shader map for material Boss_texture_BaseColor_Mat, compiling. 
+[2019.05.29-07.54.56:615][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/-Models/NewBoss/NewBIgBoss/Boss_motion_swim_fwd.Boss_motion_swim_fwd
+[2019.05.29-07.54.56:615][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/-Models/NewBoss/NewBIgBoss/Boss_motion_swim_fwd.Boss_motion_swim_fwd) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.05.29-07.54.56:618][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/-Models/NewBoss/NewBIgBoss/Boss_motion_idle.Boss_motion_idle
+[2019.05.29-07.54.56:618][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/-Models/NewBoss/NewBIgBoss/Boss_motion_idle.Boss_motion_idle) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.05.29-07.55.01:265][  0]LogAIModule: Creating AISystem for world LakeLevel
+[2019.05.29-07.55.02:757][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.05.29-07.55.03:214][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.05.29-07.55.03:446][  0]MapCheck: 地图检测完成：0个错误，0 个警告，用时231.154毫秒完成。
+[2019.05.29-07.55.03:446][  0]LogFileHelpers: Loading map 'LakeLevel' took 29.071
+[2019.05.29-07.55.05:868][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.29-07.55.05:877][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.29-07.55.05:951][  0]LogCollectionManager: Loaded 0 collections in 0.002626 seconds
+[2019.05.29-07.55.06:198][  0]LogFileCache: Scanning file cache for directory 'D:/Documents/DiplomaGame/ClimbDemo/Saved/Collections/' took 0.01s
+[2019.05.29-07.55.06:198][  0]LogFileCache: Scanning file cache for directory 'D:/Documents/DiplomaGame/ClimbDemo/Content/Developers/14367/Collections/' took 0.01s
+[2019.05.29-07.55.06:199][  0]LogFileCache: Scanning file cache for directory 'D:/Documents/DiplomaGame/ClimbDemo/Content/Collections/' took 0.01s
+[2019.05.29-07.55.06:199][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.05.29-07.55.06:209][  0]LogContentBrowser: Native class hierarchy populated in 0.0103 seconds. Added 2610 classes and 610 folders.
+[2019.05.29-07.55.06:293][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.05.29-07.55.09:429][  0]LogShaderCompilers: Display: Shaders left to compile 90
+[2019.05.29-07.55.09:429][  0]LogShaderCompilers: Display: Shaders left to compile 80
+[2019.05.29-07.55.09:429][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.05.29-07.55.09:473][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2019.05.29-07.55.12:220][  0]LogShaderCompilers: Display: Shaders left to compile 70
+[2019.05.29-07.55.12:220][  0]LogSlate: Took 0.111413 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.05.29-07.55.12:344][  0]LogSlate: Took 0.102711 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2019.05.29-07.55.12:352][  0]LogSlate: Took 0.006976 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.05.29-07.55.12:495][  0]LogSlate: Took 0.017829 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.05.29-07.55.13:275][  0]LogRenderer: Reallocating scene render targets to support 492x212 Format 10 NumSamples 1 (Frame:1).
+[2019.05.29-07.55.14:511][  0]LogShaderCompilers: Display: Shaders left to compile 60
+[2019.05.29-07.55.14:512][  0]LogRenderer: Reallocating scene render targets to support 984x420 Format 10 NumSamples 1 (Frame:1).
+[2019.05.29-07.55.23:418][  0]LogShaderCompilers: Display: Shaders left to compile 50
+[2019.05.29-07.55.23:418][  0]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.05.29-07.55.23:418][  0]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.05.29-07.55.23:418][  0]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.05.29-07.55.23:418][  0]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.05.29-07.55.23:710][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.05.29-07.55.23:710][  0]LogLoad: (Engine Initialization) Total time: 155.36 seconds
+[2019.05.29-07.55.23:710][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.05.29-07.55.23:780][  0]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (中文(简体) - 2345王牌拼音输入法).
+[2019.05.29-07.55.24:032][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.05.29-07.55.24:336][  0]LogSlate: Took 0.065837 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.05.29-07.55.24:784][  3]LogSlate: Took 0.003209 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2019.05.29-07.55.24:934][  4]LogSlate: Took 0.000425 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.05.29-07.56.06:340][406]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.29-07.56.11:415][711]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2019.05.29-07.56.11:429][711]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.05.29-07.56.11:429][711]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.05.29-07.57.05:359][  4]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/-Models/NewBoss/Zan2/Attack/zan2_attack.zan2_attack
+[2019.05.29-07.57.05:359][  4]LogAnimationCompression: Recompressing (AnimSequence /Game/-Models/NewBoss/Zan2/Attack/zan2_attack.zan2_attack) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.05.29-07.57.08:568][  4]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/-Models/Anim/Deer/deer_Anim.deer_Anim
+[2019.05.29-07.57.08:568][  4]LogAnimationCompression: Recompressing (AnimSequence /Game/-Models/Anim/Deer/deer_Anim.deer_Anim) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.05.29-07.57.08:582][  4]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/-Models/Anim/Spider/spider_Anim.spider_Anim
+[2019.05.29-07.57.08:582][  4]LogAnimationCompression: Recompressing (AnimSequence /Game/-Models/Anim/Spider/spider_Anim.spider_Anim) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.05.29-07.57.08:863][  4]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/-Models/NewBoss/Zan2/zan2_running_plus.zan2_running_plus
+[2019.05.29-07.57.08:863][  4]LogAnimationCompression: Recompressing (AnimSequence /Game/-Models/NewBoss/Zan2/zan2_running_plus.zan2_running_plus) using current/default (AnimCompress_BitwiseCompressOnly_2) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.05.29-07.57.08:922][  4]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/-Models/NewBoss/Zan2/zan2_Idle.zan2_Idle
+[2019.05.29-07.57.08:922][  4]LogAnimationCompression: Recompressing (AnimSequence /Game/-Models/NewBoss/Zan2/zan2_Idle.zan2_Idle) using current/default (AnimCompress_BitwiseCompressOnly_2) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.05.29-07.57.08:964][  4]LogMaterial: Display: Missing cached shader map for material M_Ghost_3, compiling. 
+[2019.05.29-07.57.09:100][  4]LogShaderCompilers: Display: Shaders left to compile 115
+[2019.05.29-07.57.09:100][  4]LogShaderCompilers: Display: Shaders left to compile 105
+[2019.05.29-07.57.09:100][  4]LogShaderCompilers: Display: Shaders left to compile 95
+[2019.05.29-07.57.09:534][  4]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/-Models/Cinematic/Elephant/elephant_Anim.elephant_Anim
+[2019.05.29-07.57.09:534][  4]LogAnimationCompression: Recompressing (AnimSequence /Game/-Models/Cinematic/Elephant/elephant_Anim.elephant_Anim) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.05.29-07.57.09:559][  4]LogSkeletalMesh: Building Skeletal Mesh elephant...
+[2019.05.29-07.57.09:573][  4]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/-Models/Cinematic/Elephant/elephant.elephant
+[2019.05.29-07.57.09:584][  4]LogSkeletalMesh: Building Skeletal Mesh spider...
+[2019.05.29-07.57.09:587][  4]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/-Models/Anim/Spider/spider.spider
+[2019.05.29-07.57.09:590][  4]LogMaterial: Display: Missing cached shader map for material col1_ncl1_2, compiling. 
+[2019.05.29-07.57.09:630][  4]LogMaterial: Display: Missing cached shader map for material col1_ncl1_1, compiling. 
+[2019.05.29-07.57.09:665][  4]LogMaterial: Display: Missing cached shader map for material col1, compiling. 
+[2019.05.29-07.57.09:700][  4]LogSkeletalMesh: Building Skeletal Mesh deer...
+[2019.05.29-07.57.09:704][  4]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/-Models/Anim/Deer/deer.deer
+[2019.05.29-07.57.10:509][  4]LogMaterial: Display: Missing cached shader map for material Boss_texTrans, compiling. 
+[2019.05.29-07.57.10:662][  4]LogMaterial: Display: Missing cached shader map for material texto, compiling. 
+[2019.05.29-07.57.11:785][  4]LogAIModule: Creating AISystem for world LakeLevelNew
+[2019.05.29-07.57.12:335][  4]LogScript: Warning: Script Msg: Attempted to access index 15 from array 'BIrdSBP' of length 15 in '/Game/Blueprints/Bird/InsectsBirdsFish/Blueprints/NewFolder/BP_Bird_Spline1.BP_Bird_Spline1_C'!
+[2019.05.29-07.57.12:335][  4]LogScript: Warning: “无访问”正在尝试读取属性 CallFunc_Array_Get_Item
+	BP_Bird_Spline1_C /Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.BP_Bird_Spline1_34488
+	Function /Game/Blueprints/Bird/InsectsBirdsFish/Blueprints/NewFolder/BP_Bird_Spline1.BP_Bird_Spline1_C:UpdateBird:027F
+[2019.05.29-07.57.12:335][  4]LogScript: Warning: Script Msg: Attempted to access index 16 from array 'BIrdSBP' of length 15 in '/Game/Blueprints/Bird/InsectsBirdsFish/Blueprints/NewFolder/BP_Bird_Spline1.BP_Bird_Spline1_C'!
+[2019.05.29-07.57.12:335][  4]LogScript: Warning: “无访问”正在尝试读取属性 CallFunc_Array_Get_Item
+	BP_Bird_Spline1_C /Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.BP_Bird_Spline1_34488
+	Function /Game/Blueprints/Bird/InsectsBirdsFish/Blueprints/NewFolder/BP_Bird_Spline1.BP_Bird_Spline1_C:UpdateBird:027F
+[2019.05.29-07.57.12:335][  4]LogScript: Warning: Script Msg: Attempted to access index 17 from array 'BIrdSBP' of length 15 in '/Game/Blueprints/Bird/InsectsBirdsFish/Blueprints/NewFolder/BP_Bird_Spline1.BP_Bird_Spline1_C'!
+[2019.05.29-07.57.12:335][  4]LogScript: Warning: “无访问”正在尝试读取属性 CallFunc_Array_Get_Item
+	BP_Bird_Spline1_C /Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.BP_Bird_Spline1_34488
+	Function /Game/Blueprints/Bird/InsectsBirdsFish/Blueprints/NewFolder/BP_Bird_Spline1.BP_Bird_Spline1_C:UpdateBird:027F
+[2019.05.29-07.57.12:335][  4]LogScript: Warning: Script Msg: Attempted to access index 18 from array 'BIrdSBP' of length 15 in '/Game/Blueprints/Bird/InsectsBirdsFish/Blueprints/NewFolder/BP_Bird_Spline1.BP_Bird_Spline1_C'!
+[2019.05.29-07.57.12:335][  4]LogScript: Warning: “无访问”正在尝试读取属性 CallFunc_Array_Get_Item
+	BP_Bird_Spline1_C /Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.BP_Bird_Spline1_34488
+	Function /Game/Blueprints/Bird/InsectsBirdsFish/Blueprints/NewFolder/BP_Bird_Spline1.BP_Bird_Spline1_C:UpdateBird:027F
+[2019.05.29-07.57.12:335][  4]LogScript: Warning: Script Msg: Attempted to access index 19 from array 'BIrdSBP' of length 15 in '/Game/Blueprints/Bird/InsectsBirdsFish/Blueprints/NewFolder/BP_Bird_Spline1.BP_Bird_Spline1_C'!
+[2019.05.29-07.57.12:335][  4]LogScript: Warning: “无访问”正在尝试读取属性 CallFunc_Array_Get_Item
+	BP_Bird_Spline1_C /Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.BP_Bird_Spline1_34488
+	Function /Game/Blueprints/Bird/InsectsBirdsFish/Blueprints/NewFolder/BP_Bird_Spline1.BP_Bird_Spline1_C:UpdateBird:027F
+[2019.05.29-07.57.12:492][  4]LogAssetEditorManager: Opening Asset editor for World /Game/Terrain/4/LakeLevelNew.LakeLevelNew
+[2019.05.29-07.57.28:094][  4]LogShaderCompilers: Display: Shaders left to compile 439
+[2019.05.29-07.57.28:094][  4]LogShaderCompilers: Display: Shaders left to compile 429
+[2019.05.29-07.57.28:094][  4]LogShaderCompilers: Display: Shaders left to compile 419
+[2019.05.29-07.57.28:094][  4]LogShaderCompilers: Display: Shaders left to compile 409
+[2019.05.29-07.57.28:117][  4]Cmd: MAP LOAD FILE="D:/Documents/DiplomaGame/ClimbDemo/Content/Terrain/4/LakeLevelNew.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.05.29-07.57.28:119][  4]LightingResults: New page: 光照构建
+[2019.05.29-07.57.28:120][  4]LoadErrors: New page: 正在加载地图： LakeLevelNew.umap
+[2019.05.29-07.57.28:161][  4]MapCheck: New page: 地图检测
+[2019.05.29-07.57.28:161][  4]LightingResults: New page: 光照构建
+[2019.05.29-07.57.38:853][  4]LogShaderCompilers: Display: Shaders left to compile 399
+[2019.05.29-07.57.38:853][  4]LogShaderCompilers: Display: Shaders left to compile 389
+[2019.05.29-07.57.38:853][  4]LogShaderCompilers: Display: Shaders left to compile 379
+[2019.05.29-07.57.38:853][  4]LogShaderCompilers: Display: Shaders left to compile 369
+[2019.05.29-07.57.38:853][  4]LogShaderCompilers: Display: Shaders left to compile 359
+[2019.05.29-07.57.45:860][  4]LogScript: Warning: Script Msg: Attempted to access index 15 from array 'BIrdSBP' of length 15 in '/Game/Blueprints/Bird/InsectsBirdsFish/Blueprints/NewFolder/BP_Bird_Spline1.BP_Bird_Spline1_C'!
+[2019.05.29-07.57.45:861][  4]LogScript: Warning: “无访问”正在尝试读取属性 CallFunc_Array_Get_Item
+	BP_Bird_Spline1_C /Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.BP_Bird_Spline1_34488
+	Function /Game/Blueprints/Bird/InsectsBirdsFish/Blueprints/NewFolder/BP_Bird_Spline1.BP_Bird_Spline1_C:UpdateBird:027F
+[2019.05.29-07.57.45:861][  4]LogScript: Warning: Script Msg: Attempted to access index 16 from array 'BIrdSBP' of length 15 in '/Game/Blueprints/Bird/InsectsBirdsFish/Blueprints/NewFolder/BP_Bird_Spline1.BP_Bird_Spline1_C'!
+[2019.05.29-07.57.45:861][  4]LogScript: Warning: “无访问”正在尝试读取属性 CallFunc_Array_Get_Item
+	BP_Bird_Spline1_C /Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.BP_Bird_Spline1_34488
+	Function /Game/Blueprints/Bird/InsectsBirdsFish/Blueprints/NewFolder/BP_Bird_Spline1.BP_Bird_Spline1_C:UpdateBird:027F
+[2019.05.29-07.57.45:861][  4]LogScript: Warning: Script Msg: Attempted to access index 17 from array 'BIrdSBP' of length 15 in '/Game/Blueprints/Bird/InsectsBirdsFish/Blueprints/NewFolder/BP_Bird_Spline1.BP_Bird_Spline1_C'!
+[2019.05.29-07.57.45:861][  4]LogScript: Warning: “无访问”正在尝试读取属性 CallFunc_Array_Get_Item
+	BP_Bird_Spline1_C /Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.BP_Bird_Spline1_34488
+	Function /Game/Blueprints/Bird/InsectsBirdsFish/Blueprints/NewFolder/BP_Bird_Spline1.BP_Bird_Spline1_C:UpdateBird:027F
+[2019.05.29-07.57.45:861][  4]LogScript: Warning: Script Msg: Attempted to access index 18 from array 'BIrdSBP' of length 15 in '/Game/Blueprints/Bird/InsectsBirdsFish/Blueprints/NewFolder/BP_Bird_Spline1.BP_Bird_Spline1_C'!
+[2019.05.29-07.57.45:861][  4]LogScript: Warning: “无访问”正在尝试读取属性 CallFunc_Array_Get_Item
+	BP_Bird_Spline1_C /Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.BP_Bird_Spline1_34488
+	Function /Game/Blueprints/Bird/InsectsBirdsFish/Blueprints/NewFolder/BP_Bird_Spline1.BP_Bird_Spline1_C:UpdateBird:027F
+[2019.05.29-07.57.45:861][  4]LogScript: Warning: Script Msg: Attempted to access index 19 from array 'BIrdSBP' of length 15 in '/Game/Blueprints/Bird/InsectsBirdsFish/Blueprints/NewFolder/BP_Bird_Spline1.BP_Bird_Spline1_C'!
+[2019.05.29-07.57.45:861][  4]LogScript: Warning: “无访问”正在尝试读取属性 CallFunc_Array_Get_Item
+	BP_Bird_Spline1_C /Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.BP_Bird_Spline1_34488
+	Function /Game/Blueprints/Bird/InsectsBirdsFish/Blueprints/NewFolder/BP_Bird_Spline1.BP_Bird_Spline1_C:UpdateBird:027F
+[2019.05.29-07.57.47:121][  4]LogEditorServer: Finished looking for orphan Actors (0.001 secs)
+[2019.05.29-07.57.51:871][  4]LogShaderCompilers: Display: Shaders left to compile 349
+[2019.05.29-07.57.51:936][  4]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.05.29-07.57.52:359][  4]MapCheck: 地图检测完成：0个错误，0 个警告，用时422.917毫秒完成。
+[2019.05.29-07.57.52:372][  4]LogFileHelpers: Loading map 'LakeLevelNew' took 24.272
+[2019.05.29-07.57.52:454][  4]LogAssetRegistry: Asset discovery search completed in 268.3874 seconds
+[2019.05.29-07.57.52:470][  4]LogCollectionManager: Fixed up redirectors for 0 collections in 0.013103 seconds (updated 0 objects)
+[2019.05.29-07.57.54:580][  5]LogShaderCompilers: Display: Shaders left to compile 339
+[2019.05.29-07.57.57:547][  5]LogShaderCompilers: Display: Shaders left to compile 329
+[2019.05.29-07.57.58:195][  5]LogShaderCompilers: Display: Shaders left to compile 319
+[2019.05.29-07.57.59:885][  5]LogShaderCompilers: Display: Shaders left to compile 309
+[2019.05.29-07.58.01:824][  5]LogShaderCompilers: Display: Shaders left to compile 299
+[2019.05.29-07.58.02:159][  5]LogShaderCompilers: Display: Shaders left to compile 289
+[2019.05.29-07.58.04:612][  5]LogShaderCompilers: Display: Shaders left to compile 279
+[2019.05.29-07.58.04:882][  5]LogShaderCompilers: Display: Shaders left to compile 269
+[2019.05.29-07.58.06:464][  6]LogShaderCompilers: Display: Shaders left to compile 259
+[2019.05.29-07.58.09:554][  9]LogShaderCompilers: Display: Shaders left to compile 249
+[2019.05.29-07.58.10:214][  9]LogShaderCompilers: Display: Shaders left to compile 239
+[2019.05.29-07.58.10:948][  9]LogShaderCompilers: Display: Shaders left to compile 229
+[2019.05.29-07.58.13:423][  9]LogShaderCompilers: Display: Shaders left to compile 219
+[2019.05.29-07.58.14:807][  9]LogShaderCompilers: Display: Shaders left to compile 209
+[2019.05.29-07.58.15:206][  9]LogShaderCompilers: Display: Shaders left to compile 199
+[2019.05.29-07.58.18:285][ 10]LogShaderCompilers: Display: Shaders left to compile 189
+[2019.05.29-07.58.20:126][ 10]LogShaderCompilers: Display: Shaders left to compile 179
+[2019.05.29-07.58.20:201][ 10]LogShaderCompilers: Display: Shaders left to compile 169
+[2019.05.29-07.58.23:848][ 10]LogShaderCompilers: Display: Shaders left to compile 159
+[2019.05.29-07.58.23:953][ 10]LogShaderCompilers: Display: Shaders left to compile 149
+[2019.05.29-07.58.59:752][117]LogShaderCompilers: Display: Shaders left to compile 139
+[2019.05.29-07.59.20:275][276]LogShaderCompilers: Display: Shaders left to compile 129
+[2019.05.29-07.59.25:342][439]LogShaderCompilers: Display: Shaders left to compile 119
+[2019.05.29-07.59.54:646][348]LogShaderCompilers: Display: Shaders left to compile 109
+[2019.05.29-07.59.54:682][350]LogShaderCompilers: Display: Shaders left to compile 99
+[2019.05.29-08.00.08:236][796]LogShaderCompilers: Display: Shaders left to compile 89
+[2019.05.29-08.00.35:714][891]LogShaderCompilers: Display: Shaders left to compile 79
+[2019.05.29-08.00.45:670][370]LogShaderCompilers: Display: Shaders left to compile 69
+[2019.05.29-08.00.46:806][430]LogShaderCompilers: Display: Shaders left to compile 59
+[2019.05.29-08.01.09:629][  2]LogShaderCompilers: Display: Shaders left to compile 49
+[2019.05.29-08.01.11:888][116]LogShaderCompilers: Display: Shaders left to compile 39
+[2019.05.29-08.01.43:555][936]LogShaderCompilers: Display: Shaders left to compile 29
+[2019.05.29-08.01.52:796][396]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.05.29-08.02.10:716][808]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.05.29-08.02.44:516][998]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.29-08.02.45:031][  8]LogTemp: Repeating last play command: 选中的视口
+[2019.05.29-08.02.45:077][  8]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel' has LevelScriptBlueprint '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew' with GeneratedClass '/Game/Terrain/4/LakeLevelNew.LakeLevelNew_C' with ClassGeneratedBy '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew'
+[2019.05.29-08.02.45:077][  8]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.29-08.02.45:126][  8]PIE: New page: PIE会话: LakeLevelNew (2019年5月30日 上午12:02:45)
+[2019.05.29-08.02.45:126][  8]LogPlayLevel: Creating play world package: /Game/Terrain/4/UEDPIE_0_LakeLevelNew
+[2019.05.29-08.02.45:457][  8]LogPlayLevel: PIE: StaticDuplicateObject took: (0.331033s)
+[2019.05.29-08.02.45:458][  8]LogAIModule: Creating AISystem for world LakeLevelNew
+[2019.05.29-08.02.45:458][  8]LogPlayLevel: PIE: World Init took: (0.001103s)
+[2019.05.29-08.02.45:458][  8]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Terrain/4/LakeLevelNew.LakeLevelNew to /Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew (0.332589s)
+[2019.05.29-08.02.45:528][  8]LogInit: XAudio2 using '数字音频(S/PDIF) (High Definition Audio 设备)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.05.29-08.02.45:568][  8]LogInit: FAudioDevice initialized.
+[2019.05.29-08.02.45:614][  8]LogLoad: Game class is 'NewGameMode_C'
+[2019.05.29-08.02.49:741][  8]LogWorld: Bringing World /Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew up for play (max tick rate 0) at 2019.05.29-16.02.49
+[2019.05.29-08.02.49:843][  8]LogWorld: Bringing up level for play took: 4.220779
+[2019.05.29-08.02.49:921][  8]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 10 classes and 0 folders.
+[2019.05.29-08.02.49:975][  8]PIE: /Game/Terrain/4/UEDPIE_0_LakeLevelNew的‘在编辑器中播放’的起始时间4.438
+[2019.05.29-08.02.49:976][  8]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel' has LevelScriptBlueprint '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew' with GeneratedClass '/Game/Terrain/4/LakeLevelNew.LakeLevelNew_C' with ClassGeneratedBy '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew'
+[2019.05.29-08.03.11:771][279]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel' has LevelScriptBlueprint '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew' with GeneratedClass '/Game/Terrain/4/LakeLevelNew.LakeLevelNew_C' with ClassGeneratedBy '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew'
+[2019.05.29-08.03.11:780][279]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.29-08.03.11:857][279]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.29-08.03.11:858][279]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel' has LevelScriptBlueprint '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew' with GeneratedClass '/Game/Terrain/4/LakeLevelNew.LakeLevelNew_C' with ClassGeneratedBy '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew'
+[2019.05.29-08.03.11:886][279]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.29-08.03.11:886][279]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.29-08.03.11:886][279]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.29-08.03.11:886][279]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.29-08.03.11:886][279]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.29-08.03.11:886][279]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.29-08.03.11:886][279]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.29-08.03.11:886][279]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.29-08.03.11:886][279]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.29-08.03.11:886][279]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.29-08.03.11:886][279]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.29-08.03.11:886][279]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.29-08.03.11:886][279]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.29-08.03.11:886][279]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.29-08.03.11:887][279]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.29-08.03.11:887][279]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.29-08.03.11:887][279]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.29-08.03.11:887][279]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.29-08.03.11:887][279]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.29-08.03.11:887][279]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.29-08.03.11:887][279]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.29-08.03.11:887][279]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.29-08.03.11:887][279]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.29-08.03.11:887][279]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.29-08.03.11:887][279]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.29-08.03.11:887][279]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.29-08.03.11:887][279]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.29-08.03.11:887][279]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.29-08.03.11:887][279]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.29-08.03.11:891][279]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.29-08.03.11:891][279]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.29-08.03.11:891][279]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.29-08.03.11:891][279]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.29-08.03.11:891][279]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.29-08.03.11:891][279]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.29-08.03.11:891][279]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.29-08.03.11:891][279]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.29-08.03.11:891][279]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.29-08.03.11:891][279]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.29-08.03.11:891][279]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.29-08.03.11:892][279]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.29-08.03.11:892][279]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.29-08.03.11:892][279]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.29-08.03.11:892][279]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.29-08.03.11:892][279]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.29-08.03.11:892][279]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.29-08.03.11:892][279]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.29-08.03.11:892][279]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.29-08.03.11:892][279]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.29-08.03.11:892][279]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.29-08.03.11:892][279]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.05.29-08.03.11:897][279]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.29-08.03.11:965][280]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2019.05.29-08.03.15:661][309]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.29-08.03.20:260][343]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.29-08.03.21:544][352]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.29-08.03.23:822][352]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2019.05.29-08.03.23:909][352]LogHoudiniEngine: Error: Hapi failed: 
+[2019.05.29-08.03.24:048][353]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.ClimbDemo
+[2019.05.29-08.03.24:048][353]LogTemp: CWD: E:\UE4\UE_4.20\Engine\Binaries\DotNET\IOS
+[2019.05.29-08.03.24:048][353]LogTemp: Initial Dir: E:\UE4\UE_4.20
+[2019.05.29-08.03.24:048][353]LogTemp: Env CWD: E:\UE4\UE_4.20\Engine\Binaries\DotNET\IOS
+[2019.05.29-08.03.24:048][353]LogTemp: BranchPath = DESKTOP-LAG4IKO/E/UE4/UE_4.20/Engine/Binaries --- GameBranchPath = DESKTOP-LAG4IKO/E/UE4/UE_4.20/Engine/Binaries
+[2019.05.29-08.03.24:048][353]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\14367\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2019.05.29-08.04.13:325][707]LogInit: Warning: CVar named 'r.AllowGlobalClipPlane' marked up in RendererSettings was not found or is set to read-only
+[2019.05.29-08.04.15:750][725]LogSlate: Window '项目设置' being destroyed
+[2019.05.29-08.04.15:896][725]LogSlate: Window '项目设置' being destroyed
+[2019.05.29-08.04.17:724][742]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.29-08.04.17:864][743]Cmd: CLOSE_SLATE_MAINFRAME
+[2019.05.29-08.04.18:167][743]LogSlate: Window 'ClimbDemo - 虚幻编辑器' being destroyed
+[2019.05.29-08.04.18:449][744]Cmd: QUIT_EDITOR
+[2019.05.29-08.04.19:610][744]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (中文(简体) - 2345王牌拼音输入法).
+[2019.05.29-08.04.19:666][744]LogExit: Preparing to exit.
+[2019.05.29-08.04.21:092][744]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.29-08.04.21:092][744]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.29-08.04.21:092][744]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.29-08.04.21:094][744]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.29-08.04.21:094][744]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.29-08.04.21:094][744]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.29-08.04.21:094][744]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.29-08.04.21:094][744]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.29-08.04.21:094][744]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.29-08.04.21:094][744]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.29-08.04.21:094][744]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.29-08.04.21:094][744]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.29-08.04.21:094][744]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.29-08.04.21:094][744]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.29-08.04.21:094][744]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.29-08.04.21:094][744]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.29-08.04.21:094][744]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.29-08.04.21:094][744]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.29-08.04.21:094][744]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.29-08.04.21:094][744]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.29-08.04.21:094][744]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.29-08.04.21:094][744]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.29-08.04.21:094][744]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.29-08.04.21:094][744]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.29-08.04.21:094][744]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.29-08.04.21:094][744]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.29-08.04.21:094][744]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.29-08.04.21:094][744]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.29-08.04.21:094][744]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.29-08.04.21:094][744]LogActorComponent: UnregisterComponent: (/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.terrain_bishe_3.None) Not registered. Aborting.
+[2019.05.29-08.04.21:330][744]LogExit: Editor shut down
+[2019.05.29-08.04.21:332][744]LogExit: Transaction tracking system shut down
+[2019.05.29-08.04.23:571][744]LogExit: Object subsystem successfully closed.
+[2019.05.29-08.04.23:709][744]LogShaderCompilers: Display: Shaders left to compile 0
+[2019.05.29-08.04.23:718][744]LogD3D11RHI: Shutdown
+[2019.05.29-08.04.23:718][744]LogD3D11RHI: CleanupD3DDevice
+[2019.05.29-08.04.24:300][744]LogD3D11RHI: ~FD3D11DynamicRHI
+[2019.05.29-08.04.25:494][744]LogModuleManager: Shutting down and abandoning module ExternalImagePicker (620)
+[2019.05.29-08.04.25:494][744]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (618)
+[2019.05.29-08.04.25:494][744]LogModuleManager: Shutting down and abandoning module Voice (616)
+[2019.05.29-08.04.25:494][744]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (614)
+[2019.05.29-08.04.25:494][744]LogModuleManager: Shutting down and abandoning module SceneOutliner (612)
+[2019.05.29-08.04.25:494][744]LogModuleManager: Shutting down and abandoning module AddContentDialog (610)
+[2019.05.29-08.04.25:495][744]LogModuleManager: Shutting down and abandoning module WidgetCarousel (609)
+[2019.05.29-08.04.25:495][744]LogModuleManager: Shutting down and abandoning module EditorWidgets (606)
+[2019.05.29-08.04.25:495][744]LogModuleManager: Shutting down and abandoning module CollectionManager (604)
+[2019.05.29-08.04.25:499][744]LogModuleManager: Shutting down and abandoning module StatsViewer (602)
+[2019.05.29-08.04.25:499][744]LogModuleManager: Shutting down and abandoning module FoliageEdit (600)
+[2019.05.29-08.04.25:499][744]LogModuleManager: Shutting down and abandoning module LandscapeEditor (598)
+[2019.05.29-08.04.25:514][744]LogModuleManager: Shutting down and abandoning module MeshPaintMode (596)
+[2019.05.29-08.04.25:514][744]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (594)
+[2019.05.29-08.04.25:514][744]LogModuleManager: Shutting down and abandoning module ActorPickerMode (592)
+[2019.05.29-08.04.25:514][744]LogModuleManager: Shutting down and abandoning module GeometryMode (590)
+[2019.05.29-08.04.25:514][744]LogModuleManager: Shutting down and abandoning module TextureAlignMode (588)
+[2019.05.29-08.04.25:514][744]LogModuleManager: Shutting down and abandoning module BspMode (586)
+[2019.05.29-08.04.25:514][744]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (584)
+[2019.05.29-08.04.25:514][744]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (582)
+[2019.05.29-08.04.25:520][744]LogModuleManager: Shutting down and abandoning module AutomationWorker (580)
+[2019.05.29-08.04.25:520][744]LogModuleManager: Shutting down and abandoning module HoudiniEngineEditor (578)
+[2019.05.29-08.04.25:520][744]LogHoudiniEngineEditor: Shutting down the Houdini Engine Editor module.
+[2019.05.29-08.04.25:520][744]LogHoudiniEngineEditor: Houdini Engine Editor module shutdown complete.
+[2019.05.29-08.04.25:520][744]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (576)
+[2019.05.29-08.04.25:520][744]LogModuleManager: Shutting down and abandoning module SequenceRecorder (575)
+[2019.05.29-08.04.25:520][744]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (572)
+[2019.05.29-08.04.25:530][744]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (570)
+[2019.05.29-08.04.25:534][744]LogModuleManager: Shutting down and abandoning module PlacementMode (569)
+[2019.05.29-08.04.25:534][744]LogModuleManager: Shutting down and abandoning module MaterialEditor (568)
+[2019.05.29-08.04.25:573][744]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (564)
+[2019.05.29-08.04.25:573][744]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (562)
+[2019.05.29-08.04.25:573][744]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (560)
+[2019.05.29-08.04.25:573][744]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (558)
+[2019.05.29-08.04.25:573][744]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (556)
+[2019.05.29-08.04.25:573][744]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (554)
+[2019.05.29-08.04.25:573][744]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (552)
+[2019.05.29-08.04.25:573][744]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (550)
+[2019.05.29-08.04.25:573][744]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (548)
+[2019.05.29-08.04.25:573][744]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (546)
+[2019.05.29-08.04.25:573][744]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (544)
+[2019.05.29-08.04.25:573][744]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (542)
+[2019.05.29-08.04.25:573][744]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (540)
+[2019.05.29-08.04.25:573][744]LogModuleManager: Shutting down and abandoning module CharacterAI (538)
+[2019.05.29-08.04.25:573][744]LogModuleManager: Shutting down and abandoning module SmartSnapping (536)
+[2019.05.29-08.04.25:573][744]LogModuleManager: Shutting down and abandoning module SessionServices (534)
+[2019.05.29-08.04.25:573][744]LogModuleManager: Shutting down and abandoning module ViewportSnapping (532)
+[2019.05.29-08.04.25:573][744]LogModuleManager: Shutting down and abandoning module ViewportInteraction (530)
+[2019.05.29-08.04.25:585][744]LogModuleManager: Shutting down and abandoning module ClothPainter (528)
+[2019.05.29-08.04.25:604][744]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (527)
+[2019.05.29-08.04.25:619][744]LogModuleManager: Shutting down and abandoning module LogVisualizer (524)
+[2019.05.29-08.04.25:629][744]LogModuleManager: Shutting down and abandoning module IntroTutorials (522)
+[2019.05.29-08.04.25:630][744]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (521)
+[2019.05.29-08.04.25:637][744]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (518)
+[2019.05.29-08.04.25:637][744]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (516)
+[2019.05.29-08.04.25:637][744]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (514)
+[2019.05.29-08.04.25:637][744]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (512)
+[2019.05.29-08.04.25:637][744]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (511)
+[2019.05.29-08.04.27:783][744]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (508)
+[2019.05.29-08.04.27:783][744]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (506)
+[2019.05.29-08.04.27:783][744]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (504)
+[2019.05.29-08.04.27:783][744]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (502)
+[2019.05.29-08.04.27:783][744]LogModuleManager: Shutting down and abandoning module InputBindingEditor (500)
+[2019.05.29-08.04.27:811][744]LogModuleManager: Shutting down and abandoning module MergeActors (498)
+[2019.05.29-08.04.27:811][744]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (496)
+[2019.05.29-08.04.27:821][744]LogModuleManager: Shutting down and abandoning module LocalizationService (495)
+[2019.05.29-08.04.27:821][744]LogModuleManager: Shutting down and abandoning module HardwareTargeting (492)
+[2019.05.29-08.04.27:821][744]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (490)
+[2019.05.29-08.04.27:821][744]LogModuleManager: Shutting down and abandoning module UndoHistory (488)
+[2019.05.29-08.04.27:821][744]LogModuleManager: Shutting down and abandoning module XmlParser (486)
+[2019.05.29-08.04.27:821][744]LogModuleManager: Shutting down and abandoning module Blutility (484)
+[2019.05.29-08.04.27:821][744]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (482)
+[2019.05.29-08.04.27:821][744]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (481)
+[2019.05.29-08.04.27:821][744]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (478)
+[2019.05.29-08.04.27:822][744]LogModuleManager: Shutting down and abandoning module SettingsEditor (476)
+[2019.05.29-08.04.27:831][744]LogModuleManager: Shutting down and abandoning module ProjectLauncher (474)
+[2019.05.29-08.04.27:844][744]LogModuleManager: Shutting down and abandoning module SessionFrontend (472)
+[2019.05.29-08.04.27:844][744]LogModuleManager: Shutting down and abandoning module ProfilerClient (470)
+[2019.05.29-08.04.27:852][744]LogModuleManager: Shutting down and abandoning module DeviceManager (468)
+[2019.05.29-08.04.27:852][744]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (467)
+[2019.05.29-08.04.27:907][744]LogModuleManager: Shutting down and abandoning module AutomationController (464)
+[2019.05.29-08.04.27:907][744]LogModuleManager: Shutting down and abandoning module AutomationWindow (462)
+[2019.05.29-08.04.27:911][744]LogModuleManager: Shutting down and abandoning module Layers (460)
+[2019.05.29-08.04.27:929][744]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (458)
+[2019.05.29-08.04.27:929][744]LogModuleManager: Shutting down and abandoning module DetailCustomizations (456)
+[2019.05.29-08.04.27:929][744]LogModuleManager: Shutting down and abandoning module PackagesDialog (454)
+[2019.05.29-08.04.27:932][744]LogModuleManager: Shutting down and abandoning module Persona (452)
+[2019.05.29-08.04.27:949][744]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (451)
+[2019.05.29-08.04.27:949][744]LogModuleManager: Shutting down and abandoning module AnimGraph (449)
+[2019.05.29-08.04.27:949][744]LogModuleManager: Shutting down and abandoning module Kismet (446)
+[2019.05.29-08.04.27:953][744]LogModuleManager: Shutting down and abandoning module GraphEditor (444)
+[2019.05.29-08.04.27:976][744]LogModuleManager: Shutting down and abandoning module ClassViewer (442)
+[2019.05.29-08.04.27:976][744]LogModuleManager: Shutting down and abandoning module Toolbox (440)
+[2019.05.29-08.04.27:976][744]LogModuleManager: Shutting down and abandoning module ModuleUI (438)
+[2019.05.29-08.04.27:985][744]LogModuleManager: Shutting down and abandoning module MovieSceneTools (436)
+[2019.05.29-08.04.27:985][744]LogModuleManager: Shutting down and abandoning module OutputLog (434)
+[2019.05.29-08.04.27:985][744]LogModuleManager: Shutting down and abandoning module GammaUI (432)
+[2019.05.29-08.04.27:989][744]LogModuleManager: Shutting down and abandoning module Documentation (430)
+[2019.05.29-08.04.27:990][744]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (428)
+[2019.05.29-08.04.27:990][744]LogModuleManager: Shutting down and abandoning module MovieScene (426)
+[2019.05.29-08.04.27:990][744]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (424)
+[2019.05.29-08.04.28:000][744]LogModuleManager: Shutting down and abandoning module LauncherPlatform (422)
+[2019.05.29-08.04.28:000][744]LogModuleManager: Shutting down and abandoning module AnalyticsET (420)
+[2019.05.29-08.04.28:000][744]LogModuleManager: Shutting down and abandoning module PortalServices (418)
+[2019.05.29-08.04.28:000][744]LogModuleManager: Shutting down and abandoning module PortalRpc (416)
+[2019.05.29-08.04.28:000][744]LogModuleManager: Shutting down and abandoning module MessagingRpc (414)
+[2019.05.29-08.04.28:000][744]LogModuleManager: Shutting down and abandoning module AIModule (412)
+[2019.05.29-08.04.28:000][744]LogModuleManager: Shutting down and abandoning module GameplayDebugger (411)
+[2019.05.29-08.04.28:000][744]LogModuleManager: Shutting down and abandoning module AITestSuite (409)
+[2019.05.29-08.04.28:000][744]LogModuleManager: Shutting down and abandoning module NavigationSystem (407)
+[2019.05.29-08.04.28:000][744]LogModuleManager: Shutting down and abandoning module DesktopPlatform (404)
+[2019.05.29-08.04.28:000][744]LogModuleManager: Shutting down and abandoning module ProfilerService (402)
+[2019.05.29-08.04.28:237][744]LogModuleManager: Shutting down and abandoning module TaskGraph (400)
+[2019.05.29-08.04.28:237][744]LogModuleManager: Shutting down and abandoning module SteamVRController (398)
+[2019.05.29-08.04.28:237][744]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (396)
+[2019.05.29-08.04.28:237][744]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (394)
+[2019.05.29-08.04.28:237][744]LogModuleManager: Shutting down and abandoning module OculusInput (392)
+[2019.05.29-08.04.28:237][744]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (390)
+[2019.05.29-08.04.28:238][744]LogModuleManager: Shutting down and abandoning module HoudiniEngineRuntime (388)
+[2019.05.29-08.04.28:238][744]LogHoudiniEngine: Shutting down the Houdini Engine module.
+[2019.05.29-08.04.28:238][744]LogModuleManager: Shutting down and abandoning module EditableMesh (386)
+[2019.05.29-08.04.28:238][744]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (384)
+[2019.05.29-08.04.28:239][744]LogModuleManager: Shutting down and abandoning module CableComponent (382)
+[2019.05.29-08.04.28:239][744]LogModuleManager: Shutting down and abandoning module AudioCapture (380)
+[2019.05.29-08.04.28:239][744]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (378)
+[2019.05.29-08.04.28:239][744]LogModuleManager: Shutting down and abandoning module AndroidPermission (376)
+[2019.05.29-08.04.28:239][744]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (374)
+[2019.05.29-08.04.28:239][744]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (372)
+[2019.05.29-08.04.28:261][744]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (370)
+[2019.05.29-08.04.28:261][744]LogModuleManager: Shutting down and abandoning module MediaCompositing (368)
+[2019.05.29-08.04.28:261][744]LogModuleManager: Shutting down and abandoning module LinearTimecode (366)
+[2019.05.29-08.04.28:261][744]LogModuleManager: Shutting down and abandoning module ImgMedia (364)
+[2019.05.29-08.04.28:272][744]LogModuleManager: Shutting down and abandoning module HTML5Networking (362)
+[2019.05.29-08.04.28:272][744]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (360)
+[2019.05.29-08.04.28:272][744]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (358)
+[2019.05.29-08.04.28:272][744]LogModuleManager: Shutting down and abandoning module BackChannel (356)
+[2019.05.29-08.04.28:287][744]LogModuleManager: Shutting down and abandoning module AppleVision (354)
+[2019.05.29-08.04.28:287][744]LogModuleManager: Shutting down and abandoning module AppleImageUtils (352)
+[2019.05.29-08.04.28:287][744]LogModuleManager: Shutting down and abandoning module AlembicImporter (350)
+[2019.05.29-08.04.28:287][744]LogModuleManager: Shutting down and abandoning module AlembicLibrary (349)
+[2019.05.29-08.04.28:287][744]LogModuleManager: Shutting down and abandoning module GeometryCache (348)
+[2019.05.29-08.04.28:287][744]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (347)
+[2019.05.29-08.04.28:287][744]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (342)
+[2019.05.29-08.04.28:294][744]LogModuleManager: Shutting down and abandoning module DatasmithContent (340)
+[2019.05.29-08.04.28:296][744]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (338)
+[2019.05.29-08.04.28:296][744]LogModuleManager: Shutting down and abandoning module PluginBrowser (336)
+[2019.05.29-08.04.28:304][744]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (334)
+[2019.05.29-08.04.28:309][744]LogModuleManager: Shutting down and abandoning module PolygonModeling (332)
+[2019.05.29-08.04.28:309][744]LogModuleManager: Shutting down and abandoning module MeshEditor (330)
+[2019.05.29-08.04.28:309][744]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (328)
+[2019.05.29-08.04.28:309][744]LogModuleManager: Shutting down and abandoning module CryptoKeys (326)
+[2019.05.29-08.04.28:309][744]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (324)
+[2019.05.29-08.04.28:309][744]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (322)
+[2019.05.29-08.04.28:309][744]LogModuleManager: Shutting down and abandoning module UObjectPlugin (320)
+[2019.05.29-08.04.28:309][744]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (318)
+[2019.05.29-08.04.28:309][744]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (316)
+[2019.05.29-08.04.28:315][744]LogModuleManager: Shutting down and abandoning module GitSourceControl (314)
+[2019.05.29-08.04.28:315][744]LogModuleManager: Shutting down and abandoning module SourceControl (313)
+[2019.05.29-08.04.28:324][744]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (310)
+[2019.05.29-08.04.28:324][744]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (308)
+[2019.05.29-08.04.28:324][744]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (306)
+[2019.05.29-08.04.28:324][744]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (304)
+[2019.05.29-08.04.28:324][744]LogModuleManager: Shutting down and abandoning module Paper2DEditor (302)
+[2019.05.29-08.04.28:341][744]LogModuleManager: Shutting down and abandoning module MeshPaint (301)
+[2019.05.29-08.04.28:352][744]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (298)
+[2019.05.29-08.04.28:352][744]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (296)
+[2019.05.29-08.04.28:352][744]LogModuleManager: Shutting down and abandoning module PhysXVehicles (294)
+[2019.05.29-08.04.28:352][744]LogModuleManager: Shutting down and abandoning module OculusEditor (292)
+[2019.05.29-08.04.28:352][744]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (290)
+[2019.05.29-08.04.28:352][744]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (288)
+[2019.05.29-08.04.28:352][744]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (286)
+[2019.05.29-08.04.28:364][744]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2019.05.29-08.04.28:364][744]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2019.05.29-08.04.28:466][744]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2019.05.29-08.04.28:567][744]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (278)
+[2019.05.29-08.04.28:567][744]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (276)
+[2019.05.29-08.04.28:567][744]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (274)
+[2019.05.29-08.04.28:567][744]LogModuleManager: Shutting down and abandoning module FacialAnimation (272)
+[2019.05.29-08.04.28:567][744]LogModuleManager: Shutting down and abandoning module DataValidation (270)
+[2019.05.29-08.04.28:567][744]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (268)
+[2019.05.29-08.04.28:587][744]LogModuleManager: Shutting down and abandoning module LevelEditor (267)
+[2019.05.29-08.04.28:588][744]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (266)
+[2019.05.29-08.04.28:588][744]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (264)
+[2019.05.29-08.04.28:588][744]LogModuleManager: Shutting down and abandoning module MainFrame (262)
+[2019.05.29-08.04.28:588][744]LogModuleManager: Shutting down and abandoning module HotReload (261)
+[2019.05.29-08.04.28:602][744]LogModuleManager: Shutting down and abandoning module ContentBrowser (257)
+[2019.05.29-08.04.28:604][744]LogModuleManager: Shutting down and abandoning module TreeMap (255)
+[2019.05.29-08.04.28:604][744]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2019.05.29-08.04.28:604][744]LogModuleManager: Shutting down and abandoning module AISupportModule (250)
+[2019.05.29-08.04.28:604][744]LogModuleManager: Shutting down and abandoning module Paper2D (248)
+[2019.05.29-08.04.28:604][744]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (246)
+[2019.05.29-08.04.28:611][744]LogModuleManager: Shutting down and abandoning module WmfMedia (244)
+[2019.05.29-08.04.28:618][744]LogModuleManager: Shutting down and abandoning module Media (243)
+[2019.05.29-08.04.28:624][744]LogModuleManager: Shutting down and abandoning module PacketHandler (240)
+[2019.05.29-08.04.28:624][744]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (238)
+[2019.05.29-08.04.28:624][744]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (236)
+[2019.05.29-08.04.28:624][744]LogModuleManager: Shutting down and abandoning module MediaAssets (234)
+[2019.05.29-08.04.28:624][744]LogModuleManager: Shutting down and abandoning module Overlay (232)
+[2019.05.29-08.04.28:624][744]LogModuleManager: Shutting down and abandoning module OverlayEditor (231)
+[2019.05.29-08.04.28:624][744]LogModuleManager: Shutting down and abandoning module VREditor (228)
+[2019.05.29-08.04.28:649][744]LogModuleManager: Shutting down and abandoning module StringTableEditor (226)
+[2019.05.29-08.04.28:660][744]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (224)
+[2019.05.29-08.04.28:660][744]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (222)
+[2019.05.29-08.04.28:670][744]LogModuleManager: Shutting down and abandoning module FunctionalTesting (220)
+[2019.05.29-08.04.28:686][744]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (218)
+[2019.05.29-08.04.28:686][744]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (217)
+[2019.05.29-08.04.28:686][744]LogModuleManager: Shutting down and abandoning module UMG (214)
+[2019.05.29-08.04.28:686][744]LogModuleManager: Shutting down and abandoning module UMGEditor (213)
+[2019.05.29-08.04.28:690][744]LogModuleManager: Shutting down and abandoning module Sequencer (212)
+[2019.05.29-08.04.28:701][744]LogModuleManager: Shutting down and abandoning module MessageLog (209)
+[2019.05.29-08.04.28:701][744]LogModuleManager: Shutting down and abandoning module SlateReflector (204)
+[2019.05.29-08.04.28:722][744]LogModuleManager: Shutting down and abandoning module Slate (202)
+[2019.05.29-08.04.28:723][744]LogModuleManager: Shutting down and abandoning module EditorStyle (200)
+[2019.05.29-08.04.28:724][744]LogModuleManager: Shutting down and abandoning module MRMesh (198)
+[2019.05.29-08.04.28:732][744]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (196)
+[2019.05.29-08.04.28:732][744]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (194)
+[2019.05.29-08.04.28:732][744]LogModuleManager: Shutting down and abandoning module XAudio2 (192)
+[2019.05.29-08.04.28:732][744]LogModuleManager: Shutting down and abandoning module Networking (190)
+[2019.05.29-08.04.28:732][744]LogModuleManager: Shutting down and abandoning module Core (188)
+[2019.05.29-08.04.28:732][744]LogModuleManager: Shutting down and abandoning module LevelSequence (186)
+[2019.05.29-08.04.28:732][744]LogModuleManager: Shutting down and abandoning module KismetCompiler (184)
+[2019.05.29-08.04.28:732][744]LogModuleManager: Shutting down and abandoning module MeshUtilities (182)
+[2019.05.29-08.04.28:741][744]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (181)
+[2019.05.29-08.04.28:741][744]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (180)
+[2019.05.29-08.04.28:741][744]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (179)
+[2019.05.29-08.04.28:748][744]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (177)
+[2019.05.29-08.04.28:763][744]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (175)
+[2019.05.29-08.04.28:763][744]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (173)
+[2019.05.29-08.04.28:777][744]LogModuleManager: Shutting down and abandoning module MaterialBaking (169)
+[2019.05.29-08.04.28:777][744]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (165)
+[2019.05.29-08.04.28:777][744]LogModuleManager: Shutting down and abandoning module DerivedDataCache (162)
+[2019.05.29-08.04.28:808][744]LogDerivedDataCache: Shutdown
+[2019.05.29-08.04.28:808][744]LogModuleManager: Shutting down and abandoning module XGEController (160)
+[2019.05.29-08.04.28:836][744]LogModuleManager: Shutting down and abandoning module TargetPlatform (158)
+[2019.05.29-08.04.28:836][744]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (157)
+[2019.05.29-08.04.28:836][744]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (155)
+[2019.05.29-08.04.28:849][744]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (153)
+[2019.05.29-08.04.28:852][744]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (151)
+[2019.05.29-08.04.28:852][744]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (149)
+[2019.05.29-08.04.28:866][744]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (147)
+[2019.05.29-08.04.28:866][744]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (145)
+[2019.05.29-08.04.28:866][744]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (143)
+[2019.05.29-08.04.28:866][744]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (141)
+[2019.05.29-08.04.28:872][744]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (139)
+[2019.05.29-08.04.28:872][744]LogModuleManager: Shutting down and abandoning module ImageWrapper (138)
+[2019.05.29-08.04.28:872][744]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (135)
+[2019.05.29-08.04.28:873][744]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (133)
+[2019.05.29-08.04.28:873][744]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (131)
+[2019.05.29-08.04.28:873][744]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (129)
+[2019.05.29-08.04.28:873][744]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (127)
+[2019.05.29-08.04.28:873][744]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (125)
+[2019.05.29-08.04.28:873][744]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (123)
+[2019.05.29-08.04.28:873][744]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (121)
+[2019.05.29-08.04.28:878][744]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (119)
+[2019.05.29-08.04.28:890][744]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (117)
+[2019.05.29-08.04.28:890][744]LogModuleManager: Shutting down and abandoning module Messaging (115)
+[2019.05.29-08.04.28:890][744]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (113)
+[2019.05.29-08.04.28:891][744]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (111)
+[2019.05.29-08.04.28:891][744]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (109)
+[2019.05.29-08.04.28:898][744]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (107)
+[2019.05.29-08.04.28:898][744]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (105)
+[2019.05.29-08.04.28:898][744]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (103)
+[2019.05.29-08.04.28:898][744]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (101)
+[2019.05.29-08.04.28:898][744]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (99)
+[2019.05.29-08.04.28:899][744]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (97)
+[2019.05.29-08.04.28:899][744]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (95)
+[2019.05.29-08.04.28:899][744]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (93)
+[2019.05.29-08.04.28:899][744]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (91)
+[2019.05.29-08.04.28:899][744]LogModuleManager: Shutting down and abandoning module InputCore (88)
+[2019.05.29-08.04.28:899][744]LogModuleManager: Shutting down and abandoning module Settings (86)
+[2019.05.29-08.04.28:899][744]LogModuleManager: Shutting down and abandoning module PhysXCooking (84)
+[2019.05.29-08.04.28:899][744]LogModuleManager: Shutting down and abandoning module SteamVR (82)
+[2019.05.29-08.04.28:899][744]LogModuleManager: Shutting down and abandoning module OculusHMD (80)
+[2019.05.29-08.04.28:899][744]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (78)
+[2019.05.29-08.04.28:899][744]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (76)
+[2019.05.29-08.04.28:899][744]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (74)
+[2019.05.29-08.04.28:899][744]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (70)
+[2019.05.29-08.04.28:900][744]LogModuleManager: Shutting down and abandoning module XMPP (65)
+[2019.05.29-08.04.28:920][744]LogModuleManager: Shutting down and abandoning module WebSockets (64)
+[2019.05.29-08.04.28:963][744]LogModuleManager: Shutting down and abandoning module HTTP (61)
+[2019.05.29-08.04.28:963][744]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2019.05.29-08.04.28:963][744]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B435CC25A-4ED7-2499-F3D0-EABFF59CDD80%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.20.3-4369336%2B%2B%2BUE4%2BRelease-4.20&UserID=048341524ccaaba9a82c8388b1c57063%7C9bcfab0b556c4ec2b0930348797b0da9%7C8d16b85d-5a41-4d35-90bb-438802fefaa7&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2019.05.29-08.04.28:976][744]LogModuleManager: Shutting down and abandoning module SSL (60)
+[2019.05.29-08.04.28:977][744]LogModuleManager: Shutting down and abandoning module MagicLeapEmulator (56)
+[2019.05.29-08.04.28:977][744]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (54)
+[2019.05.29-08.04.28:977][744]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (52)
+[2019.05.29-08.04.28:977][744]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (50)
+[2019.05.29-08.04.28:977][744]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (48)
+[2019.05.29-08.04.28:977][744]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (46)
+[2019.05.29-08.04.28:977][744]LogModuleManager: Shutting down and abandoning module MagicLeapGestures (44)
+[2019.05.29-08.04.28:977][744]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (42)
+[2019.05.29-08.04.28:977][744]LogModuleManager: Shutting down and abandoning module MagicLeapController (40)
+[2019.05.29-08.04.28:977][744]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2019.05.29-08.04.28:978][744]LogModuleManager: Shutting down and abandoning module MagicLeap (38)
+[2019.05.29-08.04.28:978][744]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2019.05.29-08.04.28:985][744]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2019.05.29-08.04.28:992][744]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2019.05.29-08.04.28:998][744]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2019.05.29-08.04.28:998][744]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2019.05.29-08.04.28:998][744]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2019.05.29-08.04.28:998][744]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2019.05.29-08.04.29:012][744]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2019.05.29-08.04.29:022][744]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2019.05.29-08.04.29:022][744]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2019.05.29-08.04.29:022][744]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2019.05.29-08.04.29:022][744]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2019.05.29-08.04.29:022][744]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2019.05.29-08.04.29:022][744]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2019.05.29-08.04.29:026][744]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2019.05.29-08.04.29:026][744]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2019.05.29-08.04.29:033][744]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2019.05.29-08.04.29:033][744]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2019.05.29-08.04.29:037][744]LogExit: Exiting.
+[2019.05.29-08.04.29:082][744]Log file closed, 05/29/19 16:04:29
