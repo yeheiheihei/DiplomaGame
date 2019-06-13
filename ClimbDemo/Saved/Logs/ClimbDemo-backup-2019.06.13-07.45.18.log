@@ -1,0 +1,613 @@
+﻿Log file open, 06/13/19 00:26:45
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: ClimbDemo
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.912247
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +8:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin HoudiniEngine
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.479s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogHMD: Failed initializing OVRPlugin 1.25.0
+LogInit: Build: ++UE4+Release-4.20-CL-4369336
+LogInit: Engine Version: 4.20.3-4369336+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz, GPU: Intel(R) HD Graphics 630
+LogInit: Compiled (64-bit): Sep 17 2018 12:26:19
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line:  
+LogInit: Base Directory: D:/Program Files/Epic Games/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.010s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2019.06.12-16.26.47:171][  0]LogInit: Selected Device Profile: [Windows]
+[2019.06.12-16.26.47:171][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.06.12-16.26.47:210][  0]LogHAL: Display: Platform has ~ 16 GB [17046654976 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.06.12-16.26.47:210][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2019.06.12-16.26.47:210][  0]LogInit: Going up to parent DeviceProfile []
+[2019.06.12-16.26.47:210][  0]LogInit: Computer: DESKTOP-UHKKT41
+[2019.06.12-16.26.47:210][  0]LogInit: User: Ivy
+[2019.06.12-16.26.47:210][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.06.12-16.26.47:210][  0]LogInit: High frequency timer resolution =2.742194 MHz
+[2019.06.12-16.26.47:211][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2019.06.12-16.26.47:211][  0]LogMemory: Platform Memory Stats for Windows
+[2019.06.12-16.26.47:211][  0]LogMemory: Process Physical Memory: 107.95 MB used, 107.95 MB peak
+[2019.06.12-16.26.47:211][  0]LogMemory: Process Virtual Memory: 101.16 MB used, 101.16 MB peak
+[2019.06.12-16.26.47:211][  0]LogMemory: Physical Memory: 5023.36 MB used,  11233.60 MB free, 16256.96 MB total
+[2019.06.12-16.26.47:211][  0]LogMemory: Virtual Memory: 4665.38 MB used,  11233.60 MB free, 134217728.00 MB total
+[2019.06.12-16.26.48:637][  0]LogInit: Overriding language with editor language configuration option (en-001).
+[2019.06.12-16.26.48:637][  0]LogInit: Overriding locale with editor locale configuration option (en-001).
+[2019.06.12-16.26.48:678][  0]LogTextLocalizationManager: No specific localization for 'en-001' exists, so the 'en' localization will be used.
+[2019.06.12-16.26.49:307][  0]LogStreaming: Display: Took  0.670s to InitEngineTextLocalization.
+[2019.06.12-16.26.49:307][  0]LogInit: Setting process to per monitor DPI aware
+[2019.06.12-16.26.49:668][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.06.12-16.26.49:668][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.06.12-16.26.50:336][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.06.12-16.26.50:336][  0]LogD3D11RHI: D3D11 adapters:
+[2019.06.12-16.26.50:487][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070' (Feature Level 11_0)
+[2019.06.12-16.26.50:487][  0]LogD3D11RHI:       8089/0/8128 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.06.12-16.26.50:510][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2019.06.12-16.26.50:511][  0]LogD3D11RHI:       128/0/8128 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2019.06.12-16.26.50:514][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.06.12-16.26.50:514][  0]LogD3D11RHI:       0/0/8128 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.06.12-16.26.50:514][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.06.12-16.26.50:556][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.06.12-16.26.50:556][  0]LogD3D11RHI:     GPU DeviceId: 0x1ba1 (for the marketing name, search the web for "GPU Device Id")
+[2019.06.12-16.26.50:559][  0]LogWindows: EnumDisplayDevices:
+[2019.06.12-16.26.50:560][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:1 D:1)
+[2019.06.12-16.26.50:561][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2019.06.12-16.26.50:562][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2019.06.12-16.26.50:564][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2019.06.12-16.26.50:565][  0]LogWindows:    4. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2019.06.12-16.26.50:566][  0]LogWindows:    5. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2019.06.12-16.26.50:567][  0]LogWindows:    6. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2019.06.12-16.26.50:569][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2019.06.12-16.26.50:569][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070
+[2019.06.12-16.26.50:569][  0]LogD3D11RHI:   Driver Version: 389.12 (internal:23.21.13.8912, unified:389.12)
+[2019.06.12-16.26.50:569][  0]LogD3D11RHI:      Driver Date: 3-7-2018
+[2019.06.12-16.26.50:569][  0]LogRHI: Texture pool is 5662 MB (70% of 8089 MB)
+[2019.06.12-16.26.50:616][  0]LogD3D11RHI: Async texture creation enabled
+[2019.06.12-16.26.50:629][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.06.12-16.26.50:631][  0]LogShaderCompilers: Guid format shader working directory is -1 characters bigger than the processId version (C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Intermediate/Shaders/WorkingDirectory/20560/).
+[2019.06.12-16.26.50:631][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Ivy/AppData/Local/Temp/UnrealShaderWorkingDir/DD8F90C345FE0AA9A4A97E96EA223475/'.
+[2019.06.12-16.26.51:658][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.06.12-16.26.51:683][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.06.12-16.26.51:724][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.06.12-16.26.51:749][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.06.12-16.26.51:793][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.06.12-16.26.51:819][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.06.12-16.26.51:862][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.06.12-16.26.51:900][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.06.12-16.26.51:909][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.06.12-16.26.52:026][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.12-16.26.52:026][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.12-16.26.52:026][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.12-16.26.52:026][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.12-16.26.52:026][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.12-16.26.52:026][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.12-16.26.52:026][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.12-16.26.52:026][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.12-16.26.52:026][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.12-16.26.52:026][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.12-16.26.52:026][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.12-16.26.52:026][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.12-16.26.52:026][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.12-16.26.52:026][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.12-16.26.52:026][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.12-16.26.52:026][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.12-16.26.52:026][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.12-16.26.52:026][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.12-16.26.52:054][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.06.12-16.26.52:159][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.06.12-16.26.52:159][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.06.12-16.26.52:187][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.06.12-16.26.52:187][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.06.12-16.26.52:217][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.06.12-16.26.52:233][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.06.12-16.26.52:250][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.06.12-16.26.52:268][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.06.12-16.26.52:291][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.06.12-16.26.52:291][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.06.12-16.26.52:687][  0]LogXGEController: Cleaning working directory: C:/Users/Ivy/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.06.12-16.26.52:687][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.06.12-16.26.52:688][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.06.12-16.26.52:688][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.06.12-16.26.53:758][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.06.12-16.26.54:201][  0]LogDerivedDataCache: Loaded boot cache 0.44s 85MB C:/Users/Ivy/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2019.06.12-16.26.54:201][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Ivy/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2019.06.12-16.26.54:201][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.06.12-16.26.54:201][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.06.12-16.26.54:201][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.06.12-16.26.54:201][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.06.12-16.26.54:243][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.06.12-16.26.54:262][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Ivy/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.06.12-16.26.54:262][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.06.12-16.26.54:262][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.06.12-16.26.54:281][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.06.12-16.26.54:282][  0]LogSlate: Using FreeType 2.6.0
+[2019.06.12-16.26.54:310][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.06.12-16.26.54:572][  0]LogAssetRegistry: FAssetRegistry took 0.0264 seconds to start up
+[2019.06.12-16.26.55:267][  0]LogInit: Selected Device Profile: [Windows]
+[2019.06.12-16.26.56:150][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.06.12-16.26.56:442][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.06.12-16.26.56:442][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.06.12-16.26.56:442][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.06.12-16.26.56:442][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.06.12-16.26.56:465][  0]LogNetVersion: ClimbDemo 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 2394580764)
+[2019.06.12-16.26.57:788][  0]LogPackageLocalizationCache: Processed 12 localized package path(s) for 2 prioritized culture(s) in 0.441812 seconds
+[2019.06.12-16.26.57:797][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2019.06.12-16.26.57:797][  0]LogUObjectAllocator: 6690864 out of 0 bytes used by permanent object pool.
+[2019.06.12-16.26.57:797][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.06.12-16.27.10:075][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.06.12-16.27.10:106][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.06.12-16.27.10:608][  0]SourceControl: Source control is disabled
+[2019.06.12-16.27.10:608][  0]SourceControl: Source control is disabled
+[2019.06.12-16.27.10:652][  0]SourceControl: Source control is disabled
+[2019.06.12-16.27.10:685][  0]SourceControl: Source control is disabled
+[2019.06.12-16.27.11:436][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.06.12-16.27.11:888][  0]LogHoudiniEngine: Starting the Houdini Engine module.
+[2019.06.12-16.27.11:958][  0]LogHoudiniEngine: Loaded libHAPIL.dll from Registry path D:/Program Files/Side Effects Software/Houdini 17.0.416/bin
+[2019.06.12-16.27.11:960][  0]LogLinker: Warning: Asset '../../Plugins/Runtime/HoudiniEngine/Content/houdini_logo.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.06.12-16.27.11:967][  0]LogLinker: Warning: Asset '../../Plugins/Runtime/HoudiniEngine/Content/houdini_default_material.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.06.12-16.27.11:975][  0]LogLinker: Warning: Asset '../../Plugins/Runtime/HoudiniEngine/Content/houdini_bgeo_import.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.06.12-16.27.15:388][  0]LogHoudiniEngine: Error: Failed to create a Houdini Engine session
+[2019.06.12-16.27.15:404][  0]LogHoudiniEngine: Starting up the Houdini Engine API module failed: Generic Failure
+[2019.06.12-16.27.15:466][  0]LogOcInput: OculusInput pre-init called
+[2019.06.12-16.27.15:703][  0]LogEngine: Initializing Engine...
+[2019.06.12-16.27.15:704][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.06.12-16.27.15:707][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.06.12-16.27.15:707][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.06.12-16.27.15:707][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.06.12-16.27.15:707][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.06.12-16.27.15:965][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.06.12-16.27.16:051][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.06.12-16.27.16:198][  0]LogInit: XAudio2 using '扬声器/听筒 (Realtek Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.06.12-16.27.17:064][  0]LogInit: FAudioDevice initialized.
+[2019.06.12-16.27.17:064][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.06.12-16.27.17:232][  0]LogDerivedDataCache: Saved boot cache 0.17s 85MB C:/Users/Ivy/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2019.06.12-16.27.17:238][  0]LogInit: Texture streaming: Enabled
+[2019.06.12-16.27.17:353][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.06.12-16.27.17:421][  0]LogInit: Transaction tracking system initialized
+[2019.06.12-16.27.17:575][  0]BlueprintLog: New page: Editor Load
+[2019.06.12-16.27.18:078][  0]LocalizationService: Localization service is disabled
+[2019.06.12-16.27.18:991][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.06.12-16.27.18:991][  0]LogCook: Display: Mobile HDR setting 1
+[2019.06.12-16.27.18:991][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.06.12-16.27.18:991][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.06.12-16.27.18:991][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.06.12-16.27.18:991][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.06.12-16.27.18:991][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.06.12-16.27.19:697][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Content/' took 0.05s
+[2019.06.12-16.27.20:137][  0]LogHoudiniEngineEditor: Starting the Houdini Engine Editor module.
+[2019.06.12-16.27.20:162][  0]LogHoudiniEngineEditor: Houdini Engine Editor module startup complete.
+[2019.06.12-16.27.20:637][  0]SourceControl: Source control is disabled
+[2019.06.12-16.27.20:637][  0]Cmd: MAP LOAD FILE="C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Content/Terrain/4/LakeLevelNew.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.06.12-16.27.20:638][  0]LightingResults: New page: Lighting Build
+[2019.06.12-16.27.20:655][  0]MapCheck: New page: Map Check
+[2019.06.12-16.27.20:655][  0]LightingResults: New page: Lighting Build
+[2019.06.12-16.27.22:172][  0]LogBlueprint: Warning: [Compiler ABP_Climber] Cling_BS to JumpEnd  will never be taken, please connect something to  Can Enter Transition
+[2019.06.12-16.27.22:775][  0]LogBlueprint: Warning: [Compiler ABP_Climber] [0046.05] Compile of ABP_Climber successful, but with 1 Warning(s) [in 743 ms] (/Game/Clinging/Animations/Blueprints/ABP_Climber.ABP_Climber)
+[2019.06.12-16.27.23:962][  0]LogLinker: Warning: Asset 'C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Content/BaseMaterials/SeaShaders/Textures/T_SmallWaves_N.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.06.12-16.27.30:894][  0]LogMaterial: Display: Missing cached shader map for material M_Foliage_AquaPlant_n, compiling. 
+[2019.06.12-16.27.31:056][  0]LogMaterial: Display: Missing cached shader map for material M_Foliage_AquaPlant_n, compiling. 
+[2019.06.12-16.27.31:564][  0]LogShaderCompilers: Display: Shaders left to compile 87
+[2019.06.12-16.27.31:564][  0]LogShaderCompilers: Display: Shaders left to compile 77
+[2019.06.12-16.27.31:564][  0]LogShaderCompilers: Display: Shaders left to compile 67
+[2019.06.12-16.27.31:564][  0]LogShaderCompilers: Display: Shaders left to compile 57
+[2019.06.12-16.27.31:564][  0]LogShaderCompilers: Display: Shaders left to compile 47
+[2019.06.12-16.27.31:565][  0]LogAIModule: Creating AISystem for world LakeLevelNew
+[2019.06.12-16.27.32:164][  0]LogScript: Warning: Script Msg: Attempted to access index 15 from array 'BIrdSBP' of length 15 in '/Game/Blueprints/Bird/InsectsBirdsFish/Blueprints/NewFolder/BP_Bird_Spline1.BP_Bird_Spline1_C'!
+[2019.06.12-16.27.32:164][  0]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	BP_Bird_Spline1_C /Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.BP_Bird_Spline1_34488
+	Function /Game/Blueprints/Bird/InsectsBirdsFish/Blueprints/NewFolder/BP_Bird_Spline1.BP_Bird_Spline1_C:UpdateBird:027F
+[2019.06.12-16.27.32:165][  0]LogScript: Warning: Script Msg: Attempted to access index 16 from array 'BIrdSBP' of length 15 in '/Game/Blueprints/Bird/InsectsBirdsFish/Blueprints/NewFolder/BP_Bird_Spline1.BP_Bird_Spline1_C'!
+[2019.06.12-16.27.32:165][  0]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	BP_Bird_Spline1_C /Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.BP_Bird_Spline1_34488
+	Function /Game/Blueprints/Bird/InsectsBirdsFish/Blueprints/NewFolder/BP_Bird_Spline1.BP_Bird_Spline1_C:UpdateBird:027F
+[2019.06.12-16.27.32:165][  0]LogScript: Warning: Script Msg: Attempted to access index 17 from array 'BIrdSBP' of length 15 in '/Game/Blueprints/Bird/InsectsBirdsFish/Blueprints/NewFolder/BP_Bird_Spline1.BP_Bird_Spline1_C'!
+[2019.06.12-16.27.32:165][  0]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	BP_Bird_Spline1_C /Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.BP_Bird_Spline1_34488
+	Function /Game/Blueprints/Bird/InsectsBirdsFish/Blueprints/NewFolder/BP_Bird_Spline1.BP_Bird_Spline1_C:UpdateBird:027F
+[2019.06.12-16.27.32:165][  0]LogScript: Warning: Script Msg: Attempted to access index 18 from array 'BIrdSBP' of length 15 in '/Game/Blueprints/Bird/InsectsBirdsFish/Blueprints/NewFolder/BP_Bird_Spline1.BP_Bird_Spline1_C'!
+[2019.06.12-16.27.32:165][  0]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	BP_Bird_Spline1_C /Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.BP_Bird_Spline1_34488
+	Function /Game/Blueprints/Bird/InsectsBirdsFish/Blueprints/NewFolder/BP_Bird_Spline1.BP_Bird_Spline1_C:UpdateBird:027F
+[2019.06.12-16.27.32:165][  0]LogScript: Warning: Script Msg: Attempted to access index 19 from array 'BIrdSBP' of length 15 in '/Game/Blueprints/Bird/InsectsBirdsFish/Blueprints/NewFolder/BP_Bird_Spline1.BP_Bird_Spline1_C'!
+[2019.06.12-16.27.32:165][  0]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	BP_Bird_Spline1_C /Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.BP_Bird_Spline1_34488
+	Function /Game/Blueprints/Bird/InsectsBirdsFish/Blueprints/NewFolder/BP_Bird_Spline1.BP_Bird_Spline1_C:UpdateBird:027F
+[2019.06.12-16.27.32:569][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.06.12-16.27.32:720][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.06.12-16.27.33:273][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 552.719ms to complete.
+[2019.06.12-16.27.33:273][  0]LogFileHelpers: Loading map 'LakeLevelNew' took 12.636
+[2019.06.12-16.27.33:533][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.12-16.27.33:545][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.12-16.27.33:580][  0]LogCollectionManager: Loaded 0 collections in 0.001798 seconds
+[2019.06.12-16.27.33:652][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Saved/Collections/' took 0.01s
+[2019.06.12-16.27.33:652][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Content/Developers/Ivy/Collections/' took 0.01s
+[2019.06.12-16.27.33:652][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Content/Collections/' took 0.01s
+[2019.06.12-16.27.33:652][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.06.12-16.27.33:669][  0]LogContentBrowser: Native class hierarchy populated in 0.0166 seconds. Added 2610 classes and 610 folders.
+[2019.06.12-16.27.33:722][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.06.12-16.27.34:343][  0]LogShaderCompilers: Display: Shaders left to compile 124
+[2019.06.12-16.27.34:343][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.06.12-16.27.34:373][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2019.06.12-16.27.35:207][  0]LogShaderCompilers: Display: Shaders left to compile 114
+[2019.06.12-16.27.35:207][  0]LogShaderCompilers: Display: Shaders left to compile 104
+[2019.06.12-16.27.35:274][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.06.12-16.27.35:274][  0]LogLoad: (Engine Initialization) Total time: 58.55 seconds
+[2019.06.12-16.27.35:274][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.06.12-16.27.35:345][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.06.12-16.27.35:368][  0]LogSlate: Took 0.016763 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.06.12-16.27.35:384][  0]LogSlate: Took 0.011235 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.06.12-16.27.35:403][  0]LogSlate: Took 0.015729 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.06.12-16.27.35:592][  0]LogRenderer: Reallocating scene render targets to support 500x256 Format 10 NumSamples 1 (Frame:1).
+[2019.06.12-16.27.35:592][  0]LogRenderer: Reallocating scene render targets to support 996x512 Format 10 NumSamples 1 (Frame:1).
+[2019.06.12-16.27.35:592][  0]LogSlate: Took 0.010524 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.06.12-16.27.35:836][  2]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Little_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Little_C_0
+	Function /Game/AI/ABP_Little.ABP_Little_C:ExecuteUbergraph_ABP_Little:00A2
+[2019.06.12-16.27.36:025][  6]LogAssetRegistry: Asset discovery search completed in 41.4751 seconds
+[2019.06.12-16.27.36:028][  6]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.06.12-16.27.36:028][  6]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000092 seconds (updated 0 objects)
+[2019.06.12-16.27.36:384][ 18]LogSlate: Took 0.000241 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.06.12-16.27.36:884][ 42]LogShaderCompilers: Display: Shaders left to compile 94
+[2019.06.12-16.27.37:522][ 79]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.12-16.27.37:658][ 84]LogRenderer: Reallocating scene render targets to support 1496x556 Format 10 NumSamples 1 (Frame:27).
+[2019.06.12-16.27.38:618][127]LogShaderCompilers: Display: Shaders left to compile 84
+[2019.06.12-16.27.39:950][193]LogShaderCompilers: Display: Shaders left to compile 74
+[2019.06.12-16.27.41:844][285]LogShaderCompilers: Display: Shaders left to compile 64
+[2019.06.12-16.27.41:907][288]LogShaderCompilers: Display: Shaders left to compile 54
+[2019.06.12-16.27.42:326][308]LogShaderCompilers: Display: Shaders left to compile 44
+[2019.06.12-16.27.44:012][394]LogShaderCompilers: Display: Shaders left to compile 34
+[2019.06.12-16.27.45:865][456]LogShaderCompilers: Display: Shaders left to compile 24
+[2019.06.12-16.27.45:941][458]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.06.12-16.27.48:027][528]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.06.12-16.27.55:211][871]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.12-16.27.55:376][876]LogSlate: Took 0.062423 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2019.06.12-16.28.01:353][226]LogMaterial: Display: Missing cached shader map for material M_flagstatic, compiling. 
+[2019.06.12-16.28.01:374][226]LogMaterial: Display: Missing cached shader map for material M_flagstatic_qigan, compiling. 
+[2019.06.12-16.28.01:440][226]LogShaderCompilers: Display: Shaders left to compile 42
+[2019.06.12-16.28.01:441][226]LogShaderCompilers: Display: Shaders left to compile 32
+[2019.06.12-16.28.01:441][226]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.06.12-16.28.01:441][226]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.06.12-16.28.01:441][226]LogStaticMesh: Building static mesh flagstatic...
+[2019.06.12-16.28.01:504][226]LogStaticMesh: Built static mesh [0.06s] /Game/-Models/Flag/flagstatic.flagstatic
+[2019.06.12-16.28.01:532][226]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/-Models/Flag/flagstatic.flagstatic
+[2019.06.12-16.28.02:608][226]LogRenderer: Reallocating scene render targets to support 1496x964 Format 10 NumSamples 1 (Frame:1).
+[2019.06.12-16.28.02:608][226]LogSlate: Took 0.108175 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.06.12-16.28.03:708][282]LogShaderCompilers: Display: Shaders left to compile 24
+[2019.06.12-16.28.04:014][300]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.06.12-16.28.04:434][325]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.06.12-16.28.25:716][528]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.12-16.28.26:008][544]LogActorFactory: Actor Factory created flagstatic
+[2019.06.12-16.28.28:836][631]LogActorFactory: Actor Factory created flagstatic
+[2019.06.12-16.28.40:381][ 49]Cmd: DUPLICATE
+[2019.06.12-16.28.40:381][ 49]Cmd: ACTOR DUPLICATE
+[2019.06.12-16.28.43:596][131]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.12-16.28.46:381][238]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.12-16.29.31:340][895]Cmd: DUPLICATE
+[2019.06.12-16.29.31:340][895]Cmd: ACTOR DUPLICATE
+[2019.06.12-16.29.40:687][449]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.12-16.30.05:219][889]Cmd: DUPLICATE
+[2019.06.12-16.30.05:219][889]Cmd: ACTOR DUPLICATE
+[2019.06.12-16.30.08:626][ 87]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.12-16.30.28:532][266]Cmd: DUPLICATE
+[2019.06.12-16.30.28:532][266]Cmd: ACTOR DUPLICATE
+[2019.06.12-16.30.32:285][484]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.12-16.31.08:618][653]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (flagstatic2)
+[2019.06.12-16.31.13:571][942]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.12-16.31.16:950][141]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (flagstatic2)
+[2019.06.12-16.31.17:694][185]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (flagstatic2)
+[2019.06.12-16.31.18:320][222]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (flagstatic)
+[2019.06.12-16.31.20:612][355]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.12-16.31.24:127][563]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (flagstatic3)
+[2019.06.12-16.31.25:819][661]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.12-16.31.28:261][803]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (flagstatic5)
+[2019.06.12-16.31.30:558][938]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (flagstatic2)
+[2019.06.12-16.31.32:289][ 38]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.12-16.31.46:135][859]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (flagstatic)
+[2019.06.12-16.31.46:828][900]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (flagstatic)
+[2019.06.12-16.31.47:656][949]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (flagstatic2)
+[2019.06.12-16.31.49:290][ 44]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.12-16.32.15:358][592]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.12-16.32.44:775][258]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (flagstatic2)
+[2019.06.12-16.32.47:673][347]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.12-16.32.57:167][635]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (flagstatic)
+[2019.06.12-16.33.05:960][888]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.12-16.33.08:482][963]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (flagstatic3)
+[2019.06.12-16.33.10:378][ 17]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (flagstatic4)
+[2019.06.12-16.33.16:739][193]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.12-16.33.20:487][302]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (flagstatic5)
+[2019.06.12-16.33.25:491][447]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.12-16.33.58:609][701]Cmd: DUPLICATE
+[2019.06.12-16.33.58:609][701]Cmd: ACTOR DUPLICATE
+[2019.06.12-16.34.12:311][313]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.12-16.34.22:879][833]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.12-16.34.34:076][383]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.12-16.34.44:729][ 13]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.12-16.34.51:799][292]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.12-16.35.18:310][353]Cmd: DUPLICATE
+[2019.06.12-16.35.18:310][353]Cmd: ACTOR DUPLICATE
+[2019.06.12-16.35.29:672][864]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.12-16.35.46:247][842]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.12-16.35.51:782][102]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (flagstatic18)
+[2019.06.12-16.36.05:721][919]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.12-16.36.21:975][766]LogSlate: Window 'Save Content' being destroyed
+[2019.06.12-16.36.22:493][766]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Terrain/4/LakeLevelNew" FILE="C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Content/Terrain/4/LakeLevelNew.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.06.12-16.36.28:712][766]LogSavePackage: Moving 'C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Saved/LakeLevelNew45A2263745D26454A5CE69B3B4084FDD.tmp' to 'C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Content/Terrain/4/LakeLevelNew.umap'
+[2019.06.12-16.36.28:814][766]LogFileHelpers: Saving map 'LakeLevelNew' took 6.782
+[2019.06.12-16.36.51:109][704]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.12-16.37.02:867][183]Cmd: DUPLICATE
+[2019.06.12-16.37.02:868][183]Cmd: ACTOR DUPLICATE
+[2019.06.12-16.37.26:601][400]Cmd: DUPLICATE
+[2019.06.12-16.37.26:601][400]Cmd: ACTOR DUPLICATE
+[2019.06.12-16.37.58:607][ 50]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (treetrunkuv)
+[2019.06.12-16.37.59:261][ 82]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (flagstatic41)
+[2019.06.12-16.38.00:807][164]Cmd: DUPLICATE
+[2019.06.12-16.38.00:807][164]Cmd: ACTOR DUPLICATE
+[2019.06.12-16.38.51:826][656]Cmd: TRANSACTION UNDO
+[2019.06.12-16.38.51:826][656]LogEditorTransaction: Undo Move Actors
+[2019.06.12-16.38.51:877][656]LogActorComponent: ~FComponentReregisterContext: (/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.flagstatic69.StaticMeshComponent0) Component already registered.
+[2019.06.12-16.38.51:899][656]LogActorComponent: ~FComponentReregisterContext: (/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.flagstatic72.StaticMeshComponent0) Component already registered.
+[2019.06.12-16.38.54:260][752]Cmd: DUPLICATE
+[2019.06.12-16.38.54:260][752]Cmd: ACTOR DUPLICATE
+[2019.06.12-16.39.04:778][ 71]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.12-16.39.34:266][249]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.12-16.40.15:048][929]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (flagstatic96)
+[2019.06.12-16.40.16:334][980]Cmd: DUPLICATE
+[2019.06.12-16.40.16:334][980]Cmd: ACTOR DUPLICATE
+[2019.06.12-16.40.20:138][129]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.12-16.40.25:812][360]Cmd: DUPLICATE
+[2019.06.12-16.40.25:812][360]Cmd: ACTOR DUPLICATE
+[2019.06.12-16.40.46:213][283]Cmd: DUPLICATE
+[2019.06.12-16.40.46:213][283]Cmd: ACTOR DUPLICATE
+[2019.06.12-16.40.54:713][654]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (flagstatic102)
+[2019.06.12-16.41.04:075][ 47]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (flagstatic85)
+[2019.06.12-16.41.32:954][435]LogEditorViewport: Clicking on Actor (LMB): HoudiniAssetActor (terrain_bishe_2)
+[2019.06.12-16.41.33:693][456]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (flagstatic56)
+[2019.06.12-16.41.35:284][531]Cmd: DUPLICATE
+[2019.06.12-16.41.35:284][531]Cmd: ACTOR DUPLICATE
+[2019.06.12-16.42.08:283][995]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.12-16.42.14:097][253]Cmd: TRANSACTION UNDO
+[2019.06.12-16.42.14:097][253]LogEditorTransaction: Undo Reset Rotation
+[2019.06.12-16.42.49:298][720]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.06.12-16.42.57:003][ 72]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.12-16.42.57:099][ 78]LogTemp: Repeating last play command: Selected Viewport
+[2019.06.12-16.42.57:138][ 78]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel' has LevelScriptBlueprint '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew' with GeneratedClass '/Game/Terrain/4/LakeLevelNew.LakeLevelNew_C' with ClassGeneratedBy '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew'
+[2019.06.12-16.42.57:139][ 78]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.12-16.42.57:183][ 78]PIE: New page: PIE session: LakeLevelNew (Jun 13, 2019, 8:42:57 AM)
+[2019.06.12-16.42.57:183][ 78]LogPlayLevel: Creating play world package: /Game/Terrain/4/UEDPIE_0_LakeLevelNew
+[2019.06.12-16.42.57:379][ 78]LogPlayLevel: PIE: StaticDuplicateObject took: (0.195254s)
+[2019.06.12-16.42.57:380][ 78]LogAIModule: Creating AISystem for world LakeLevelNew
+[2019.06.12-16.42.57:380][ 78]LogPlayLevel: PIE: World Init took: (0.001133s)
+[2019.06.12-16.42.57:380][ 78]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Terrain/4/LakeLevelNew.LakeLevelNew to /Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew (0.196936s)
+[2019.06.12-16.42.57:529][ 78]LogInit: XAudio2 using '扬声器/听筒 (Realtek Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.06.12-16.42.57:578][ 78]LogInit: FAudioDevice initialized.
+[2019.06.12-16.42.57:620][ 78]LogLoad: Game class is 'NewGameMode_C'
+[2019.06.12-16.42.59:005][ 78]LogWorld: Bringing World /Game/Terrain/4/UEDPIE_0_LakeLevelNew.LakeLevelNew up for play (max tick rate 60) at 2019.06.13-00.42.59
+[2019.06.12-16.42.59:027][ 78]LogWorld: Bringing up level for play took: 1.405137
+[2019.06.12-16.42.59:104][ 78]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 10 classes and 0 folders.
+[2019.06.12-16.42.59:111][ 78]PIE: Play in editor start time for /Game/Terrain/4/UEDPIE_0_LakeLevelNew 1.752
+[2019.06.12-16.42.59:112][ 78]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel' has LevelScriptBlueprint '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew' with GeneratedClass '/Game/Terrain/4/LakeLevelNew.LakeLevelNew_C' with ClassGeneratedBy '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew'
+[2019.06.12-16.43.17:439][986]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.12-16.43.17:503][989]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel' has LevelScriptBlueprint '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew' with GeneratedClass '/Game/Terrain/4/LakeLevelNew.LakeLevelNew_C' with ClassGeneratedBy '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew'
+[2019.06.12-16.43.17:505][989]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.12-16.43.17:558][989]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.12-16.43.17:559][989]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel' has LevelScriptBlueprint '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew' with GeneratedClass '/Game/Terrain/4/LakeLevelNew.LakeLevelNew_C' with ClassGeneratedBy '/Game/Terrain/4/LakeLevelNew.LakeLevelNew:PersistentLevel.LakeLevelNew'
+[2019.06.12-16.43.17:596][989]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.12-16.43.17:598][989]LogActorComponent: UnregisterComponent: (None.None:None.terrain_bishe_3.None) Not registered. Aborting.
+[2019.06.12-16.43.17:598][989]LogActorComponent: UnregisterComponent: (None.None:None.terrain_bishe_3.None) Not registered. Aborting.
+[2019.06.12-16.43.17:598][989]LogActorComponent: UnregisterComponent: (None.None:None.terrain_bishe_3.None) Not registered. Aborting.
+[2019.06.12-16.43.17:598][989]LogActorComponent: UnregisterComponent: (None.None:None.terrain_bishe_3.None) Not registered. Aborting.
+[2019.06.12-16.43.17:598][989]LogActorComponent: UnregisterComponent: (None.None:None.terrain_bishe_3.None) Not registered. Aborting.
+[2019.06.12-16.43.17:598][989]LogActorComponent: UnregisterComponent: (None.None:None.terrain_bishe_3.None) Not registered. Aborting.
+[2019.06.12-16.43.17:598][989]LogActorComponent: UnregisterComponent: (None.None:None.terrain_bishe_3.None) Not registered. Aborting.
+[2019.06.12-16.43.17:598][989]LogActorComponent: UnregisterComponent: (None.None:None.terrain_bishe_3.None) Not registered. Aborting.
+[2019.06.12-16.43.17:598][989]LogActorComponent: UnregisterComponent: (None.None:None.terrain_bishe_3.None) Not registered. Aborting.
+[2019.06.12-16.43.17:598][989]LogActorComponent: UnregisterComponent: (None.None:None.terrain_bishe_3.None) Not registered. Aborting.
+[2019.06.12-16.43.17:598][989]LogActorComponent: UnregisterComponent: (None.None:None.terrain_bishe_3.None) Not registered. Aborting.
+[2019.06.12-16.43.17:598][989]LogActorComponent: UnregisterComponent: (None.None:None.terrain_bishe_3.None) Not registered. Aborting.
+[2019.06.12-16.43.17:598][989]LogActorComponent: UnregisterComponent: (None.None:None.terrain_bishe_3.None) Not registered. Aborting.
+[2019.06.12-16.43.17:598][989]LogActorComponent: UnregisterComponent: (None.None:None.terrain_bishe_3.None) Not registered. Aborting.
+[2019.06.12-16.43.17:598][989]LogActorComponent: UnregisterComponent: (None.None:None.terrain_bishe_3.None) Not registered. Aborting.
+[2019.06.12-16.43.17:598][989]LogActorComponent: UnregisterComponent: (None.None:None.terrain_bishe_3.None) Not registered. Aborting.
+[2019.06.12-16.43.17:599][989]LogActorComponent: UnregisterComponent: (None.None:None.terrain_bishe_3.None) Not registered. Aborting.
+[2019.06.12-16.43.17:599][989]LogActorComponent: UnregisterComponent: (None.None:None.terrain_bishe_3.None) Not registered. Aborting.
+[2019.06.12-16.43.17:599][989]LogActorComponent: UnregisterComponent: (None.None:None.terrain_bishe_3.None) Not registered. Aborting.
+[2019.06.12-16.43.17:599][989]LogActorComponent: UnregisterComponent: (None.None:None.terrain_bishe_3.None) Not registered. Aborting.
+[2019.06.12-16.43.17:599][989]LogActorComponent: UnregisterComponent: (None.None:None.terrain_bishe_3.None) Not registered. Aborting.
+[2019.06.12-16.43.17:599][989]LogActorComponent: UnregisterComponent: (None.None:None.terrain_bishe_3.None) Not registered. Aborting.
+[2019.06.12-16.43.17:599][989]LogActorComponent: UnregisterComponent: (None.None:None.terrain_bishe_3.None) Not registered. Aborting.
+[2019.06.12-16.43.17:599][989]LogActorComponent: UnregisterComponent: (None.None:None.terrain_bishe_3.None) Not registered. Aborting.
+[2019.06.12-16.43.17:599][989]LogActorComponent: UnregisterComponent: (None.None:None.terrain_bishe_3.None) Not registered. Aborting.
+[2019.06.12-16.43.17:599][989]LogActorComponent: UnregisterComponent: (None.None:None.terrain_bishe_3.None) Not registered. Aborting.
+[2019.06.12-16.43.17:599][989]LogActorComponent: UnregisterComponent: (None.None:None.terrain_bishe_3.None) Not registered. Aborting.
+[2019.06.12-16.43.17:599][989]LogActorComponent: UnregisterComponent: (None.None:None.terrain_bishe_3.None) Not registered. Aborting.
+[2019.06.12-16.43.17:599][989]LogActorComponent: UnregisterComponent: (None.None:None.terrain_bishe_3.None) Not registered. Aborting.
+[2019.06.12-16.43.17:602][989]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.06.12-16.43.17:602][989]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.06.12-16.43.17:602][989]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.06.12-16.43.17:602][989]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.06.12-16.43.17:602][989]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.06.12-16.43.17:602][989]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.06.12-16.43.17:602][989]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.06.12-16.43.17:602][989]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.06.12-16.43.17:602][989]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.06.12-16.43.17:602][989]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.06.12-16.43.17:602][989]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.06.12-16.43.17:602][989]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.06.12-16.43.17:602][989]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.06.12-16.43.17:602][989]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.06.12-16.43.17:602][989]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.06.12-16.43.17:602][989]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.06.12-16.43.17:602][989]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.06.12-16.43.17:602][989]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.06.12-16.43.17:602][989]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.06.12-16.43.17:602][989]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.06.12-16.43.17:602][989]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.06.12-16.43.17:602][989]LogHoudiniEngine: Warning: terrain_bishe_3: null parameter when clearing
+[2019.06.12-16.43.17:631][990]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2019.06.12-16.43.22:947][286]LogEditorViewport: Clicking on Actor (LMB): TREECROWN_C (TREECROWN7)
+[2019.06.12-16.43.23:893][338]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (flagstatic64)
+[2019.06.12-16.43.43:370][413]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (flagstatic36)
+[2019.06.12-16.44.01:475][332]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (flagstatic59)
+[2019.06.12-16.44.14:793][960]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (flagstatic80)
+[2019.06.12-16.44.18:015][138]Cmd: DUPLICATE
+[2019.06.12-16.44.18:015][138]Cmd: ACTOR DUPLICATE
+[2019.06.12-16.44.20:006][245]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.12-16.45.35:175][136]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (flagstatic179)
+[2019.06.12-16.45.36:529][172]Cmd: DUPLICATE
+[2019.06.12-16.45.36:529][172]Cmd: ACTOR DUPLICATE
+[2019.06.12-16.46.44:909][197]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.12-16.46.45:936][202]LogSlate: Window 'Save Content' being destroyed
+[2019.06.12-16.46.46:446][202]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Terrain/4/LakeLevelNew" FILE="C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Content/Terrain/4/LakeLevelNew.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.06.12-16.46.53:114][202]LogSavePackage: Moving 'C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Saved/LakeLevelNew3ED2FB12488C104315EA58994F009E13.tmp' to 'C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Content/Terrain/4/LakeLevelNew.umap'
+[2019.06.12-16.46.53:241][202]LogFileHelpers: Saving map 'LakeLevelNew' took 7.257
+[2019.06.12-16.47.01:551][615]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.12-16.47.10:898][ 38]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/AI/AICharacter.AICharacter
+[2019.06.12-16.47.11:602][ 38]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0013 seconds. Added 116 classes and 0 folders.
+[2019.06.12-16.47.12:849][ 38]LogSlate: Took 0.013327 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.06.12-16.47.19:318][381]BlueprintLog: New page: Compile AICharacter
+[2019.06.12-16.47.20:500][391]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/AICharacter" FILE="C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Content/AI/AICharacter.uasset" SILENT=true
+[2019.06.12-16.47.20:761][391]LogSavePackage: Moving 'C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Saved/AICharacter672AF1934FF197A75EF5F482A7D1FF67.tmp' to 'C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Content/AI/AICharacter.uasset'
+[2019.06.12-16.47.25:897][626]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/OtherChar/OldPeople.OldPeople
+[2019.06.12-16.47.37:536][142]BlueprintLog: New page: Compile OldPeople
+[2019.06.12-16.48.01:625][365]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/OtherChar/OldPeople" FILE="C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Content/Blueprints/OtherChar/OldPeople.uasset" SILENT=true
+[2019.06.12-16.48.01:696][365]LogSavePackage: Moving 'C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Saved/OldPeopleAC4D4158480B75E86835EBAD0D7F8FE9.tmp' to 'C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Content/Blueprints/OtherChar/OldPeople.uasset'
+[2019.06.12-16.48.03:812][422]LogSlate: Window 'Save Content' being destroyed
+[2019.06.12-16.48.04:299][422]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Terrain/4/LakeLevelNew" FILE="C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Content/Terrain/4/LakeLevelNew.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.06.12-16.48.10:948][422]LogSavePackage: Moving 'C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Saved/LakeLevelNew023D7218414D58B53E42AB83D3CC9F34.tmp' to 'C:/Users/Ivy/Documents/DiplomaGame/ClimbDemo/Content/Terrain/4/LakeLevelNew.umap'
+[2019.06.12-16.48.11:070][422]LogFileHelpers: Saving map 'LakeLevelNew' took 7.211
